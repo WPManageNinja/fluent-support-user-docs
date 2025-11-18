@@ -1,0 +1,29 @@
+# Managing Email Notifications
+
+[Original Documentation](https://fluentsupport.com/docs/customize-email-notifications/)
+
+---
+
+With ****[Fluent Support](https://fluentsupport.com/)**** , you can set up**Email Notifications** that will send automated emails to customers, admins, or support agents based on certain actions such as a new Ticket created, a Ticket replied to by an agent, a ticket closed by an agent, etc. This article will help you through the steps required to learn the whole process.
+## Set & Customize Your Email Notifications #
+To learn how to set up and customize your email notification, follow the steps with the screenshots below —
+From the Fluent Support **Dashboard** , go to **Business Inboxes** , select your desired business inbox, and click on **View Settings**.
+![Open the settings of  the desired business inbox](public/images/email-management/managing-email-notifications/view-settings-3-scaled.webp)
+Here are your **Email Settings** from where you can customize your email notification.
+To know the **Detailed** **Functionalities** of **Email Settings** , read this **[Documentation](https://fluentsupport.com/docs/web-based_settings_in_business_inbox/#2-toc-title)**.
+![Open Email Settings](public/images/email-management/managing-email-notifications/email-settings-1-1.webp)
+Choose the**Notification Type** from the list of email notifications that suits your needs.
+![Choose from all the Notification Types](public/images/email-management/managing-email-notifications/email-notification-list-1.webp)
+A brief explanation of the Settings of the Above-Mentioned Email Notifications List:
+**Ticket Created (To Customer):** When a customer creates a new ticket, they will receive an email notification.  
+**Replied by Agent (To Customer)** : When an agent replies to a ticket, the customer will receive an email notification.  
+**Ticket Closed by Agent (To Customer)** : When an agent closes a ticket, the customer will receive an email notification.  
+**Ticket Created (To Admin):** When a customer submits a new ticket, the admin will receive an email notification.  
+**Replied by Customer (To Agent/Admin)** : When a customer replies to a ticket, the assigned **Agent or Admin** will receive the email as a notification.  
+**Ticket Agent Change (To Agent):** When a ticket agent changes, the agent/s will receive an email notification.  
+**Ticket Created by Agent (To Customer):** When an agent creates a ticket, the customer will receive an email notification.
+If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
+
+---
+
+**Source:** [Original Documentation](https://fluentsupport.com/docs/customize-email-notifications/)
