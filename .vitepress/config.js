@@ -29,8 +29,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Install Fluent Support', link: '/guide/getting-started/how-to-install-activate-fluent-support' },
-          { text: 'Install Fluent Support Pro', link: '/guide/getting-started/upgrade-to-fluent-support-pro-add-on' },
-          { text: 'Deactivate or Delete Fluent Support', link: '/guide/getting-started/how-to-deactivate-or-delete-the-fluent-support' },
+          { text: 'Install Fluent Support Pro', link: '/guide/getting-started/upgrade-to-fluent-support-pro-add-on' }
         ]
       },
       {
