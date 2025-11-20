@@ -251,7 +251,6 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Released under the MIT License.',
       copyright: 'Copyright © 2025 Fluent Support'
     },
 
