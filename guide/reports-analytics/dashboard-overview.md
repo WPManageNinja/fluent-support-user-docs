@@ -66,7 +66,6 @@ The “**Agent Performance (Today)”** section presents a comprehensive overvie
 
 ![Preview of Agent Performance](public/images/reports-analytics/dashboard-overview/agent-performance-pricing-update-1.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

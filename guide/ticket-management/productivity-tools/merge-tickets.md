@@ -35,7 +35,6 @@ Click on and the ticket will be combined with the previous one. Now you can resp
 
 ![Finally marge desired tickets](public/images/ticket-management/productivity-tools/merge-tickets/clicking-merge-1.gif)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

@@ -98,7 +98,6 @@ To **display** the Logout Option in the **Customer Support Portal Dashboard** , 
 
 ![Logout option in customer portal](public/images/ticket-management/automation-in-tickets/shortcodes/7.-Logout-option-shortcode.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

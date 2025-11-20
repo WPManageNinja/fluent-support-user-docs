@@ -56,7 +56,6 @@ Then, paste the **App key** & **App Secret** into the **Client ID** & **Client S
 ![Client ID, Client Secret and Connect to Dropbox options](public/images/integrations-channels/other/dropbox-integration/paste-client-id-secret-connect-button-scaled-1.webp)
 
 This is how you can integrate Dropbox with Fluent Support!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

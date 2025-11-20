@@ -35,7 +35,6 @@ Your **Front End Agent Portal** will appear as the screenshot shown below —
 
 ![Preview of Front End Agent Portal](public/images/ticket-management/productivity-tools/forntend-agent-portal/front-end-agent-portal-1.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

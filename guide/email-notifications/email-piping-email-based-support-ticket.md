@@ -74,7 +74,6 @@ Replies from CC users are treated as coming from the primary customer i.e., CC u
 ![Add Reply](public/images/email-notifications/email-piping-email-based-support-ticket/add-reply-button.webp)
 
 If you want to know more details about Email Piping, you can also read this [**What is Email Piping and Why?**](https://fluentsupport.com/what-is-email-piping-and-why/)  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

@@ -16,7 +16,6 @@ For example, here you can see a user purchased one course from **LearnPress** an
 ![Preview of LearnPress Integration with Fluent Support](public/images/integrations-channels/learning-membership/learnpress-integration/learn-press-integration-1.webp)
 
 This is how the integration of **LearnPress** with **Fluent Support** works!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

@@ -18,7 +18,6 @@ For example, here you can see a user purchased three courses from **MemberPress*
 ![MemberPress User's purchase related information](public/images/integrations-channels/learning-membership/memberpress-integration/memberpress-integration-new-scaled-1.webp)
 
 This is how the integration of **MemberPress** with **Fluent Support** works!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

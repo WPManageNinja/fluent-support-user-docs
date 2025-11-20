@@ -87,7 +87,6 @@ Otherwise, click the **Save Draft** button to save it as a draft.
 ![Publish - Save Draft - Suretriggers integration](public/images/integrations-channels/core-integrations/suretriggers-integration/16.-Publish-button-1.webp)
 
 This way you can connect Fluent Support with other plugins through the Workflows of SureTriggers.  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

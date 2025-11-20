@@ -129,7 +129,6 @@ Enabling the ‘**Agent Time Rating’** option allows agents to set the amount 
 
 Always press **Save Settings** after finishing all the customization in your **Global Settings** to save it. Otherwise, changes will not appear in your Customer Portal.
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

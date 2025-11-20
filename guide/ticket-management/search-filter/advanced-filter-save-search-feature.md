@@ -31,7 +31,6 @@ To modify a saved search, click the pencil icon next to it, and to delete a save
 
 ![](public/images/ticket-management/search-filter/advanced-filter-save-search-feature/edit-save-search-4-scaled-1.webp)
 
-This is how you can save your advanced filter search. If you have any further questions, feel free to contact our [support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/).
 
 ---
 

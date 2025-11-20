@@ -17,7 +17,6 @@ Also, you can **Edit/Delete** the products by clicking the **Pencil/Trash** icon
 For instance, I **edited** the Product **Title** from **‘Fluent Support’** to **‘Fluent Support PRO’**. Similarly, you can **Edit/Delete** any of your existing products according to your needs.
 ![Example of editing or deleting product](public/images/setup-configuration/business-inboxes/creating-products-to-categorize-tickets/edit-products-drift-video-1.gif)
 This way, you can create as many **Products** as you want to categorize or organize your tickets!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

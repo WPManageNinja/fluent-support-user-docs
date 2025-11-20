@@ -85,7 +85,6 @@ This setting allows WooCommerce users to easily create a support portal for thei
 
 ![Setting for adding support link to WooCommerce ](public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/support-link-woocommerce-1.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

@@ -39,7 +39,6 @@ If you want you can add more **Attachment** **Types** using **Shortcode** if nee
 
 Ensure you always press the **Save Settings** after making changes to the File attachment Settings, otherwise, changes will not appear in your Support Portal.
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

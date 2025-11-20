@@ -64,7 +64,6 @@ To add the integrated form on a specific page of your site, copy the **Shortcode
 ![Shortcode to add form on a specific page](public/images/integrations-channels/core-integrations/fluent-form-integration/copy-shortcode-scaled-1.webp)
 
 This is how you can integrate Fluent Forms with Fluent Support!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

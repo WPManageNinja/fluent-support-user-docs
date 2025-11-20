@@ -16,7 +16,6 @@ For example, here you can see a user purchased the **Paid Memberships Pro** plug
 ![Preview of Paid-Membership Pro Integration with Fluent Support](public/images/integrations-channels/learning-membership/paid-membership-pro-integration/paid-membership-pro-integration-fluent-support-1.webp)
 
 This is how the integration of **Paid Memberships Pro** with **Fluent Support** works!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

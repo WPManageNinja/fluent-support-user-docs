@@ -19,7 +19,6 @@ The **support staff** (agents) will also be **bookmarked** on the right side of 
 ![Bookmarked ticket](public/images/ticket-management/productivity-tools/bookmark-tickets/bookmark-right-sidebar-scaled-1.webp)
 You can **add more support staff** (agents) by clicking on the **`+`** **Plus Icon.**
 ![Add more agents](public/images/ticket-management/productivity-tools/bookmark-tickets/add-more-agent.webp)
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

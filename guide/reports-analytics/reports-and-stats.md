@@ -94,7 +94,6 @@ The **‘Activity Reports’** section shows the overall report of all the ticke
 
 ![Reports based on Customers and Agents' Activities](public/images/reports-analytics/reports-and-stats/activity-reports-new-1.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

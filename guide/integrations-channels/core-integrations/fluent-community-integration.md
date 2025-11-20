@@ -84,7 +84,6 @@ This widget displays key information related to the customer’s FluentCommunity
 
 ![](public/images/integrations-channels/core-integrations/fluent-community-integration/preview-7-scaled-1.webp)
 
-If you have any further questions about this guideline, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets)—we’re always here to help!
 
 ---
 

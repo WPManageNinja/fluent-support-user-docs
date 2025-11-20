@@ -129,7 +129,6 @@ Now, you will find the uploaded file stored in your **Google Drive.**
 ![Preview of Stored File in Google Drive](public/images/integrations-channels/other/google-drive-integration/stored-file-in-google-drive-scaled-1.webp)
 
 This is how you can integrate Google Drive with Fluent Support!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our**[@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/)**. Thank you.
 
 ---
 

@@ -49,7 +49,6 @@ Here, you can see the preview of FluentSupport’s **Customer Portal**.
 ## Preview of Ticket Portal #
 Here, you can see the preview of **FluentSupport’s Ticket Portal**. 
 ![](public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/10.-Preview-of-Ticket-Portal.webp)
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our **[@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/).** Thank you.
 
 ---
 

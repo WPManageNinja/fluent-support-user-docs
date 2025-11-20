@@ -15,7 +15,6 @@ Here you have to give the Email, First Name, Last Name, Title (Job Title), and [
 Once you are done, click on the **Create** button to finish the process.
 ![Add New Support Staff popup page](public/images/setup-configuration/agents-permissions/adding-support-staff-agents/support-staff-pop-up-scaled-1.webp)
 This is how you can add as many new staff/agents as you need!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our[ **@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

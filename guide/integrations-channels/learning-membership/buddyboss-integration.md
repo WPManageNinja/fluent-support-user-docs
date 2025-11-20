@@ -16,7 +16,6 @@ For example, here you can see a user purchased the **BuddyBoss** plugin and the 
 ![Preview of BuddyBoss Integration with Fluent Support](public/images/integrations-channels/learning-membership/buddyboss-integration/buddyboss-integration-fluent-support-1-5.50.14-pm-1.webp)
 
 This is how the integration of **BuddyBoss** with **Fluent Support** works!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

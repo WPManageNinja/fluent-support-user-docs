@@ -54,7 +54,6 @@ To save any new changes always press the **Update Workflow** button right next t
 
 ![Publish the Workflow](public/images/ticket-management/automation-in-tickets/outgoing-webhook/Publish-the-workflow.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

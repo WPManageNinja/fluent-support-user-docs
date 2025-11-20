@@ -46,7 +46,6 @@ In your Discord app, you will see your Ticket Notification like this.
 
 ![Ticket Notification View in Discord](public/images/integrations-channels/messaging-apps/managing-tickets-using-discord/discord-ticket-notification-1.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our[ **@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

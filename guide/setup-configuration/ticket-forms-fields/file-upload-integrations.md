@@ -43,7 +43,6 @@ read this full [**Documentation**](https://fluentsupport.com/docs/google-drive-i
 Before uploading the files to **Google Drive** , you must integrate it with your **Fluent Support.**
 
 This is how you can integrate File Upload Platforms with Fluent Support!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

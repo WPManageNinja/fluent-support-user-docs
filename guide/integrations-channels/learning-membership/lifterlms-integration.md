@@ -16,7 +16,6 @@ For example, here you can see a user purchased two courses from **LifterLMS** an
 ![Preview of LifterLMS Integration with Fluent Support](public/images/integrations-channels/learning-membership/lifterlms-integration/lifterlms-integration-scaled-1.webp)
 
 This is how the integration of **LifterLMS** with **Fluent Support** works!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

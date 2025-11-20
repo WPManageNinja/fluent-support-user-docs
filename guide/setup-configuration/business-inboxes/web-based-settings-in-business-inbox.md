@@ -59,7 +59,6 @@ This **“Set as Default”** feature is available for Web-Based Business Inboxe
 ### Delete Business Inboxes #
 The “**Delete”** setting option allows you to delete any business inbox and transfer all support tickets easily to another inbox. To know the process of deleting and transferring, follow the GIF below —
 ![Delete any web-based business inbox if needed](public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/delete-inbox-drift-video-1.gif)
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

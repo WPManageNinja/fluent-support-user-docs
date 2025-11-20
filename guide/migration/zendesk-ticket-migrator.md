@@ -47,7 +47,6 @@ Here, you can see all the **Tickets** are **Imported** and the migration date & 
 ![Preview of Imported Tickets from Zendesk](public/images/migration/zendesk-ticket-migrator/migrated-tickets-1.webp)
 
 This is how you can migrate your all tickets from **Zendesk** to **Fluent Support**!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

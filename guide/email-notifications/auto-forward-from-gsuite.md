@@ -26,7 +26,6 @@ You can also choose what to do with the messages in your Gmail inbox. We **recom
 That’s it! Your email forwarding is set and the mailbox is activated!  
 Now when anyone sends an email to your email address, a new ticket will be created in Fluent Support
 ![Mailbox is activated](public/images/email-notifications/auto-forward-from-gsuite/mailbox-active-scaled-1.webp)
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

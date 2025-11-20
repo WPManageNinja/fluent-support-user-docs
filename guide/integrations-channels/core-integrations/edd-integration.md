@@ -16,7 +16,6 @@ For example, when a support agent clicks on the **Eye Icon** next to the product
 ![Preview of Easy Digital Downloads \(EDD\) Integration with Fluent Support  ](public/images/integrations-channels/core-integrations/edd-integration/easy-digital-dwnloads-1.webp)
 
 This is how the integration of **Easy Digital Download** with **Fluent Support** works!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

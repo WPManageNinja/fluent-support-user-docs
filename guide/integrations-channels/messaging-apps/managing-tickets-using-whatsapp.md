@@ -104,7 +104,6 @@ Make sure to include the **Country Code** when adding this number. Now you can r
 
 **Note:** To reply to any specific tickets directly from WhatsApp chat, you’ll have to type in ##Ticket number## before the message. For example, to reply to ticket no. 33 you have to type ##33## and then type your response.
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our[ **@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

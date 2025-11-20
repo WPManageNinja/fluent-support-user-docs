@@ -67,7 +67,6 @@ When closing the ticket automatically, you may want to notify your customer. In 
 
 ![Add Custom Response When Closing The Ticket](public/images/ticket-management/automation-in-tickets/automatic-ticket-closing/add-custom-responses-1.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

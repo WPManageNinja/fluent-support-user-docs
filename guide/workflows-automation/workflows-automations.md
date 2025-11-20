@@ -26,7 +26,6 @@ You can also **Edit** your existing workflow by clicking the **Pencil Icon** , *
 
 ![All workflows and their edit options](public/images/workflows-automation/workflows-automations/edite-delete-duplicate-scaled-1.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

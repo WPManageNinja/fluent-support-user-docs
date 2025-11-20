@@ -35,7 +35,6 @@ Finally, click on the **Add Internal Note** to save your note, and you’re all 
 ![Finally add internal note](public/images/ticket-management/daily-operations/internal-notes/add-internal-note-1.webp)
 
 This way, you can create as many **Internal Notes** as you want to categorize or organize your tickets!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

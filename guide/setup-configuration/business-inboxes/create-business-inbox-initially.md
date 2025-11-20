@@ -25,7 +25,6 @@ Here you can see the preview of the **Customer Support Portal** using the shortc
 ## Customize Your Support Portal #
 If you want to customize the design of your Support Portal for your customer, you can do this easily by adding the **Fluent Support** (**Customer Portal**) **Gutenberg Block** to your page or post.
 To learn how to **Add** and **Customize** the **Customer Portal** , check this **[Documentation](https://fluentsupport.com/docs/customize-your-customer-portal/)**.
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

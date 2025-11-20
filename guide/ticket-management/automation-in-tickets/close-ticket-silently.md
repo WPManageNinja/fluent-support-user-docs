@@ -26,7 +26,6 @@ You can also see that the ’**Ticket has been closed’** if you return to this
 
 ![Ticket closed silently](public/images/ticket-management/automation-in-tickets/close-ticket-silently/go-back-ticket-1-1.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

@@ -21,7 +21,6 @@ A brief explanation of the Settings of the Above-Mentioned Email Notifications L
 **Replied by Customer (To Agent/Admin)** : When a customer replies to a ticket, the assigned **Agent or Admin** will receive the email as a notification.  
 **Ticket Agent Change (To Agent):** When a ticket agent changes, the agent/s will receive an email notification.  
 **Ticket Created by Agent (To Customer):** When an agent creates a ticket, the customer will receive an email notification.
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

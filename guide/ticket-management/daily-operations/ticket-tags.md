@@ -30,7 +30,6 @@ For instance, I edited the **Title** from ‘Fluent Support’ to ‘Fluent Supp
 ![Example of editing or deleting tags](public/images/ticket-management/daily-operations/ticket-tags/edit-tags-drift-video.gif)
 
 This way, you can create as many **Ticket Tags** as you want to categorize or organize your tickets!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

@@ -50,7 +50,6 @@ To learn how you can use this integrated OpenAI inside a specific Ticket of Flue
 ![OpenAI API Key is connected](public/images/ai-assistance/openai-integration-with-fluent-support/openai-api-key-is-connected-1-scaled-1.webp)
 
 This way you can integrate the OpenAI with Fluent Support!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

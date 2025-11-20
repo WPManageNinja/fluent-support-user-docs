@@ -45,7 +45,6 @@ Once you are done, click on **Create Ticket** to add the ticket on behalf of the
   * **Related Product/Service:** Here, you can select your relevant Product Name, for example. Fluent Support, Fluent CRM, and so on.
   * **Priority:** Also, you can choose the ticket’s priority level; there are three priority levels; **Normal, Medium** & **Critical.**
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

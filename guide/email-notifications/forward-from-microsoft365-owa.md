@@ -29,7 +29,6 @@ These are the fields under **Rules** that you need to fill in to add the rule.
 Refer to the GIF, to see the whole **process of adding new rules** at a glance.
 You can also test it to confirm that your mailbox is successfully activated for your users.
 ![Process of adding new rules](public/images/email-notifications/forward-from-microsoft365-owa/add-new-rules-all-settings-drift-video.gif)
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

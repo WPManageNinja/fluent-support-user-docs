@@ -20,7 +20,6 @@ So, to know more about how to use this **Email** **Settings** , check this [**Do
 ### Email Piping #
 To activate your **Email-based Business Inbox** , you need to complete the **Email** **Piping** first.  
 So, to know the process for **Email Piping** , check this **[Documentation](https://fluentsupport.com/docs/email-piping-email-based-support-ticket/)**.
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

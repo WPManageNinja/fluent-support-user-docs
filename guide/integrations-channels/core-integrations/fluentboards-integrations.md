@@ -34,7 +34,6 @@ If the ticket opener is a **[FluentCRM](https://fluentcrm.com/)** **User** , the
 ![Preview of newly added task in Fluent Boards](public/images/integrations-channels/core-integrations/fluentboards-integrations/task-added-in-fluent-boards-1-scaled-1.webp)
 
 This is how the integration of **FluentBoards** with **Fluent Support** works!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

@@ -71,7 +71,6 @@ Here, you can see the **Custom Field** has been added to the **Fluent** **Suppor
 
 ![Customer Support Portal's Ticket Submission Portal](public/images/setup-configuration/ticket-forms-fields/conditional-custom-fields/8.-Support-Portal-custom-field.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

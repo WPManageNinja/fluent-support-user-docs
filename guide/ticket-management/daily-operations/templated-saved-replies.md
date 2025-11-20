@@ -29,7 +29,6 @@ For instance, I **edited** the **Title** from ‘**Purchase of Fluent Suppor** t
 
 ![Example of editing saved replies](public/images/ticket-management/daily-operations/templated-saved-replies/edit-drift-video.gif)
 
-This way, you can create as many **Saved Replies** as you want to save your time and energy regarding responses to your tickets! If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

@@ -76,7 +76,6 @@ A brief explanation of the settings shown in the screenshot above is given below
   * **k** ) This section shows all the data related to the [**Integrations**](https://fluentsupport.com/docs/integration_statuses/). For instance, if a user is a Woocommerce customer, their Woocommerce purchase **ID** will also be displayed here. Similarly, any LMS or membership integrations will show the related data here.
   * **L** ) This section shows all the **Previous Conversations** with the customers.
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

@@ -16,7 +16,6 @@ For example, here you can see a user purchased the **Restrict Connect Pro** plug
 ![Preview of Restrict Connect Pro Integration with Fluent Support](public/images/integrations-channels/learning-membership/restrict-content-pro-integration/restrict-content-pro-integration-fluent-support-1.webp)
 
 This is how the integration of **Restrict Content Pro** with **Fluent Support** works!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

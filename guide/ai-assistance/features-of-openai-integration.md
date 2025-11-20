@@ -116,7 +116,6 @@ First, go to the Activities section from the **Fluent Support Dashboard,** click
 
   6. With this **Pagination** option, you can set how many ticket activities you want to display per page.
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/).
 
 ---
 

@@ -69,7 +69,6 @@ Finally, paste the **Fluent Support Licence Key** that you’ve copied before fr
 Congratulations now you can explore all the amazing Premium features of the **Fluent Support Pro**!  
 We hope this article helps you have an amazing experience.
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

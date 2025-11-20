@@ -73,7 +73,6 @@ Here, you will find the **Workflow Action** you have created before, click on it
 ![Run the Workflow](public/images/workflows-automation/manual-workflow/run-the-manual-workflow-drift-video-1.gif)
 
 This is how you can create and run **Manual Workflow** in **Fluent Support**!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our **[@support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/).** Thank you.
 
 ---
 

@@ -34,7 +34,6 @@ Finally, click on the **Save Settings.**
 ![Configure reCAPCHA into Fluent Support](public/images/integrations-channels/other/google-recaptcha-integration/global-settings-recapcha-save-settings-scaled-1.webp)
 
 This is how you can integrate your Fluent support with reCAPCHA!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

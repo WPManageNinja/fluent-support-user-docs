@@ -113,7 +113,6 @@ You can easily get all of your bookmarked tickets under the **Bookmarks** option
 ![Tickets will be stored under Bookmarked section](public/images/workflows-automation/automatic-workflow/bookmarked-ticket-scaled-1.webp)
 
 This is how you can create and run **Automatic Workflow** in **Fluent** **Support!**  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

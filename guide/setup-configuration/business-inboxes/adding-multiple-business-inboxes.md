@@ -62,7 +62,6 @@ Here you can see the preview of the **Customer Support Portal** in the screensho
 
 ![Preview of Customer Support portal](public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/8.-Support-Portal-Preview.webp)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

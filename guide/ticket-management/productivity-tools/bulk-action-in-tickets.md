@@ -35,7 +35,6 @@ Also, you can select all the tickets in bulk at once or individually based on yo
 
 ![Select all or one by one GIF](public/images/ticket-management/productivity-tools/bulk-action-in-tickets/select-all-or-one-by-one-drift-video-1.gif)
 
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 

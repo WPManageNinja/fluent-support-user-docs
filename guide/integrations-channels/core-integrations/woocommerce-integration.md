@@ -46,7 +46,6 @@ Your **WooCommerce custom field** will now be visible on your support portal, as
 ![Preview of WooCommerce Custom Field in Support Portal](public/images/integrations-channels/core-integrations/woocommerce-integration/support-portal-1.webp)
 
 This is how th**e** integration of **WooCommerce** with **Fluent Support** works!  
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.
 
 ---
 
