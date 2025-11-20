@@ -19,8 +19,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Getting Started', link: '/guide/getting-started/how-to-install-activate-fluent-support' },
-      { text: 'Integrations', link: '/guide/integrations/woocommerce-integration' },
-      { text: 'Changelog', link: '/guide/change-log/change-log' },
+      { text: 'Integrations', link: '/guide/integrations-channels/core-integrations/woocommerce-integration' },
+      { text: 'Changelog', link: '/guide/changelog/change-log' },
     ],
 
     sidebar: [
@@ -28,150 +28,217 @@ export default defineConfig({
         text: 'Getting Started',
         collapsed: false,
         items: [
-          { text: 'Install & Activate Fluent Support', link: '/guide/getting-started/how-to-install-activate-fluent-support' },
-          { text: 'Upgrade to Fluent Support PRO', link: '/guide/getting-started/upgrade-to-fluent-support-pro-add-on' },
-          { text: 'Deactivate or Delete Plugin', link: '/guide/getting-started/how-to-deactivate-or-delete-the-fluent-support' },
+          { text: 'Install Fluent Support', link: '/guide/getting-started/how-to-install-activate-fluent-support' },
+          { text: 'Install Fluent Support Pro', link: '/guide/getting-started/upgrade-to-fluent-support-pro-add-on' },
+          { text: 'Deactivate or Delete Fluent Support', link: '/guide/getting-started/how-to-deactivate-or-delete-the-fluent-support' },
         ]
       },
       {
-        text: 'Business Management',
+        text: 'Setup & Configuration',
         collapsed: true,
         items: [
-          { text: 'Create Business Inbox', link: '/guide/business-management/create-business-inbox-initially' },
-          { text: 'Adding Multiple Business Inboxes', link: '/guide/business-management/adding-multiple-business-inboxes' },
-          { text: 'Adding Support Staff Agents', link: '/guide/business-management/adding-support-staff-agents' },
-          { text: 'Permission Management for Agents', link: '/guide/business-management/permission-management-for-agent' },
-          { text: 'Customer Support Portal Setup', link: '/guide/business-management/customer-support-portal-setup' },
-          { text: 'Customer Support Portal Dashboard', link: '/guide/business-management/customer-support-portal-dashboard' },
-          { text: 'Creating Products to Categorize Tickets', link: '/guide/business-management/creating-products-to-categorize-tickets' },
-          { text: 'Add Custom Ticket Submission Form', link: '/guide/business-management/add-custom-ticket-submission-form' },
-          { text: 'Ticket Form Customization', link: '/guide/business-management/ticket-form-customization' },
-          { text: 'View & Manage Ticket Entries', link: '/guide/business-management/view-manage-ticket-entries' },
-          { text: 'Web and Email Settings in Business Inbox', link: '/guide/business-management/web-and-email-settings-in-business-inbox' },
-          { text: 'Web-Based Settings in Business Inbox', link: '/guide/business-management/web-based-settings-in-business-inbox' },
-          { text: 'Attachment Regulation', link: '/guide/business-management/attachment-regulation' },
-          { text: 'File Upload Integrations', link: '/guide/business-management/file-upload-integrations' },
+          {
+            text: 'Business Inboxes',
+            collapsed: true,
+            items: [
+              { text: 'Create Your First Business Inbox', link: '/guide/setup-configuration/business-inboxes/create-business-inbox-initially' },
+              { text: 'Add Multiple Business Inboxes', link: '/guide/setup-configuration/business-inboxes/adding-multiple-business-inboxes' },
+              { text: 'Configure Inbox Settings (Web Only)', link: '/guide/setup-configuration/business-inboxes/web-based-settings-in-business-inbox' },
+              { text: 'Configure Inbox Settings (Web + Email)', link: '/guide/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox' },
+              { text: 'Create Products for Ticket Categories', link: '/guide/setup-configuration/business-inboxes/creating-products-to-categorize-tickets' },
+            ]
+          },
+          {
+            text: 'Agents & Permissions',
+            collapsed: true,
+            items: [
+              { text: 'Add Support Agents', link: '/guide/setup-configuration/agents-permissions/adding-support-staff-agents' },
+              { text: 'Manage Agent Permissions', link: '/guide/setup-configuration/agents-permissions/permission-management-for-agent' },
+            ]
+          },
+          {
+            text: 'Customer Portal',
+            collapsed: true,
+            items: [
+              { text: 'Configure Global Portal Settings', link: '/guide/setup-configuration/customer-portal/customer-support-portal-setup' },
+              { text: 'Customer Portal Dashboard', link: '/guide/setup-configuration/customer-portal/customer-support-portal-dashboard' },
+              { text: 'Customize Portal with Gutenberg Blocks', link: '/guide/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block' },
+            ]
+          },
+          {
+            text: 'Ticket Forms & Fields',
+            collapsed: true,
+            items: [
+              { text: 'Create Custom Submission Forms', link: '/guide/setup-configuration/ticket-forms-fields/add-custom-ticket-submission-form' },
+              { text: 'Customize Ticket Forms', link: '/guide/setup-configuration/ticket-forms-fields/ticket-form-customization' },
+              { text: 'Add Custom Fields', link: '/guide/setup-configuration/ticket-forms-fields/conditional-custom-fields' },
+              { text: 'Manage File Attachments & Uploads', link: '/guide/setup-configuration/ticket-forms-fields/attachment-regulation' },
+              { text: 'Allow Additional Attachment Types', link: '/guide/setup-configuration/ticket-forms-fields/add-more-attachment-type' },
+              { text: 'Integrate File Upload Services', link: '/guide/setup-configuration/ticket-forms-fields/file-upload-integrations' },
+            ]
+          },
         ]
       },
       {
-        text: 'Productivity',
+        text: 'Ticket Management',
         collapsed: true,
         items: [
-          { text: 'Ticket Tags', link: '/guide/productivity/ticket-tags' },
-          { text: 'Filtering, Sorting & Searching Tickets', link: '/guide/productivity/filtering-sorting-searching-tickets' },
-          { text: 'Advanced Filter', link: '/guide/productivity/advanced-filter-fluent-support' },
-          { text: 'Advanced Filter - Save Search Feature', link: '/guide/productivity/advanced-filter-save-search-feature' },
-          { text: 'Templated Saved Replies', link: '/guide/productivity/templated-saved-replies' },
-          { text: 'Internal Notes', link: '/guide/productivity/internal-notes' },
-          { text: 'Agent Specific Tickets', link: '/guide/productivity/agent-specific-tickets' },
-          { text: 'Agent Time Tracking', link: '/guide/productivity/agent-time-tracking' },
-          { text: 'Creating Ticket on Behalf of Customer', link: '/guide/productivity/creating-ticket-on-behalf-of-customer' },
-          { text: 'Merge Tickets', link: '/guide/productivity/merge-tickets' },
-          { text: 'Split Reply in New Tickets', link: '/guide/productivity/split-reply-in-new-tickets' },
-          { text: 'Bookmark Tickets', link: '/guide/productivity/bookmark-tickets' },
-          { text: 'Bulk Action in Tickets', link: '/guide/productivity/bulk-action-in-tickets' },
-          { text: 'Automatic Ticket Closing', link: '/guide/productivity/automatic-ticket-closing' },
-          { text: 'Close Ticket Silently', link: '/guide/productivity/close-ticket-silently' },
-          { text: 'Conditional Custom Fields', link: '/guide/productivity/conditional-custom-fields' },
-          { text: 'Navigate with Keyboard Shortcut', link: '/guide/productivity/navigate-with-keyboard-shortcut' },
-          { text: 'Add More Attachment Type', link: '/guide/productivity/add-more-attachment-type' },
-          { text: 'Frontend Agent Portal', link: '/guide/productivity/forntend-agent-portal' },
-          { text: 'Add & Customize Customer Portal (Gutenberg)', link: '/guide/productivity/add-and-customize-customer-portal-using-gutenberg-block' },
-          { text: 'Shortcodes', link: '/guide/productivity/shortcodes' },
-          { text: 'Outgoing Webhook', link: '/guide/productivity/outgoing-webhook' },
+          {
+            text: 'Daily Operations',
+            collapsed: true,
+            items: [
+              { text: 'View & Manage Tickets', link: '/guide/ticket-management/daily-operations/view-manage-ticket-entries' },
+              { text: 'Create Tickets for Customers', link: '/guide/ticket-management/daily-operations/creating-ticket-on-behalf-of-customer' },
+              { text: 'Use Saved Replies', link: '/guide/ticket-management/daily-operations/templated-saved-replies' },
+              { text: 'Add Internal Notes', link: '/guide/ticket-management/daily-operations/internal-notes' },
+              { text: 'Apply Custom Tags', link: '/guide/ticket-management/daily-operations/ticket-tags' },
+              { text: 'My Tickets View', link: '/guide/ticket-management/daily-operations/agent-specific-tickets' },
+            ]
+          },
+          {
+            text: 'Search & Filter',
+            collapsed: true,
+            items: [
+              { text: 'Filter, Sort & Search Tickets', link: '/guide/ticket-management/search-filter/filtering-sorting-searching-tickets' },
+              { text: 'Use Advanced Filters', link: '/guide/ticket-management/search-filter/advanced-filter-fluent-support' },
+              { text: 'Save Filter Searches', link: '/guide/ticket-management/search-filter/advanced-filter-save-search-feature' },
+            ]
+          },
+          {
+            text: 'Productivity Tools',
+            collapsed: true,
+            items: [
+              { text: 'Perform Bulk Actions', link: '/guide/ticket-management/productivity-tools/bulk-action-in-tickets' },
+              { text: 'Merge Tickets', link: '/guide/ticket-management/productivity-tools/merge-tickets' },
+              { text: 'Split Replies into New Tickets', link: '/guide/ticket-management/productivity-tools/split-reply-in-new-tickets' },
+              { text: 'Bookmark Tickets', link: '/guide/ticket-management/productivity-tools/bookmark-tickets' },
+              { text: 'Track Agent Time', link: '/guide/ticket-management/productivity-tools/agent-time-tracking' },
+              { text: 'Use Keyboard Shortcuts', link: '/guide/ticket-management/productivity-tools/navigate-with-keyboard-shortcut' },
+              { text: 'Frontend Agent Portal', link: '/guide/ticket-management/productivity-tools/forntend-agent-portal' },
+            ]
+          },
+          {
+            text: 'Automation in Tickets',
+            collapsed: true,
+            items: [
+              { text: 'Close Tickets Automatically', link: '/guide/ticket-management/automation-in-tickets/automatic-ticket-closing' },
+              { text: 'Close Tickets Silently', link: '/guide/ticket-management/automation-in-tickets/close-ticket-silently' },
+              { text: 'Send Outgoing Webhooks', link: '/guide/ticket-management/automation-in-tickets/outgoing-webhook' },
+              { text: 'Use Shortcodes', link: '/guide/ticket-management/automation-in-tickets/shortcodes' },
+            ]
+          },
         ]
       },
       {
-        text: 'Activities & Reports',
+        text: 'Email & Notifications',
         collapsed: true,
         items: [
-          { text: 'Dashboard Overview', link: '/guide/activities-reports/dashboard-overview' },
-          { text: 'Dynamic Dashboard', link: '/guide/activities-reports/dynamic-dashboard' },
-          { text: 'Overall Activities', link: '/guide/activities-reports/overall-activities' },
-          { text: 'Reports and Stats', link: '/guide/activities-reports/reports-and-stats' },
+          { text: 'Manage Email Notifications', link: '/guide/email-notifications/managing-email-notifications' },
+          { text: 'Set Up Email Piping', link: '/guide/email-notifications/email-piping-email-based-support-ticket' },
+          { text: 'Auto-Forward from Google Workspace', link: '/guide/email-notifications/auto-forward-from-gsuite' },
+          { text: 'Forward from Microsoft 365 / Outlook', link: '/guide/email-notifications/forward-from-microsoft365-owa' },
+          { text: 'Switch Lambda Service for Email Piping', link: '/guide/email-notifications/changing-amazon-lambda-settings' },
         ]
       },
       {
-        text: 'Email Management',
+        text: 'Workflows & Automation',
         collapsed: true,
         items: [
-          { text: 'Managing Email Notifications', link: '/guide/email-management/managing-email-notifications' },
-          { text: 'Email Piping - Email Based Support Ticket', link: '/guide/email-management/email-piping-email-based-support-ticket' },
-          { text: 'Auto Forward from G Suite', link: '/guide/email-management/auto-forward-from-gsuite' },
-          { text: 'Forward from Microsoft 365 (OWA)', link: '/guide/email-management/forward-from-microsoft365-owa' },
-          { text: 'Changing Amazon Lambda Settings', link: '/guide/email-management/changing-amazon-lambda-settings' },
+          { text: 'Workflows Overview', link: '/guide/workflows-automation/workflows-automations' },
+          { text: 'Create Manual Workflows', link: '/guide/workflows-automation/manual-workflow' },
+          { text: 'Create Automatic Workflows', link: '/guide/workflows-automation/automatic-workflow' },
         ]
       },
       {
-        text: 'Workflow & Automation',
+        text: 'Reports & Analytics',
         collapsed: true,
         items: [
-          { text: 'Workflows & Automations Overview', link: '/guide/workflow-automation/workflows-automations' },
-          { text: 'Automatic Workflow', link: '/guide/workflow-automation/automatic-workflow' },
-          { text: 'Manual Workflow', link: '/guide/workflow-automation/manual-workflow' },
+          { text: 'Dashboard Overview', link: '/guide/reports-analytics/dashboard-overview' },
+          { text: 'View Reports & Statistics', link: '/guide/reports-analytics/reports-and-stats' },
+          { text: 'See Overall Activities', link: '/guide/reports-analytics/overall-activities' },
+          { text: 'Use Dynamic Dashboard Widgets', link: '/guide/reports-analytics/dynamic-dashboard' },
         ]
       },
       {
-        text: 'Integrations',
+        text: 'Integrations & Channels',
         collapsed: true,
         items: [
-          { text: 'WooCommerce Integration', link: '/guide/integrations/woocommerce-integration' },
-          { text: 'FluentCRM Integration', link: '/guide/integrations/fluentcrm-integration' },
-          { text: 'FluentForm Integration', link: '/guide/integrations/fluent-form-integration' },
-          { text: 'FluentCart Integration', link: '/guide/integrations/fluentcart-integration' },
-          { text: 'FluentBoards Integration', link: '/guide/integrations/fluentboards-integrations' },
-          { text: 'Fluent Community Integration', link: '/guide/integrations/fluent-community-integration' },
-          { text: 'BuddyBoss Integration', link: '/guide/integrations/buddyboss-integration' },
-          { text: 'BetterDocs Integration', link: '/guide/integrations/betterdocs-integration' },
-          { text: 'LearnDash Integration', link: '/guide/integrations/learndash-integration' },
-          { text: 'LifterLMS Integration', link: '/guide/integrations/lifterlms-integration' },
-          { text: 'LearnPress Integration', link: '/guide/integrations/learnpress-integration' },
-          { text: 'TutorLMS Integration', link: '/guide/integrations/tutorlms-integration' },
-          { text: 'MemberPress Integration', link: '/guide/integrations/memberpress-integration' },
-          { text: 'Paid Membership Pro Integration', link: '/guide/integrations/paid-membership-pro-integration' },
-          { text: 'Restrict Content Pro Integration', link: '/guide/integrations/restrict-content-pro-integration' },
-          { text: 'WishList Member Integration', link: '/guide/integrations/wishlist-member-integration' },
-          { text: 'Easy Digital Downloads Integration', link: '/guide/integrations/edd-integration' },
-          { text: 'Google Drive Integration', link: '/guide/integrations/google-drive-integration' },
-          { text: 'Dropbox Integration', link: '/guide/integrations/dropbox-integration' },
-          { text: 'Google reCAPTCHA Integration', link: '/guide/integrations/google-recaptcha-integration' },
-          { text: 'SureTriggers Integration', link: '/guide/integrations/suretriggers-integration' },
-          { text: 'Incoming Webhook', link: '/guide/integrations/incoming-webhook' },
+          {
+            text: 'Messaging Apps',
+            collapsed: true,
+            items: [
+              { text: 'Manage Tickets via Slack', link: '/guide/integrations-channels/messaging-apps/managing-tickets-using-slack' },
+              { text: 'Manage Tickets via Telegram', link: '/guide/integrations-channels/messaging-apps/managing-tickets-using-telegram' },
+              { text: 'Manage Tickets via Discord', link: '/guide/integrations-channels/messaging-apps/managing-tickets-using-discord' },
+              { text: 'Manage Tickets via WhatsApp', link: '/guide/integrations-channels/messaging-apps/managing-tickets-using-whatsapp' },
+            ]
+          },
+          {
+            text: 'Core Integrations',
+            collapsed: true,
+            items: [
+              { text: 'FluentCRM', link: '/guide/integrations-channels/core-integrations/fluentcrm-integration' },
+              { text: 'WooCommerce', link: '/guide/integrations-channels/core-integrations/woocommerce-integration' },
+              { text: 'Easy Digital Downloads', link: '/guide/integrations-channels/core-integrations/edd-integration' },
+              { text: 'Fluent Forms', link: '/guide/integrations-channels/core-integrations/fluent-form-integration' },
+              { text: 'FluentBoards', link: '/guide/integrations-channels/core-integrations/fluentboards-integrations' },
+              { text: 'FluentCart', link: '/guide/integrations-channels/core-integrations/fluentcart-integration' },
+              { text: 'FluentCommunity', link: '/guide/integrations-channels/core-integrations/fluent-community-integration' },
+              { text: 'SureTriggers', link: '/guide/integrations-channels/core-integrations/suretriggers-integration' },
+              { text: 'Incoming Webhook', link: '/guide/integrations-channels/core-integrations/incoming-webhook' },
+              { text: 'Integration Status Page', link: '/guide/integrations-channels/core-integrations/integration_statuses' },
+            ]
+          },
+          {
+            text: 'Learning & Membership',
+            collapsed: true,
+            items: [
+              { text: 'LearnDash', link: '/guide/integrations-channels/learning-membership/learndash-integration' },
+              { text: 'LifterLMS', link: '/guide/integrations-channels/learning-membership/lifterlms-integration' },
+              { text: 'Tutor LMS', link: '/guide/integrations-channels/learning-membership/tutorlms-integration' },
+              { text: 'LearnPress', link: '/guide/integrations-channels/learning-membership/learnpress-integration' },
+              { text: 'BuddyBoss', link: '/guide/integrations-channels/learning-membership/buddyboss-integration' },
+              { text: 'MemberPress', link: '/guide/integrations-channels/learning-membership/memberpress-integration' },
+              { text: 'Paid Memberships Pro', link: '/guide/integrations-channels/learning-membership/paid-membership-pro-integration' },
+              { text: 'Restrict Content Pro', link: '/guide/integrations-channels/learning-membership/restrict-content-pro-integration' },
+              { text: 'WishList Member', link: '/guide/integrations-channels/learning-membership/wishlist-member-integration' },
+            ]
+          },
+          {
+            text: 'Other',
+            collapsed: true,
+            items: [
+              { text: 'BetterDocs', link: '/guide/integrations-channels/other/betterdocs-integration' },
+              { text: 'Google reCAPTCHA', link: '/guide/integrations-channels/other/google-recaptcha-integration' },
+              { text: 'Google Drive', link: '/guide/integrations-channels/other/google-drive-integration' },
+              { text: 'Dropbox', link: '/guide/integrations-channels/other/dropbox-integration' },
+            ]
+          },
         ]
       },
       {
-        text: 'AI-Powered Assistance',
+        text: 'AI Assistance',
         collapsed: true,
         items: [
-          { text: 'OpenAI Integration with Fluent Support', link: '/guide/ai-powered-assistance/openai-integration-with-fluent-support' },
-          { text: 'Features of OpenAI Integration', link: '/guide/ai-powered-assistance/features-of-openai-integration' },
+          { text: 'Enable OpenAI Integration', link: '/guide/ai-assistance/openai-integration-with-fluent-support' },
+          { text: 'OpenAI Features & Usage', link: '/guide/ai-assistance/features-of-openai-integration' },
         ]
       },
       {
-        text: 'Ticket Importer',
+        text: 'Migration',
         collapsed: true,
         items: [
-          { text: 'Ticket Importer Overview', link: '/guide/ticket-importer/ticket-importer' },
-          { text: 'Import from HelpScout', link: '/guide/ticket-importer/helpscout-ticket-importer' },
-          { text: 'Import from Freshdesk', link: '/guide/ticket-importer/freshdesk-ticket-importer' },
-          { text: 'Import from Zendesk', link: '/guide/ticket-importer/zendesk-ticket-importer' },
+          { text: 'General Ticket Importer', link: '/guide/migration/ticket-importer' },
+          { text: 'Migrate from HelpScout', link: '/guide/migration/helpscout-ticket-migrator' },
+          { text: 'Migrate from Freshdesk', link: '/guide/migration/freshdesk-ticket-migrator' },
+          { text: 'Migrate from Zendesk', link: '/guide/migration/zendesk-ticket-migrator' },
         ]
       },
       {
-        text: 'Ticket Management via Third-Parties',
+        text: 'Changelog',
         collapsed: true,
         items: [
-          { text: 'Managing Tickets using Slack', link: '/guide/ticket-management-using-third-parties/managing-tickets-using-slack' },
-          { text: 'Managing Tickets using Telegram', link: '/guide/ticket-management-using-third-parties/managing-tickets-using-telegram' },
-          { text: 'Managing Tickets using Discord', link: '/guide/ticket-management-using-third-parties/managing-tickets-using-discord' },
-          { text: 'Managing Tickets using WhatsApp', link: '/guide/ticket-management-using-third-parties/managing-tickets-using-whatsapp' },
-        ]
-      },
-      {
-        text: 'Change Log',
-        collapsed: true,
-        items: [
-          { text: 'Version History', link: '/guide/change-log/change-log' },
+          { text: 'Version History', link: '/guide/changelog/change-log' },
         ]
       },
     ],
