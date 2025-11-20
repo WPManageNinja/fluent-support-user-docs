@@ -41,11 +41,11 @@ export default defineConfig({
             text: 'Business Inboxes',
             collapsed: true,
             items: [
-              { text: 'Create Your First Business Inbox', link: '/guide/setup-configuration/business-inboxes/create-business-inbox-initially' },
-              { text: 'Add Multiple Business Inboxes', link: '/guide/setup-configuration/business-inboxes/adding-multiple-business-inboxes' },
-              { text: 'Configure Inbox Settings (Web Only)', link: '/guide/setup-configuration/business-inboxes/web-based-settings-in-business-inbox' },
-              { text: 'Configure Inbox Settings (Web + Email)', link: '/guide/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox' },
-              { text: 'Create Products for Ticket Categories', link: '/guide/setup-configuration/business-inboxes/creating-products-to-categorize-tickets' },
+              { text: 'First Business Inbox', link: '/guide/setup-configuration/business-inboxes/create-business-inbox-initially' },
+              { text: 'Multiple Business Inboxes', link: '/guide/setup-configuration/business-inboxes/adding-multiple-business-inboxes' },
+              { text: 'Web-Only Settings', link: '/guide/setup-configuration/business-inboxes/web-based-settings-in-business-inbox' },
+              { text: 'Web + Email Settings', link: '/guide/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox' },
+              { text: 'Products for Categories', link: '/guide/setup-configuration/business-inboxes/creating-products-to-categorize-tickets' },
             ]
           },
           {
@@ -53,28 +53,28 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Add Support Agents', link: '/guide/setup-configuration/agents-permissions/adding-support-staff-agents' },
-              { text: 'Manage Agent Permissions', link: '/guide/setup-configuration/agents-permissions/permission-management-for-agent' },
+              { text: 'Agent Permissions', link: '/guide/setup-configuration/agents-permissions/permission-management-for-agent' },
             ]
           },
           {
             text: 'Customer Portal',
             collapsed: true,
             items: [
-              { text: 'Configure Global Portal Settings', link: '/guide/setup-configuration/customer-portal/customer-support-portal-setup' },
-              { text: 'Customer Portal Dashboard', link: '/guide/setup-configuration/customer-portal/customer-support-portal-dashboard' },
-              { text: 'Customize Portal with Gutenberg Blocks', link: '/guide/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block' },
+              { text: 'Portal Settings', link: '/guide/setup-configuration/customer-portal/customer-support-portal-setup' },
+              { text: 'Portal Dashboard', link: '/guide/setup-configuration/customer-portal/customer-support-portal-dashboard' },
+              { text: 'Gutenberg Blocks', link: '/guide/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block' },
             ]
           },
           {
             text: 'Ticket Forms & Fields',
             collapsed: true,
             items: [
-              { text: 'Create Custom Submission Forms', link: '/guide/setup-configuration/ticket-forms-fields/add-custom-ticket-submission-form' },
-              { text: 'Customize Ticket Forms', link: '/guide/setup-configuration/ticket-forms-fields/ticket-form-customization' },
-              { text: 'Add Custom Fields', link: '/guide/setup-configuration/ticket-forms-fields/conditional-custom-fields' },
-              { text: 'Manage File Attachments & Uploads', link: '/guide/setup-configuration/ticket-forms-fields/attachment-regulation' },
-              { text: 'Allow Additional Attachment Types', link: '/guide/setup-configuration/ticket-forms-fields/add-more-attachment-type' },
-              { text: 'Integrate File Upload Services', link: '/guide/setup-configuration/ticket-forms-fields/file-upload-integrations' },
+              { text: 'Custom Submission Forms', link: '/guide/setup-configuration/ticket-forms-fields/add-custom-ticket-submission-form' },
+              { text: 'Customize Forms', link: '/guide/setup-configuration/ticket-forms-fields/ticket-form-customization' },
+              { text: 'Custom Fields', link: '/guide/setup-configuration/ticket-forms-fields/conditional-custom-fields' },
+              { text: 'File Attachments', link: '/guide/setup-configuration/ticket-forms-fields/attachment-regulation' },
+              { text: 'Additional Attachment Types', link: '/guide/setup-configuration/ticket-forms-fields/add-more-attachment-type' },
+              { text: 'File Upload Services', link: '/guide/setup-configuration/ticket-forms-fields/file-upload-integrations' },
             ]
           },
         ]
@@ -88,32 +88,32 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'View & Manage Tickets', link: '/guide/ticket-management/daily-operations/view-manage-ticket-entries' },
-              { text: 'Create Tickets for Customers', link: '/guide/ticket-management/daily-operations/creating-ticket-on-behalf-of-customer' },
-              { text: 'Use Saved Replies', link: '/guide/ticket-management/daily-operations/templated-saved-replies' },
-              { text: 'Add Internal Notes', link: '/guide/ticket-management/daily-operations/internal-notes' },
-              { text: 'Apply Custom Tags', link: '/guide/ticket-management/daily-operations/ticket-tags' },
-              { text: 'My Tickets View', link: '/guide/ticket-management/daily-operations/agent-specific-tickets' },
+              { text: 'Create for Customers', link: '/guide/ticket-management/daily-operations/creating-ticket-on-behalf-of-customer' },
+              { text: 'Saved Replies', link: '/guide/ticket-management/daily-operations/templated-saved-replies' },
+              { text: 'Internal Notes', link: '/guide/ticket-management/daily-operations/internal-notes' },
+              { text: 'Custom Tags', link: '/guide/ticket-management/daily-operations/ticket-tags' },
+              { text: 'My Tickets', link: '/guide/ticket-management/daily-operations/agent-specific-tickets' },
             ]
           },
           {
             text: 'Search & Filter',
             collapsed: true,
             items: [
-              { text: 'Filter, Sort & Search Tickets', link: '/guide/ticket-management/search-filter/filtering-sorting-searching-tickets' },
-              { text: 'Use Advanced Filters', link: '/guide/ticket-management/search-filter/advanced-filter-fluent-support' },
-              { text: 'Save Filter Searches', link: '/guide/ticket-management/search-filter/advanced-filter-save-search-feature' },
+              { text: 'Filter, Sort & Search', link: '/guide/ticket-management/search-filter/filtering-sorting-searching-tickets' },
+              { text: 'Advanced Filters', link: '/guide/ticket-management/search-filter/advanced-filter-fluent-support' },
+              { text: 'Save Searches', link: '/guide/ticket-management/search-filter/advanced-filter-save-search-feature' },
             ]
           },
           {
             text: 'Productivity Tools',
             collapsed: true,
             items: [
-              { text: 'Perform Bulk Actions', link: '/guide/ticket-management/productivity-tools/bulk-action-in-tickets' },
+              { text: 'Bulk Actions', link: '/guide/ticket-management/productivity-tools/bulk-action-in-tickets' },
               { text: 'Merge Tickets', link: '/guide/ticket-management/productivity-tools/merge-tickets' },
-              { text: 'Split Replies into New Tickets', link: '/guide/ticket-management/productivity-tools/split-reply-in-new-tickets' },
+              { text: 'Split Replies', link: '/guide/ticket-management/productivity-tools/split-reply-in-new-tickets' },
               { text: 'Bookmark Tickets', link: '/guide/ticket-management/productivity-tools/bookmark-tickets' },
-              { text: 'Track Agent Time', link: '/guide/ticket-management/productivity-tools/agent-time-tracking' },
-              { text: 'Use Keyboard Shortcuts', link: '/guide/ticket-management/productivity-tools/navigate-with-keyboard-shortcut' },
+              { text: 'Agent Time Tracking', link: '/guide/ticket-management/productivity-tools/agent-time-tracking' },
+              { text: 'Keyboard Shortcuts', link: '/guide/ticket-management/productivity-tools/navigate-with-keyboard-shortcut' },
               { text: 'Frontend Agent Portal', link: '/guide/ticket-management/productivity-tools/forntend-agent-portal' },
             ]
           },
@@ -121,10 +121,10 @@ export default defineConfig({
             text: 'Automation in Tickets',
             collapsed: true,
             items: [
-              { text: 'Close Tickets Automatically', link: '/guide/ticket-management/automation-in-tickets/automatic-ticket-closing' },
-              { text: 'Close Tickets Silently', link: '/guide/ticket-management/automation-in-tickets/close-ticket-silently' },
-              { text: 'Send Outgoing Webhooks', link: '/guide/ticket-management/automation-in-tickets/outgoing-webhook' },
-              { text: 'Use Shortcodes', link: '/guide/ticket-management/automation-in-tickets/shortcodes' },
+              { text: 'Auto-Close Tickets', link: '/guide/ticket-management/automation-in-tickets/automatic-ticket-closing' },
+              { text: 'Close Silently', link: '/guide/ticket-management/automation-in-tickets/close-ticket-silently' },
+              { text: 'Outgoing Webhooks', link: '/guide/ticket-management/automation-in-tickets/outgoing-webhook' },
+              { text: 'Shortcodes', link: '/guide/ticket-management/automation-in-tickets/shortcodes' },
             ]
           },
         ]
@@ -133,11 +133,11 @@ export default defineConfig({
         text: 'Email & Notifications',
         collapsed: true,
         items: [
-          { text: 'Manage Email Notifications', link: '/guide/email-notifications/managing-email-notifications' },
-          { text: 'Set Up Email Piping', link: '/guide/email-notifications/email-piping-email-based-support-ticket' },
-          { text: 'Auto-Forward from Google Workspace', link: '/guide/email-notifications/auto-forward-from-gsuite' },
-          { text: 'Forward from Microsoft 365 / Outlook', link: '/guide/email-notifications/forward-from-microsoft365-owa' },
-          { text: 'Switch Lambda Service for Email Piping', link: '/guide/email-notifications/changing-amazon-lambda-settings' },
+          { text: 'Email Notifications', link: '/guide/email-notifications/managing-email-notifications' },
+          { text: 'Email Piping Setup', link: '/guide/email-notifications/email-piping-email-based-support-ticket' },
+          { text: 'Google Workspace Forward', link: '/guide/email-notifications/auto-forward-from-gsuite' },
+          { text: 'Microsoft 365 Forward', link: '/guide/email-notifications/forward-from-microsoft365-owa' },
+          { text: 'Lambda Service', link: '/guide/email-notifications/changing-amazon-lambda-settings' },
         ]
       },
       {
@@ -145,8 +145,8 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Workflows Overview', link: '/guide/workflows-automation/workflows-automations' },
-          { text: 'Create Manual Workflows', link: '/guide/workflows-automation/manual-workflow' },
-          { text: 'Create Automatic Workflows', link: '/guide/workflows-automation/automatic-workflow' },
+          { text: 'Manual Workflows', link: '/guide/workflows-automation/manual-workflow' },
+          { text: 'Automatic Workflows', link: '/guide/workflows-automation/automatic-workflow' },
         ]
       },
       {
@@ -154,9 +154,9 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Dashboard Overview', link: '/guide/reports-analytics/dashboard-overview' },
-          { text: 'View Reports & Statistics', link: '/guide/reports-analytics/reports-and-stats' },
-          { text: 'See Overall Activities', link: '/guide/reports-analytics/overall-activities' },
-          { text: 'Use Dynamic Dashboard Widgets', link: '/guide/reports-analytics/dynamic-dashboard' },
+          { text: 'Reports & Statistics', link: '/guide/reports-analytics/reports-and-stats' },
+          { text: 'Overall Activities', link: '/guide/reports-analytics/overall-activities' },
+          { text: 'Dynamic Dashboard', link: '/guide/reports-analytics/dynamic-dashboard' },
         ]
       },
       {
@@ -167,10 +167,10 @@ export default defineConfig({
             text: 'Messaging Apps',
             collapsed: true,
             items: [
-              { text: 'Manage Tickets via Slack', link: '/guide/integrations-channels/messaging-apps/managing-tickets-using-slack' },
-              { text: 'Manage Tickets via Telegram', link: '/guide/integrations-channels/messaging-apps/managing-tickets-using-telegram' },
-              { text: 'Manage Tickets via Discord', link: '/guide/integrations-channels/messaging-apps/managing-tickets-using-discord' },
-              { text: 'Manage Tickets via WhatsApp', link: '/guide/integrations-channels/messaging-apps/managing-tickets-using-whatsapp' },
+              { text: 'Slack', link: '/guide/integrations-channels/messaging-apps/managing-tickets-using-slack' },
+              { text: 'Telegram', link: '/guide/integrations-channels/messaging-apps/managing-tickets-using-telegram' },
+              { text: 'Discord', link: '/guide/integrations-channels/messaging-apps/managing-tickets-using-discord' },
+              { text: 'WhatsApp', link: '/guide/integrations-channels/messaging-apps/managing-tickets-using-whatsapp' },
             ]
           },
           {
@@ -186,7 +186,7 @@ export default defineConfig({
               { text: 'FluentCommunity', link: '/guide/integrations-channels/core-integrations/fluent-community-integration' },
               { text: 'SureTriggers', link: '/guide/integrations-channels/core-integrations/suretriggers-integration' },
               { text: 'Incoming Webhook', link: '/guide/integrations-channels/core-integrations/incoming-webhook' },
-              { text: 'Integration Status Page', link: '/guide/integrations-channels/core-integrations/integration_statuses' },
+              { text: 'Integration Status', link: '/guide/integrations-channels/core-integrations/integration_statuses' },
             ]
           },
           {
@@ -206,8 +206,8 @@ export default defineConfig({
           },
           {
             text: 'Other',
-            collapsed: true,
-            items: [
+        collapsed: true,
+        items: [
               { text: 'BetterDocs', link: '/guide/integrations-channels/other/betterdocs-integration' },
               { text: 'Google reCAPTCHA', link: '/guide/integrations-channels/other/google-recaptcha-integration' },
               { text: 'Google Drive', link: '/guide/integrations-channels/other/google-drive-integration' },
@@ -220,25 +220,25 @@ export default defineConfig({
         text: 'AI Assistance',
         collapsed: true,
         items: [
-          { text: 'Enable OpenAI Integration', link: '/guide/ai-assistance/openai-integration-with-fluent-support' },
-          { text: 'OpenAI Features & Usage', link: '/guide/ai-assistance/features-of-openai-integration' },
+          { text: 'OpenAI Setup', link: '/guide/ai-assistance/openai-integration-with-fluent-support' },
+          { text: 'OpenAI Features', link: '/guide/ai-assistance/features-of-openai-integration' },
         ]
       },
       {
         text: 'Migration',
         collapsed: true,
         items: [
-          { text: 'General Ticket Importer', link: '/guide/migration/ticket-importer' },
-          { text: 'Migrate from HelpScout', link: '/guide/migration/helpscout-ticket-migrator' },
-          { text: 'Migrate from Freshdesk', link: '/guide/migration/freshdesk-ticket-migrator' },
-          { text: 'Migrate from Zendesk', link: '/guide/migration/zendesk-ticket-migrator' },
+          { text: 'Ticket Importer', link: '/guide/migration/ticket-importer' },
+          { text: 'HelpScout', link: '/guide/migration/helpscout-ticket-migrator' },
+          { text: 'Freshdesk', link: '/guide/migration/freshdesk-ticket-migrator' },
+          { text: 'Zendesk', link: '/guide/migration/zendesk-ticket-migrator' },
         ]
       },
       {
         text: 'Changelog',
         collapsed: true,
         items: [
-          { text: 'Version History', link: '/guide/changelog/change-log' },
+          { text: 'Change Log', link: '/guide/changelog/change-log' },
         ]
       },
     ],
