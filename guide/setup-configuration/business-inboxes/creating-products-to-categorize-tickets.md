@@ -1,6 +1,5 @@
 # Creating Products to Categorize Tickets
 
-[Original Documentation](https://fluentsupport.com/docs/creating-ticket-categories-products/)
 
 ---
 
@@ -22,4 +21,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/creating-ticket-categories-products/)

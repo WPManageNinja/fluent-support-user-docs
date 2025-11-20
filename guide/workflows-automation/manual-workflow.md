@@ -1,6 +1,5 @@
 # Manual Workflow
 
-[Original Documentation](https://fluentsupport.com/docs/manual-workflow/)
 
 ---
 
@@ -78,4 +77,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/manual-workflow/)

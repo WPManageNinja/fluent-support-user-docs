@@ -1,6 +1,5 @@
 # Adding Multiple Business Inboxes
 
-[Original Documentation](https://fluentsupport.com/docs/adding-multiple-business-inboxes/)
 
 ---
 
@@ -67,4 +66,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/adding-multiple-business-inboxes/)

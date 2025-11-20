@@ -1,6 +1,5 @@
 # Managing Tickets Using Discord
 
-[Original Documentation](https://fluentsupport.com/docs/managing-tickets-using-discord/)
 
 ---
 
@@ -51,4 +50,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/managing-tickets-using-discord/)

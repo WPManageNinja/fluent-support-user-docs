@@ -1,6 +1,5 @@
 # Agent Time Tracking
 
-[Original Documentation](https://fluentsupport.com/docs/agent-time-tracking/)
 
 ---
 
@@ -46,4 +45,3 @@ If you have any questions or need further assistance, feel free to reach out to 
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/agent-time-tracking/)

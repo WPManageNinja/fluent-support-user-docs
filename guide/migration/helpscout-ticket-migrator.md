@@ -1,6 +1,5 @@
 # HelpScout Ticket Migrator
 
-[Original Documentation](https://fluentsupport.com/docs/helpscout-ticket-migrator/)
 
 ---
 
@@ -71,4 +70,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/helpscout-ticket-migrator/)

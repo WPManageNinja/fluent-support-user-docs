@@ -1,6 +1,5 @@
 # Forwarding from Microsoft 365 / OWA
 
-[Original Documentation](https://fluentsupport.com/docs/forward-from-microsoft-365-outlook-web-access-owa/)
 
 ---
 
@@ -34,4 +33,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/forward-from-microsoft-365-outlook-web-access-owa/)

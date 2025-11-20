@@ -1,6 +1,5 @@
 # How to Install & Activate Fluent Support PRO
 
-[Original Documentation](https://fluentsupport.com/docs/upgrade-to-fluent-support-pro-add-on/)
 
 ---
 
@@ -74,4 +73,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/upgrade-to-fluent-support-pro-add-on/)

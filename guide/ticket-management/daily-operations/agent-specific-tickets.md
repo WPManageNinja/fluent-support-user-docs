@@ -1,6 +1,5 @@
 # Agent-Specific Tickets (My Tickets)
 
-[Original Documentation](https://fluentsupport.com/docs/agent-specific-tickets/)
 
 ---
 
@@ -24,4 +23,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/agent-specific-tickets/)

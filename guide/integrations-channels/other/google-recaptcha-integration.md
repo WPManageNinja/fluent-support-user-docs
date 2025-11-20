@@ -1,6 +1,5 @@
 # Google reCAPTCHA Integration
 
-[Original Documentation](https://fluentsupport.com/docs/google-recaptcha-integration/)
 
 ---
 
@@ -39,4 +38,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/google-recaptcha-integration/)

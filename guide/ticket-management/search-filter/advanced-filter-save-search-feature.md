@@ -1,6 +1,5 @@
 # Advanced Filter Save Search Feature
 
-[Original Documentation](https://fluentsupport.com/docs/advanced-filter-save-search-feature/)
 
 ---
 
@@ -36,4 +35,3 @@ This is how you can save your advanced filter search. If you have any further qu
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/advanced-filter-save-search-feature/)

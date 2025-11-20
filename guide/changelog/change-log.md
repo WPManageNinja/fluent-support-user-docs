@@ -1,6 +1,5 @@
 # Change Log
 
-[Original Documentation](https://fluentsupport.com/docs/change-log/)
 
 ---
 
@@ -490,4 +489,3 @@
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/change-log/)

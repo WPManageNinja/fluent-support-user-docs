@@ -1,6 +1,5 @@
 # FluentCommunity Integration
 
-[Original Documentation](https://fluentsupport.com/docs/fluent-community-integration/)
 
 ---
 
@@ -89,4 +88,3 @@ If you have any further questions about this guideline, feel free to reach out t
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/fluent-community-integration/)

@@ -1,6 +1,5 @@
 # Creating a Ticket on Behalf of the Customer
 
-[Original Documentation](https://fluentsupport.com/docs/creating-ticket-on-behalf-of-customer/)
 
 ---
 
@@ -50,4 +49,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/creating-ticket-on-behalf-of-customer/)

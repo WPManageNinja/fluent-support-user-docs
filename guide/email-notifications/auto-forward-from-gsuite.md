@@ -1,6 +1,5 @@
 # Auto-forward from Google Workspace
 
-[Original Documentation](https://fluentsupport.com/docs/auto-forward-from-google-workspace-to-fluent-support/)
 
 ---
 
@@ -31,4 +30,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/auto-forward-from-google-workspace-to-fluent-support/)

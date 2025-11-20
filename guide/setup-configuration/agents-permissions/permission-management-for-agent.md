@@ -1,6 +1,5 @@
 # Permission Management for Agents
 
-[Original Documentation](https://fluentsupport.com/docs/permission-management-for-agent/)
 
 ---
 
@@ -62,4 +61,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/permission-management-for-agent/)

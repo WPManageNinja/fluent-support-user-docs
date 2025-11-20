@@ -1,6 +1,5 @@
 # Change Amazon Lambda Settings for Email Piping
 
-[Original Documentation](https://fluentsupport.com/docs/change-amazon-lambda-cloud-processing-service-for-email-piping/)
 
 ---
 
@@ -17,4 +16,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/change-amazon-lambda-cloud-processing-service-for-email-piping/)

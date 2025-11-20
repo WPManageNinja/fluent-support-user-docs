@@ -1,6 +1,5 @@
 # Reports and Stats
 
-[Original Documentation](https://fluentsupport.com/docs/reports-and-stats/)
 
 ---
 
@@ -99,4 +98,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/reports-and-stats/)

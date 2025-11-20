@@ -1,6 +1,5 @@
 # Email Piping
 
-[Original Documentation](https://fluentsupport.com/docs/email-piping-email-based-support-ticket/)
 
 ---
 
@@ -79,4 +78,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/email-piping-email-based-support-ticket/)

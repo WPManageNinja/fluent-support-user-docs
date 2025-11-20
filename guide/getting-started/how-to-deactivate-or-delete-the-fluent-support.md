@@ -1,6 +1,5 @@
 # Deactivate or Delete the Fluent Support Plugin
 
-[Original Documentation](https://fluentsupport.com/docs/how-to-deactivate-or-delete-the-fluent-support/)
 
 ---
 
@@ -32,4 +31,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/how-to-deactivate-or-delete-the-fluent-support/)

@@ -1,6 +1,5 @@
 # Dynamic Dashboard
 
-[Original Documentation](https://fluentsupport.com/docs/dynamic-dashboard/)
 
 ---
 
@@ -37,4 +36,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/dynamic-dashboard/)

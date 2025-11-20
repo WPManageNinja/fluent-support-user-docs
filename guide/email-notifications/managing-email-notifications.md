@@ -1,6 +1,5 @@
 # Managing Email Notifications
 
-[Original Documentation](https://fluentsupport.com/docs/customize-email-notifications/)
 
 ---
 
@@ -26,4 +25,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/customize-email-notifications/)

@@ -1,6 +1,5 @@
 # Web & Email-Based Settings in Business Inbox
 
-[Original Documentation](https://fluentsupport.com/docs/web-and-email-based-settings-in-business-inbox/)
 
 ---
 
@@ -25,4 +24,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/web-and-email-based-settings-in-business-inbox/)

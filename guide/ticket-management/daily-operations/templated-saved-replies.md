@@ -1,6 +1,5 @@
 # Saved (Templated) Replies
 
-[Original Documentation](https://fluentsupport.com/docs/templated-saved-replies/)
 
 ---
 
@@ -34,4 +33,3 @@ This way, you can create as many **Saved Replies** as you want to save your time
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/templated-saved-replies/)

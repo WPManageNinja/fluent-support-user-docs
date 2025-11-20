@@ -1,6 +1,5 @@
 # Customize Customer Portal via Gutenberg Block
 
-[Original Documentation](https://fluentsupport.com/docs/customize-your-customer-portal/)
 
 ---
 
@@ -54,4 +53,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/customize-your-customer-portal/)

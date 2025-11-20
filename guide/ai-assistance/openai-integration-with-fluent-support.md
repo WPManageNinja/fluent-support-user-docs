@@ -1,6 +1,5 @@
 # OpenAI Integration With Fluent Support
 
-[Original Documentation](https://fluentsupport.com/docs/openai-integration-with-fluent-support/)
 
 ---
 
@@ -55,4 +54,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/openai-integration-with-fluent-support/)

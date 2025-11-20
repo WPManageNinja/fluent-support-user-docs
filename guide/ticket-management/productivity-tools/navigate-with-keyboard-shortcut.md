@@ -1,6 +1,5 @@
 # Navigate With Keyboard Shortcuts
 
-[Original Documentation](https://fluentsupport.com/docs/navigate-with-the-keyboard-shortcut/)
 
 ---
 
@@ -47,4 +46,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/navigate-with-the-keyboard-shortcut/)

@@ -1,6 +1,5 @@
 # File Attachment Regulations
 
-[Original Documentation](https://fluentsupport.com/docs/attachment-regulation/)
 
 ---
 
@@ -44,4 +43,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/attachment-regulation/)

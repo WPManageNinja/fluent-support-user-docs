@@ -1,6 +1,5 @@
 # Setup Customer Support Portal With Global Settings
 
-[Original Documentation](https://fluentsupport.com/docs/customer-support-portal-setup/)
 
 ---
 
@@ -134,4 +133,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/customer-support-portal-setup/)

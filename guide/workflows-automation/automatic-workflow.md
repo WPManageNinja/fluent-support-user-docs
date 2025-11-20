@@ -1,6 +1,5 @@
 # Automatic Workflow
 
-[Original Documentation](https://fluentsupport.com/docs/automatic-workflow/)
 
 ---
 
@@ -118,4 +117,3 @@ If you have any further questions, concerns, or suggestions, please do not hesit
 
 ---
 
-**Source:** [Original Documentation](https://fluentsupport.com/docs/automatic-workflow/)
