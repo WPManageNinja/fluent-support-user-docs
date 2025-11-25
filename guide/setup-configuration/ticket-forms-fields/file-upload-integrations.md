@@ -15,11 +15,11 @@ From **Fluent Support Dashboard,** go to **Global Settings,** select **File Uplo
 
 For example, here I selected the “**Dropbox** ” platform.
 
-![Dropbox platform for file uploading](public/images/setup-configuration/ticket-forms-fields/file-upload-integrations/file-upload-integration-configure-1-1.webp)
+![Dropbox platform for file uploading](/guide/public/images/setup-configuration/ticket-forms-fields/file-upload-integrations/file-upload-integration-configure-1-1.webp)
 
 Now, provide all the credentials for your selected storage platform in the pop-up.
 
-![Configure DropboxSettings popup page](public/images/setup-configuration/ticket-forms-fields/file-upload-integrations/configure-dropbox-settings-popup-1.webp)
+![Configure DropboxSettings popup page](/guide/public/images/setup-configuration/ticket-forms-fields/file-upload-integrations/configure-dropbox-settings-popup-1.webp)
 
 ### Upload Your Files #
 

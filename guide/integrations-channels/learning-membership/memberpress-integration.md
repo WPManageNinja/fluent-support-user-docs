@@ -15,7 +15,7 @@ You **do not need to integrate** the **MemberPress** plugin **manually** **with*
 
 For example, here you can see a user purchased three courses from **MemberPress** , and the overview of course purchase history (User Status and Course Name with Status) automatically appeared on his ticket. 
 
-![MemberPress User's purchase related information](public/images/integrations-channels/learning-membership/memberpress-integration/memberpress-integration-new-scaled-1.webp)
+![MemberPress User's purchase related information](/guide/public/images/integrations-channels/learning-membership/memberpress-integration/memberpress-integration-new-scaled-1.webp)
 
 This is how the integration of **MemberPress** with **Fluent Support** works!  
 

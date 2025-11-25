@@ -13,7 +13,7 @@ First, sign up or log in to the customer support portal and the **Customer Porta
 
 Remember, for sign-up, use a valid email as a verification code will be sent to the user email for confirmation, ensuring only valid emails can be used for sign-in.
 
-![Customer Support Portal Dashboard](public/images/setup-configuration/customer-portal/customer-support-portal-dashboard/dashboard-of-customer-support-portal-1-1.webp)
+![Customer Support Portal Dashboard](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-dashboard/dashboard-of-customer-support-portal-1-1.webp)
 
 **All the options of the Customer Portal Dashboard are explained below:**
 

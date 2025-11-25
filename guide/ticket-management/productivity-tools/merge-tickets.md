@@ -13,27 +13,27 @@ Remember, only those with [**permission**](https://fluentsupport.com/docs/permis
 
 First, go to your **Fluent Support** and click on **Tickets.**
 
-![Tickets from Fluent Support dashboard](public/images/ticket-management/productivity-tools/merge-tickets/fluent-support-ticktes-1-1.webp)
+![Tickets from Fluent Support dashboard](/guide/public/images/ticket-management/productivity-tools/merge-tickets/fluent-support-ticktes-1-1.webp)
 
 Now go to your desired ticket section from **My Tickets, All Tickets** , **Unassigned** , or **Bookmarks**.
 
-![All ticket sections](public/images/ticket-management/productivity-tools/merge-tickets/choose-ticket-section-1-1.webp)
+![All ticket sections](/guide/public/images/ticket-management/productivity-tools/merge-tickets/choose-ticket-section-1-1.webp)
 
 Open the specific ticket you want to merge, and click on the **Three dot Icon** next to the mailbox option. Now, select ”**Merge Tickets”** and a popup page will appear on the top.
 
-![Merge Tickets option](public/images/ticket-management/productivity-tools/merge-tickets/merge-tickets-1.webp)
+![Merge Tickets option](/guide/public/images/ticket-management/productivity-tools/merge-tickets/merge-tickets-1.webp)
 
 The popup will display all the tickets opened by a single user under **ID** , **Title** , and **Status** options to merge.
 
-![Display of all merged tickets](public/images/ticket-management/productivity-tools/merge-tickets/id-title-status-1.webp)
+![Display of all merged tickets](/guide/public/images/ticket-management/productivity-tools/merge-tickets/id-title-status-1.webp)
 
 You can select all the tickets in bulk at once or individually based on your needs.
 
-![Select tickets for bulk actions](public/images/ticket-management/productivity-tools/merge-tickets/select-tickets-drift-video-1.gif)
+![Select tickets for bulk actions](/guide/public/images/ticket-management/productivity-tools/merge-tickets/select-tickets-drift-video-1.gif)
 
 Click on and the ticket will be combined with the previous one. Now you can respond to all merged tickets at once with a single response for all inquiries.
 
-![Finally marge desired tickets](public/images/ticket-management/productivity-tools/merge-tickets/clicking-merge-1.gif)
+![Finally marge desired tickets](/guide/public/images/ticket-management/productivity-tools/merge-tickets/clicking-merge-1.gif)
 
 
 ---

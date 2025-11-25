@@ -13,7 +13,7 @@ You do not need to integrate the **WishList Member** plugin manually with **Flue
 
 For example, here you can see a user purchased the **WishList Member** plugin and the outline of his membership details (Membership Level and Membership Status) has automatically appeared on his ticket.
 
-![Preview of WishList Member Integration with Fluent Support](public/images/integrations-channels/learning-membership/wishlist-member-integration/wishlist-member-integration-fluent-support-1.webp)
+![Preview of WishList Member Integration with Fluent Support](/guide/public/images/integrations-channels/learning-membership/wishlist-member-integration/wishlist-member-integration-fluent-support-1.webp)
 
 This is how the integration of **WishList** **Member** with **Fluent Support** works!  
 

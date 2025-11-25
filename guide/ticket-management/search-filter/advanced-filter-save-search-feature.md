@@ -15,21 +15,21 @@ Create your advanced search using the available conditions and options. To learn
 
 Once you’re done, click the **Save Search** button to save the filter for future use.
 
-![](public/images/ticket-management/search-filter/advanced-filter-save-search-feature/advance-search-1-scaled-1.webp)
+![](/guide/public/images/ticket-management/search-filter/advanced-filter-save-search-feature/advance-search-1-scaled-1.webp)
 
 A pop-up will arrive to give a name for this filtered search and then click on the **Save** button. 
 
-![](public/images/ticket-management/search-filter/advanced-filter-save-search-feature/save-search-2-scaled-1.webp)
+![](/guide/public/images/ticket-management/search-filter/advanced-filter-save-search-feature/save-search-2-scaled-1.webp)
 
 To view your saved filter searches in the Tickets section, click the **Funnel Icon Button** next to the Advanced Filter.
 
-![](public/images/ticket-management/search-filter/advanced-filter-save-search-feature/save-search-button-3-scaled-1.webp)
+![](/guide/public/images/ticket-management/search-filter/advanced-filter-save-search-feature/save-search-button-3-scaled-1.webp)
 
 A pop-up will appear on the left side of your screen, showing all your saved searches. Here just click on any Saved search to filter your results. 
 
 To modify a saved search, click the pencil icon next to it, and to delete a saved search, click the delete icon next to its name. If you want to close the pop-up, simply click the **Close** button.
 
-![](public/images/ticket-management/search-filter/advanced-filter-save-search-feature/edit-save-search-4-scaled-1.webp)
+![](/guide/public/images/ticket-management/search-filter/advanced-filter-save-search-feature/edit-save-search-4-scaled-1.webp)
 
 
 ---

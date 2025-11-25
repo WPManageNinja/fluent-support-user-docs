@@ -13,7 +13,7 @@ You do not need to integrate the **Paid Memberships Pro** plugin manually with *
 
 For example, here you can see a user purchased the **Paid Memberships Pro** plugin, and the outline of his membership details (Membership Level and Membership Starting Date) has automatically appeared on his ticket.
 
-![Preview of Paid-Membership Pro Integration with Fluent Support](public/images/integrations-channels/learning-membership/paid-membership-pro-integration/paid-membership-pro-integration-fluent-support-1.webp)
+![Preview of Paid-Membership Pro Integration with Fluent Support](/guide/public/images/integrations-channels/learning-membership/paid-membership-pro-integration/paid-membership-pro-integration-fluent-support-1.webp)
 
 This is how the integration of **Paid Memberships Pro** with **Fluent Support** works!  
 

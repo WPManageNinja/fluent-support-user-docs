@@ -15,13 +15,13 @@ Go to **Global Settings** from your **Fluent** **Support** **Dashboard,** click 
 
 Remember to set up the **Fluent** **CRM** integration, you must **Install** **and Activate** the **Fluent** **CRM** plugin in your **WordPress** site first. To learn the process of doing it, read this [**Documentation**](https://fluentcrm.com/docs/how-to-install-upgrade-and-activate-license/).
 
-![Enable FluentCRM Integration option.](public/images/integrations-channels/core-integrations/fluentcrm-integration/fluent-crm-settings-enable-1.webp)
+![Enable FluentCRM Integration option.](/guide/public/images/integrations-channels/core-integrations/fluentcrm-integration/fluent-crm-settings-enable-1.webp)
 
 Now, set the default status for new contacts. If you choose **Pending** , a double-opt-in email will be sent to new contacts.  
   
 Also, you can add the user to your **FluentCRM** **List** or include your users in various **Tags** using the dropdown menus by clicking the **arrow icon.** Once your integration set-up is complete, click on the **Save Settings** button.
 
-![Fluent CRM Integration Settings options](public/images/integrations-channels/core-integrations/fluentcrm-integration/default-status-dropdown-menus-save-settings-1.webp)
+![Fluent CRM Integration Settings options](/guide/public/images/integrations-channels/core-integrations/fluentcrm-integration/default-status-dropdown-menus-save-settings-1.webp)
 
 This is how you can complete the FluentCRM integration with Fluent Support!  
 

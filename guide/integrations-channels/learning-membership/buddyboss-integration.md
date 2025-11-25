@@ -13,7 +13,7 @@ You do not need to integrate the **BuddyBoss** plugin manually with **Fluent Sup
 
 For example, here you can see a user purchased the **BuddyBoss** plugin and the outline of his group information (Group Name and Joining Date) has automatically appeared on his ticket.
 
-![Preview of BuddyBoss Integration with Fluent Support](public/images/integrations-channels/learning-membership/buddyboss-integration/buddyboss-integration-fluent-support-1-5.50.14-pm-1.webp)
+![Preview of BuddyBoss Integration with Fluent Support](/guide/public/images/integrations-channels/learning-membership/buddyboss-integration/buddyboss-integration-fluent-support-1-5.50.14-pm-1.webp)
 
 This is how the integration of **BuddyBoss** with **Fluent Support** works!  
 

@@ -11,39 +11,39 @@ To learn how to use **Advanced** **Filter** in **Fluent** **Support** , follow t
 
 First, go to your **Fluent Support** and click on **Tickets**.
 
-![Tickets from Fluent Support dashboard](public/images/ticket-management/search-filter/advanced-filter-fluent-support/fluent-support-ticktes-4-1.webp)
+![Tickets from Fluent Support dashboard](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/fluent-support-ticktes-4-1.webp)
 
 Now go to your desired ticket section from **My Tickets, All Tickets, Unassigned,** or **Bookmarks**.
 
-![All ticket sections](public/images/ticket-management/search-filter/advanced-filter-fluent-support/choose-ticket-section-5-1.webp)
+![All ticket sections](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/choose-ticket-section-5-1.webp)
 
 Enable the **Advanced Filter** toggle to activate the feature, and the advanced choices will appear.
 
-![Advanced Filter toggle](public/images/ticket-management/search-filter/advanced-filter-fluent-support/advanced-filter-toggle-1.webp)
+![Advanced Filter toggle](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/advanced-filter-toggle-1.webp)
 
 To begin, click the **\+ Add** button, and several **Data Properties** will appear in a popup.
 
-![+ Add button](public/images/ticket-management/search-filter/advanced-filter-fluent-support/add-button-1.webp)
+![+ Add button](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/add-button-1.webp)
 
 Now, you can **use** these **three properties** to set conditions for advanced ticket filtering.
 
-![Three properties](public/images/ticket-management/search-filter/advanced-filter-fluent-support/several-categories-1.webp)
+![Three properties](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/several-categories-1.webp)
 
 Click on **\+ And** to set another condition with the previous condition that you already set.
 
-![ + And button](public/images/ticket-management/search-filter/advanced-filter-fluent-support/and-scaled-1.webp)
+![ + And button](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/and-scaled-1.webp)
 
 Or, click on **\+ Or** if you want to set conditions against the previous ones you already set.
 
-![ + Or button](public/images/ticket-management/search-filter/advanced-filter-fluent-support/or-1.webp)
+![ + Or button](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/or-1.webp)
 
 You can delete any specific condition by clicking the **Delete** **Icon**. Or, you can clear all the conditions by clicking the **Clear** button.
 
-![Delete Icon or Clear button](public/images/ticket-management/search-filter/advanced-filter-fluent-support/deleteclear-filter-1.webp)
+![Delete Icon or Clear button](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/deleteclear-filter-1.webp)
 
 To run your conditions, always press the **Filter** button after completing the settings.
 
-![Filter button ](public/images/ticket-management/search-filter/advanced-filter-fluent-support/filter-button-1.webp)
+![Filter button ](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/filter-button-1.webp)
 
 ## Properties And Their Items To Set Conditions #
 
@@ -51,7 +51,7 @@ In the “**Advanced Filter** ” feature, you will get three general properties
 
 These are — **Tickets** , **Customer** , and **Agent**.
 
-![Three categories](public/images/ticket-management/search-filter/advanced-filter-fluent-support/several-categories-copy-1.webp)
+![Three categories](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/several-categories-copy-1.webp)
 
 **The properties shown in the screenshot above are explained below —**
 
@@ -59,7 +59,7 @@ These are — **Tickets** , **Customer** , and **Agent**.
 
 Inside the “**Tickets** ” properties, you will get several items to set your values for advanced filtering. And these are —
 
-![Tickets](public/images/ticket-management/search-filter/advanced-filter-fluent-support/tickets-popup-1-1.webp)
+![Tickets](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/tickets-popup-1-1.webp)
 
 A brief explanation of the Items shown in the screenshot above is given below —
 
@@ -84,7 +84,7 @@ A brief explanation of the Items shown in the screenshot above is given below �
 
 Inside the “**Customer** ” properties, you will get several items to set your values for advanced filtering. And these are —
 
-![Customer](public/images/ticket-management/search-filter/advanced-filter-fluent-support/customer-popup-1.webp)
+![Customer](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/customer-popup-1.webp)
 
 A brief explanation of the Items shown in the screenshot above is given below —
 
@@ -102,7 +102,7 @@ A brief explanation of the Items shown in the screenshot above is given below �
 
 Inside the “**Agent** ” properties, you will get several items to set your values for advanced filtering. And these are —
 
-![Agent](public/images/ticket-management/search-filter/advanced-filter-fluent-support/agent-popup-1.webp)
+![Agent](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/agent-popup-1.webp)
 
 A brief explanation of the Items shown in the screenshot above is given below —
 
@@ -118,19 +118,19 @@ To learn **how to set conditions** for advanced filtering, follow the steps with
 
 Once you click on the **\+ Add** or **\+ And** button, you will see a box with a dropdown.
 
-![+ Add or + And button](public/images/ticket-management/search-filter/advanced-filter-fluent-support/and-or-add-box-set-conditions-scaled-1.webp)
+![+ Add or + And button](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/and-or-add-box-set-conditions-scaled-1.webp)
 
 In this box, you will get a **List of Default Conditions** based on the value that you’ve selected.
 
 For example, in the screenshot you can see, I selected the “**Ticket Created** ” item under the “**Tickets”** property and I got the default conditions list. Now I can set any one of the conditions according to needs.
 
-![List of default conditions](public/images/ticket-management/search-filter/advanced-filter-fluent-support/list-of-default-conditions-1.webp)
+![List of default conditions](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/list-of-default-conditions-1.webp)
 
 You can **set any conditions** from the given list according to your needs by using the **Dropdown** option as well.
 
 For example, here I select the **Ticket** property, the **Title** item (where I put “**Fluent** **Form** ” as value), and then the Includes condition. In this case, the filtering includes only those tickets that have Fluent Form words inside their title and appear on my ticket dashboard.
 
-![Advanced Filtered Ticket](public/images/ticket-management/search-filter/advanced-filter-fluent-support/condition-is-set-1.webp)
+![Advanced Filtered Ticket](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/condition-is-set-1.webp)
 
 By following the same process, you set as many conditions as you want to filter your tickets.
 

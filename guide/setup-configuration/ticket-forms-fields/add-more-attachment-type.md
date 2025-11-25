@@ -32,7 +32,7 @@ return $mimeTypes;
 });
 [/code]
 Now, you can see an “**HTML”** file type is added to the **Accepted** **File** **Types** under the Fluent Support’s**Settings** or**Global Settings.**
-![HTML file type added in Accepted File Types](public/images/setup-configuration/ticket-forms-fields/add-more-attachment-type/html-file-types-added-scaled-1.webp)
+![HTML file type added in Accepted File Types](/guide/public/images/setup-configuration/ticket-forms-fields/add-more-attachment-type/html-file-types-added-scaled-1.webp)
 Also, if you want to make any changes in any of the existing file types, you can do it by using the **“fluent_support/mime_groups”** filter and the **“add_filter”** hook.
 For example, I make changes to the **Photos (Image)** file type here by using the following **Shortcode**.
 [code] 

@@ -11,11 +11,11 @@ To learn how to**Filtering, Sorting, And Searching Tickets** , follow the steps 
 
 Go to your Fluent Support **Dashboard** & click on **Tickets.**
 
-![Tickets from Fluent Support dashboard](public/images/ticket-management/search-filter/filtering-sorting-searching-tickets/dashboard-tickets-1-scaled-1.webp)
+![Tickets from Fluent Support dashboard](/guide/public/images/ticket-management/search-filter/filtering-sorting-searching-tickets/dashboard-tickets-1-scaled-1.webp)
 
 After going to “**Tickets”** you will find various options for filtering and sorting your tickets.
 
-![All setting options inside a Ticket](public/images/ticket-management/search-filter/filtering-sorting-searching-tickets/all-options-tickets-1.webp)
+![All setting options inside a Ticket](/guide/public/images/ticket-management/search-filter/filtering-sorting-searching-tickets/all-options-tickets-1.webp)
 
 **A brief explanation of the settings shown in the screenshot above is given below —**
 

@@ -15,7 +15,7 @@ To ensure the **BetterDocs** integration works, it must be **installed** and**ac
 
 From the **Fluent Support Dashboard** , go to **Global Settings,** click the **Ticket Form Config** button and you will find the **Ticket Form Settings.**
 
-![Ticket Form Settings from Fluent Support dashboard](public/images/integrations-channels/other/betterdocs-integration/global-settings-ticket-form-config-scaled-1.webp)
+![Ticket Form Settings from Fluent Support dashboard](/guide/public/images/integrations-channels/other/betterdocs-integration/global-settings-ticket-form-config-scaled-1.webp)
 
 Check the **Enable knowledge base suggestion on the ticket creation form** box to link knowledge base suggestions to the Fluent Support ticket form.  
   
@@ -23,13 +23,13 @@ After enabling, select **docs** under **Knowledge Base post types for** displayi
 
 Make sure your WordPress site has BetterDocs installed and activated to proceed.
 
-![Enable knowledge base suggestion on the ticket creation form box](public/images/integrations-channels/other/betterdocs-integration/enable-post-type-article-limit-1.webp)
+![Enable knowledge base suggestion on the ticket creation form box](/guide/public/images/integrations-channels/other/betterdocs-integration/enable-post-type-article-limit-1.webp)
 
 Once you are done, don’t forget to click on **Save Settings**.
 
 Now, when anyone types related keywords in the ticket forms subject bar, it will show relevant documentation as suggested articles.
 
-![Save settings to make it functional](public/images/integrations-channels/other/betterdocs-integration/save-settings-1.webp)
+![Save settings to make it functional](/guide/public/images/integrations-channels/other/betterdocs-integration/save-settings-1.webp)
 
 This is how the integration of **BetterDocs** with **Fluent Support** works!  
 

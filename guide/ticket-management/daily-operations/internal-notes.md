@@ -11,28 +11,28 @@ To learn how to add the **Internal** **Notes** inside a specific ticket, follow 
 
 First, go to **Tickets** under **Fluent Support** **Dashboard** & **open your desired ticket** and this will take you to the **ticket entry page**.
 
-![Open desired ticket gif](public/images/ticket-management/daily-operations/internal-notes/open-desired-ticket-drift-video.gif)
+![Open desired ticket gif](/guide/public/images/ticket-management/daily-operations/internal-notes/open-desired-ticket-drift-video.gif)
 
 Now, click on the **Notebook Icon** at the top and this will open a text editor where you can add the notes about your users for better ticket management.
 
-![Clicking internal note gif](public/images/ticket-management/daily-operations/internal-notes/clicking-internal-note-drift-video.webp)
+![Clicking internal note gif](/guide/public/images/ticket-management/daily-operations/internal-notes/clicking-internal-note-drift-video.webp)
 
 **Here,** you will find the **Add Media** option where you can insert any media file within a note.  
 Or, upload an external file using the **Click to Upload** button.
 
-![Add Media to you internal notes](public/images/ticket-management/daily-operations/internal-notes/add-media-click-upload-1.webp)
+![Add Media to you internal notes](/guide/public/images/ticket-management/daily-operations/internal-notes/add-media-click-upload-1.webp)
 
 You can also use templated replies by clicking on the **Templates** button. It allows you to search for a saved reply using the search box. Use the dropdown at the top to **filter** the replies based on the products. To know more,**[click here](https://fluentsupport.com/docs/templated-saved-replies/)**.
 
-![Templated replies gif](public/images/ticket-management/daily-operations/internal-notes/templated-replies.gif)
+![Templated replies gif](/guide/public/images/ticket-management/daily-operations/internal-notes/templated-replies.gif)
 
 Another option you will see is **Shortcodes,** which you can use within the **Notes.** It will dynamically fetch various information like the Customer name, email, agent name, etc.
 
-![Shortcodes to fetch information inside notes](public/images/ticket-management/daily-operations/internal-notes/shortcodes-1.webp)
+![Shortcodes to fetch information inside notes](/guide/public/images/ticket-management/daily-operations/internal-notes/shortcodes-1.webp)
 
 Finally, click on the **Add Internal Note** to save your note, and you’re all set!
 
-![Finally add internal note](public/images/ticket-management/daily-operations/internal-notes/add-internal-note-1.webp)
+![Finally add internal note](/guide/public/images/ticket-management/daily-operations/internal-notes/add-internal-note-1.webp)
 
 This way, you can create as many **Internal Notes** as you want to categorize or organize your tickets!  
 

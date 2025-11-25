@@ -15,16 +15,16 @@ Simply follow the steps to get the **Bot Token** from **Telegram**.
 
 First, send a text to [**@BotFather**](https://t.me/BotFather) or click the start button to start the bot in your Telegram application.
 
-![Start button](public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/start-button-1.webp)
+![Start button](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/start-button-1.webp)
 
 Then **create a Bot** by sending the **‘/newbot’** command using the help message.
 
-![Newbot command](public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/newbot-command-1.webp)
+![Newbot command](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/newbot-command-1.webp)
 
 Provide a **relevant name** for your bot. Next, **choose a username for your bot** that **must end with the text ‘bot’.**  
 After finishing these steps, **@BotFather** will provide you with the **Bot Token** that you need to complete the next step.
 
-![Get the Bot Token ID](public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/get-the-bot-token-id-1.webp)
+![Get the Bot Token ID](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/get-the-bot-token-id-1.webp)
 
 ### Get Group Chat ID #
 
@@ -36,11 +36,11 @@ To create a new group in Telegram, follow the Screenshots & GIF below –
 
 First, click the **New Group** button from the left-side Editor.
 
-![New Group option](public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/new-group-option-1.webp)
+![New Group option](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/new-group-option-1.webp)
 
 Now,**** give**** a **name** to your group**** and**Add** the **Bot** that you **created in the previous** step**as a member** of the group. Press the **Create** button and your group will be created.
 
-![Create new telegram group](public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/create-new-group-gif-to-webp-converter.webp)
+![Create new telegram group](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/create-new-group-gif-to-webp-converter.webp)
 
 Now, give your bot “**Admin Acces** ” i.e., simply **make the bot admin** of your group chat.  
 **Follow the GIF** below, to learn how you can make your Bot Admin of your group.
@@ -49,7 +49,7 @@ Now, give your bot “**Admin Acces** ” i.e., simply **make the bot admin** of
 
 After giving your Bot the **“Admin Access”** you can see the preview from **View group info** by clicking the three-dot from the right-side corner
 
-![Admin Preview](public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/admin-preview-1-1.webp)
+![Admin Preview](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/admin-preview-1-1.webp)
 
 #### Get Group Chat ID #
 
@@ -63,7 +63,7 @@ After adding the GetIDs Bot as a member, it will send a message to the group wit
 
 Remember, the **Chat ID starts with a minus sign (-)** , and you would have to **copy the code exactly provided by the GetIDs bot**.
 
-![Get the Group Chat ID code](public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/get-the-group-chat-id-code-1.webp)
+![Get the Group Chat ID code](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/get-the-group-chat-id-code-1.webp)
 
 ## Configure Telegram in Fluent Support #
 
@@ -73,7 +73,7 @@ Then, paste the**Bot Token** & **Group Chat ID** that you have copied before int
 
 Remember, the **Chat ID starts** **with a minus sign (-)** , and you would **have to copy the code exactly provided** by the **GetIDs** **bot**.
 
-![Configure Telegram Group with FluentSupport](public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/configure-telegram-group-with-fluentsupport-1-scaled-1.webp)
+![Configure Telegram Group with FluentSupport](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/configure-telegram-group-with-fluentsupport-1-scaled-1.webp)
 
 A brief explanation of other options mentioned above –
 
@@ -93,15 +93,15 @@ To reply to any tickets directly from Telegram, follow the steps with screenshot
 First, you need to add your support agent’s **Telegram Chat ID** to their profile.  
 To get the Telegram **user chat ID** , send a message to [**@GetIdsBot**](https://t.me/getidsbot) and it will return the message with the ID. Copy the **Chat id**.
 
-![Get Telegram Chat ID from GetIDs Bot](public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/get-telegram-chat-id-from-getids-1.webp)
+![Get Telegram Chat ID from GetIDs Bot](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/get-telegram-chat-id-from-getids-1.webp)
 
 Now, go to **Support Staff** under the **Global Settings** from your Fluent Support Dashboard, and click on the **Pencil Icon** of your desired agent/s whom you want to give access to reply tickets directly from telegram.
 
-![Support Staff from Global Settings](public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/support-staff-from-globl-settings-1-scaled-1.webp)
+![Support Staff from Global Settings](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/support-staff-from-globl-settings-1-scaled-1.webp)
 
 Scroll down to the **Telegram Integration** option, paste the **Chat Id** you have copied before into the Telegram Chat ID field, and click the Update button. Now your chosen agent/agents can reply to tickets from Telegram.
 
-![Telegram Chat ID Field](public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/telegram-chat-id-field-1-scaled-1.webp)
+![Telegram Chat ID Field](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/telegram-chat-id-field-1-scaled-1.webp)
 
 
 ---

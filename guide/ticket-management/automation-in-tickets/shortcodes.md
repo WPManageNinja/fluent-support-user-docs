@@ -19,7 +19,7 @@ To **display** the **Customer Support Portal** in the **Frontend** , you need to
 
 The above-mentioned shortcodes will display all the **Built-in** **Login, Signup, and** **Reset Passwords** together in one form as shown in the screenshot below. Once users complete the login process, they will get access to the **Customer Support Portal**.
 
-![Login form with Sing up and Reset Password](public/images/ticket-management/automation-in-tickets/shortcodes/both-signup-and-login-1-1024x747.webp)
+![Login form with Sing up and Reset Password](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/both-signup-and-login-1-1024x747.webp)
 
 ## **Shortcodes for the Customer Support Portal** #
 
@@ -34,7 +34,7 @@ To display only the built-in **Login Form** , use the following shortcode and th
     **[fluent_support_login]**
 [/code]
 
-![Built in Login Form](public/images/ticket-management/automation-in-tickets/shortcodes/Built-in-login-form.webp)
+![Built in Login Form](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/built-in-login-form-1.webp)
 
 ### 2\. Login Form with Reset Password #
 
@@ -46,7 +46,7 @@ To display only the **Reset** **Password** option with the **built-in Login** fo
     **[fluent_support_login show-reset-password=true]**
 [/code]
 
-![Login with Reset Password Form](public/images/ticket-management/automation-in-tickets/shortcodes/reset-password-with-log-in-form.webp)
+![Login with Reset Password Form](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/reset-password-with-log-in-form.webp)
 
 ### 3\. Login Form with Create New Account #
 
@@ -58,7 +58,7 @@ To display only the **Signup** (**Create an Account**) option with the **built-i
     [fluent_support_login show-signup=true]
 [/code]
 
-![Login withCreate an Account form](public/images/ticket-management/automation-in-tickets/shortcodes/new-create-an-account-option-1024x764.webp)
+![Login withCreate an Account form](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/new-create-an-account-option-1024x764.webp)
 
 ### 4\. Signup Form #
 
@@ -69,7 +69,7 @@ To display the **SIgnup** **Form** only, use this shortcode and the **Signup** f
     **[fluent_support_signup]**
 [/code]
 
-![Signup Form](public/images/ticket-management/automation-in-tickets/shortcodes/Signup-portal.webp)
+![Signup Form](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/signup-portal-1.webp)
 
 ### 5\. Reset Password Form #
 
@@ -78,7 +78,7 @@ To display the **Reset Password** **Form** only, use this **fluent_support_signu
     **[fluent_support_reset_password]**
 [/code]
 
-![Reset Password](public/images/ticket-management/automation-in-tickets/shortcodes/reset-password-only.webp)
+![Reset Password](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/reset-password-only.webp)
 
 ### 6\. Set-Mailbox Shortcode #
 
@@ -96,7 +96,7 @@ To **display** the Logout Option in the **Customer Support Portal Dashboard** , 
     [fluent_support_portal show_logout = yes]
 [/code]
 
-![Logout option in customer portal](public/images/ticket-management/automation-in-tickets/shortcodes/7.-Logout-option-shortcode.webp)
+![Logout option in customer portal](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/7.-logout-option-shortcode-1.webp)
 
 
 ---

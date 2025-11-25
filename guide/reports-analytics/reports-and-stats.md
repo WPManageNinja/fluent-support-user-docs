@@ -19,7 +19,7 @@ In **each Report’s section** except Activity Reports, you’ll find a **Bar Ch
   
 And, the **‘Current Overall’** section under the **‘Agents Reports Summary’** tab displays all statistics on an **hourly** basis e.g., **average waiting time** , **response rates** , **interactions** , etc. It’s effective for managing a large number of daily tickets.
 
-![Reports from Fluent Support's Dashboard](public/images/reports-analytics/reports-and-stats/dashboard-reports-new-scaled-1.webp)
+![Reports from Fluent Support's Dashboard](/guide/public/images/reports-analytics/reports-and-stats/dashboard-reports-new-scaled-1.webp)
 
 ### Personal Reports #
 
@@ -29,7 +29,7 @@ This **‘Personal Reports’** section displays the ticket statistics and perso
   * You can use the **date filter** to view reports from a specific range. On the right side, you can view **Overall** ticket statistics and **Today’s** ticket statistics.
   * At the bottom, you will see the summary of the agent’s performance individually.
 
-![Single agent's personal reports](public/images/reports-analytics/reports-and-stats/personal-reports-new-1.webp)
+![Single agent's personal reports](/guide/public/images/reports-analytics/reports-and-stats/personal-reports-new-1.webp)
 
 ### Agents Reports #
 
@@ -40,13 +40,13 @@ The **‘Agent Reports’** section shows the overall report of all the agents, 
   * Additionally, you can utilize the **Date** filter to view ticket statistics for a specific period
   * On the right side, you’ll see a **Quick Stats** report that displays the total ticket statistics for the Support Agent, and a **Today Stats** report that presents the overall ticket statistics for the current day.
 
-![All agents' report summary](public/images/reports-analytics/reports-and-stats/agents-reports-new-1.webp)
+![All agents' report summary](/guide/public/images/reports-analytics/reports-and-stats/agents-reports-new-1.webp)
 
 #### **Agents Report Summary** #
 
 At the bottom, you will find a summary of each agent’s performance. Also, you can utilize the **Date** filter to view statistics for a specific period here as well.
 
-![Date Filter of Agent Reports Summary](public/images/reports-analytics/reports-and-stats/agnets-report-summary-date-filter-new-1.webp)
+![Date Filter of Agent Reports Summary](/guide/public/images/reports-analytics/reports-and-stats/agnets-report-summary-date-filter-new-1.webp)
 
 There, you will find the **Settings** options as well. Use this to select the agent/agents whose summary report/s you want to display.
 
@@ -56,7 +56,7 @@ To **Export** your data, can download the agents’ summary reports by clicking 
 
 You will have the option to choose specific data for export. If no column is selected, all data will be exported.
 
-![Export Agents' Summary Reports](public/images/reports-analytics/reports-and-stats/export-report-drift-video-3914823-4019377-1709014734-1.gif)
+![Export Agents' Summary Reports](/guide/public/images/reports-analytics/reports-and-stats/export-report-drift-video-3914823-4019377-1709014734-1.gif)
 
 ### Product Reports #
 
@@ -68,7 +68,7 @@ The ’**Product Reports’** section shows the overall report of all the ticket
   * On the right side, you’ll see a **Quick Stats** report that displays the total ticket statistics for the Support Agent, and a **Today Stats** report that presents the overall ticket statistics for the current day.
   * The **Product Summary** section offers individual ticket reports for each product.
 
-![Reports based on products](public/images/reports-analytics/reports-and-stats/product-reports-new-1.webp)
+![Reports based on products](/guide/public/images/reports-analytics/reports-and-stats/product-reports-new-1.webp)
 
 ### Business Boxes Reports #
 
@@ -80,7 +80,7 @@ The **‘Business Boxes Reports’** section shows the overall report of all the
   * On the right side, you’ll see a **Quick Stats** report that displays the total ticket statistics for the Support Agent, and a **Today Stats** report that presents the overall ticket statistics for the current day.
   * The **Business Box Summary** section offers detailed reports for each business mailbox
 
-![Reports based on Business Boxes ](public/images/reports-analytics/reports-and-stats/business-boxes-reports-new-1.webp)
+![Reports based on Business Boxes ](/guide/public/images/reports-analytics/reports-and-stats/business-boxes-reports-new-1.webp)
 
 ### Activity Reports #
 
@@ -92,7 +92,7 @@ The **‘Activity Reports’** section shows the overall report of all the ticke
   * On the right side, you’ll see a **Quick Stats** report that displays the total ticket activity statistics for the Support Agents or Customers based on what stats you chose to see, and a **Today Stats** report that presents the overall ticket statistics for the current day.
   * Additionally, inside **Agent** **Response** options, you can use the **All Agent** filter to select the individual agent’s statistics you want to view
 
-![Reports based on Customers and Agents' Activities](public/images/reports-analytics/reports-and-stats/activity-reports-new-1.webp)
+![Reports based on Customers and Agents' Activities](/guide/public/images/reports-analytics/reports-and-stats/activity-reports-new-1.webp)
 
 
 ---

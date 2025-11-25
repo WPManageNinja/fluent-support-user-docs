@@ -11,7 +11,7 @@ To learn about all the **Regulations** of accepted files, follow the steps with 
 
 Go to your Fluent Support **Dashboard** & click on **Global Settings.**
 
-![Global Settings from Fluent Support Dashboard](public/images/setup-configuration/ticket-forms-fields/attachment-regulation/dashboard-global-settings-2-scaled-1.webp)
+![Global Settings from Fluent Support Dashboard](/guide/public/images/setup-configuration/ticket-forms-fields/attachment-regulation/dashboard-global-settings-2-scaled-1.webp)
 
 Scroll down to the “**Accepted File Types”.** Here, you will find the types of files that are supported for submitting/replying to any ticket.  
 These accepted file types are –
@@ -35,7 +35,7 @@ If you want you can add more **Attachment** **Types** using **Shortcode** if nee
 >   * **Third-Party Storage Integrations:** If you have configured an external storage integration (such as Google Drive, Dropbox, etc.), Fluent Support will create these same individual folders on that connected cloud service instead. All attachments for a ticket will then be stored directly in their corresponding folder on the integrated platform.
 > 
 
-![Setting option for Accepted file types](public/images/setup-configuration/ticket-forms-fields/attachment-regulation/accepted-files-new-scaled-1.webp)
+![Setting option for Accepted file types](/guide/public/images/setup-configuration/ticket-forms-fields/attachment-regulation/accepted-files-new-scaled-1.webp)
 
 Ensure you always press the **Save Settings** after making changes to the File attachment Settings, otherwise, changes will not appear in your Support Portal.
 

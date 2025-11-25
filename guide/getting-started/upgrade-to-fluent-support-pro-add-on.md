@@ -18,7 +18,7 @@ Click **View List** to see all active sites currently using this license key.
 
 Also, copy the **License Key** since you need it later to **Activate** your **PRO** Features.
 
-![Fluent Support License Key in WPmangeninja dashboard](public/images/getting-started/upgrade-to-fluent-support-pro-add-on/fluentsupport-license-scaled.webp)
+![Fluent Support License Key in WPmangeninja dashboard](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/fluentsupport-license-scaled.webp)
 
 ## Install & Activate Fluent Support PRO #
 
@@ -30,25 +30,25 @@ Plus, you will be asked for **a License Key** to activate all the PRO features t
 
 First, from your **WordPress Dashboard** , go to **Plugins** and click on**``Add New Plugin.**
 
-![Fluent Support Dashboard](public/images/getting-started/upgrade-to-fluent-support-pro-add-on/add-new-plugin-1-scaled-1.webp)
+![Fluent Support Dashboard](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/add-new-plugin-1-scaled-1.webp)
 
 Click on **Upload Plugin**.
 
-![Upload Fluent Support Pro plugin](public/images/getting-started/upgrade-to-fluent-support-pro-add-on/upload-plugin-scaled-1.webp)
+![Upload Fluent Support Pro plugin](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/upload-plugin-scaled-1.webp)
 
 Click on the **Choose file** to upload the zip file of the Fluent Support Pro plugin.
 
-![Choose Fluent Support Pro plugin's Zip File](public/images/getting-started/upgrade-to-fluent-support-pro-add-on/choose-zip-file.webp)
+![Choose Fluent Support Pro plugin's Zip File](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/choose-zip-file.webp)
 
 Select the**Zip** **file** of the **Fluent Support Pro** plugin from your device that you have downloaded before and click the**Install Now** button. Now, the Fluent Support PRO plugin will be successfully installed on your WordPress site!
 
-![Install Fluent Support Pro plugin](public/images/getting-started/upgrade-to-fluent-support-pro-add-on/install-now-1.webp)
+![Install Fluent Support Pro plugin](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/install-now-1.webp)
 
 Now, to activate, click on the **Activate Plugin**.
 
 But, you need the **Fluent Support License Key** to successfully activate all the **Fluent Support PRO** features.
 
-![Activate Fluent Support Pro plugin](public/images/getting-started/upgrade-to-fluent-support-pro-add-on/activate-plugin-2-1.webp)
+![Activate Fluent Support Pro plugin](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/activate-plugin-2-1.webp)
 
 ## Activate Fluent Support Pro with License Key #
 
@@ -56,15 +56,15 @@ To learn where to use the **Fluent Support License Key** to activate the **Fluen
 
 From your Fluent Support’s **Dashboard** , click on**Global Settings.**
 
-![Global Settings of Fluent Support Dashboard](public/images/getting-started/upgrade-to-fluent-support-pro-add-on/dashboard-global-settings-scaled-1.webp)
+![Global Settings of Fluent Support Dashboard](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/dashboard-global-settings-scaled-1.webp)
 
 From your left side panel, click on **License Management**.
 
-![License Management options](public/images/getting-started/upgrade-to-fluent-support-pro-add-on/license-management-1-1.webp)
+![License Management options](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/license-management-1-1.webp)
 
 Finally, paste the **Fluent Support Licence Key** that you’ve copied before from your [**wpmanageninja.com**](http://wpmanageninja.com) user dashboard. And, click on the **Verify License** and your Fluent Support Pro version will be activated.
 
-![Provide License key and Verify ](public/images/getting-started/upgrade-to-fluent-support-pro-add-on/provide-license-key-1.webp)
+![Provide License key and Verify ](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/provide-license-key-1.webp)
 
 Congratulations now you can explore all the amazing Premium features of the **Fluent Support Pro**!  
 We hope this article helps you have an amazing experience.

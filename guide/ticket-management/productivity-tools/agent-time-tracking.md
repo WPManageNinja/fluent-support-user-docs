@@ -11,11 +11,11 @@ This article will show you, step by step, how to turn on the Time Tracker for yo
 
 Go to FluentSupport’s **Global Settings** and scroll down to the Global Settings section. Look for the **Agent Time Tracking** option, check the box to enable **Agent Time Tracking** , and click the **Save Settings** button.
 
-![](public/images/ticket-management/productivity-tools/agent-time-tracking/business-settings-for-time-tracker-scaled.webp)
+![](/guide/public/images/ticket-management/productivity-tools/agent-time-tracking/business-settings-for-time-tracker-scaled.webp)
 
 Go to the specific ticket where you want to use the **Time Tracking**. You’ll see the **Time Tracking** option like the below screenshot. Click the **Log** button to see the time-tracking options.
 
-![](public/images/ticket-management/productivity-tools/agent-time-tracking/time-tracker-log-scaled.webp)
+![](/guide/public/images/ticket-management/productivity-tools/agent-time-tracking/time-tracker-log-scaled.webp)
 
 **Set Estimation:** Use this option to set the estimated time needed to resolve the ticket. Click the **Set Estimation** button and enter the hours and minutes for the ticket.
 
@@ -23,11 +23,11 @@ You’ll also find fields to log your work hours and minutes. You can add a desc
 
 When you’re done, click the **Log Time** button to save the time to your log.
 
-![](public/images/ticket-management/productivity-tools/agent-time-tracking/set-estimated-time.webp)
+![](/guide/public/images/ticket-management/productivity-tools/agent-time-tracking/set-estimated-time.webp)
 
 The Time Tracker also shows Time Progress, giving you a clear view based on the logged time.
 
-![](public/images/ticket-management/productivity-tools/agent-time-tracking/time-tracker-fluent-support2x-1-1.gif)
+![](/guide/public/images/ticket-management/productivity-tools/agent-time-tracking/time-tracker-fluent-support2x-1-1.gif)
 
 ## Time Tracker Report #
 
@@ -39,7 +39,7 @@ From the **Mailbox** dropdown, you can select a specific mailbox to view the rep
 
 **Export:** To export your Timesheet Report, click the **Export** button in the top-right corner. The report will be downloaded as a CSV file.
 
-![](public/images/ticket-management/productivity-tools/agent-time-tracking/time-tracker-report-scaled.webp)
+![](/guide/public/images/ticket-management/productivity-tools/agent-time-tracking/time-tracker-report-scaled.webp)
 
 If you have any questions or need further assistance, feel free to reach out to [us](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/).
 

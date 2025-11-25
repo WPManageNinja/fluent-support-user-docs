@@ -17,7 +17,7 @@ Go to **Global** **Settings** from the **Fluent** **Support** **Dashboard** and 
 
   * Plus, if you want to know the detailed process of integrating a **Plugin/Third-party Platform** with **Fluent Support** , click the **Learn More** button of the desired plugin and it will redirect you to the relevant documentation.
 
-![Integration Statuses of Fluent Support](public/images/integrations-channels/core-integrations/integration_statuses/integration-logs-of-fluent-support-scaled-1.webp)
+![Integration Statuses of Fluent Support](/guide/public/images/integrations-channels/core-integrations/integration_statuses/integration-logs-of-fluent-support-scaled-1.webp)
 
 
 ---
