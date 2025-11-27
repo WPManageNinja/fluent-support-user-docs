@@ -5,8 +5,8 @@ export default defineConfig({
   description: 'Complete documentation for Fluent Support - WordPress Support Ticket System',
   
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
-    ['meta', { name: 'theme-color', content: '#5f67ee' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/images/brand/fluentsupport_primary_icon.png' }],
+    ['meta', { name: 'theme-color', content: '#15BE7C' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:locale', content: 'en' }],
     ['meta', { property: 'og:title', content: 'Fluent Support | Documentation' }],
@@ -242,9 +242,7 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/fluentsupport' }
-    ],
+    socialLinks: [],
 
     search: {
       provider: 'local'

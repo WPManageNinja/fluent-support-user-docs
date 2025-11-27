@@ -1,0 +1,541 @@
+/**
+ * Fluent Support Brand Colors
+ * Brand Color: #15BE7C
+ */
+
+:root {
+  /* Brand Colors - Fluent Support brand color #15BE7C */
+  --vp-c-brand: #15BE7C; /* Primary brand color */
+  --vp-c-brand-light: #2FD896; /* Lighter shade for hover states */
+  --vp-c-brand-lighter: #4FE0A8; /* Even lighter shade */
+  --vp-c-brand-dark: #11A066; /* Darker shade for active states */
+  --vp-c-brand-darker: #0D7A4D; /* Even darker shade */
+  
+  /* Text colors */
+  --vp-c-text-1: rgba(60, 60, 67, 0.9);
+  --vp-c-text-2: rgba(60, 60, 67, 0.7);
+  --vp-c-text-3: rgba(60, 60, 67, 0.5);
+  
+  /* Background colors */
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-alt: #f6f6f7;
+  --vp-c-bg-soft: #f6f6f7;
+  
+  /* Border colors */
+  --vp-c-border: rgba(60, 60, 67, 0.12);
+  --vp-c-divider: rgba(60, 60, 67, 0.12);
+  
+  /* Button colors */
+  --vp-button-brand-bg: var(--vp-c-brand);
+  --vp-button-brand-hover-bg: var(--vp-c-brand-light);
+  --vp-button-brand-active-bg: var(--vp-c-brand-dark);
+  --vp-button-brand-text: #ffffff;
+  
+  /* Home page hero colors */
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, var(--vp-c-brand) 30%, var(--vp-c-brand-light));
+  
+  /* Code block colors */
+  --vp-code-block-bg: #f6f6f7;
+  --vp-code-block-color: #2d2d2d;
+  
+  /* Tip/Info/Warning colors */
+  --vp-custom-block-tip-border: var(--vp-c-brand);
+  --vp-custom-block-tip-text: var(--vp-c-brand-darker);
+  --vp-custom-block-tip-bg: rgba(21, 190, 124, 0.1);
+  
+  --vp-custom-block-info-border: #15BE7C;
+  --vp-custom-block-info-text: #15BE7C;
+  --vp-custom-block-info-bg: rgba(21, 190, 124, 0.1);
+  
+  --vp-custom-block-warning-border: #e6a23c;
+  --vp-custom-block-warning-text: #e6a23c;
+  --vp-custom-block-warning-bg: rgba(230, 162, 60, 0.1);
+  
+  --vp-custom-block-danger-border: #f56c6c;
+  --vp-custom-block-danger-text: #f56c6c;
+  --vp-custom-block-danger-bg: rgba(245, 108, 108, 0.1);
+}
+
+/* Dark mode colors */
+.dark {
+  --vp-c-brand: #15BE7C; /* Keep same brand color in dark mode */
+  --vp-c-brand-light: #2FD896;
+  --vp-c-brand-lighter: #4FE0A8;
+  --vp-c-brand-dark: #11A066;
+  --vp-c-brand-darker: #0D7A4D;
+  
+  --vp-c-text-1: rgba(255, 255, 245, 0.86);
+  --vp-c-text-2: rgba(255, 255, 245, 0.6);
+  --vp-c-text-3: rgba(255, 255, 245, 0.38);
+  
+  --vp-c-bg: #1a1a1a;
+  --vp-c-bg-alt: #161618;
+  --vp-c-bg-soft: #242424;
+  
+  --vp-c-border: rgba(82, 82, 89, 0.32);
+  --vp-c-divider: rgba(82, 82, 89, 0.32);
+  
+  --vp-code-block-bg: #161618;
+  --vp-code-block-color: #c9d1d9;
+}
+
+/* ============================================
+   Hero Section - Fluent Support Text Color
+   ============================================ */
+.VPHomeHero .name {
+  color: #15BE7C !important;
+  background: none !important;
+  -webkit-background-clip: unset !important;
+  background-clip: unset !important;
+  -webkit-text-fill-color: #15BE7C !important;
+}
+
+.dark .VPHomeHero .name {
+  color: #15BE7C !important;
+  background: none !important;
+  -webkit-background-clip: unset !important;
+  background-clip: unset !important;
+  -webkit-text-fill-color: #15BE7C !important;
+}
+
+/* ============================================
+   Hero Section Button - Brand Color with White Text
+   ============================================ */
+.VPHomeHero .VPButton.brand {
+  background-color: #15BE7C !important;
+  border-color: #15BE7C !important;
+  color: #ffffff !important;
+}
+
+.VPHomeHero .VPButton.brand:hover {
+  background-color: #2FD896 !important;
+  border-color: #2FD896 !important;
+  color: #ffffff !important;
+}
+
+.dark .VPHomeHero .VPButton.brand {
+  background-color: #15BE7C !important;
+  border-color: #15BE7C !important;
+  color: #ffffff !important;
+}
+
+.dark .VPHomeHero .VPButton.brand:hover {
+  background-color: #2FD896 !important;
+  border-color: #2FD896 !important;
+  color: #ffffff !important;
+}
+
+/* ============================================
+   Link Colors - All links show brand color
+   ============================================ */
+a {
+  color: #15BE7C !important;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #2FD896 !important;
+}
+
+/* Navigation links - Use default color */
+.VPNav a,
+.VPNavBar a,
+.VPNavBar .nav-link,
+.VPNavBar .VPButton,
+.VPNavBar button,
+.VPNav .VPButton,
+.VPNav button,
+.nav-item,
+.nav-link {
+  color: inherit !important;
+}
+
+.VPNav a:hover,
+.VPNavBar a:hover,
+.VPNavBar .nav-link:hover,
+.VPNavBar .VPButton:hover,
+.VPNavBar button:hover,
+.VPNav .VPButton:hover,
+.VPNav button:hover,
+.nav-item:hover,
+.nav-link:hover {
+  color: inherit !important;
+  opacity: 0.8;
+}
+
+/* Content area links - Use brand color (like Paymattic docs) */
+/* .VPContent a,
+main a,
+.content a {
+  color: #15BE7C !important;
+  text-decoration: none;
+  transition: color 0.2s ease;
+} */
+
+.VPContent a:hover,
+main a:hover,
+.content a:hover {
+  color: #2FD896 !important;
+  text-decoration: none;
+}
+
+/* Dark mode links */
+.dark a {
+  color: #15BE7C !important;
+}
+
+.dark a:hover {
+  color: #2FD896 !important;
+}
+
+.dark .VPNav a,
+.dark .VPNavBar a,
+.dark .VPNavBar .nav-link,
+.dark .VPNavBar .VPButton,
+.dark .VPNavBar button,
+.dark .VPNav .VPButton,
+.dark .VPNav button,
+.dark .nav-item,
+.dark .nav-link {
+  color: inherit !important;
+}
+
+.dark .VPNav a:hover,
+.dark .VPNavBar a:hover,
+.dark .VPNavBar .nav-link:hover,
+.dark .VPNavBar .VPButton:hover,
+.dark .VPNavBar button:hover,
+.dark .VPNav .VPButton:hover,
+.dark .VPNav button:hover,
+.dark .nav-item:hover,
+.dark .nav-link:hover {
+  color: inherit !important;
+  opacity: 0.8;
+}
+
+/* .dark .VPContent a,
+.dark main a,
+.dark .content a {
+  color: #15BE7C !important;
+  text-decoration: none;
+} */
+
+.dark .VPContent a:hover,
+.dark main a:hover,
+.dark .content a:hover {
+  color: #2FD896 !important;
+  text-decoration: none;
+}
+
+/* ============================================
+   Sidebar Category Hover Border Color
+   ============================================ */
+.VPSidebarItem.level-1 > .item:hover {
+  border-left-color: #15BE7C !important;
+}
+
+.VPSidebarItem.level-1.is-active > .item {
+  border-left-color: #15BE7C !important;
+}
+
+.dark .VPSidebarItem.level-1 > .item:hover {
+  border-left-color: #15BE7C !important;
+}
+
+.dark .VPSidebarItem.level-1.is-active > .item {
+  border-left-color: #15BE7C !important;
+}
+
+/* ============================================
+   Navigation Bar
+   ============================================ */
+.VPNavBarTitle {
+  font-weight: 600;
+}
+
+/* ============================================
+   Logo Element with data-v-bf706f89 - Hide title text, show logo
+   ============================================ */
+[data-v-bf706f89] {
+  display: flex !important;
+  align-items: center;
+}
+
+/* Ensure image is always visible */
+[data-v-bf706f89] img {
+  max-height: 2.5rem !important;
+  height: auto !important;
+  width: auto !important;
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  transition: opacity 0.2s ease;
+}
+
+/* Hide title text next to logo */
+[data-v-bf706f89] .text,
+[data-v-bf706f89] .title {
+  display: none !important;
+}
+
+/* Hide text in spans that don't contain images - use font-size instead of display */
+[data-v-bf706f89] span:not(:has(img)) {
+  font-size: 0 !important;
+  line-height: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+  visibility: hidden !important;
+}
+
+/* ============================================
+   Active Navigation Items
+   ============================================ */
+.VPSidebarItem.level-1.is-active > .item > .text {
+  color: #15BE7C !important;
+  font-weight: 600;
+}
+
+.dark .VPSidebarItem.level-1.is-active > .item > .text {
+  color: #15BE7C !important;
+  font-weight: 600;
+}
+.VPSidebarItem.level-1.is-active > .item .link > .text{
+  color: #15BE7C !important;
+  font-weight: 600;
+}
+.VPSidebarItem.level-1 > .item .link > .text:hover{
+  color: #15BE7C !important;
+}
+
+.dark .VPSidebarItem.level-2.is-active > .item > .text {
+  color: #15BE7C !important;
+  font-weight: 600;
+}
+.VPSidebarItem.level-2.is-active > .item .link > .text{
+  color: #15BE7C !important;
+  font-weight: 600;
+}
+.VPSidebarItem.level-2 > .item .link > .text:hover{
+  color: #15BE7C !important;
+}
+.VPSidebarItem.level-2.is-active > .item > .indicator {
+  background-color: #15BE7C !important;
+}
+
+/* ============================================
+   Code Inline
+   ============================================ */
+code {
+  color: var(--vp-c-brand);
+  background-color: var(--vp-c-bg-soft);
+}
+
+/* ============================================
+   All Brand Buttons
+   ============================================ */
+.VPButton.brand {
+  background-color: #15BE7C !important;
+  border-color: #15BE7C !important;
+  color: #ffffff !important;
+}
+
+.VPButton.brand:hover {
+  background-color: #2FD896 !important;
+  border-color: #2FD896 !important;
+  color: #ffffff !important;
+}
+
+.dark .VPButton.brand {
+  background-color: #15BE7C !important;
+  border-color: #15BE7C !important;
+  color: #ffffff !important;
+}
+
+.dark .VPButton.brand:hover {
+  background-color: #2FD896 !important;
+  border-color: #2FD896 !important;
+  color: #ffffff !important;
+}
+
+/* ============================================
+   Homepage Feature Boxes - Hover Border Color
+   ============================================ */
+.VPFeature {
+  transition: border-color 0.2s ease;
+}
+
+.VPFeature:hover {
+  border-color: #15BE7C !important;
+}
+
+.VPFeatures .VPFeature:hover {
+  border-color: #15BE7C !important;
+}
+
+.VPHome .VPFeature:hover {
+  border-color: #15BE7C !important;
+}
+
+/* Dark mode feature boxes */
+.dark .VPFeature {
+  transition: border-color 0.2s ease;
+}
+
+.dark .VPFeature:hover {
+  border-color: #15BE7C !important;
+}
+
+.dark .VPFeatures .VPFeature:hover {
+  border-color: #15BE7C !important;
+}
+
+.dark .VPHome .VPFeature:hover {
+  border-color: #15BE7C !important;
+}
+
+/* ============================================
+   Feature Box Link Text (Get Started, Learn More, etc.)
+   ============================================ */
+.VPFeature .link,
+.VPFeature a,
+.VPFeature .linkText,
+.VPFeature p a,
+.VPFeature .details a,
+.VPFeatures .VPFeature a,
+.VPFeatures .VPFeature .link {
+  color: #15BE7C !important;
+  transition: color 0.2s ease;
+}
+
+.VPFeature .link:hover,
+.VPFeature a:hover,
+.VPFeature .linkText:hover,
+.VPFeature p a:hover,
+.VPFeature .details a:hover,
+.VPFeatures .VPFeature a:hover,
+.VPFeatures .VPFeature .link:hover {
+  color: #2FD896 !important;
+}
+
+/* Dark mode feature box links */
+.dark .VPFeature .link,
+.dark .VPFeature a,
+.dark .VPFeature .linkText,
+.dark .VPFeature p a,
+.dark .VPFeature .details a,
+.dark .VPFeatures .VPFeature a,
+.dark .VPFeatures .VPFeature .link {
+  color: #15BE7C !important;
+}
+
+.dark .VPFeature .link:hover,
+.dark .VPFeature a:hover,
+.dark .VPFeature .linkText:hover,
+.dark .VPFeature p a:hover,
+.dark .VPFeature .details a:hover,
+.dark .VPFeatures .VPFeature a:hover,
+.dark .VPFeatures .VPFeature .link:hover {
+  color: #2FD896 !important;
+}
+
+/* ============================================
+   Table of Contents (TOC) - Brand color for active (like Paymattic docs)
+   ============================================ */
+.VPDocOutline .outline-link,
+.VPDocOutlineItem a,
+.VPDocOutlineItemLink,
+.outline-link,
+.outline-item a,
+.VPDocOutline .outline-item a {
+  color: var(--vp-c-text-2) !important;
+  transition: color 0.2s ease;
+}
+
+.VPDocOutline .outline-link:hover,
+.VPDocOutlineItem a:hover,
+.VPDocOutlineItemLink:hover,
+.outline-link:hover,
+.outline-item a:hover,
+.VPDocOutline .outline-item a:hover {
+  color: #15BE7C !important;
+}
+
+.VPDocOutline .outline-link.is-active,
+.VPDocOutlineItem.is-active a,
+.VPDocOutlineItemLink.is-active,
+.outline-link.is-active,
+.outline-item.is-active a,
+.VPDocOutline .outline-item.is-active a {
+  color: #15BE7C !important;
+  font-weight: 500;
+}
+
+/* Dark mode TOC */
+.dark .VPDocOutline .outline-link,
+.dark .VPDocOutlineItem a,
+.dark .VPDocOutlineItemLink,
+.dark .outline-link,
+.dark .outline-item a,
+.dark .VPDocOutline .outline-item a {
+  color: var(--vp-c-text-2) !important;
+}
+
+.dark .VPDocOutline .outline-link:hover,
+.dark .VPDocOutlineItem a:hover,
+.dark .VPDocOutlineItemLink:hover,
+.dark .outline-link:hover,
+.dark .outline-item a:hover,
+.dark .VPDocOutline .outline-item a:hover {
+  color: #15BE7C !important;
+}
+
+.dark .VPDocOutline .outline-link.is-active,
+.dark .VPDocOutlineItem.is-active a,
+.dark .VPDocOutlineItemLink.is-active,
+.dark .outline-link.is-active,
+.dark .outline-item.is-active a,
+.dark .VPDocOutline .outline-item.is-active a {
+  color: #15BE7C !important;
+  font-weight: 500;
+}
+
+/* ============================================
+   Link Text Value - Custom Color
+   ============================================ */
+.link-text-value[data-v-e8895942] {
+  color: #15BE7C !important; /* Update this color code */
+}
+
+.link-text-value[data-v-e8895942]:hover {
+  color: #2FD896 !important; /* Update hover color if needed */
+}
+
+.dark .link-text-value[data-v-e8895942] {
+  color: #15BE7C !important; /* Update this color code */
+}
+
+.dark .link-text-value[data-v-e8895942]:hover {
+  color: #2FD896 !important; /* Update hover color if needed */
+}
+
+/* ============================================
+   Link Text - Custom Color
+   ============================================ */
+/* .link > .text[data-v-64d7ab74] {
+  color: #15BE7C !important;
+}
+
+.link > .text[data-v-64d7ab74]:hover {
+  color: #2FD896 !important;
+}
+
+.dark .link > .text[data-v-64d7ab74] {
+  color: #15BE7C !important;
+}
+
+.dark .link > .text[data-v-64d7ab74]:hover {
+  color: #2FD896 !important;
+} */
+
