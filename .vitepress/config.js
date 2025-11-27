@@ -14,13 +14,17 @@ export default defineConfig({
   ],
 
   themeConfig: {
-    logo: '/logo.svg',
+    siteTitle: false,
+    logo: {
+      light: '/images/brand/fluentsupport_primary_logo.png',
+      dark: '/images/brand/fluentsupport_secondary_logo.png'
+    },
     
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Getting Started', link: '/guide/getting-started/how-to-install-activate-fluent-support' },
-      { text: 'Integrations', link: '/guide/integrations-channels/core-integrations/woocommerce-integration' },
+      { text: 'User Docs', link: '/guide/getting-started/how-to-install-activate-fluent-support' },
+      { text: 'Dev Docs', link: 'https://developers.fluentsupport.com/' },
       { text: 'Changelog', link: '/guide/changelog/change-log' },
+      { text: 'Website', link: 'https://fluentsupport.com/' },
     ],
 
     sidebar: [
@@ -250,20 +254,8 @@ export default defineConfig({
 
     footer: {
       copyright: 'Copyright © 2025 Fluent Support'
-    },
-
-    editLink: {
-      pattern: 'https://github.com/fluentsupport/fluent-support-docs/edit/main/:path',
-      text: 'Edit this page on GitHub'
-    },
-
-    lastUpdated: {
-      text: 'Updated at',
-      formatOptions: {
-        dateStyle: 'full',
-        timeStyle: 'medium'
-      }
     }
+
   },
 
   // Markdown configuration
@@ -282,9 +274,6 @@ export default defineConfig({
 
   // Clean URLs
   cleanUrls: true,
-
-  // Last updated timestamp
-  lastUpdated: true,
 
   // Sitemap
   sitemap: {

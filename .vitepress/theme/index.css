@@ -138,7 +138,7 @@ a:hover {
   color: #2FD896 !important;
 }
 
-/* Navigation links - Use default color */
+/* Navigation links - Use default color (but exclude footer nav) */
 .VPNav a,
 .VPNavBar a,
 .VPNavBar .nav-link,
@@ -248,45 +248,28 @@ main a:hover,
 }
 
 /* ============================================
-   Navigation Bar
+   Navigation Bar & Logo
    ============================================ */
 .VPNavBarTitle {
-  font-weight: 600;
-}
-
-/* ============================================
-   Logo Element with data-v-bf706f89 - Hide title text, show logo
-   ============================================ */
-[data-v-bf706f89] {
   display: flex !important;
-  align-items: center;
+  align-items: center !important;
 }
 
-/* Ensure image is always visible */
-[data-v-bf706f89] img {
-  max-height: 2.5rem !important;
-  height: auto !important;
-  width: auto !important;
-  display: block !important;
-  visibility: visible !important;
-  opacity: 1 !important;
-  transition: opacity 0.2s ease;
+.VPNavBarTitle a {
+  display: flex !important;
+  align-items: center !important;
+  height: 32px;
+  text-decoration: none;
 }
 
-/* Hide title text next to logo */
-[data-v-bf706f89] .text,
-[data-v-bf706f89] .title {
-  display: none !important;
-}
-
-/* Hide text in spans that don't contain images - use font-size instead of display */
-[data-v-bf706f89] span:not(:has(img)) {
-  font-size: 0 !important;
-  line-height: 0 !important;
-  width: 0 !important;
-  height: 0 !important;
-  overflow: hidden !important;
-  visibility: hidden !important;
+/* Logo image styling */
+.VPNavBarTitle img,
+.VPNavBarTitle a img,
+.VPNavBarTitle picture img {
+  height: 32px;
+  width: auto;
+  display: block;
+  object-fit: contain;
 }
 
 /* ============================================
@@ -538,4 +521,24 @@ code {
 .dark .link > .text[data-v-64d7ab74]:hover {
   color: #2FD896 !important;
 } */
+
+/* ============================================
+   Title Color Override
+   ============================================ */
+.title[data-v-43384334] {
+  color: #15BE7C !important;
+}
+
+.dark .title[data-v-43384334] {
+  color: #15BE7C !important;
+}
+
+.pager-link[data-v-43384334]:hover {
+  border-color: #15BE7C !important;
+}
+
+.dark .pager-link[data-v-43384334]:hover {
+  border-color: #15BE7C !important;
+}
+
 

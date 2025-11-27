@@ -10,8 +10,8 @@ hero:
       text: Get Started
       link: /guide/getting-started/how-to-install-activate-fluent-support
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/fluentsupport
+      text: Dev Docs
+      link: https://developers.fluentsupport.com/
 
 features:
   - icon: 🚀
