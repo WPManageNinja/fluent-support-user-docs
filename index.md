@@ -20,17 +20,17 @@ features:
     link: /guide/getting-started/how-to-install-activate-fluent-support
     linkText: Get Started
   - icon: 🏢
-    title: Business Management
+    title: Setup & Configuration 
     details: Manage business inboxes, agents, and customer support portals efficiently
     link: /guide/setup-configuration/business-inboxes/create-business-inbox-initially
     linkText: Learn More
   - icon: ⚡
-    title: Productivity
+    title: Ticket Management
     details: Boost your team's productivity with tags, templates, filters, and automation
-    link: /guide/ticket-management/daily-operations/ticket-tags
+    link: /guide/ticket-management/daily-operations/view-manage-ticket-entries
     linkText: Explore
   - icon: 📊
-    title: Activities & Reports
+    title: Reports & Analytics
     details: Track your support team's performance and analyze ticket metrics
     link: /guide/reports-analytics/dashboard-overview
     linkText: View Reports
@@ -45,22 +45,17 @@ features:
     link: /guide/workflows-automation/workflows-automations
     linkText: Automate
   - icon: 📦
-    title: Ticket Importer
+    title: Migration
     details: Migrate your tickets from HelpScout, Freshdesk, Zendesk, and more
     link: /guide/migration/ticket-importer
     linkText: Import
-  - icon: 💬
-    title: Third-Party Integrations
-    details: Manage tickets using Slack, Telegram, Discord, and WhatsApp
-    link: /guide/integrations-channels/messaging-apps/managing-tickets-using-slack
-    linkText: Integrate
   - icon: 🔌
     title: Integrations
     details: Connect with WooCommerce, LearnDash, FluentCRM, and 20+ other platforms
     link: /guide/integrations-channels/core-integrations/fluentcrm-integration
     linkText: Connect
   - icon: 🤖
-    title: AI-Powered Assistance
+    title: AI Assistance
     details: Leverage OpenAI integration for intelligent ticket responses and automation
     link: /guide/ai-assistance/openai-integration-with-fluent-support
     linkText: Explore AI
