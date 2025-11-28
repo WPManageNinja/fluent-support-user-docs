@@ -2,7 +2,6 @@
 
 **Web and Email-Based (Mailbox)** business inbox allow customers to create support tickets both from the website and email. This article will explain the functionalities of web and email-based business (mailbox) settings in Fluent Support. Read the article accordingly to understand what these settings do.
 
-
 ## Web and Email-Based (Mailbox) Settings of Business Inbox 
 
 To learn how **Web and Email-Based (Mailbox)** settings work, follow the steps with the screenshots below —
