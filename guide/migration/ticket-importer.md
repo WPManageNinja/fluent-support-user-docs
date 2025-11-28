@@ -3,11 +3,9 @@
 
 ---
 
-**[**Fluent Support**](https://fluentsupport.com/) ** allows users to effortlessly **Import** their entire **Ticket** database from various platforms (**Awesome Support** , **Support Candy** , **JS Helpdesk** , **Help Scout** , **Freshdesk** , and **Zendesk**) into **Fluent Support** , eliminating the need for transferring manually. This article will guide you through the whole process of doing it.
+Fluent Support allows users to effortlessly **Import** their entire **Ticket** database from various platforms (**Awesome Support** , **Support Candy** , **JS Helpdesk** , **Help Scout** , **Freshdesk** , and **Zendesk**) into **Fluent Support** , eliminating the need for transferring manually. This article will guide you through the whole process of doing it.
 
 ## Import Tickets From Other Platforms Into Fluent Support #
-
-To learn how to import tickets from other platforms into Fluent Support, follow the steps with screenshots below —
 
 Go to **Settings** or **Global Settings** from the **Fluent Support Dashboard** and click the **Ticket Importer**. Then, you will find all the other plugins for ticket migration.
 
