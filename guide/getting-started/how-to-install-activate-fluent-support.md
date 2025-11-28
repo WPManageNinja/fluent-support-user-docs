@@ -9,10 +9,8 @@
 
 In your WordPress site, you can add the **Fluent Support** plugin in **two ways** : by adding it directly **from the WordPress Plugin directory** or uploading it **using a Zip file**.
 
-You can get started with the **[free version](https://wordpress.org/plugins/fluent-support/)** of **Fluent Support,**  
-or if you want to purchase the **Fluent** **Support** **Pro** , **[check here](https://fluentsupport.com/docs/upgrade-to-fluent-support-pro-add-on/)**.
-
-**Instructions for both Methods of Fluent Support installation are shown below —**
+You can get started with the **[free version](https://wordpress.org/plugins/fluent-support/)** of **Fluent Support,** or if you want to purchase the **Fluent** **Support** **Pro** , **[check here](https://fluentsupport.com/docs/upgrade-to-fluent-support-pro-add-on/)**.
+s**Instructions for both Methods of Fluent Support installation are shown below —**
 
 ### Install from the WordPress Plugin Directory #
 
@@ -34,12 +32,12 @@ After installing, click on the **Activate** button. Done! Your Fluent Support pl
 
 To install and activate the **Fluent Support PRO** version, you must **upload the Zip file** manually. Otherwise, you can add the free version simply from the WordPress Plugin directory as shown above.
 
-To learn how to **install and activate Fluent Support (PRO)** on a **WordPress** **Site** using the **Zip** file,  
-check this **[Documentation](https://fluentsupport.com/docs/upgrade-to-fluent-support-pro-add-on/)**.
+To learn how to **install and activate Fluent Support (PRO)** on a **WordPress** **Site** using the **Zip** file, check this **[Documentation](https://fluentsupport.com/docs/upgrade-to-fluent-support-pro-add-on/)**.
 
 ### **Update Fluent Support** #
 
 You can easily update your Fluent Support Free or Pro versions anytime.  
+
 To do this, go to the **Plugins** page of your **WordPress** **Dashboard** and check whether any update is available. If any update is available click on the **update now** button.
 
 Make sure that the pro version is activated with a valid license key. If you don’t have a license key or the license key is expired, you can purchase a new one or renew the existing one from [**here**](https://fluentsupport.com/pricing/).
