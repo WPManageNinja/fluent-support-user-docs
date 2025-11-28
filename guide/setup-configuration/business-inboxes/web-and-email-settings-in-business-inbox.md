@@ -4,9 +4,8 @@
 
 ## Web and Email-Based (Mailbox) Settings of Business Inbox 
 
-To learn how **Web and Email-Based (Mailbox)** settings work, follow the steps with the screenshots below —
-
 Go to **Business Inboxes** from the **Fluent Support** **Dashboard** , select the business inbox you kept **Web and Email-Based (Mailbox)** , and click on **View** **Settings**.
+
 
 ![View settings from Fluent Support Dashboard](/guide/public/images/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox/view-settings-2-scaled-1.webp)
 
