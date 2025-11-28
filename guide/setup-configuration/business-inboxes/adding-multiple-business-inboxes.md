@@ -5,17 +5,13 @@
 
 This article guides you on adding **Multiple** **Business Inboxes** using the [**Fluent Support**](https://fluentsupport.com/) plugins for your **WordPress** site to ensure your multiple business management is effortless. Follow the instructions accordingly to add **Business** **Inboxes** as many as you want.
 
-## How To Add Multiple Business Inboxes #
+## How To Add Multiple Business Inboxes 
 
 To learn how to add multiple business inboxes in Fluent Support, follow the steps with the screenshots below:
 
-Go to the Fluent Support **Dashboard** & click on the **Business Inboxes** tab. 
+Go to the Fluent Support **Dashboard** & click on the **Business Inboxes** tab. Click the **Add New Business Inbox** button and a pop-up box will appear.
 
-![Business Inboxes from Fluent Support Dashboard](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/dashboard-business-inboxes-1-scaled-1.webp)
-
-Click the **Add New Business Inbox** button and a pop-up box will appear.
-
-![Add new Business Inbox](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/add-new-business-inbox-1.webp)
+![Add new Business Inbox](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/add-new-business-boxes.webp)
 
 Add a relevant **Inbox Name** &**Email** (company name & business email) and select the **Support** **Channel**.
 
