@@ -36,6 +36,7 @@ export default defineConfig({
           { text: 'Install Fluent Support Pro', link: '/guide/getting-started/upgrade-to-fluent-support-pro-add-on' },
           { text: 'Fluent Support Onboarding', link: '/guide/getting-started/fluent-support-onboarding' },
           { text: 'Fluent Support Glossary', link: '/guide/getting-started/fluent-support-glossary' },
+          { text: 'Dasboard Overview', link: '/guide/getting-started/dashboard-overview' },
         ]
       },
       {
