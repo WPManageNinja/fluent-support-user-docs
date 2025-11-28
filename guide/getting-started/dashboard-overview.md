@@ -51,7 +51,7 @@ To help individual agents manage their workload, the dashboard includes:
 * **Your Bookmarked Tickets:** A quick access list of any tickets you have bookmarked for personal follow-up.
 * **Agent Performance (Today):** A personalized stats box showing the logged-in agent's activity, such as their current status, number of closed tickets, and response counts for the day.
 
-![Fluent Support Dashboard overview with key sections highlighted](/public/images/getting-started/dasboard/fluent-support-dasboard.webp)
+![Fluent Support Dashboard overview with key sections highlighted](/guide/public/images/getting-started/dasboard/fluent-support-dasboard.webp)
 
 ## Header Navigation
 
@@ -70,7 +70,7 @@ Fluent Support features a **Dynamic Dashboard**, allowing you to personalize you
 
 To customize your dashboard, Locate the **Settings (Gear) Icon** in the top right corner of the dashboard, right next to the **Reset** button. Click the icon to open the **All Widgets** sidebar panel.
 
-![The Settings (Gear) Icon used to customize the dashboard widgets](/public/images/getting-started/dasboard/all-widget.webp)
+![The Settings (Gear) Icon used to customize the dashboard widgets](/guide/public/images/getting-started/dasboard/all-widget.webp)
 
 ### Managing Widgets
 
