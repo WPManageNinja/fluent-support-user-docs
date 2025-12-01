@@ -61,9 +61,10 @@ To enable this option, click on **Enable This Email Notification** and press **S
 ![Enable Email Notification](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/enable-button-for-options-drift-video.gif)
 
 Click on the **Send Attachments (Not Recommended)** button to attach files to your email notifications.
-**Why is this button suggested as (Not Recommended)?**  
 
-Sometimes when you attach any files to your email, it may face some delivery failure. To avoid this situation and ensure that any kind of email is delivered without any hassle, we recommend using the **[FluentSMTP](https://fluentsmtp.com/)** plugin. To learn the basic use of the **FluentSMTP** plugin, check this [**Documentation**](https://fluentsmtp.com/docs-category/getting-started/).
+> [!NOTE]
+> **Why is this button suggested as (Not Recommended)?**  
+> Sometimes when you attach any files to your email, it may face some delivery failure. To avoid this situation and ensure that any kind of email is delivered without any hassle, we recommend using the **[FluentSMTP](https://fluentsmtp.com/)** plugin. To learn the basic use of the **FluentSMTP** plugin, check this [**Documentation**](https://fluentsmtp.com/docs-category/getting-started/).
 
 ![Send Attachments \(Not Recommended\)](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/send-attachments.webp)
 
