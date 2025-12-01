@@ -1,20 +1,42 @@
-# Adding Support Staff / Agents
-
-
+---
+title: "Adding Support Staff/Agents"
+description: "A guide on how to add new support agents to Fluent Support and configure their permissions and access levels."
 ---
 
-**[Fluent Support](https://fluentsupport.com/)** allows you to add **Agents / Staff** for your tickets, as well as some **Permissions** and **Settings** for managing agents. This article will guide you through the steps to how to add **Support Staff / Agents** and about the settings and permission for Agents.
-## **Add Support Staff** /Agents #
+# Adding Support Staff/Agents
+
+Fluent Support allows you to add Agents/Staff to manage your tickets, as well as define specific **Permissions** and **Settings** for them. This article will guide you through the steps of adding new Support Staff/Agents and configuring their access levels.
+
+## Add Support Staff/Agents
+
 To learn how to add Support Staff for your WordPress site with Fluent Support, follow the steps with the screenshots below —
-Go to **Global Settings** from**** your **Fluent** **Support** **Dashboard** and click on **Support Staff** from the left sidebar.
-![Support Staff from Global Settings of Fluent Support Dashboard](/guide/public/images/setup-configuration/agents-permissions/adding-support-staff-agents/support-staff-global-settings-scaled-1.webp)
-Click the **Add New** button to add a Support **Agent** /**Staff** and a pop-up window will appear for adding information about the Agent/Staff.
-You can only add your **WordPress** **Site** **User** as your support **Agent** /**Staff**. 
-![Add New option for adding agents](/guide/public/images/setup-configuration/agents-permissions/adding-support-staff-agents/add-new-support-staff-1.webp)
-Here you have to give the Email, First Name, Last Name, Title (Job Title), and [**permissions**](https://fluentsupport.com/docs/permission-management-for-agents/) for the Agent/Staff.  
-Once you are done, click on the **Create** button to finish the process.
-![Add New Support Staff popup page](/guide/public/images/setup-configuration/agents-permissions/adding-support-staff-agents/support-staff-pop-up-scaled-1.webp)
-This is how you can add as many new staff/agents as you need!  
 
----
+Go to **Settings** from your Fluent Support Dashboard and click on **Support Staff** from the left sidebar.
+
+![The Support Staff section in Fluent Support Settings](/guide/public/images/setup-configuration/agents-permissions/adding-support-staff-agents/add-new-support-staff-1.webp)
+
+Click the **Add New** button to add a **Support Agent/Staff**. A pop-up window will appear for adding information about the **Agent**.
+
+![The Add New button to create a Support Agent](/guide/public/images/setup-configuration/agents-permissions/adding-support-staff-agents/add-new-2.webp)
+
+### Configuring Agent Information
+
+In the pop-up window, you will need to fill in the following details:
+
+* **Basic Information:** Enter the **First Name**, **Last Name**, **Email**, and **Title** (Job Title, e.g., Support Staff, Developer).
+* **Slack Integration:** If you use Slack notifications, enter the **Slack User ID** here.
+* **Twilio Integration:** Enter a **WhatsApp Phone Number** if you are using Twilio integration.
+* **Permissions:** Check the boxes to grant specific permissions. These are categorized into:
+    * **Tickets Permissions:** (e.g., View Dashboard, Manage Own Tickets, Delete Tickets).
+    * **Workflow Permissions:** (e.g., Manage Workflows).
+    * **Settings:** (e.g., Manage Overall Settings).
+    * **Reporting:** (e.g., View All Reports).
+* **Restrictions:** You can check **Business Inbox Access Restriction** if you want to limit this agent to specific business inboxes.
+
+Once you have filled in the necessary information and selected the permissions, click on the **Create** button to finish the process.
+
+![Configuring basic information and setting permissions for a new agent](/guide/public/images/setup-configuration/agents-permissions/adding-support-staff-agents/add-new-support-staff-3.webp)
+
+This is how you can add as many new staff/agents as you need!
+
 

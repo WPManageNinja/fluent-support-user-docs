@@ -7,11 +7,9 @@
 
 If you don’t have any agents, you can [**Add Support Staff** /**Agents**](https://fluentsupport.com/docs/adding-support-staffs-agents/) anytime.
 
-## Permissions For Agents/Staff #
+## Permissions For Agents/Staff 
 
-To learn where you find the options to set permission for your agents, follow the steps with screenshots below –
-
-First, go to **Settings** or **Global Settings** , click on the **Support Staff** settings option from the left sidebar, and open a specific agent’s **Editor** page by clicking the **Pencil Icon**. 
+First, go to **Settings → Global Settings** , click on the **Support Staff** settings option from the left sidebar, and open a specific agent’s **Editor** page by clicking the **Pencil Icon**. 
 
 ![Support satff](/guide/public/images/setup-configuration/agents-permissions/permission-management-for-agent/specific-support-staff-scaled-1.webp)
 

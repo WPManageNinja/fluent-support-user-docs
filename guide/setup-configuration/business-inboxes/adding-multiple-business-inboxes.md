@@ -7,17 +7,15 @@ This article guides you on adding **Multiple** **Business Inboxes** using the [*
 
 ## How To Add Multiple Business Inboxes 
 
-To learn how to add multiple business inboxes in Fluent Support, follow the steps with the screenshots below:
-
 Go to the Fluent Support **Dashboard** & click on the **Business Inboxes** tab. Click the **Add New Business Inbox** button and a pop-up box will appear.
 
 ![Add new Business Inbox](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/add-new-business-boxes.webp)
 
 Add a relevant **Inbox Name** &**Email** (company name & business email) and select the **Support** **Channel**.
 
-Keep the support channel **Web-Based** if you want to allow customers to create support tickets from the website only. To learn more, check this **[Documentation](https://fluentsupport.com/docs/web-based_settings_in_business_inbox/)**.  
-  
-Or, choose **Web and Email based** **(Mailbox)** for email-based support ticket setup using email piping. For more details, check this **[Documentation](https://fluentsupport.com/docs/web-and-email-based-settings-in-business-inbox/)**.
+> [!NOTE]
+> Keep the support channel **Web-Based** if you want to allow customers to create support tickets from the website only. To learn more, check this **[Documentation](https://fluentsupport.com/docs/web-based_settings_in_business_inbox/)**.  
+>Or, choose **Web and Email based** **(Mailbox)** for email-based support ticket setup using email piping. For more details, check this **[Documentation](https://fluentsupport.com/docs/web-and-email-based-settings-in-business-inbox/)**.
 
 Once you are done, click the **Add Business Inbox** and your new business inbox will be added.
 
@@ -37,8 +35,10 @@ To learn the whole process, follow the steps with the screenshots below —
 
 Go to the page where you want to embed a portal and paste the below shortcode.
 
-**Shortcode** : [ fluent_support _portal show_logout = ‘yes’ business_box_id=2 ]  
-**Remember** , instead of **2** (business box ID), use your own **Business Box ID** from your chosen business inbox.
+> [!NOTE]
+> **Shortcode** : [ fluent_support _portal show_logout = ‘yes’ business_box_id=2 ]  
+> **Remember** , instead of **2** (business box ID), use your own
+> **Business Box ID** from your chosen business inbox.
 
 To find the Business Box ID, go to **Business Inboxes** from **Fluent Support Dashboard,** and click on the **View Settings** of your desired business inbox.
 
