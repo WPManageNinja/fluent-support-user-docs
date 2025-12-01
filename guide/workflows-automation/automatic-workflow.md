@@ -11,17 +11,17 @@ To learn how to create a new workflow automatically, follow the steps with scree
 
 From the **Fluent Support Dashboard,** go to **Workflows** and click the **\+ Add New Workflow** button to create a new workflow.
 
-![Workflows from Fluent Support Dashboard](/guide/public/images/workflows-automation/automatic-workflow/dashboard-workflow-add-new-workflow-2-scaled-1.webp)
+![Workflows from Fluent Support Dashboard](/guide/public/images/workflows-automation/automatic-workflow/dashboard-workflow-add-new-automatic-workflow-1.webp)
 
 Give a **Name** to your workflow**,** choose **Automatic** type, and click on the **Continue** button to create it.
 
-![Popup page for adding a new workflow](/guide/public/images/workflows-automation/automatic-workflow/automatic-popup-scaled-1.webp)
+![Popup page for adding a new workflow](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:automatic-popup-2.webp)
 
 Now choose a **Trigger** from the dropdown list to decide when your **Workflow** will run.
 
 For example, if you choose the **On Ticket Creation** trigger, the Workflow will automatically run each time a ticket is created.
 
-![Set Trigger to run workflow](/guide/public/images/workflows-automation/automatic-workflow/set-triggers.webp)
+![Set Trigger to run workflow](/guide/public/images/workflows-automation/automatic-workflow/workflows-automation:automatic-workflow:set-triggers-3.webp)
 
 Then, you have to set a **Condition** that will trigger the **Workflow**. Multiple conditions can be set using the **+OR** and **+AND** options.
 
@@ -51,11 +51,11 @@ Then, you have to set a **Condition** that will trigger the **Workflow**. Multip
 
   * Here, all of your existing custom fields will appear.
 
-![Set Condition/s for the Workflow](/guide/public/images/workflows-automation/automatic-workflow/set-conditions-scaled.webp)
+![Set Condition/s for the Workflow](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:set-conditions-4.webp)
 
 You can also **Delete** any existing condition by clicking the **Trash** **Icon**.
 
-![Delete any existing condition](/guide/public/images/workflows-automation/automatic-workflow/delete-condition-1.webp)
+![Delete any existing condition](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:delete-condition-5.webp)
 
 Now, set the **Action/s** (Task) from the dropdown list for **Workflow** to perform. Once you fill in all the necessary fields, click the **Save** button.
 
@@ -74,29 +74,29 @@ Now, set the **Action/s** (Task) from the dropdown list for **Workflow** to perf
   * Remove Bookmarks
   * Change Mailbox
 
-![Set Actions \(Tasks\) for workflow](/guide/public/images/workflows-automation/automatic-workflow/set-actions-1-1.webp)
+![Set Actions \(Tasks\) for workflow](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:set-actions-6.webp)
 
 Multiple actions can be set if needed. To do this, click the **Add Another Action** button and follow the same process.
 
-![Add multiple action](/guide/public/images/workflows-automation/automatic-workflow/set-multiple-actions-scaled-1.webp)
+![Add multiple action](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow-set-multiple-actions-7.webp)
 
 You can also **Delete** any existing action. To do this, expand the desired action by pressing it and then click the **Trash** **Icon**.
 
-![Delete any existing action](/guide/public/images/workflows-automation/automatic-workflow/delete-actions-1.webp)
+![Delete any existing action](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:delete-actions-8.webp)
 
 You can **change the name of your workflow** anytime from here as shown below.
 
-![Change name of your workflow](/guide/public/images/workflows-automation/automatic-workflow/change-workflow-name.webp)
+![Change name of your workflow](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:change-workflow-name-9.webp)
 
 Also, you can **set the sequence of your added workflow actions/tasks** using the **Drag and Drop Action** icon.
 
-![Drag & Drop feature to set the action/task sequence](/guide/public/images/workflows-automation/automatic-workflow/drag-drop-the-actionstasks-2-1.webp)
+![Drag & Drop feature to set the action/task sequence](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:drag-drop-the-actionstasks-10.webp)
 
 Once you set up the actions, **Publish** it by enabling the **Toggle** button at the top right corner to run the **Workflow**. Otherwise, it will be saved as a draft only.
 
 To save any new changes always press the **Update Workflow** button right **next to the toggle**.
 
-![Publish the workflow](/guide/public/images/workflows-automation/automatic-workflow/publish-toggle.webp)
+![Publish the workflow](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:publish-toggle-11.webp)
 
 ## See How Automatic Workflow Runs #
 
@@ -106,11 +106,11 @@ For example, I set the **Trigger** as “**On Ticket Creation”** , **Condition
 
 Now, you can see that the **Ticket** shown in the screenshot below is **Automatically** **Bookmarked** after the **Creation** as it has the **Refund** word in the **Title.**
 
-![Refund Ticket is bookmarked automatically ](/guide/public/images/workflows-automation/automatic-workflow/refund-ticket-scaled-1.webp)
+![Refund Ticket is bookmarked automatically ](/guide/public/images/workflows-automation/automatic-workflow/ticket-bookmarked-with-automatic-workflow-12.webp)
 
 You can easily get all of your bookmarked tickets under the **Bookmarks** option placed in the left sidebar of Fluent Support’s **Tickets**.
 
-![Tickets will be stored under Bookmarked section](/guide/public/images/workflows-automation/automatic-workflow/bookmarked-ticket-scaled-1.webp)
+![Tickets will be stored under Bookmarked section](/guide/public/images/workflows-automation/automatic-workflow/ticket-bookmark-list-13.webp)
 
 This is how you can create and run **Automatic Workflow** in **Fluent** **Support!**  
 
