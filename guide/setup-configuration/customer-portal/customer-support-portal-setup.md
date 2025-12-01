@@ -5,44 +5,27 @@
 
 The Customer Portal is intended for direct use by end-users where users can view & use the dashboard to submit tickets. This article will guide you to set up your **Customer Portal** with **Global** **Settings** in **[Fluent Support](https://fluentsupport.com/)**.
 
-## Global Settings #
+## Accessing Global Settings
 
-To learn where you can find the **Global Settings** to set up the portal, follow the steps with the screenshots below —
+To find the **Global Settings** for setting up the portal, follow the steps below:
 
-Either go to your **Fluent Support** and click on**Settings**.
+Go to **Settings** from your **Fluent Support Dashboard** and click on **Global Settings** from the left sidebar.
 
-![Settings from Fluent Support Dashboard](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/fluent-support-settings-scaled-1.webp)
+This will open the Global Settings page, where you can configure the portal page for your customers.
 
-Or, you can go to your **Fluent Support Dashboard** & click on **Global Settings**. 
+> **Remember:** Always press the **Save Settings** button in the top right corner after finishing your customization to save your changes. Otherwise, changes will not appear in your Customer Portal.
 
-![Global Settings from Fluent Support Dashboard](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/dashboard-global-settings-scaled-1.webp)
 
-This will take you to the **Global Settings** page, where you can set up the portal page for your customers.
+![Global Settings from Fluent Support Dashboard](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/accessing-global-settings-1.webp)
 
-Remember, always press **Save Settings** after finishing all the customization in your **Global Settings** to save it. Otherwise, changes will not appear in your Customer Portal.
 
-![](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/3.-global-settings-page-1.webp)
+## Set up Customer Support Portal
 
-## Setup Customer Support Portal #
+You will find the following options in **Global Settings** to configure your **Fluent Support Customer Portal**:
 
-You will find the following **Settings** **Options** in **Global** **Settings** to set up your **Fluent Support Customer Portal**. These are:
+![Set up Customer Support Portal](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/setup-global-settings-2.webp)
 
-  1. Portal Page
-  2. Message for non-logged-in users
-  3. Disable Public Ticket Interaction
-  4. Accepted File Types
-  5. Delete all attachments on ticket close
-  6. Enable Fluent Summary in Admin Bar
-  7. Enable Draft Mode
-  8. Customer Registration Form Field
-  9. Enable Two-Factor Authentication
-  10. Enable Keyboard Shortcuts
-  11. Agent Feedback Rating
-  12. Agent Time Tracking
-
-**To learn how to set up a Customer Support Portal with these settings, follow the steps with screenshots below —**
-
-### A. Portal Page #
+### A. Portal Page 
 
 In the ’**Portal Page’** option, you can select the **Page** where you want to show the **Support Portal** for your customers to submit their tickets. You can **select** your desired **page** in **two different ways** and these are shown in the **GIFs** below —
 
@@ -54,7 +37,7 @@ In the ’**Portal Page’** option, you can select the **Page** where you want 
 
 ![Use the given Shortcode on desired page to show the support portal](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/add-shortcode-drift-video-1.gif)
 
-### B. Message for non-logged-in users #
+### B. Message for non-logged-in users 
 
 In this option, you can customize certain texts for the users who have not logged in.
 
@@ -65,67 +48,53 @@ To know the details of these below-mentioned **Shortcodes,** check this **[Docum
 
 ![Message for non-logged-in users](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/message-for-non-logged-users-1.webp)
 
-### C. Disable Public Ticket Interaction #
+### C. Disable Public Ticket Interaction 
 
 Enabling ‘**Disable Public Ticket Interaction’** allows only logged-in users to reply to tickets. If you uncheck the option, users can reply to tickets without logging in using a signed URL.
 
 ![Disable Public Ticket Interaction](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/disable-public-ticket-1.webp)
 
-### D. Accepted File Types #
+### D. Accepted File Types 
 
 Fluent Support accepts photos, CSV, PDF/Docs, Zip, and JSON files. You can also set the maximum file size and number of files to upload.
 
 To learn the details about file **Attachment Regulations** , read this **[Documentation](https://fluentsupport.com/docs/attachment-regulation/)**.
 
-![Accepted File Types](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/accepted-files-1.webp)
+![Accepted File Types](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/accepeted-file-type.webp)
 
-### E. Delete all attachments on ticket close #
+### E. Delete all attachments on ticket close 
 
 If you enable the ‘**Delete all attachments on ticket close’** option, it will automatically delete all attachments associated with a particular ticket when it is closed.
 
-![Delete all attachments on ticket close](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/delete-all-attachments-1.webp)
-
-### F. Enable Fluent Summary in Admin Bar #
+### F. Enable Fluent Summary in Admin Bar 
 
 Enable the **‘Fluent Summary in Admin Bar’** option allows users to see a ticket summary from the top nav bar.
 
-![Enable Fluent Summary in Admin Bar](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/enable-fluent-summary-1.webp)
-
-### G. Enable Draft Mode #
+### G. Enable Draft Mode 
 
 The **‘Enable Draft Mode’** allows agents to save responses automatically as drafts to avoid accidental ticket closures or reply to the ticket later.
 
-![Enable Draft Mode](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/draft-mode.webp)
-
-### H. Customer Registration Form Field #
+### H. Customer Registration Form Field 
 
 The ‘**Customer Registration Form Field’** allows agents to get the information in the customer registration form using the below-mentioned fields.
 
-![Customer Registration Form Field](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/customer-registration-fields-1.webp)
-
-### I. Enable Two-Factor Authentication #
+### I. Enable Two-Factor Authentication 
 
 If you **enable** the **‘Enable Two-Factor Authentication’** option, this will require customers to enter a verification code sent to their email whenever they try to log in to the customer portal.
 
-![Enable Two-Factor Authentication](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/enable-two-factor-authentification-1.webp)
-
-### J. Enable Keyboard Shortcuts #
+### J. Enable Keyboard Shortcuts 
 
 Enabling the ‘**Enable Keyboard Shortcuts’** option allows agents to use keyboard shortcuts for faster actions.
 
-![Enable Keyboard Shortcuts option](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/14.-enable-keyboard-shortcuts-1.webp)
-
-### K. Agent Feedback Rating #
+### K. Agent Feedback Rating 
 
 Enabling the ‘**Agent Feedback Rating’** option allows users to provide feedback on agent responses.
 
-![Agent Feedback Rating](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/agent-feddback-rating-1.webp)
-
-### L. Agent Time Tracking #
+### L. Agent Time Tracking 
 
 Enabling the ‘**Agent Time Rating’** option allows agents to set the amount of time a user needs to complete a ticket.
 
-![Agent Time Tracking option](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/16.-agent-time-tracking-1.webp)
+![Agent Time Tracking option](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/customer-registartion-file-u.webp)
 
 Always press **Save Settings** after finishing all the customization in your **Global Settings** to save it. Otherwise, changes will not appear in your Customer Portal.
 
