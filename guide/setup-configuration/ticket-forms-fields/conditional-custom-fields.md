@@ -3,11 +3,9 @@
 
 ---
 
-Custom fields are an advanced WordPress feature in **[Fluent Support](https://fluentsupport.com/) **that allows support agents to add extra information/fields to their ticket submission forms or other submission fields to organize the tickets more sophisticatedly.
+Custom fields are an advanced WordPress feature in [Fluent Support](https://fluentsupport.com/) that allows support agents to add extra information/fields to their ticket submission forms or other submission fields to organize the tickets more sophisticatedly.
 
-## Custom Fields in Fluent Support #
-
-To learn how to use **Custom Fields** on your customer**Support Portal** in **FluentSupport** , follow the steps with screenshots below —
+## Custom Fields in Fluent Support 
 
 Go to **Global Settings** or **Settings** from the **Fluent Support Dashboard** , select **Custom Fields** , and click **\+ Add New Filed**.
 
@@ -61,11 +59,9 @@ For example, I set the condition as “**Ticket Title** that **contains** **Form
   * You can set **Multiple** **Conditions** by clicking the **Green Plus** **Icon** or **Delete** any existing **Conditions** by clicking the **Trash Icon**.
   * Also, you can customize the logical outcome by selecting whether to function if **Match all conditions** or **Match any conditions**.
 
-![Can add multiple conditions & delete any conditions as per your needs](/guide/public/images/setup-configuration/ticket-forms-fields/conditional-custom-fields/condition-plus-icon-trash-icon-condition-match-scaled.webp)
-
 Once you’re done with all the configuration, click **Add**.
 
-![Finally click Add button](/guide/public/images/setup-configuration/ticket-forms-fields/conditional-custom-fields/finally-add-button-1-scaled-1.webp)
+![Can add multiple conditions & delete any conditions as per your needs](/guide/public/images/setup-configuration/ticket-forms-fields/conditional-custom-fields/condition-plus-icon-trash-icon-condition-match-scaled.webp)
 
 Here, you can see the **Custom Field** has been added to the **Fluent** **Support** **Portal**.
 
