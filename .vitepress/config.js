@@ -275,6 +275,16 @@ export default defineConfig({
   outDir: './.vitepress/dist',
   cacheDir: './.vitepress/cache',
 
+  // Vite configuration
+  vite: {
+    publicDir: './guide/public',
+    server: {
+      fs: {
+        allow: ['..']
+      }
+    }
+  },
+
   // Clean URLs
   cleanUrls: true,
 
