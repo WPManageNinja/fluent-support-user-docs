@@ -21,7 +21,7 @@ Now, set the default status for new contacts. If you choose **Pending** , a doub
   
 Also, you can add the user to your **FluentCRM** **List** or include your users in various **Tags** using the dropdown menus by clicking the **arrow icon.** Once your integration set-up is complete, click on the **Save Settings** button.
 
-![Fluent CRM Integration Settings options](/guide/public/images/integrations-channels/core-integrations/fluentcrm-integration/default-status-dropdown-menus-save-settings-1.webp)
+![Fluent CRM Integration Settings options](/guide/public/images/integrations-channels/core-integrations/fluentcrm-integration/default-status-dropdown-menus-save-settings-2.webp)
 
 This is how you can complete the FluentCRM integration with Fluent Support!  
 

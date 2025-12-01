@@ -85,7 +85,7 @@ Go to the **Global** **Settings** from the Fluent Support **Dashboard** and sele
   
 Now fill in all the fields with the necessary information that you have copied before. Also, you can enable the checkboxes if needed. Once you are done, do not forget to click on **Save Slack Settings**.
 
-![Save Slack Settings](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/slack-notification-settings-paste-tokens-scaled-1.webp)
+![Save Slack Settings](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/managing-tickets-using-slack:slack-notification-settings-paste-tokens-01.webp)
 
 ### **Slack Reply** #
 
@@ -111,11 +111,11 @@ Now go to your channel and Copy the member ID.
 **Paste** the **member ID** in your Fleunt Support Agents profile.  
 Click on the **Edit** button of the **Agent profile** you want to connect with Slack for the reply.
 
-![Specific agent profile to connect slack](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/support-staff-edit-button-scaled-1.webp)
+![Specific agent profile to connect slack](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/managing-tickets-using-slack:support-staff-edit-button-02.webp)
 
 After going to the Edit option you will find a **Slack User ID field** , now paste your **Slack member ID** here and click on the **Update** button. 
 
-![Slack User ID field](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/support-staff-slack-user-id-scaled-1.webp)
+![Slack User ID field](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/managing-tickets-using-slack:support-staff-slack-user-id-03.webp)
 
 
 ---

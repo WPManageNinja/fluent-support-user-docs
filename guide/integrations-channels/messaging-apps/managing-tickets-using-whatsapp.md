@@ -70,7 +70,7 @@ Now fill in all the fields with the necessary information (**Account SID** , **A
 
 Once you are done, do not forget to click the **Save Twilio Settings** button.
 
-![Twilio Integration Settings](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/twilio-integration-settings-2-scaled-1.webp)
+![Twilio Integration Settings](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/twilio-integration-settings-1.webp)
 
 **A brief explanation of other options mentioned above –**
 
@@ -94,13 +94,13 @@ Then, copy the **WhatsApp Number** from the **Sandbox Participants.**
 
 Now, again go back to **Settings** from **Fluent Support** **Dashboard** and open the **Support Staff** settings option from the left sidebar. Click the **Pencil Icon** of your **desired agent** you want to give access to reply.
 
-![Support Staff](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/support-staff-1-scaled-1.webp)
+![Support Staff](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/managing-tickets-using-whatsapp:support-staff-2.webp)
 
 Scroll down to **Twilio Integration** and paste the **WhatsApp Number** you copied before. Then, hit the **Update** button.
 
 Make sure to include the **Country Code** when adding this number. Now you can receive ticket notifications on the Twilio chat in WhatsApp and submit responses by replying to the ticket notifications.
 
-![WhatsApp number field](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/whatsapp-number-field-inside-twilio-integration-1-1.webp)
+![WhatsApp number field](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/managing-tickets-using-whatsapp:whatsapp-number-field-inside-twilio-integration-3.webp)
 
 **Note:** To reply to any specific tickets directly from WhatsApp chat, you’ll have to type in ##Ticket number## before the message. For example, to reply to ticket no. 33 you have to type ##33## and then type your response.
 
