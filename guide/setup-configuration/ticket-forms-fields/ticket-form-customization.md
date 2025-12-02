@@ -5,64 +5,69 @@
 
 This article will guide you through the process required to customize the default **Ticket** **Submission** **Form** of [**Fluent** **Support**](https://fluentsupport.com/) (e.g., hiding or changing some text or field within the default form). Follow the instructions accordingly to know the whole process.
 
-> If you want, you can build a **Ticket Form** from scratch as well.
+> [!Note]
+>If you want, you can build a **Ticket Form** from scratch as well.
 
 ## Ticket Form Configuration #
 
 To learn where you can find all the customization settings of your **Ticket** **Form** provided by default from **Fluent Support,** follow the steps below —
 
-Go to **Global Settings** from your Fluent Support **Dashboard**.
+Go to **Settings → Global Settings** from your Fluent Support **Dashboard**. Click on **Ticket Form Config** from the left sidebar.
 
-![Global Settings from Fluent Support's Dashboard](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/dashboard-global-settings-1-scaled-1.webp)
-
-Click on **Ticket Form Config** from the left sidebar.
-
-![Ticket form configuration options](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/ticket-form-configure-1.webp)
+![Global Settings from Fluent Support's Dashboard](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/ticket-form-settins-1.webp)
 
 Here are all of the **Settings** of the **Ticket** **Form** which you can customize anytime.
 
+> [!TIP]
 > Always press **Save** **Settings** after doing any customization in your **Ticket** **Form** **Settings** to save it, otherwise, the changes will not appear in your Ticket Form.
 
 ![All setting options for Ticket Form Customization](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/ticket-form-settings-new-1.webp)
 
-## Ticket Form Settings #
+## Ticket Form Settings 
 
 You will find different settings options in Ticket Form Settings to customize your Ticket Form. These are —
 
-  * Enable Knowledge base suggestion on ticket creation form
+  * Knowledge base suggestion on ticket creation form
   * Disabled Default Fields
   * Disable Rich Text Editor for Frontend
   * Required fields for products and services
   * Who can access customer portal?
+  * WooCommerce Support Navigation
   * Form Labels Customization
 
-To learn how to customize a Ticket Form with these settings, follow the steps below —
+To learn how to configure these settings, follow the detailed steps below.
 
-#### Enable Knowledge base suggestion on ticket creation form #
+#### Knowledge base suggestion 
 
-Enable this setting on your ticket form so that your customers can get instant solutions from related posts, docs, products, etc. exist on your website when they enter a subject. You can choose various options like **Post** , **Attachment** , **Product** , **[Docs](https://fluentsupport.com/docs/betterdocs-integration/)** , etc. based on your website content as suggestions. Also, you can set the limitations on how many articles you want to show.
+Enable this setting so that your customers receive instant solution suggestions from related posts, docs, or products on your website when they type a subject.
+
+  * **Enable knowledge base suggestion:** Check this box to activate the feature.
+  * **Knowledge Base Post Types:** Select the source of your articles (e.g., post, attachment, product). You can choose various options like **Post** , **Attachment** , **Product** , **[Docs](/guide/integrations-channels/other/betterdocs-integration)** , etc. based on your website content as suggestions.
+  * **Suggested Articles Limit:** Define how many suggestions should appear (e.g., 5).
 
 ![Knowledge-base suggestions related setting](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/knowledge-base-suggestion-1.webp)
 
-#### Disabled Default Fields #
+#### Disabled Default Fields 
 
-This setting allows you to disable any of the default fields that you do not want to show on your Ticket Form.
+This setting allows you to hide specific default fields from the ticket creation form if they are not relevant to your support flow. You can disable:
+
+  * **File Upload:** Remove the attachment option.
+  * **Priority:** Prevent users from setting their own priority level.
+  * **Product & Services:** Hide the product selection dropdown.
+
+#### Product & Service Field Requirement
+
+  * **Mark product and service fields as required:** If you enable this, customers strictly must select a product or service before they can submit a ticket.
 
 ![Setting for disabling any default fields](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/disabled-default-fields1-1.webp)
 
-#### Disable Rich Text Editor for Frontend #
+#### Rich Text Editor Option
 
-This setting allows you to disable the default Rich Text Editor option for the Frontend if you do not want to show it on your Ticket Form.
+  * **Disable Rich Text Editor for Frontend:** Check this box if you want to provide a simple plain-text area for the ticket description, removing formatting options (bold, italics, links, etc.) for the user.
 
 ![Setting for disabling rich text editor for frontend](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/disable-rich-text-editor-for-frontend1-1.webp)
 
-#### Required fields for products and services #
-
-With this setting, you can now make your **Product** related fields “**Required”** for your customers on your Ticket Form.
-
-![Setting for making product field required](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/required-product-fields1-1.webp)
-
-#### Who can access customer portal? #
+#### Who can access customer portal? 
 
 This setting gives you the option to select who can get access to your customer support portal. It provides two basic options and these are —
 
@@ -71,19 +76,30 @@ This setting gives you the option to select who can get access to your customer 
 
 ![Setting for selecting who can access to customer portal](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/access-customer-portal.webp)
 
-#### Form Labels Customization #
+#### WooCommerce Support Navigation
 
-This setting allows you to customize the labels of your form fields (e.g., you can modify the label of the “**Ticket Details** ” field to “**Ticket Info** “). Similarly, you can change the heading or text of any default fields as per your requirements.
+If you are using WooCommerce, this setting integrates Fluent Support directly into your store's account area.
 
-![Setting for from labels customization](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/form-labels-customization-1.webp)
+  * **Add support link to WooCommerce account navigation:** Enable this to automatically add a "Support" tab to the WooCommerce "My Account" page menu, allowing customers to open tickets directly from their account dashboard.
 
-#### Add Support Link to WooCommerce #
-
+> [!NOTE]
 > If you have already integrated **Woocommerce** with your **Fluent** **Support** , you will get the setting shown in below. Otherwise, this setting option will not appear in your **Ticket** **Form** **Settings**.
 
-This setting allows WooCommerce users to easily create a support portal for their customers on the **My Account** page of the navigation menu, enabling customers to open support tickets directly from their **WooCommerce** account navigation.
+#### Form Labels Customization 
 
-![Setting for adding support link to WooCommerce ](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/support-link-woocommerce-1.webp)
+This section allows you to rename the labels of your form fields to match your brand's voice. You can customize the text for:
+
+  * **Subject heading:** (Default: Topic)
+  * **Form content heading:** (Default: Ticket Details)
+  * **Content help message:** (Default: Please provide details about your problem)
+  * **Product/Service heading:** (Default: Related Product/Service)
+  * **Priority heading: (Default:** Priority)
+  * **Create ticket button text:** (Default: Create Ticket)
+  * **Create ticket page heading:** (Default: Submit a Support Ticket)
+  * **Ticket Create Call to Action:** (Default: Create a New Ticket)
+
+
+![Setting for from labels customization](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/form-labels-customization-1.webp)
 
 
 ---
