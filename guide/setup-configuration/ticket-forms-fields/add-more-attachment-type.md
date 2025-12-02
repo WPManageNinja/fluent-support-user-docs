@@ -45,6 +45,10 @@ Scroll down to the **Accepted File Types** section. You should now see your new 
 
 ![Add More Attachment Types ](/guide/public/images/setup-configuration/ticket-forms-fields/add-more-attachment-types%20/attacth-file-type-html.webp)
 
+Also, if you want to make any changes in any of the existing file types, you can do it by using the **“fluent_support/mime_groups”** filter and the **“add_filter”** hook.
+
+For example, I make changes to the **Photos (Image)** file type here by using the following **Shortcode**.
+
 ```php
 // Add a new MIME type to the existing MIME groups in Fluent Support
 add_filter('fluent_support/mime_groups', function ($mimeTypes) {
