@@ -245,6 +245,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Common Issues & FAQs', link: '/guide/troubleshooting-support/common-issues-faqs' },
+          { text: 'How to Get Support', link: '/guide/troubleshooting-support/how-to-get-support' },
         ]
       },
       {
