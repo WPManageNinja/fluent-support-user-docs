@@ -5,7 +5,7 @@
 
 The **Customer Portal** is intended for direct use by end-users where users can view & use the dashboard to submit tickets. This article will guide you through how the **Customer Portal** of [**Fluent Support**](https://fluentsupport.com/) can be used with all the available options.
 
-## Customer Portal #
+## Customer Portal 
 
 To learn how you can use the customer portal with the help of its all available options, follow the steps with the screenshots below – 
 

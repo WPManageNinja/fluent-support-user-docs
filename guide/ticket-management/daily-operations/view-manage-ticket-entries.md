@@ -5,7 +5,7 @@
 
 **“Tickets”** allows you to view and manage all ticket entries in **[Fluent Support](https://fluentsupport.com/)**. Also, you can have some specific user summary & customer info in one place. This article will help you to learn about the overview of this **“Tickets”** feature.
 
-## Tickets #
+## Tickets 
 
 To learn where you can easily **View Tickets** using**Fluent Support** , follow the steps with the screenshots below —
 
