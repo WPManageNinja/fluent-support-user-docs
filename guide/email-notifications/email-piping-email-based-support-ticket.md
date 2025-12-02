@@ -7,17 +7,15 @@ You must set up **Email Piping** first to use the **Business Inboxes** for **Ema
 
 ## Email Piping Settings #
 
-To set up **Email Piping** , you must create a **Business Inbox** with an **Email-Based** support channel. And, to learn how to create this, read this **[Documentation](https://fluentsupport.com/docs/web-and-email-based-settings-in-business-inbox/)**.
-
-To learn how to set up **Email Piping** for an **Email-based** business inbox, follow the steps with the screenshots below —
+To set up **Email Piping** , you must create a **Business Inbox** with an **Email-Based** support channel. And, to learn how to create this, read this **[Documentation](/guide/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox)**
 
 Go to **View Settings** from your desired email-based business inbox and click **Email Piping**.
 
-![Open desired Business inbox's settings](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/email-piping-dashboard-drift-vid-1.gif)
+![Open desired Business inbox's settings](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/email-piping-dashboard.webp)
 
 Read the **terms and conditions** before you agree to it and click the **Get Piping Email Details**.
 
-To get the **email piping details** , ensure your **fluent support license key** is **active** as **Email Piping** is a **Pro Feature** of **Fluent Support**. To learn how to get the license key and activate it, read this [**Documentation**](https://fluentsupport.com/docs/upgrade-to-fluent-support-pro-add-on/#2-toc-title).
+To get the **email piping details** , ensure your **fluent support license key** is **active** as **Email Piping** is a **Pro Feature** of **Fluent Support**. To learn how to get the license key and activate it, read this [**Documentation**](/guide/getting-started/upgrade-to-fluent-support-pro-add-on).
 
 ![Get piping email details](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/get-email-piping-details.webp)
 
@@ -33,10 +31,10 @@ Remember, after setting up Email forwarding, a **verification email** will be se
 
 **To show you the process, we have listed a few examples below –**
 
-### **Forward or redirect from an Email Provider** #
+### **Forward or redirect from an Email Provider** 
 
-  * [Google Workspace (formerly known as G Suite)](https://fluentsupport.com/docs/auto-forward-from-google-workspace-to-fluent-support/)
-  * [Office 365 Outlook Web Access (OWA)](https://fluentsupport.com/docs/forward-from-microsoft-365-outlook-web-access-owa/)
+  * [Google Workspace (formerly known as G Suite)](/guide/email-notifications/auto-forward-from-gsuite)
+  * [Office 365 Outlook Web Access (OWA)](/guide/email-notifications/forward-from-microsoft365-owa)
   * [Amazon WorkMail](https://docs.aws.amazon.com/workmail/latest/userguide/email-rules.html)
   * [Zoho Mail](https://www.zoho.com/mail/help/email-forwarding.html)
   * [Yahoo Mail](https://help.yahoo.com/kb/new-mail-for-desktop/enable-automatic-email-forwarding-yahoo-mail-sln29133.html)
