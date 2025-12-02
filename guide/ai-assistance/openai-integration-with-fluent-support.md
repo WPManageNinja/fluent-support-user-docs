@@ -19,7 +19,7 @@ First, go to **Global Settings** from your **Fluent Support Dashboard** , and cl
 
 Now provide the **API Keys** of your **OpenAI** under the **Access Code** field, and click the **Verify OpenAI** button to integrate the OpenAI with Fluent Support.
 
-![OpenAI Integration option from the left sidebar under Global Settings ](/guide/public/images/ai-assistance/openai-integration-with-fluent-support/openai-integration-option-under-global-settings-scaled-1.webp)
+![OpenAI Integration option from the left sidebar under Global Settings ](/guide/public/images/ai-assistance/openai-integration-with-fluent-support/openai-integration-option-under-global-settings-1.webp)
 
 ### Get the OpenAI API keys #
 
@@ -47,7 +47,7 @@ Now, go back to **OpenAI Integration** , paste the **API key** you copied under 
 
 To learn how you can use this integrated OpenAI inside a specific Ticket of Fluent Support, read this [Documentation](https://fluentsupport.com/docs/features-of-openai-chatgpt/).
 
-![OpenAI API Key is connected](/guide/public/images/ai-assistance/openai-integration-with-fluent-support/openai-api-key-is-connected-1-scaled-1.webp)
+![OpenAI API Key is connected](/guide/public/images/ai-assistance/openai-integration-with-fluent-support/openai-api-key-is-connected-2.webp)
 
 This way you can integrate the OpenAI with Fluent Support!  
 
