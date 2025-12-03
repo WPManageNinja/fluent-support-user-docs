@@ -2,6 +2,23 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v1.10.5
+
+*Released on November 28, 2025*
+
+::: code-group
+
+```markdown [🔒 Security]
+• Fixed an access control bypass in the customer portal caused by improper validation of the intended_ticket_hash parameter
+• Added sanitize_sql_orderby() to prevent unsafe or invalid values in sorting queries
+```
+
+```markdown [🐞 Bug fixes]
+• Fix product_id filter to require array in whereIn, preventing potential errors when a non-array value is provided
+```
+
+:::
+
 ## Fluent Support v1.10.4
 
 *Released on November 21, 2025*
