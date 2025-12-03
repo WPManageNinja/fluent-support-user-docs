@@ -7,29 +7,26 @@
 
 This article will guide you through integrating [**BetterDocs**](https://betterdocs.co/) with [**Fluent Support**](https://fluentsupport.com/).
 
-## BetterDocs Integration With FluentSupport #
+## BetterDocs Integration With FluentSupport 
 
 To integrate **BetterDocs** into **FluentSupport** , follow the steps with screenshots below —
 
-To ensure the **BetterDocs** integration works, it must be **installed** and**active** on your website.
+> [!NOTE]
+> Note: To ensure the BetterDocs integration works, the BetterDocs plugin must be installed and active on your website.
 
-From the **Fluent Support Dashboard** , go to **Global Settings,** click the **Ticket Form Config** button and you will find the **Ticket Form Settings.**
+From the **Fluent Support Dashboard**, go to **Settings** and click on **Ticket Form Config** from the left sidebar. This will open the **Ticket Form Settings** page.
 
-![Ticket Form Settings from Fluent Support dashboard](/guide/public/images/integrations-channels/other/betterdocs-integration/global-settings-ticket-form-config-scaled-1.webp)
+### Configuration Steps
 
-Check the **Enable knowledge base suggestion on the ticket creation form** box to link knowledge base suggestions to the Fluent Support ticket form.  
-  
-After enabling, select **docs** under **Knowledge Base post types for** displaying documentation-style articles and set the **desired number** **of** **suggested articles.**
-
-Make sure your WordPress site has BetterDocs installed and activated to proceed.
+* **Enable Suggestions:** Check the box for **Enable knowledge base suggestion on ticket creation form**. This links your knowledge base to the ticket form.
+* **Select Post Types:** Under the **Knowledge Base Post Types** section, select **docs**. This option appears because **BetterDocs** uses the 'docs' post type for its articles.
+* **Set Article Limit:** In the **Suggested Articles Limit** field, define the maximum number of suggested articles you want to display (e.g., 5 or 15).
 
 ![Enable knowledge base suggestion on the ticket creation form box](/guide/public/images/integrations-channels/other/betterdocs-integration/enable-post-type-article-limit-1.webp)
 
-Once you are done, don’t forget to click on **Save Settings**.
+Once you have configured these options, do not forget to click the **Save Settings** button in the top right corner.
 
-Now, when anyone types related keywords in the ticket forms subject bar, it will show relevant documentation as suggested articles.
-
-![Save settings to make it functional](/guide/public/images/integrations-channels/other/betterdocs-integration/save-settings-1.webp)
+Now, when a user types keywords into the subject line of a support ticket, the system will automatically search your BetterDocs articles and display relevant documentation suggestions.
 
 This is how the integration of **BetterDocs** with **Fluent Support** works!  
 
