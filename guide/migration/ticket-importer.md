@@ -30,7 +30,7 @@ To learn the specific configuration steps for these platforms, please check the 
 
   1. [**Help Scout Ticket Migration**](/guide/migration/helpscout-ticket-migrator)
   2. [**Freshdesk (Freshworks) Ticket Migrator**](/guide/migration/freshdesk-ticket-migrator)
-  3. [**Zendesk Ticket Migrator**](/migration/zendesk-ticket-migrator)
+  3. [**Zendesk Ticket Migrator**](/guide/migration/zendesk-ticket-migrator)
 
 
 ---
