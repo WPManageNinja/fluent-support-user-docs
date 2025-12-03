@@ -3,21 +3,23 @@
 
 ---
 
-[**Zendesk**](https://www.zendesk.com/) is a SaaS platform for complete customer service solutions. **Zen desk** users can easily transfer their **tickets** to [**Fluent Support**](https://fluentsupport.com/) through an API. This article will guide you through the process.
+Zendesk is a comprehensive SaaS platform for customer service solutions. [**Fluent Support**](https://fluentsupport.com/) allows Zendesk users to easily transfer their existing tickets directly into Fluent Support using an API connection. This article will guide you through the migration process.
 
-## Import Tickets From Zendesk Into Fluent Support #
+## Import Tickets From Zendesk 
 
-To learn how to import tickets from **Zendesk** into **Fluent Support** , follow the steps with screenshots below —
-
-From the **Fluent Support Dashboard** , go to **Settings** or **Global Settings** , select the **Ticket Importer** , find **Zendesk** for ticket migration, and click **Import Tickets**.
+From the **Fluent Support Dashboard**, go to **Settings** and select **Ticket Importer** from the left sidebar. Find **Zendesk** in the list of migration options and click the **Import Tickets** button.
 
 ![Ticket migration from Zendesk](/guide/public/images/migration/zendesk-ticket-migrator/dashboard-zendesk-import-tickets-scaled-1.webp)
 
-A popup page will appear asking for your **Zendesk Domain, Email Address,** and **API Key.**
+## Configuring the Import
+
+A popup page will appear asking for your **Zendesk Domain, Email Address,** and **API Key.** To proceed, you need to retrieve these credentials from your Zendesk account.
 
 ![Zendesk Domain, Email Address, and API Key](/guide/public/images/migration/zendesk-ticket-migrator/zendesk-popup-page-scaled-1.webp)
 
-To get the **Zendesk Domain** and **API Key,** go to your [**Zendesk**](https://www.zendesk.com/) account. Press the **Settings Icon** from the left sidebar and click the **Go to Admin Center**.
+### Retrieve API Credentials from Zendesk
+
+To get the **Zendesk Domain** and **API Key,** login to your [**Zendesk**](https://www.zendesk.com/) account. Press the **Settings Icon** from the left sidebar and click the **Go to Admin Center**.
 
 ![Zendesk Settings Icon](/guide/public/images/migration/zendesk-ticket-migrator/settings-icon-go-to-admin-center-button-scaled-1.webp)
 
@@ -33,6 +35,9 @@ Then, press the **Add API token** button and an API will appear. Simply, copy th
 Also, copy **Zendesk’s Domain URL** from the URL section.
 
 ![Zendesk’s Domain URL](/guide/public/images/migration/zendesk-ticket-migrator/copy-the-domain-url-scaled-1.webp)
+
+
+### Authorize and Import
 
 Return to the **Zendesk** popup page from the **Fluent Support Dashboard**.  
   
