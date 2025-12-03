@@ -5,17 +5,27 @@
 
 Integrating **Google** **Drive** with the[ **Fluent Support**](https://fluentsupport.com/) plugin allows the synchronization of files between the two platforms. This article will guide you through integrating **Google** **Drive** with **Fluent** **Support**.
 
-## Google Drive Integration With Fluent Support #
+## Google Drive Integration With Fluent Support 
 
 To integrate Fluent Support with Google Drive, follow the steps with screenshots below —
 
-### **Accessing Google Cloud Console** #
+## Access the Google Drive
+
+Go to your **Fluent Support Dashboard**, open **Settings**, then select the **File Upload Integration** section from the left sidebar. There, find **Google Drive** and click the **Settings** (gear) icon.
+
+![Accessing Google Google Drive](/guide/public/images/integrations-channels/other/google-drive-integration/file-storage-settings.webp)
+
+A pop-up will appear. Now, **copy** the **OAuth2 Redirect URL** displayed there for future use.
+
+![Redirect URL Copy](/guide/public/images/integrations-channels/other/google-drive-integration/copy-redirect-url.webp)
+
+### **Accessing Google Cloud Console** 
 
 First, go to the [**Google Cloud Console**](https://console.cloud.google.com/) and select **APIs & Services.**
 
 ![Accessing Google Cloud Console](/guide/public/images/integrations-channels/other/google-drive-integration/welcome-google-cloud-console-scaled.webp)
 
-### Creating New Project #
+### Creating New Project 
 
 To get the API, create a new project by clicking the **Create Project**.
 
@@ -27,7 +37,7 @@ Give a name to your project (location is optional) and press the **CREATE** butt
 
 ![Creating New Project](/guide/public/images/integrations-channels/other/google-drive-integration/create-button-scaled-1.webp)
 
-### **Enabling Google Drive API** #
+### **Enabling Google Drive API** 
 
 Click on **\+ ENABLE APIS AND SERVICES.**
 
@@ -65,22 +75,17 @@ You will see the **CREATE CREDENTIALS** button, click on it.
 
 ![Scopes](/guide/public/images/integrations-channels/other/google-drive-integration/scopes-1.webp)
 
+### Client ID and Client Secret
+
   * In **OAuth Client ID** ,
 
-– In the Application type select Web Application you can give any name here.  
-– In Authorized Javascript Origins give your domain name without the ‘/’ slash in the last.  
-– In the Authorized redirect URL paste the OAuth2 redirect URL
+  – In the Application type select Web Application you can give any name here.  
+  – In Authorized Javascript Origins give your domain name without the ‘/’ slash in the last.  
+  – In the Authorized redirect URL paste the OAuth2 redirect URL
 
 ![OAuth Client ID](/guide/public/images/integrations-channels/other/google-drive-integration/oath-client-id-1.webp)
 
-To **get the authorized redirect URLs** go to the Fluent Support Dashboard and **follow the steps below —**  
-**Global Settings > File Upload Integrations > Google Drive > Configure.**
-
-![Google Drive Configure](/guide/public/images/integrations-channels/other/google-drive-integration/global-settings-file-upload-integration-configuration-button-copy-1-2.webp)
-
-![Get authorized URL](/guide/public/images/integrations-channels/other/google-drive-integration/get-authorized-redirect-url-1.webp)
-
-  * In the **fifth step** , you will find the **Client ID** you can copy. Now click on the **Done** button and the credential will be ready.
+Here, you will find the **Client ID** and you can copy. Now click on the **Done** button and the credential will be ready.
 
 ![Your Credentials](/guide/public/images/integrations-channels/other/google-drive-integration/your-credentials-1.webp)
 
@@ -96,13 +101,11 @@ Now, go to the **OAuth Consent Screen** section and click the **PUBLISH APP** bu
 
 ![OAuth Consent Screen and PUBLISH APP ](/guide/public/images/integrations-channels/other/google-drive-integration/publish-app-scaled-1.webp)
 
-### **Configure Fluent Support** #
+### **Configure Fluent Support** 
 
-Go to the **Fluent Support Dashboard >** **Global Settings > Flie Upload Integrations > Google Drive > Configure**.
+Now, return to your **Fluent Support Dashboard > Settings > File Upload Integration** section from the left sidebar. Then, find **Google Drive** and click the **Settings** (gear) icon.
 
-![Google Drive Configure option](/guide/public/images/integrations-channels/other/google-drive-integration/global-settings-file-upload-integration-configuration-button-copy-1-1.webp)
-
-Paste the **Client ID** & **Client Secret** here. Click on the **Connect to Google Drive** button.
+Now, **Paste** the **Client ID** & **Client Secret** here. Click on the **Connect to Google Drive** button.
 
 ![Connect to Google Drive ](/guide/public/images/integrations-channels/other/google-drive-integration/configure-google-drive-settings-connect-google-drive-button-1.webp)
 
@@ -118,7 +121,7 @@ Click on the **Enable** button to end the integration process for Google Drive u
 
 ![Enable Google Drive](/guide/public/images/integrations-channels/other/google-drive-integration/enable-button-final-step-1.webp)
 
-### For Example #
+### For Example 
 
 Here, you can see that a file is uploaded with a ticket reply.
 
