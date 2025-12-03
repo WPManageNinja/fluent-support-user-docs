@@ -3,19 +3,22 @@
 
 ---
 
-[**Freshdesk**](https://www.freshworks.com/freshdesk/) is also a customer service SaaS platform, and now, **Freshdesk users** can easily transfer their **tickets** to [**Fluent Support**](https://fluentsupport.com/) through an API. This article will guide you through the whole process.
+Freshdesk is a popular customer service SaaS platform. [Fluent Support](https://fluentsupport.com/) allows Freshdesk users to easily transfer their existing tickets directly into Fluent Support through an API connection. This article will guide you through the whole process.
 
-## Import Tickets From Freshdesk Into Fluent Support #
 
-To learn how to import tickets from **Freshdesk** into **Fluent Support** , follow the steps with screenshots below —
+## Import Tickets From Freshdesk 
 
-From the **Fluent Support Dashboard** , go to **Settings** or **Global Settings** , select the **Ticket Importer** , find **Freshdesk** for ticket migration, and click **Import Tickets**.
+From the **Fluent Support Dashboard**, go to **Settings** and select **Ticket Importer** from the left sidebar. Find **Freshdesk** in the list of migration options and click the **Import Tickets** button.
 
 ![Ticket migration from Freshdesk](/guide/public/images/migration/freshdesk-ticket-migrator/dashboard-freshdesk-import-tickets-scaled-1.webp)
 
-A popup page will appear asking for your **Freshdesk Domain** and **API Key.**
+## Configuring the Import
+
+A popup page will appear asking for your **Freshdesk Domain** and **API Key**. To proceed, you need to retrieve these credentials from your Freshdesk account.
 
 ![Freshdesk Domain and API Key](/guide/public/images/migration/freshdesk-ticket-migrator/freshdesk-popup-page-scaled-1.webp)
+
+### Get API Key and Domain
 
 To get the **Freshdesk Domain** and **API Key,** go to your [**Freshdesk**](https://www.freshworks.com/freshdesk/) account.  
 Go to the **Profile Icon** from the right-hand corner of the **Dashboard** and click on the **Profile Settings.**
@@ -34,8 +37,9 @@ Also, copy the Freshdesk’s **Domain** **URL** from the URL section.
 
 ![Freshdesk’s Domain URL](/guide/public/images/migration/freshdesk-ticket-migrator/copy-the-domain-url-1-scaled-1.webp)
 
-Return to the **Freshdesk** popup page from the **Fluent Support Dashboard**.  
-Paste the **Domain URL** and **API Key** copied from your Freshdesk account into the desired field, and click the **Import Tickets** button.
+### Authorize and Import
+
+Return to the **Freshdesk** popup page from the **Fluent Support Dashboard**. Paste the **Domain URL** and **API Key** copied from your Freshdesk account into the desired field, and click the **Import Tickets** button.
 
 ![Finally Import Tickets ](/guide/public/images/migration/freshdesk-ticket-migrator/paste-domain-api-key-scaled-1.webp)
 

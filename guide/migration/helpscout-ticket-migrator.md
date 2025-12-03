@@ -7,8 +7,6 @@
 
 ## Import Tickets From Help Scout 
 
-To learn how to import tickets from **Help Scout** into **Fluent Support** , follow the steps with screenshots below —
-
 From the **Fluent Support Dashboard**, go to **Settings** and select **Ticket Importer** from the left sidebar. Find **Help Scout** in the list of migration options and click the **Import Tickets** button.
 
 ![Ticket migration from HelpScout](/guide/public/images/migration/helpscout-ticket-migrator/access-ticket-importer-1.webp)
