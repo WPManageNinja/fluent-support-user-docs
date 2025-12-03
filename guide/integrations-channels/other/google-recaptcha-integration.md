@@ -5,7 +5,7 @@
 
 **[Fluent Support](https://fluentsupport.com/)** allows users to integrate with **Google** **ReCaptcha** to protect their websites from spam. This article will guide you through integrating Google ReCapcha with Fluent Support.
 
-## Accessing Google ReCapcha Console #
+## Accessing Google ReCapcha Console 
 
 Visit the [**Google reCAPCHA**](https://www.google.com/recaptcha/about/) website and click on the **v3 Admin Console**. It will take you to the “**Register a new site”** page where you can choose how to add reCaptcha to your website.
 
@@ -23,13 +23,20 @@ Now you will get a **Copy Site Key** and a **Copy Secret Key**. Copy these keys 
 
 ![Copy Site Key and a Copy Secret Key](/guide/public/images/integrations-channels/other/google-recaptcha-integration/copy-site-key-and-scret-key-scaled-1.webp)
 
-## Configure reCAPCHA into Fluent Support #
+## Configure reCAPCHA into Fluent Support 
 
-Go to **Global Settings** from your **Fluent** **Support** **Dashboard,** click on **Recapcha** from the left menu, and press the **Enable** option.
+Now, go to **Settings** from your **Fluent Support Dashboard**, click on **Recaptcha** from the left menu. Enable the reCAPTCHA integration by toggling the **Enable reCAPTCHA** switch.
 
-Now, select **ReCaptcha Version (V2 or V3)** , **paste the keys** you’ve copied before under the **Site key** and **Secret key** fields, and choose where to use it (Login or Signup Form).
+Once enabled, you will need to configure the following settings:
 
-Finally, click on the **Save Settings.**
+ * **reCAPTCHA Version:** Select either **Version 2** or **Version 3** depending on the keys you generated from Google.
+ * **Site Key:** **Paste** the Site Key you obtained from the Google reCAPTCHA admin console.
+ * **Secret Key:** **Paste** the Secret Key you obtained from the Google reCAPTCHA admin console.
+ * **Use reCAPTCHA on:** Choose where you want the **reCAPTCHA** challenge to appear by checking the boxes for **Login Form** and/or **Signup Form**.
+
+After entering your keys, you can verify if the integration works correctly by checking the **Validate Captcha** section at the bottom. It should display the "I'm not a robot" checkbox or badge.
+
+Finally, click on the **Save Settings** button in the top right corner to apply your changes.
 
 ![Configure reCAPCHA into Fluent Support](/guide/public/images/integrations-channels/other/google-recaptcha-integration/global-settings-recapcha-save-settings-scaled-1.webp)
 

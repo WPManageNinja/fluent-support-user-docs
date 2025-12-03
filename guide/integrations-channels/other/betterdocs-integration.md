@@ -12,7 +12,7 @@ This article will guide you through integrating [**BetterDocs**](https://betterd
 To integrate **BetterDocs** into **FluentSupport** , follow the steps with screenshots below —
 
 > [!NOTE]
-> Note: To ensure the BetterDocs integration works, the BetterDocs plugin must be installed and active on your website.
+> To ensure the BetterDocs integration works, the BetterDocs plugin must be installed and active on your website.
 
 From the **Fluent Support Dashboard**, go to **Settings** and click on **Ticket Form Config** from the left sidebar. This will open the **Ticket Form Settings** page.
 
