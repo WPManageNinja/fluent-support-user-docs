@@ -7,14 +7,14 @@
 
 In this guide, you’ll learn how to integrate FluentCart with Fluent Support, access purchase details directly from the ticket sidebar, create custom fields for FluentCart products and orders, and automate workflows to enhance your support process.
 
-## FluentCart Integration With Fluent Support #
+## FluentCart Integration With Fluent Support 
 
 To integrate FluentCart into Fluent Support, follow the steps with screenshots below —
 
 >[!Note]
 >You don’t need to perform any integration yourself. It will happen automatically if the **FluentCart** plugin is already installed on your site.
 
-### **FluentCart Purchase Widget in Ticket Sidebar** #
+### **FluentCart Purchase Widget in Ticket Sidebar** 
 
 When a customer submits a ticket, the integration automatically displays a **Purchases** widget in the agent’s ticket view sidebar. 
 
