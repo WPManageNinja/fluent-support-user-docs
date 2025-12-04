@@ -5,13 +5,11 @@
 
 **[FluentSupport](https://fluentsupport.com/)** allows you to manage your tickets using Telegram. You can see your New Tickets Notification in your Telegram groups or a person’s Inbox and can also reply from your Telegram inbox. This article will guide you through how to connect your Fluent Support with Telegram to manage your tickets in Telegram.
 
-## **Fluent Support Telegram Settings** #
+## **Fluent Support Telegram Settings** 
 
-To make your **Telegram Integration running** , you need to get the **Bot Token** and**Group Chat ID** from **Telegram**. To learn how to **Manage** your **Tickets** using **Telegram** , follow the guidelines accordingly –
+To make your **Telegram Integration running** , you need to get the **Bot Token** and **Group Chat ID** from **Telegram**. To learn how to **Manage** your **Tickets** using **Telegram** , follow the guidelines accordingly –
 
-### Get Bot Token #
-
-Simply follow the steps to get the **Bot Token** from **Telegram**.
+### Get Bot Token 
 
 First, send a text to [**@BotFather**](https://t.me/BotFather) or click the start button to start the bot in your Telegram application.
 
@@ -26,11 +24,11 @@ After finishing these steps, **@BotFather** will provide you with the **Bot Toke
 
 ![Get the Bot Token ID](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/get-the-bot-token-id-1.webp)
 
-### Get Group Chat ID #
+### Get Group Chat ID 
 
 Now you will need a **Group Chat ID** to send your notification. To do this, first, you need to **Create** a **Group** in **Telegram**.
 
-#### Creating A New Group On Telegram #
+#### Creating A New Group On Telegram 
 
 To create a new group in Telegram, follow the Screenshots & GIF below –
 
@@ -38,12 +36,12 @@ First, click the **New Group** button from the left-side Editor.
 
 ![New Group option](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/new-group-option-1.webp)
 
-Now,**** give**** a **name** to your group**** and**Add** the **Bot** that you **created in the previous** step**as a member** of the group. Press the **Create** button and your group will be created.
+Now, give a **name** to your group and add the **Bot** that you **created in the previous** step as a member of the group. Press the **Create** button and your group will be created.
 
 ![Create new telegram group](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/create-new-group-gif-to-webp-converter.webp)
 
 Now, give your bot “**Admin Acces** ” i.e., simply **make the bot admin** of your group chat.  
-**Follow the GIF** below, to learn how you can make your Bot Admin of your group.
+**Follow the GIF** below, to learn how you can make your **Bot Admin** of your group.
 
 ![Give Admin Access to Your created Bot.gif](https://github.com/ab-auth/fs-doc/blob/main/\(Telegram\)%20Give%20Admin%20Access%20to%20Your%20created%20Bot.gif?raw=true)
 
@@ -51,7 +49,7 @@ After giving your Bot the **“Admin Access”** you can see the preview from **
 
 ![Admin Preview](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/admin-preview-1-1.webp)
 
-#### Get Group Chat ID #
+#### Get Group Chat ID 
 
 Finally, to get the **Chat ID** of your group, add [**@GetIdsBot**](https://t.me/getidsbot) as a member of this same newly created group.
 
@@ -65,9 +63,9 @@ Remember, the **Chat ID starts with a minus sign (-)** , and you would have to *
 
 ![Get the Group Chat ID code](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/get-the-group-chat-id-code-1.webp)
 
-## Configure Telegram in Fluent Support #
+## Configure Telegram in Fluent Support 
 
-From your **Fluent Support Dashboard** , go to **Global Settings** , and click the **Notification Integrations** from the left sidebar. This will open the **Telegram** **Integration Settings** tab**.**
+From your **Fluent Support Dashboard** , go to **Global Settings** , and click the **Notification Integrations** from the left sidebar. This will open the **Telegram** **Integration Settings** tab**.
 
 Then, paste the**Bot Token** & **Group Chat ID** that you have copied before into the **Bot Token** & **Default Channel/Group Chat ID** field. Finally press the **Save Telegram Settings**.
 
