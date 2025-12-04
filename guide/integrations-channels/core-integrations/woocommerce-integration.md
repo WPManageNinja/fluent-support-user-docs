@@ -7,13 +7,14 @@
 
 This article will guide you through integrating [**WooCommerce**](https://woocommerce.com/) with [**Fluent Support**](https://fluentsupport.com/).
 
-## **WooCommerce Integration With FluentSupport** #
+## **WooCommerce Integration With FluentSupport** 
 
-To integrate WooCommerce into Fluent Support, follow the steps with screenshots below —
+To integrate WooCommerce into Fluent Support, follow the guidelines below —
 
-You don’t need to perform any integration yourself. It will happen automatically if the **WooCommerce** plugin is already installed on your site.
+> [!Note]
+> You do not need to perform any manual integration steps. The connection happens automatically if the WooCommerce plugin is already installed and active on your WordPress site.
 
-### **WooCommerce Product Information in your Ticket** #
+### **WooCommerce Product Information in your Ticket** 
 
 If you click on the **Product ID** under a specific ticket, a pop-up will appear that includes all the information about the product purchase.
 
@@ -25,9 +26,9 @@ You will find Billing details, Shipping details, Product details, and Price in t
 
 ![Billing, Shipping, Product & Price details](/guide/public/images/integrations-channels/core-integrations/woocommerce-integration/billing-info-scaled-1.webp)
 
-### Create Custom Fields for WooCommerce #
+### Create Custom Fields for WooCommerce 
 
-From the **Fluent** **Support** **Dashboard, g** o to **Global Settings** , select **Custom Fields** , and click the **\+ Add New Field** button.
+From the **Fluent Support Dashboard**, go to **Settings** and select **Custom Fields** from the left side. Click the **\+ Add New Field** button from the top right corner.
 
 ![Custom Fields from Global Settings under Fluent Support dashboard](/guide/public/images/integrations-channels/core-integrations/woocommerce-integration/global-settings-custom-fields-add-new-field-1.webp)
 
