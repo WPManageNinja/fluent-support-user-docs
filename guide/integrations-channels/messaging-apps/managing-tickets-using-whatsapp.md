@@ -5,36 +5,36 @@
 
 [**Fluent Support**](https://fluentsupport.com/) allows you to manage your tickets using **WhatsApp**. You can see your New Tickets notification in your **WhatsApp** account and reply to your ticket from this. This article will guide you in setting up **WhatsApp** integration with **FluentSupport**.
 
-## Fluent Support Twilio Settings #
+## Fluent Support Twilio Settings 
 
 To learn how to manage your Tickets using Twilio (WhatsApp), follow the steps with the screenshots below –
 
-### Sign Up On Twilio #
+### Sign Up On Twilio 
 
-First, you’ll need a **[Twilio](https://www.twilio.com/)** account to get started, go to their [**website**](https://www.twilio.com/) and **sign up for a free account.**  
-You will also need an **Email** **Address** and a **verified mobile** **number** to start with their free trial. So make sure to use a number you have access to.
+First, you’ll need a **[Twilio](https://www.twilio.com/)** account to get started, go to their [**website**](https://www.twilio.com/) and **sign up for a free account.** 
 
-### Get The **Account SID** And **Auth Token** From Twilio #
+>[!Note]
+>You will need an Email Address and a verified mobile number to start their free trial.
 
-Once you finish the signup and all Twilio Console configurations, you will get the **Account SID** and **Auth Token** for the **Twilio account** from the **Console** **page**. Now, copy this to use it later.
+### Get The **Account SID** And **Auth Token** From Twilio 
+
+Once you finish the signup and all Twilio Console configurations, you will get the **Account SID** and **Auth Token** for the **Twilio account** from the **Console** **page**. Now, **copy** this to use it for later.
 
 ![Account SID And Auth Token From Twilio](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/account-sid-and-auth-token-scaled-1.webp)
 
-### Get The WhatsApp Number from Twilio #
+### Get The WhatsApp Number from Twilio 
 
 Once you’re done copying the Twilio Console information, it’s time to get the **WhatsApp number**.
 
-Go to **Messaging** in the left-hand sidebar from the Console, expand the **Try it out** dropdown, and Select**Send a WhatsApp Message.**  
-After enabling the Sandbox, Twilio provides a **WhatsApp** **Number** and a **Code**.
+Go to **Messaging** in the left-hand sidebar from the Console, expand the **Try it out** dropdown, and Select**Send a WhatsApp Message.** After enabling the Sandbox, Twilio provides a **WhatsApp** **Number** and a **Code**.
 
 ![WhatsApp Number from Send a WhatsApp message under Twilio](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/get-whatsapp-number-from-messaging-tab-under-send-a-whatsapp-message-scaled-1.webp)
 
-But, before using this number, you have to set up the **WhatsApp Sandbox**. To **learn how to set up** WhatsApp Sandbox, follow the steps with screenshots below –
+But, before using this number, you have to set up the **WhatsApp Sandbox**. To learn how to set up WhatsApp Sandbox, follow the steps with screenshots below –
 
-#### Setup WhatsApp Sandbox #
+#### Setup WhatsApp Sandbox 
 
-Now, **create** a **WhatsApp contact with this number** and **send** the provided **code** from your desired **WhatsApp** **Account**.  
-This will **return a notification** to your **Twilio** **WhatsApp** **chat**. 
+Now, **create** a **WhatsApp contact with this number** and **send** the provided **code** from your desired **WhatsApp** **Account**. This will **return a notification** to your **Twilio** **WhatsApp** **chat**. 
 
 ![provided code in whatsApp contact](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/send-provided-code-in-whatsapp-contact-1-1.webp)
 
@@ -48,27 +48,25 @@ Now, click the **Next step** and go to the **User-initiated conversation** page.
 
 ![Pre-approved templates & next step button](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/pre-approved-templates-next-step-button-1-1.webp)
 
-And, this will show as another **Message notification** in the**Sandbox**.  
-But to get the message notification, you should **reply** to the**previously sent template message** from your**WhatsApp account**. 
+And, this will show as another **Message notification** in the**Sandbox**. But to get the message notification, you should **reply** to the**previously sent template message** from your**WhatsApp account**. 
 
 ![Send a Reply from Twilio](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/send-a-reply-from-twilio-2-1.webp)
 
-From here, you can also **send** **messages** to **Twilio WhatsApp chat**.   
-Now, again click the **Next step** and go to the **Wrap-up** page. 
+From here, you can also **send** **messages** to **Twilio WhatsApp chat**. Now, again click the **Next step** and go to the **Wrap-up** page. 
 
 ![User-intended conversation page](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/user-intended-conversation-page-2-1.webp)
 
-On this page, you will see that configuring**** your**WhatsApp Sandbox** is done**.**
+On this page, you will see that configuring your **WhatsApp Sandbox** is done.
 
 ![Wrap up page](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/wrap-up-page-1.webp)
 
 ## Configure Whatsapp (Twilio) in Fluent Support #
 
-Go to **Settings** or **Global Settings** from the **Fluent Support Dashboard** and select **Notification Integrations** from the left sidebar to find the **Twilio** option. Open the **Twilio Integration Settings** page**.**
+Go to **Settings** or **Global Settings** from the **Fluent Support Dashboard** and select **Notification Integrations** from the left sidebar to find the **Twilio** option. Open the **Twilio Integration Settings** page.
 
 Now fill in all the fields with the necessary information (**Account SID** , **Auth Token** , and **WhatsApp** **Number**) that you have copied before. You can **enable the checkboxes** if needed.
 
-Once you are done, do not forget to click the **Save Twilio Settings** button.
+Once you are done, do not forget to click the **Save Settings** button.
 
 ![Twilio Integration Settings](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/twilio-integration-settings-1.webp)
 
@@ -86,7 +84,7 @@ Once you are done, do not forget to click the **Save Twilio Settings** button.
 
 To reply to any tickets direcly from WhatsApp, follow the steps with screenshots below –
 
-Go to**** the**Sandbox Settings** tab from this page and **paste the URL** that you have copied before from the **Twilio Integration Settings** page inside the **WHEN A MESSAGE COMES IN** field.
+Go to the **Sandbox Settings** tab from this page and **paste the URL** that you have copied before from the **Twilio Integration Settings** page inside the **WHEN A MESSAGE COMES IN** field.
 
 Then, copy the **WhatsApp Number** from the **Sandbox Participants.**
 

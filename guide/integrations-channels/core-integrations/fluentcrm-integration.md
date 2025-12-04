@@ -7,13 +7,11 @@ Fluent CRM is a self-hosted **Email** M**arketing** A**utomation** plugin for **
 
 This article will guide you through the process of integrating [**FluentCRM**](https://fluentcrm.com/) into [**Fluent Support**](https://fluentsupport.com/).
 
-## Fluent CRM Integration With Fluent Support #
+## Fluent CRM Integration With Fluent Support 
 
-To learn how to integrate Fluent CRM into Fluent Support, follow the steps with the screenshots below —
+First, go to **Global Settings** from your **Fluent** **Support** **Dashboard,** click the **FluentCRM Integration** from the left menu, and check the **Enable FluentCRM Integration** option.
 
-Go to **Global Settings** from your **Fluent** **Support** **Dashboard,** click the **FluentCRM Integration** from the left menu, and check the **Enable FluentCRM Integration** option.
-
-Remember to set up the **Fluent** **CRM** integration, you must **Install** **and Activate** the **Fluent** **CRM** plugin in your **WordPress** site first. To learn the process of doing it, read this [**Documentation**](https://fluentcrm.com/docs/how-to-install-upgrade-and-activate-license/).
+>Remember to set up the **Fluent** **CRM** integration, you must **Install** **and Activate** the **Fluent** **CRM** plugin in your **WordPress** site first. To learn the process of doing it, read this [**Documentation**](https://fluentcrm.com/docs/how-to-install-upgrade-and-activate-license/).
 
 ![Enable FluentCRM Integration option.](/guide/public/images/integrations-channels/core-integrations/fluentcrm-integration/fluent-crm-settings-enable-1.webp)
 

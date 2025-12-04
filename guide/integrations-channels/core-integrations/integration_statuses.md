@@ -5,11 +5,9 @@
 
 [**Fluent Support**](https://fluentsupport.com/) gives you an amazing opportunity to view all your **Integration** **Statuses** together in one place. This article will guide you through where you can find your integration statuses.
 
-## Integration Statuses #
+## Integration Statuses 
 
-To learn where you can find all the **Integration** **Statuses** , follow the steps with the screenshot below —
-
-Go to **Global** **Settings** from the **Fluent** **Support** **Dashboard** and click on the **Integration** **Statuses** from the left sidebar.
+Go to **Settings** from the **Fluent Support Dashboard** and click on the **Integration Statuses** from the left sidebar.
 
   * Now, you can view a list of all **Plugins** and **Third-party Platforms** under the “**Integration Statuses** ” option that can be integrated with **Fluent Support** on your **WordPress** site.
 
