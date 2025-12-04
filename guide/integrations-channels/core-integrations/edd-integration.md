@@ -3,15 +3,22 @@
 
 ---
 
-**Easy Digital Downloads (EDD)** is a platform where you can easily manage store and sell products from WordPress. **Fluent Support** integrates with **EDD** to display a user’s purchase history, including **Product Name, Purchase Status,** and **Product Price** on the **Ticket Entries** page after a user purchases EDD.
+**Easy Digital Downloads (EDD)** is a platform for managing and selling digital products on WordPress. Fluent Support integrates with EDD to display a user’s purchase history—including **Product Name**, **Purchase Status**, and **Product Price—directly** on the **Ticket Entries** page.
 
 This article will guide you through integrating [**Easy Digital Downloads**](https://easydigitaldownloads.com/) with [**Fluent Support**](https://fluentsupport.com/).
 
-## **EDD Product Information in your Ticket** #
+## EDD Integration With Fluent Support
 
-You don’t need to perform any integration yourself. It will happen automatically if the **Easy Digital Downloads (EDD)** plugin is already installed on your site.
+To integrate EDD with Fluent Support, follow the guideline below:
 
-For example, when a support agent clicks on the **Eye Icon** next to the product price, he/she can view the user’s EDD purchase history with detailed information.
+> [!Note]
+> You do not need to perform any manual integration steps. The connection happens automatically if the Easy Digital Downloads (EDD) plugin is already installed and active on your site.
+
+## EDD Product Information in Tickets
+
+Once integrated, support agents can easily verify purchase details while viewing a ticket.
+
+For example, when a support agent clicks on the **Eye Icon** next to the product price within the ticket view, a pop-up will appear displaying the user’s detailed EDD purchase history.
 
 ![Preview of Easy Digital Downloads \(EDD\) Integration with Fluent Support  ](/guide/public/images/integrations-channels/core-integrations/edd-integration/easy-digital-dwnloads-1.webp)
 
