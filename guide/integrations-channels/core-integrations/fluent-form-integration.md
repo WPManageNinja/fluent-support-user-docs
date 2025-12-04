@@ -7,25 +7,24 @@
 
 This article will guide you through integrating [**Fluent Forms**](https://fluentforms.com/) with [**Fluent Support**](https://fluentsupport.com/).
 
-## Fluent Forms Integration With Fluent Support #
+## Fluent Forms Integration With Fluent Support 
 
 To learn how to integrate Fluent Support with Fluent Forms, follow the steps with screenshots below —
 
 ### **Enable Fluent Support Integrations**  
-#
 
 Before enabling **Fluent Support** Integrations, **Fluent Forms** must be installed and activated on your WordPress Site.  
-  
-To learn how to install & activate **Fluent Forms** [**click here**](https://wpmanageninja.com/docs/fluent-form/getting-started-wp-fluent-form/install-wp-fluent-form/), to **create beautiful and responsive online forms with just a few clicks, go through the[following steps](https://wpmanageninja.com/docs/fluent-form/how-to-use-wp-fluent-form/create-fluent-form/).**
 
-To enable Fluent Support integration, go to **Integrations** from the **Fluent Forms Dashboard,** search for **FluentSupport** , and click the **Toggle** button**.**
+>[!Note] 
+> To learn how to install & activate **Fluent Forms** [**click here**](https://fluentforms.com/docs/how-to-install-fluent-forms/), to **create beautiful and responsive online forms with just a few clicks, go through the [following steps](https://fluentforms.com/docs/how-to-create-a-form-with-fluent-forms/).**
 
-![Enable Fluent Support Integrations
-](/guide/public/images/integrations-channels/core-integrations/fluent-form-integration/integration-search-bar-enable-scaled-1.webp)
+To enable Fluent Support integration, go to **Integrations** from the **Fluent Forms Dashboard,** search for **FluentSupport** , and click the **Toggle** button.
 
-### **Configure Fluent Support Feed Inside A Particular Form** #
+![Enable Fluent Support Integrations](/guide/public/images/integrations-channels/core-integrations/fluent-form-integration/integration-search-bar-enable-scaled-1.webp)
 
-You must enable the **Fluent Support Feed** for a **particular form** to integrate Fluent Support. To do this follow the screenshot & GIF below —
+### **Configure Fluent Support Integration Feed** 
+
+You must enable the **Fluent Support Feed** for a **particular form** to integrate Fluent Support. 
 
 Go to **Forms** on **Fluent Forms Dashboard** , select a specific form, and click on **Settings.**
 
@@ -33,7 +32,7 @@ Go to **Forms** on **Fluent Forms Dashboard** , select a specific form, and clic
 
 Click on **Configure Integrations** , press the **Add New Integration** dropdown, and select **FluentSupport Integration.**
 
-![Enable Fluent Support Feed GIF](/guide/public/images/integrations-channels/core-integrations/fluent-form-integration/enable-fluent-support-feed-drift-video-1.gif)
+![Enable Fluent Support Feed GIF](/guide/public/images/integrations-channels/core-integrations/fluent-form-integration/enable-fluent-support-feed.webp)
 
 ### **Map All The FluentSupport Fields** #
 
