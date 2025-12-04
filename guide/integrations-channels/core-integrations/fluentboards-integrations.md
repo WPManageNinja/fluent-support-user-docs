@@ -9,7 +9,7 @@ This article will guide you through integrating [**FluentBoards**](https://fluen
 
 > Remember, you do not need to integrate the **FluentBoards** plugin manually with **Fluent Support** ; it happens automatically if the both plugins are already installed on your site.
 
-## **Adding Task from Fluent Support Ticket** #
+## **Adding Task from Fluent Support Ticket** 
 
 To learn how to integrate FluentBoards into Fluent Support, follow the steps with the screenshots below —
 
