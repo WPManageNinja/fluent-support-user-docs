@@ -7,7 +7,7 @@ Upgrade your **[Fluent Support](https://fluentsupport.com/pricing/)** experience
 
 Before installing **Fluent Support PRO** , make sure you have the [**Free** **version**](https://wordpress.org/plugins/fluent-support/) of **[FluentSupport](https://fluentsupport.com/)** installed on your site. To learn how to install and activate the free version of Fluent Support, check this [**Documentation**](https://fluentsupport.com/docs/how-to-install-activate-fluent-support/).
 
-## Upgrade to Fluent Support Pro Add-on #
+## Upgrade to Fluent Support Pro Add-on 
 
 To learn how to upgrade your **Fluent Support** to [**Fluent Support PRO**](https://fluentsupport.com/pricing/), follow the steps with the screenshots below —
 
@@ -20,7 +20,7 @@ Also, copy the **License Key** since you need it later to **Activate** your **PR
 
 ![Fluent Support License Key in WPmangeninja dashboard](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/fluentsupport-license-scaled.webp)
 
-## Install & Activate Fluent Support PRO #
+## Install & Activate Fluent Support PRO 
 
 To learn how to install & activate **Fluent Support PRO** on your WordPress site, follow the steps with the screenshots below —
 
@@ -50,15 +50,11 @@ But, you need the **Fluent Support License Key** to successfully activate all th
 
 ![Activate Fluent Support Pro plugin](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/activate-plugin-2-1.webp)
 
-## Activate Fluent Support Pro with License Key #
+## Activate Fluent Support Pro with License Key 
 
 To learn where to use the **Fluent Support License Key** to activate the **Fluent Support Pro** plugin, follow the steps with the screenshots below —
 
-From your Fluent Support’s **Dashboard** , click on**Global Settings.**
-
-![Global Settings of Fluent Support Dashboard](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/dashboard-global-settings-scaled-1.webp)
-
-From your left side panel, click on **License Management**.
+From your Fluent Support’s **Dashboard** , click on **Settings.** From your left side panel, click on **License Management**.
 
 ![License Management options](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/license-management-1-1.webp)
 

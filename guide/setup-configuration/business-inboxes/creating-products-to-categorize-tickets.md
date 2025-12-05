@@ -5,7 +5,7 @@
 
 **[Fluent Support](https://fluentsupport.com/)** , allows you to create multiple products for organizing your tickets and allows customers to select the relevant product when submitting their tickets. This article will help you through the process of creating products to categorize tickets.
 
-## Creating Products #
+## Creating Products 
 
 First, go to your Fluent Support **Dashboard** & click on **Settings**. Next, select **Products** section from the left sidebar and click on **\+ Add New** button to create a new product.
 

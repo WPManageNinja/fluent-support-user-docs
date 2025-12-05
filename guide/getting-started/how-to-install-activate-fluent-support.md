@@ -5,14 +5,14 @@
 
 ****[Fluent Support](https://fluentsupport.com/)**** is a **WordPress plugin** offering an efficient support ticketing system for fast, reliable, and effective customer support. This article will guide you through installing and activating Fluent Support on your WordPress website. Please follow the instructions for a successful installation.
 
-## Add Fluent Support To Your WordPress Site #
+## Add Fluent Support To Your WordPress Site 
 
 In your WordPress site, you can add the **Fluent Support** plugin in **two ways** : by adding it directly **from the WordPress Plugin directory** or uploading it **using a Zip file**.
 
 You can get started with the **[free version](https://wordpress.org/plugins/fluent-support/)** of **Fluent Support,** or if you want to purchase the **Fluent** **Support** **Pro** , **[check here](https://fluentsupport.com/docs/upgrade-to-fluent-support-pro-add-on/)**.
 s**Instructions for both Methods of Fluent Support installation are shown below —**
 
-### Install from the WordPress Plugin Directory #
+### Install from the WordPress Plugin Directory 
 
 To learn how to **install and activate Fluent Support** directly from the **WordPress Plugin directory** into your WordPress site, follow the steps with the screenshots below —
 
@@ -28,13 +28,13 @@ After installing, click on the **Activate** button. Done! Your Fluent Support pl
 
 ![Activate Fluent Support plugin](/guide/public/images/getting-started/how-to-install-activate-fluent-support/activate-plugin-1-1.webp)
 
-### Install by Uploading the Zip File #
+### Install by Uploading the Zip File 
 
 To install and activate the **Fluent Support PRO** version, you must **upload the Zip file** manually. Otherwise, you can add the free version simply from the WordPress Plugin directory as shown above.
 
 To learn how to **install and activate Fluent Support (PRO)** on a **WordPress** **Site** using the **Zip** file, check this **[Documentation](https://fluentsupport.com/docs/upgrade-to-fluent-support-pro-add-on/)**.
 
-### **Update Fluent Support** #
+### **Update Fluent Support** 
 
 You can easily update your Fluent Support Free or Pro versions anytime.  
 

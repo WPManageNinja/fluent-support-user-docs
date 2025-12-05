@@ -7,7 +7,7 @@ With the **WishList Member** plugin, you can easily create online courses, launc
 
 This article will guide you through integrating [**WishList Member**](https://wishlistmember.com/) with [**Fluent Support**](https://fluentsupport.com/).
 
-## **WishList Member Purchase Information In Your Ticket** #
+## **WishList Member Purchase Information In Your Ticket** 
 
 You do not need to integrate the **WishList Member** plugin manually with **Fluent Support** ; it happens automatically if the WishList Member plugin is already installed on your site.
 
