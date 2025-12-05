@@ -14,8 +14,8 @@ Go to the Fluent Support **Dashboard** & click on the **Business Inboxes** tab. 
 Add a relevant **Inbox Name** &**Email** (company name & business email) and select the **Support** **Channel**.
 
 > [!NOTE]
-> Keep the support channel **Web-Based** if you want to allow customers to create support tickets from the website only. To learn more, check this **[Documentation](/guide/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/)**.  
-> Or, choose **Web and Email based** **(Mailbox)** for email-based support ticket setup using email piping. For more details, check this **[Documentation](/guide/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox/)**.
+> Keep the support channel **Web-Based** if you want to allow customers to create support tickets from the website only. To learn more, check this **[Documentation](/guide/setup-configuration/business-inboxes/web-based-settings-in-business-inbox)**.  
+> Or, choose **Web and Email based** **(Mailbox)** for email-based support ticket setup using email piping. For more details, check this **[Documentation](/guide/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox)**.
 
 Once you are done, click the **Add Business Inbox** and your new business inbox will be added.
 
@@ -23,7 +23,7 @@ Once you are done, click the **Add Business Inbox** and your new business inbox 
 
 This way, you can add **Multiple** **Business** **Inboxes** for your multiple businesses.
 
-To ensure your website can deliver emails in the easiest, fastest, and most secure way from the **email address** that you use under the **Support Inbox Email** , we recommend using the **[FluentSMTP](https://fluentsmtp.com/)** plugin. To learn the basic use of the **FluentSMTP** plugin, check this [**Documentation**](/guide/getting-started/).
+To ensure your website can deliver emails in the easiest, fastest, and most secure way from the **email address** that you use under the **Support Inbox Email** , we recommend using the **[FluentSMTP](https://fluentsmtp.com/)** plugin. To learn the basic use of the **FluentSMTP** plugin, check this [**Documentation**](/guide/getting-started/how-to-install-activate-fluent-support).
 
 ![Business Inbox is added](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/final-look-of-multiople-business-inbox.webp)
 
