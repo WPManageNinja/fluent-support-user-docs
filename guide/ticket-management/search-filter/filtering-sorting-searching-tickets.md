@@ -3,11 +3,11 @@
 
 ---
 
-In ****[Fluent Support](https://fluentsupport.com/)** ,** you can easily **Filter, Sort, and Search** through your tickets, which makes it easier for you to find any tickets, and arrange the tickets in any order that is convenient for you. This article will guide you through the process of Filtering, Sorting, And Searching Tickets.
+In Fluent Support you can easily **Filter, Sort, and Search** through your tickets, which makes it easier for you to find any tickets, and arrange the tickets in any order that is convenient for you. This article will guide you through the process of Filtering, Sorting, And Searching Tickets.
 
-## Filtering, Sorting, And Searching Tickets #
+## Filtering, Sorting, And Searching Tickets 
 
-To learn how to**Filtering, Sorting, And Searching Tickets** , follow the steps with the screenshots below —
+To learn how to **Filtering, Sorting, And Searching Tickets** , follow the steps with the screenshots below —
 
 Go to your Fluent Support **Dashboard** & click on **Tickets.**
 
@@ -28,7 +28,7 @@ The **Ticket** **status** displays the current state of the tickets, indicating 
 Fluent Support allows adding custom ticket statuses to the dashboard using Fluent Support’s **Filterhook** feature. This feature helps support teams prioritize tickets effectively and manage their workload by sorting them based on custom status.
 
 To create a Custom Status, go to functions.php & add the code given below which you can also customize according to your requirements —
-[code] 
+```
     add_filter(‘fluent_support/ticket_status_groups’, function($statuses){
     
     $statuses[‘unread’] = [‘Unread’];
@@ -36,7 +36,7 @@ To create a Custom Status, go to functions.php & add the code given below which 
     return $statuses;
     
     });
-[/code]
+```
 
 ### **2\. Inbox** #
 
