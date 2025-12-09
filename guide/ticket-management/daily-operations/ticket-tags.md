@@ -1,9 +1,7 @@
 # Ticket Tags (Custom Tags)
 
 
----
-
-This article will guide you through the process of using the ”**Tags”** feature of **[Fluent Support](https://fluentsupport.com/)** so that you can easily create **Tags** that can help you categorize the tickets and assign certain tags to mark any tickets.
+This article will guide you through the process of using the ”**Tags”** feature of Fluent Support so that you can easily create **Tags** that can help you categorize the tickets and assign certain tags to mark any tickets.
 
 ## How To Create Tags #
 
