@@ -3,17 +3,17 @@
 
 ---
 
-A [**Workflow/Automation**](https://fluentsupport.com/docs/workflows-automations/) is a sequence of tasks that can be done [**Manually**](https://fluentsupport.com/docs/manual-workflow/) or **Automatically** using certain triggers and conditions to avoid performing the same actions repeatedly. This article will guide you through the process required to learn how to create**** the**Workflow Automatic** in **[Fluent Support](https://fluentsupport.com/).**
+A [**Workflow/Automation**](https://fluentsupport.com/docs/workflows-automations/) is a sequence of tasks that can be done [**Manually**](https://fluentsupport.com/docs/manual-workflow/) or **Automatically** using certain triggers and conditions to avoid performing the same actions repeatedly. This article will guide you through the process required to learn how to create  the **Automatic Workflow** in **[Fluent Support](https://fluentsupport.com/).**
 
 ## Create An Automatic Workflow #
 
 To learn how to create a new workflow automatically, follow the steps with screenshots below —
 
-From the **Fluent Support Dashboard,** go to **Workflows** and click the **\+ Add New Workflow** button to create a new workflow.
+From the **Fluent Support Dashboard,** go to **Workflows** and click the **\+ Create New** button to create a new workflow.
 
 ![Workflows from Fluent Support Dashboard](/guide/public/images/workflows-automation/automatic-workflow/dashboard-workflow-add-new-automatic-workflow-1.webp)
 
-Give a **Name** to your workflow**,** choose **Automatic** type, and click on the **Continue** button to create it.
+Give a **Name** to your workflow and choose workflow type **Automatic**, and click on the **Create Workflow** button to create it.
 
 ![Popup page for adding a new workflow](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:automatic-popup-2.webp)
 
@@ -76,11 +76,11 @@ Now, set the **Action/s** (Task) from the dropdown list for **Workflow** to perf
 
 ![Set Actions \(Tasks\) for workflow](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:set-actions-6.webp)
 
-Multiple actions can be set if needed. To do this, click the **Add Another Action** button and follow the same process.
+Multiple actions can be set if needed. To do this, click the **+ Add Another Action** button and follow the same process.
 
 ![Add multiple action](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow-set-multiple-actions-7.webp)
 
-You can also **Delete** any existing action. To do this, expand the desired action by pressing it and then click the **Trash** **Icon**.
+You can also **Delete** any existing action. To do this, expand the desired action by pressing it and then click the **Delete Action**.
 
 ![Delete any existing action](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:delete-actions-8.webp)
 
@@ -105,6 +105,8 @@ To see how **Automatic Workflow** runs in **Fluent Support Portal** follow the s
 For example, I set the **Trigger** as “**On Ticket Creation”** , **Condition** as “**Ticket Title that contains Refund word** ”**,** and **Action** as “**Add Bookmarks** ” in this **Workflow.**
 
 Now, you can see that the **Ticket** shown in the screenshot below is **Automatically** **Bookmarked** after the **Creation** as it has the **Refund** word in the **Title.**
+
+**Note**: When you bookmark a ticket and select another agent, you’ll see the selected agent in the **Watchers** list.
 
 ![Refund Ticket is bookmarked automatically ](/guide/public/images/workflows-automation/automatic-workflow/ticket-bookmarked-with-automatic-workflow-12.webp)
 

@@ -3,11 +3,11 @@
 
 ---
 
-This article will help you learn the required process of **how to Deactivate or Delete** (**Uninstall**) the [**Fluent Support**](https://fluentsupport.com/)**** plugin from your WordPress Website. Follow the guidelines accordingly.
+This article will help you learn the required process of **how to Deactivate or Delete** (**Uninstall**) the Fluent Support plugin from your WordPress Website. Follow the guidelines accordingly.
 
-## How To Deactivate/Delete the Fluent Support #
+## How To Deactivate/Delete the Fluent Support 
 
-To learn how to **Deactivate and Delete** **Fluent** **Support** directly from the **WordPress Plugin Directory** in your WordPress site, follow the steps with the screenshots below —
+To learn how to **Deactivate and Delete** Fluent Support directly from the **WordPress Plugin Directory** in your WordPress site, follow the steps with the screenshots below —
 
 Go to the **Plugins** from your **WordPress Dashboard** and click the **Installed Plugin** button.
 
@@ -26,7 +26,4 @@ Remember, you must deactivate any plugin before deleting it. Although deletion r
 The deleted plugin data remains in your website database and when you reactivate or reinstall it, all of its data will be retrieved. For permanent removal, contact our [**@support team**](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/).
 
 ![Delete Fluent Support plugin](/guide/public/images/getting-started/how-to-deactivate-or-delete-the-fluent-support/delete-plugin1-scaled-1.webp)
-
-
----
 
