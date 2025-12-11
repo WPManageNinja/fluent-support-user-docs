@@ -1,13 +1,10 @@
 # Close Ticket Silently
 
+Fluent Support has an automatic ticket-closing feature that notifies the users via email when their ticket is closed. But, the **Close Ticket Silently** feature allows the support agents to close tickets silently without sending any email notification. This article will guide you through the whole process of doing it.
 
----
+## Close Ticket Silently 
 
-****[Fluent Support](https://fluentsupport.com/)**** has an automatic ticket-closing feature that notifies the users via email when their ticket is closed. But, the “**Close Ticket Silently** ” feature allows the support agents to **close** tickets silently without sending any **email n** otification. This article will guide you through the whole process of doing it.
-
-## Close Ticket Silently #
-
-To learn how you can **close** your **ticket** **silently** using **Fluent Support** , follow the steps with the screenshots below —
+To learn how you can **close** your **ticket silently** using Fluent Support, follow the steps with the screenshots below —
 
 First, go to your **Fluent Support** and click on **Tickets**
 
