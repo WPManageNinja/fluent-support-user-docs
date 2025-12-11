@@ -10,7 +10,9 @@
 In your WordPress site, you can add the **Fluent Support** plugin in **two ways** : by adding it directly **from the WordPress Plugin directory** or uploading it **using a Zip file**.
 
 You can get started with the **[free version](https://wordpress.org/plugins/fluent-support/)** of **Fluent Support,** or if you want to purchase the **Fluent** **Support** **Pro** , **[check here](https://fluentsupport.com/docs/upgrade-to-fluent-support-pro-add-on/)**.
-s**Instructions for both Methods of Fluent Support installation are shown below —**
+
+
+Instructions for both Methods of Fluent Support installation are shown below —
 
 ### Install from the WordPress Plugin Directory 
 
