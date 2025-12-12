@@ -31,7 +31,7 @@ You will get the following Actions from the Dropdown List –
   * Remove Bookmarks
   * Change Mailbox
 
-For example, here I chose the **Close Tickets** action. You can choose any option according to your needs.
+For example, here I selected the **Close Ticket** action. You can choose any option according to your needs.
 
 ![Action/s \(Tasks\) for performing Workflow](/guide/public/images/workflows-automation/manual-workflow/actions-tasks-for-performing-manual-workflow-3.webp)
 
