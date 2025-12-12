@@ -50,5 +50,3 @@ Here, you can see all the **Tickets** are **Imported** and the migration date & 
 
 This is how you can migrate your all tickets from **Zendesk** to **Fluent Support**!  
 
----
-
