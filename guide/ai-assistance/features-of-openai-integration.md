@@ -1,15 +1,12 @@
 # Features of OpenAI Integration
 
+The features of [OpenAI](https://openai.com/) allow users to generate ticket responses, enhance their own writings, and summarize an entire conversation with users including their satisfaction status level, effortlessly with simple commands and AI-generated prompts. This article will help you learn in detail about using all AI features of OpenAI in a Ticket of Fluent Support.
 
----
-
-The features of**[OpenAI](https://openai.com/)**[ ](https://openai.com/)allow users to generate ticket responses, enhance their own writings, and summarize an entire conversation with users including their satisfaction status level, effortlessly with simple commands and AI-generated prompts. This article will help you learn in detail about using all AI features of OpenAI in a Ticket of **[Fluent Support](https://fluentsupport.com/).**
-
-## OpenAI Features In a Ticket of Fluent Support #
+## OpenAI Features In a Ticket of Fluent Support
 
 Within a specific ticket, you will find three key features of OpenAI designed to simplify ticket responses. To learn the detailed instructions for using these features within a specific ticket, refer to the steps with screenshots below – 
 
-Before starting the process, ensure you integrate your OpenAI account with your Fluent Support plugin in your WordPress Site. To learn how you can integrate the OpenAI with Fluent Support, read this [**Documentation**](https://fluentsupport.com/docs/openai-integration-with-fluent-support/). 
+Before starting the process, ensure you integrate your OpenAI account with your Fluent Support plugin in your WordPress Site. To learn how you can integrate the OpenAI with Fluent Support, read this [Documentation](https://fluentsupport.com/docs/openai-integration-with-fluent-support/). 
 
 First, go to **Tickets** from the **Fleunt Support Dashboard,** open your**** desired**** ticket, and you will get all your AI features. These are:
 
@@ -25,7 +22,7 @@ Once you are done, click on the **Add Reply** or **Reply and Close** button, and
 
 **A detailed explanation of the Features of OpenAI mentioned above is given below:**
 
-### AI Assistant A: #
+### AI Assistant A: 
 
 This AI assistant will give you two options for summarizing an entire ticket conversation including their satisfaction status level. These are:
 

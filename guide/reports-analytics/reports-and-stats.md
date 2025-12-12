@@ -1,11 +1,8 @@
 # Reports and Stats
 
+The **“Reports”** is an advanced statistical analytics and reporting feature of Fluent Support. It provides an accurate view of the entire team’s performance and even allows you to track and measure the performance of individual support executives. This article will give you a focused overview of the dashboard in the **“Reports”** feature.
 
----
-
-The **“Reports”** is an advanced statistical analytics and reporting feature of ******[Fluent Support](https://fluentsupport.com/)******. It provides an accurate view of the entire team’s performance and even allows you to track and measure the performance of individual support executives. This article will give you a focused overview of the dashboard in the **“Reports”** feature.
-
-## Reports #
+## Reports
 
 You will find the “**Reports”** option from the top-left menu on your Fluent Support’s **Dashboard**. This will display **Five** different sections of ticket statistics and reports. These are:
 
@@ -21,7 +18,7 @@ And, the **‘Current Overall’** section under the **‘Agents Reports Summary
 
 ![Reports from Fluent Support's Dashboard](/guide/public/images/reports-analytics/reports-and-stats/dashboard-reports-new-scaled-1.webp)
 
-### Personal Reports #
+### Personal Reports
 
 This **‘Personal Reports’** section displays the ticket statistics and personal reports of each support agent. These reports are specific to the individual agent, who will be able to view their report here.
 
@@ -31,7 +28,7 @@ This **‘Personal Reports’** section displays the ticket statistics and perso
 
 ![Single agent's personal reports](/guide/public/images/reports-analytics/reports-and-stats/personal-reports-new-1.webp)
 
-### Agents Reports #
+### Agents Reports
 
 The **‘Agent Reports’** section shows the overall report of all the agents, and it is only accessible to the support agent or supervisor who has [**permission**](https://fluentsupport.com/docs/permission-management-for-agents/) to view this page.
 
@@ -42,7 +39,7 @@ The **‘Agent Reports’** section shows the overall report of all the agents, 
 
 ![All agents' report summary](/guide/public/images/reports-analytics/reports-and-stats/agents-reports-new-1.webp)
 
-#### **Agents Report Summary** #
+#### Agents Report Summary
 
 At the bottom, you will find a summary of each agent’s performance. Also, you can utilize the **Date** filter to view statistics for a specific period here as well.
 
@@ -52,13 +49,13 @@ There, you will find the **Settings** options as well. Use this to select the ag
 
 ![Settings options for viewing Agent's Summary](https://github.com/ab-auth/fs-doc/blob/main/\(Reporst\)%20DRIFT-VIDEO-3914819-4019373-1709013601.gif?raw=true)
 
-To **Export** your data, can download the agents’ summary reports by clicking on the **Download** **Icon** located at the right corner of the **Agents Reports Summary** tab.
+To **Export** your data, can download the agents’ summary reports by clicking on the **Download Icon** located at the right corner of the **Agents Reports Summary** tab.
 
 You will have the option to choose specific data for export. If no column is selected, all data will be exported.
 
 ![Export Agents' Summary Reports](/guide/public/images/reports-analytics/reports-and-stats/export-report-drift-video-3914823-4019377-1709014734-1.gif)
 
-### Product Reports #
+### Product Reports
 
 The ’**Product Reports’** section shows the overall report of all the ticket statistics and summaries based on products.
 
@@ -70,7 +67,7 @@ The ’**Product Reports’** section shows the overall report of all the ticket
 
 ![Reports based on products](/guide/public/images/reports-analytics/reports-and-stats/product-reports-new-1.webp)
 
-### Business Boxes Reports #
+### Business Boxes Reports
 
 The **‘Business Boxes Reports’** section shows the overall report of all the ticket statistics and summaries based on Business Boxes’ tickets.
 
@@ -82,18 +79,15 @@ The **‘Business Boxes Reports’** section shows the overall report of all the
 
 ![Reports based on Business Boxes ](/guide/public/images/reports-analytics/reports-and-stats/business-boxes-reports-new-1.webp)
 
-### Activity Reports #
+### Activity Reports
 
 The **‘Activity Reports’** section shows the overall report of all the ticket statistics and summaries using a calendar graph based on customers’ and agents’ activities.
 
-  * In this section, you can review **All** **Tickets** , **Agent** **Response** , and **Customer** **Response Stats**
+  * In this section, you can review **All Tickets** , **Agent Response** , and **Customer Response Stats**
   * You can utilize the **Date** filter to view ticket activity trends statistics for a specific period. 
   * Here, fewer activities are represented by **light** colors, while more activities are represented by **dark** colors.
   * On the right side, you’ll see a **Quick Stats** report that displays the total ticket activity statistics for the Support Agents or Customers based on what stats you chose to see, and a **Today Stats** report that presents the overall ticket statistics for the current day.
-  * Additionally, inside **Agent** **Response** options, you can use the **All Agent** filter to select the individual agent’s statistics you want to view
+  * Additionally, inside **Agent Response** options, you can use the **All Agent** filter to select the individual agent’s statistics you want to view
 
 ![Reports based on Customers and Agents' Activities](/guide/public/images/reports-analytics/reports-and-stats/activity-reports-new-1.webp)
-
-
----
 
