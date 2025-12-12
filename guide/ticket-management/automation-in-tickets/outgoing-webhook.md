@@ -6,15 +6,15 @@ The **Outgoing Webhook** feature of Fluent Support allows sending data from Flue
 
 To learn how to send data using Outgoing Webhook, follow the steps with screenshots below —
 
-You have to send data through either **Manual** or **Automatic** workflow. To ensure which one is appropriate for you, check this **[Documentation](https://fluentsupport.com/docs/workflows-automations/)**.
+You have to send data through either **Manual** or **Automatic** workflow. To ensure which one is appropriate for you, check this [Documentation](https://fluentsupport.com/docs/workflows-automations/).
 
 Go to **Workflows** from the **Fluent Support Dashboard** navbar more section, and click the **+ Create new** button and a popup will appear.
 
 ![Add workflow from Fluent Support Dashboard](/guide/public/images/ticket-management/automation-in-tickets/outgoing-webhook/outgoing-webhook-1.webp)
 
-You can choose between [**Manual**](https://fluentsupport.com/docs/manual-workflow/) and **[Automatic](https://fluentsupport.com/docs/automatic-workflow/)** workflows according to your needs (e.g., I selected the **Automatic** type to run the Workflow automatically).
+You can choose between [Manual](https://fluentsupport.com/docs/manual-workflow/) and [Automatic](https://fluentsupport.com/docs/automatic-workflow/) workflows according to your needs (e.g., I selected the **Automatic** type to run the Workflow automatically).
 
-Now, enter a Name for the **WorkFlow,** select the **WorkFlow** **Type** , and click Continue.
+Now, enter a Name for the **WorkFlow,** select the **WorkFlow Type** , and click Continue.
 
 ![Fill all information and click continue](/guide/public/images/ticket-management/automation-in-tickets/outgoing-webhook/outgoing-webhook-2.webp)
 
@@ -25,7 +25,7 @@ For example, I chose the **On Ticket Creation** trigger so that the Workflow aut
 Then, you have to set a **Condition** that will trigger the Workflow. Multiple conditions can be set using the **\+ OR** and **\+ AND** options. You can also delete any existing condition by clicking the **Trash Icon** button.
 
 
-Now, select the “**Trigger** **Outgoing** **Webhook”** action from the dropdown list for **Workflow** to perform.
+Now, select the **Trigger Outgoing Webhook** action from the dropdown list for **Workflow** to perform.
 
 This will expand to show additional fields. Once you fill in all the necessary fields, click the **Save** button.
 
@@ -33,7 +33,7 @@ This will expand to show additional fields. Once you fill in all the necessary f
 
 You will get the following Fields to fill in —
 
-  * **Webhook URL:** Enter the **URL** of your **Third-party application** (e.g., [**Zapier**](https://zapier.com/), [**Pably**](https://www.pabbly.com/connect/)).
+  * **Webhook URL:** Enter the **URL** of your **Third-party application** (e.g., [Zapier](https://zapier.com/), [Pably](https://www.pabbly.com/connect/)).
   * **Content Type** : Choose the data type as **Form** if you want to map the form submission entries. Otherwise, use **JSON.**
   * **Include Data:** Select the information you want to include for sending.
   * **Action Title:** Lastly, add a name to the action.
