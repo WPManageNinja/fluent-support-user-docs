@@ -36,6 +36,3 @@ Your **Front End Agent Portal** will appear as the screenshot shown below —
 
 ![Preview of Front End Agent Portal](/guide/public/images/ticket-management/productivity-tools/forntend-agent-portal/front-end-agent-portal-1.webp)
 
-
----
-

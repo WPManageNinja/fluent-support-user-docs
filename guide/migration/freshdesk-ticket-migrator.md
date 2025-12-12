@@ -1,9 +1,6 @@
 # Freshdesk Ticket Migrator
 
-
----
-
-Freshdesk is a popular customer service SaaS platform. [Fluent Support](https://fluentsupport.com/) allows Freshdesk users to easily transfer their existing tickets directly into Fluent Support through an API connection. This article will guide you through the whole process.
+Freshdesk is a popular customer service SaaS platform. Fluent Support allows Freshdesk users to easily transfer their existing tickets directly into Fluent Support through an API connection. This article will guide you through the whole process.
 
 
 ## Import Tickets From Freshdesk 
@@ -20,7 +17,7 @@ A popup page will appear asking for your **Freshdesk Domain** and **API Key**. T
 
 ### Get API Key and Domain
 
-To get the **Freshdesk Domain** and **API Key,** go to your [**Freshdesk**](https://www.freshworks.com/freshdesk/) account.  
+To get the **Freshdesk Domain** and **API Key,** go to your [Freshdesk](https://www.freshworks.com/freshdesk/) account.  
 Go to the **Profile Icon** from the right-hand corner of the **Dashboard** and click on the **Profile Settings.**
 
 ![Profile Settings of Freshdesk](/guide/public/images/migration/freshdesk-ticket-migrator/profile-icon-profile-settings-scaled-1.webp)
@@ -33,7 +30,7 @@ Then the **API key** will come. Simply, copy the **API key** from here.
 
 ![Your API key](/guide/public/images/migration/freshdesk-ticket-migrator/copy-api-key-scaled-1.webp)
 
-Also, copy the Freshdesk’s **Domain** **URL** from the URL section.
+Also, copy the Freshdesk’s **Domain URL** from the URL section.
 
 ![Freshdesk’s Domain URL](/guide/public/images/migration/freshdesk-ticket-migrator/copy-the-domain-url-1-scaled-1.webp)
 
@@ -49,7 +46,6 @@ Here, you can see all the **Tickets** are **Imported** and the migration date & 
 
 ![Preview of Imported Tickets from Freshdesk](/guide/public/images/migration/freshdesk-ticket-migrator/imported-tickets-from-freshdesk-1.webp)
 
-This is how you can migrate your all tickets from **Freshdesk** to **Fluent Support**!  
+This is how you can migrate your all tickets from **Freshdesk** to Fluent Support!  
 
----
 

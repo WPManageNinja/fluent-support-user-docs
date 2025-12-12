@@ -1,11 +1,8 @@
 # Manual Workflow
 
+A [**Workflow/Automation**](https://fluentsupport.com/docs/workflows-automations/) is a sequence of tasks that can be done **Manually** or **[Automatically](https://fluentsupport.com/docs/automatic-workflow/)** using certain triggers and conditions to avoid performing the same actions repeatedly. This article will guide you through the process required to learn how to create the **Workflow Manually** in Fluent Support.
 
----
-
-A [**Workflow/Automation**](https://fluentsupport.com/docs/workflows-automations/) is a sequence of tasks that can be done **Manually** or **[Automatically](https://fluentsupport.com/docs/automatic-workflow/)** using certain triggers and conditions to avoid performing the same actions repeatedly. This article will guide you through the process required to learn how to create**** the**Workflow Manually** in **[Fluent Support](https://fluentsupport.com/).**
-
-## Create A Manual Workflow #
+## Create A Manual Workflow 
 
 To learn how to create a new workflow manually, follow the steps with screenshots below —
 
@@ -13,13 +10,13 @@ From the **Fluent Support Dashboard,** go to **Workflows** and click the **\+ Cr
 
 ![Workflows from Fluent Support Dashboard](/guide/public/images/workflows-automation/manual-workflow/workflows-from-fluent-support-dashboard-1.webp)
 
-Give a **Name** to your workflow**,** choose **Manual** type, and click on the **Create Workflow** button to create it.
+Give a **Name** to your workflow, choose **Manual** type, and click on the **Create Workflow** button to create it.
 
 ![Popup page for adding a new workflow](/guide/public/images/workflows-automation/manual-workflow/popup-page-for-adding-a-new-manual-workflow-2.webp)
 
 Now, set the **Action/s** (Task) from the dropdown list for **Workflow** to perform. Once you fill in all the necessary fields, click the **Save** button.
 
-**You will get the following Actions from the Dropdown List –**
+You will get the following Actions from the Dropdown List –
 
   * Add Response
   * Assign Agent
@@ -56,11 +53,11 @@ Also, you can **set the sequence of your added workflow actions/tasks** using th
 
 Once you set up the actions, **Publish** it by enabling the **Toggle** button at the top right corner to run the **Workflow**. Otherwise, it will be saved as a draft only.
 
-To save any new changes always press the **Update Workflow** button **right** **next to the toggle**.
+To save any new changes always press the **Update Workflow** button right next to the toggle.
 
 ![Publish the workflow](/guide/public/images/workflows-automation/manual-workflow/publish-button-update-workflow-scaled-8.webp)
 
-## Run Your Workflow In A Specific Ticket #
+## Run Your Workflow In A Specific Ticket
 
 To learn how to run the created workflows in a specific ticket, follow the steps with screenshot & GIF below —
 
@@ -72,7 +69,5 @@ Here, you will find the **Workflow Action** you have created before, click on it
 
 ![Run the Workflow](/guide/public/images/workflows-automation/manual-workflow/run-the-manual-workflow-drift-video-1.gif)
 
-This is how you can create and run **Manual Workflow** in **Fluent Support**!  
-
----
+This is how you can create and run **Manual Workflow** in Fluent Support!  
 

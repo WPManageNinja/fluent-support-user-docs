@@ -1,9 +1,6 @@
 # Zendesk Ticket Migrator
 
-
----
-
-Zendesk is a comprehensive SaaS platform for customer service solutions. [**Fluent Support**](https://fluentsupport.com/) allows Zendesk users to easily transfer their existing tickets directly into Fluent Support using an API connection. This article will guide you through the migration process.
+Zendesk is a comprehensive SaaS platform for customer service solutions. Fluent Support allows Zendesk users to easily transfer their existing tickets directly into Fluent Support using an API connection. This article will guide you through the migration process.
 
 ## Import Tickets From Zendesk 
 
@@ -19,7 +16,7 @@ A popup page will appear asking for your **Zendesk Domain, Email Address,** and 
 
 ### Retrieve API Credentials from Zendesk
 
-To get the **Zendesk Domain** and **API Key,** login to your [**Zendesk**](https://www.zendesk.com/) account. Press the **Settings Icon** from the left sidebar and click the **Go to Admin Center**.
+To get the **Zendesk Domain** and **API Key,** login to your [Zendesk](https://www.zendesk.com/) account. Press the **Settings Icon** from the left sidebar and click the **Go to Admin Center**.
 
 ![Zendesk Settings Icon](/guide/public/images/migration/zendesk-ticket-migrator/settings-icon-go-to-admin-center-button-scaled-1.webp)
 

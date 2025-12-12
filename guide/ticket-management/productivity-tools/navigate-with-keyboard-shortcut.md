@@ -1,8 +1,5 @@
 # Navigate With Keyboard Shortcuts
 
-
----
-
 FluentSupport now lets you navigate the Ticket section faster using Keyboard Shortcuts. No additional setup is needed simply use the shortcuts listed below in your Ticket section to perform specific actions.
 > This Keyboard Shortcut only works on Tickets Section and inside a Ticket.
 ## **Access the Keyboard Shortcut** #
