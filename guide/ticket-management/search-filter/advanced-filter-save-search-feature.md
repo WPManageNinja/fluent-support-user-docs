@@ -27,5 +27,3 @@ A pop-up will appear on the left side of your screen, showing all your saved sea
 To modify a saved search, click the pencil icon next to it, and to delete a saved search, click the delete icon next to its name. If you want to close the pop-up, simply click the **Close** button.
 
 ![](/guide/public/images/ticket-management/search-filter/advanced-filter-save-search-feature/save-filter-4.webp)
-
-

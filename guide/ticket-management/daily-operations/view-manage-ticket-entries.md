@@ -74,5 +74,3 @@ A brief explanation of the settings shown in the screenshot above is given below
   * **L** ) This section shows all the **Previous Conversations** with the customers.
 
 
----
-

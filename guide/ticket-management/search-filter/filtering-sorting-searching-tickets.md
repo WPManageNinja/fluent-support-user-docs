@@ -1,8 +1,5 @@
 # Filtering, Sorting & Searching Tickets
 
-
----
-
 In Fluent Support you can easily **Filter, Sort, and Search** through your tickets, which makes it easier for you to find any tickets, and arrange the tickets in any order that is convenient for you. This article will guide you through the process of Filtering, Sorting, And Searching Tickets.
 
 ## Filtering, Sorting, And Searching Tickets 
