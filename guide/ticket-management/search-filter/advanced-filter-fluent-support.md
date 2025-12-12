@@ -30,7 +30,6 @@ You can delete any specific condition by clicking the **Delete** **Icon**. Or, y
 
 ![ + Add/Or button](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/advanced-filter-4.webp)
 
-
 To run your conditions, always press the **Apply Filter** button after completing the settings.
 
 ## Properties And Their Items To Set Conditions #
@@ -111,5 +110,3 @@ For example, here I select the **Ticket** property, the **Title** item (where I 
 ![Advanced Filtered Ticket](/guide/public/images/ticket-management/search-filter/advanced-filter-fluent-support/advanced-filter-8.webp)
 
 By following the same process, you set as many conditions as you want to filter your tickets.
-
-

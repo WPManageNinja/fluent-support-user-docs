@@ -1,9 +1,6 @@
 # Incoming Webhook
 
-
----
-
-The **Incoming Webhook** feature of [**Fluent Support**](https://fluentsupport.com/) allows users to create tickets automatically from an external platform or server using a **FORM-type** request format. This article will guide you through the whole process of doing it.
+The **Incoming Webhook** feature of Fluent Support allows users to create tickets automatically from an external platform or server using a **FORM-type** request format. This article will guide you through the whole process of doing it.
 
 ### Get The Incoming Webhook Link 
 

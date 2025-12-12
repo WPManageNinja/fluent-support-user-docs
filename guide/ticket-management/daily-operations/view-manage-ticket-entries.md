@@ -1,9 +1,6 @@
 # View & Manage Ticket Entries
 
-
----
-
-**“Tickets”** allows you to view and manage all ticket entries in **[Fluent Support](https://fluentsupport.com/)**. Also, you can have some specific user summary & customer info in one place. This article will help you to learn about the overview of this **“Tickets”** feature.
+Tickets allows you to view and manage all ticket entries in Fluent Support. Also, you can have some specific user summary & customer info in one place. This article will help you to learn about the overview of this **“Tickets”** feature.
 
 ## Tickets 
 
@@ -22,21 +19,21 @@ After going to “**Tickets”** you will find another four **Sections** to view
 
 ![All Ticket's Sections](/guide/public/images/ticket-management/daily-operations/view-manage-ticket-entries/four-sections-1.webp)
 
-## Settings Inside A Specific Ticket #
+## Settings Inside A Specific Ticket 
 
 To learn about all settings inside a specific ticket, follow the guidelines below —
 
 Click on the preferred ticket from the list of tickets, and then the individual ticket page will open up, displaying the ticket entries along with all the customer data.
 
-### Settings Located On The Left-Hand Side Of A Ticket #
+### Settings Located On The Left-Hand Side Of A Ticket 
 
 ![Left-hand side settings](/guide/public/images/ticket-management/daily-operations/view-manage-ticket-entries/left-side-settings-scaled.webp)
 
 A brief explanation of the settings shown in the screenshot above is given below —
 
-**A)** **Reply:** This allows you to provide the **Reply/Replies** to your ticket. To reply to a ticket, use the “**Chat Icon”** to open the text editor. You can format your response in bold and italic. You can attach **Links**.   
+**A) Reply:** This allows you to provide the **Reply/Replies** to your ticket. To reply to a ticket, use the **Chat Icon** to open the text editor. You can format your response in bold and italic. You can attach **Links**.   
   
-You can add media with the “**Add Media”** option or click the **Click to Upload** to upload any file externally.   
+You can add media with the **Add Media** option or click the **Click to Upload** to upload any file externally.   
 Or, you can directly **Paste** /**Attach** any **copied** **files** by typing “**Command+V** ” (for MAC) or “**Ctrl+V** ” (for Windows) on your keyboard.  
 
 **Send as Informational Reply:** This option lets you respond to a ticket without changing its status. It’s used to share updates or general info, and by selecting this option, your ticket will still remain in the **“Waiting”** timestamp.  
@@ -76,6 +73,4 @@ A brief explanation of the settings shown in the screenshot above is given below
   * **k** ) This section shows all the data related to the [**Integrations**](https://fluentsupport.com/docs/integration_statuses/). For instance, if a user is a Woocommerce customer, their Woocommerce purchase **ID** will also be displayed here. Similarly, any LMS or membership integrations will show the related data here.
   * **L** ) This section shows all the **Previous Conversations** with the customers.
 
-
----
 

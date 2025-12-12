@@ -8,7 +8,7 @@ From the Fluent Support **Dashboard** , go to **Business Inboxes** , select your
 
 ![Open the settings of  the desired business inbox](/guide/public/images/email-notifications/managing-email-notifications/email-notification-1.webp)
 
-Here are your **Email Settings** from where you can customize your email notification. To know the **Detailed** **Functionalities** of **Email Settings** , read this **[Documentation](/guide/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox)**.
+Here are your **Email Settings** from where you can customize your email notification. To know the **Detailed Functionalities** of **Email Settings** , read this [Documentation](/guide/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox).
 
 ![Open Email Settings](/guide/public/images/email-notifications/managing-email-notifications/email-notification-2.webp)
 
@@ -25,6 +25,4 @@ A brief explanation of the Settings of the Above-Mentioned Email Notifications L
  * **Replied by Customer (To Agent/Admin)** : When a customer replies to a ticket, the assigned **Agent or Admin** will receive the email as a notification.  
  * **Ticket Agent Change (To Agent):** When a ticket agent changes, the agent/s will receive an email notification.  
  * **Ticket Created by Agent (To Customer):** When an agent creates a ticket, the customer will receive an email notification.
-
----
 

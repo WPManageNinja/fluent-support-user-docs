@@ -26,6 +26,3 @@ You can add more support staff (agents) or remove by clicking on the **+ Add Wat
 
 
 ![Add more agents](/guide/public/images/ticket-management/productivity-tools/bookmark-tickets/ticket-bookmark-4.webp)
-
-
-

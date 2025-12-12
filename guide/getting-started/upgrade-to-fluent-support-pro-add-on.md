@@ -1,15 +1,12 @@
 # How to Install & Activate Fluent Support PRO
 
+Upgrade your Fluent Support experience to the next level with the [Fluent Support PRO](https://fluentsupport.com/pricing/) , unlocking every plugin feature. This article will help you upgrade your **Fluent Support** easily to the **PRO Add-On** on your WordPress Website. Follow the guidelines accordingly for a successful upgrade.
 
----
-
-Upgrade your **[Fluent Support](https://fluentsupport.com/pricing/)** experience to the next level with the **[Fluent Support PRO](https://fluentsupport.com/pricing/)** , unlocking every plugin feature. This article will help you upgrade your **Fluent Support** easily to the **PRO Add-On** on your WordPress Website. Follow the guidelines accordingly for a successful upgrade.
-
-Before installing **Fluent Support PRO** , make sure you have the [**Free** **version**](https://wordpress.org/plugins/fluent-support/) of **[FluentSupport](https://fluentsupport.com/)** installed on your site. To learn how to install and activate the free version of Fluent Support, check this [**Documentation**](https://fluentsupport.com/docs/how-to-install-activate-fluent-support/).
+Before installing **Fluent Support PRO** , make sure you have the [Free version](https://wordpress.org/plugins/fluent-support/) of [FluentSupport](https://fluentsupport.com/) installed on your site. To learn how to install and activate the free version of Fluent Support, check this [Documentation](https://fluentsupport.com/docs/how-to-install-activate-fluent-support/).
 
 ## Upgrade to Fluent Support Pro Add-on 
 
-To learn how to upgrade your **Fluent Support** to [**Fluent Support PRO**](https://fluentsupport.com/pricing/), follow the steps with the screenshots below —
+To learn how to upgrade your Fluent Support to [Fluent Support PRO](https://fluentsupport.com/pricing/), follow the steps with the screenshots below —
 
 Once you log into your **WP Manage Ninja Dashboard** , you will find **Fluent Support** under **Downloads**.  
 Now, click **Download** and then download the **PRO Add-On** to your device in **.zip** format. To access your Fluent Support license, navigate to **Licenses** in the left sidebar. You’ll find your Fluent Support license key there.
@@ -24,11 +21,11 @@ Also, copy the **License Key** since you need it later to **Activate** your **PR
 
 To learn how to install & activate **Fluent Support PRO** on your WordPress site, follow the steps with the screenshots below —
 
-Do not **Deactivate or Delete** the **free** **version** of the **Fluent Support** plugin from the plugins list as it is required for the **Fluent Support PRO** to function.  
+Do not **Deactivate or Delete** the free version of the **Fluent Support** plugin from the plugins list as it is required for the **Fluent Support PRO** to function.  
   
 Plus, you will be asked for **a License Key** to activate all the PRO features that you will find in your [**wpmanageninja.com**](http://wpmanageninja.com) user dashboard.
 
-First, from your **WordPress Dashboard** , go to **Plugins** and click on**``Add New Plugin.**
+First, from your **WordPress Dashboard** , go to **Plugins** and click on **Add New Plugin**.
 
 ![Fluent Support Dashboard](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/add-new-plugin-1-scaled-1.webp)
 
@@ -58,13 +55,9 @@ From your Fluent Support’s **Dashboard** , click on **Settings.** From your le
 
 ![License Management options](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/license-management-1-1.webp)
 
-Finally, paste the **Fluent Support Licence Key** that you’ve copied before from your [**wpmanageninja.com**](http://wpmanageninja.com) user dashboard. And, click on the **Verify License** and your Fluent Support Pro version will be activated.
+Finally, paste the **Fluent Support Licence Key** that you’ve copied before from your [WP Manage Ninja](http://wpmanageninja.com) account dashboard. And, click on the **Verify License** and your Fluent Support Pro version will be activated.
 
 ![Provide License key and Verify ](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/license-management.webp)
 
 Congratulations now you can explore all the amazing Premium features of the **Fluent Support Pro**!  
 We hope this article helps you have an amazing experience.
-
-
----
-

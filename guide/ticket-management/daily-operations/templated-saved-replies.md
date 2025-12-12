@@ -21,9 +21,3 @@ Add the reply **Title** and **Content** and choose your preferred **Product** fr
 Also, you can **Edit/Delete** the existing **Saved Relies** by clicking the **Pencil/Trash** icons placed on the right-hand side under the **Actions** column.
 
 ![Edit or Delete any saved replies if needed](/guide/public/images/ticket-management/daily-operations/templated-saved-replies/saved-reply-4.webp)
-
-
-
-
----
-

@@ -1,8 +1,5 @@
 # Common Issues & FAQs
 
-
----
-
 This article addresses common issues and frequently asked questions about **[Fluent Support](https://fluentsupport.com/)**. If you're experiencing a problem or have a question, check this guide first for quick solutions.
 
 ## General Questions
@@ -18,8 +15,6 @@ Fluent Support requires:
 - PHP 7.4 or higher
 - MySQL 5.6 or higher
 
----
-
 ## Installation & Activation Issues
 
 ### The plugin won't activate
@@ -31,6 +26,7 @@ Fluent Support requires:
 2. **Plugin Conflicts:** Deactivate other plugins temporarily to check for conflicts. Reactivate them one by one to identify the conflicting plugin.
 
 3. **Memory Limit:** Increase your PHP memory limit by adding this to your `wp-config.php`:
+   
    ```php
    define('WP_MEMORY_LIMIT', '256M');
    ```
@@ -44,7 +40,6 @@ Fluent Support requires:
 - Ensure your hosting provider allows plugin installations
 - Try downloading and uploading the plugin manually via FTP
 
----
 
 ## Email & Notification Issues
 
@@ -69,8 +64,6 @@ Fluent Support requires:
 - Ensure the piping script is accessible and has proper permissions
 - Review your email provider's documentation for specific requirements
 
----
-
 ## Ticket Management Issues
 
 ### Tickets are not appearing
@@ -93,8 +86,6 @@ Fluent Support requires:
 3. **Permissions:** Ensure the uploads directory has write permissions
 4. **Storage Integration:** If using cloud storage, verify the integration is properly configured
 
----
-
 ## Integration Issues
 
 ### Integration is not working
@@ -113,8 +104,6 @@ Fluent Support requires:
 - Check that products are properly configured
 - Review WooCommerce order data for any issues
 
----
-
 ## Performance Issues
 
 ### Slow loading times
@@ -131,8 +120,6 @@ Fluent Support requires:
 - Optimize your database regularly
 - Consider using a more powerful hosting plan
 
----
-
 ## Permission & Access Issues
 
 ### Agents cannot access tickets
@@ -148,8 +135,6 @@ Fluent Support requires:
 - Ensure the portal page is published and accessible
 - Check if any security plugins are blocking access
 
----
-
 ## Still Need Help?
 
 If you've tried the solutions above and still need assistance:
@@ -158,7 +143,4 @@ If you've tried the solutions above and still need assistance:
 2. **Contact Support:** Reach out to our support team through your [support portal](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/)
 3. **Community:** Join our community forums for additional help
 
----
-
-**Last Updated:** January 2025
 

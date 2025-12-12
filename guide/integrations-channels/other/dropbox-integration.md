@@ -26,7 +26,7 @@ Your Dropbox App **Settings** page will appear where you must provide an authori
 
 ![Dropbox App Settings](/guide/public/images/integrations-channels/other/dropbox-integration/oauth2-redirect-url-paste-scaled-1.webp)
 
-To **get this** **OAuth2 Redirect URL** , go to your Fluent Support **Dashboard > Global Settings > File Upload Integration > Dropbox >** **Configure** > copy the **OAuth2 redirect URL.**
+To **get this** **OAuth2 Redirect URL** , go to your Fluent Support **Dashboard > Settings > File Upload Integration > Dropbox >** **Setting Icon** > copy the **OAuth2 redirect URL.**
 
 ![Dropbox Configure option from Fluent Support dashboard](/guide/public/images/integrations-channels/other/dropbox-integration/fluent-support-dashboard-global-integration-config-scaled-1.webp)
 
@@ -47,7 +47,7 @@ To obtain the app’s credentials, copy the **App Key** and **App Secret** from 
 
 ### Configure Dropbox in Fluent Support 
 
-Return to your **Fluent Support Dashboard,** go to **Global Settings,** click the **Configure** under **File Upload Integrations,** and a popup will appear.
+Return to your **Fluent Support Dashboard,** go to **Settings,** click the **setting icon** under **File Upload Integrations,** and a popup will appear.
 
 ![Dropbox Configure option from Fluent Support dashboard](/guide/public/images/integrations-channels/other/dropbox-integration/file-upload-integration-configure-1.webp)
 

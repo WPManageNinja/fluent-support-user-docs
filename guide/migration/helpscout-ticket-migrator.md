@@ -1,9 +1,6 @@
 # HelpScout Ticket Migrator
 
-
----
-
-[**HelpScout**](https://www.helpscout.com/) is a SaaS tool for customer communication. **HelpScout** users can easily transfer their **tickets** to [**Fluent Support**](https://fluentsupport.com/) through an **API**. This article will guide you through the process.
+[HelpScout](https://www.helpscout.com/) is a SaaS tool for customer communication. **HelpScout** users can easily transfer their **tickets** to [Fluent Support](https://fluentsupport.com/) through an **API**. This article will guide you through the process.
 
 ## Import Tickets From Help Scout 
 
@@ -19,7 +16,7 @@ A popup window titled Configure Help Scout Import will appear. This window asks 
 
 ### Create an App in Help Scout
 
-To get the required credentials, you need to create an application in your [**Help Scout**](https://www.helpscout.com/) account.
+To get the required credentials, you need to create an application in your [Help Scout](https://www.helpscout.com/) account.
 
 Go to the **Profile Icon** from the right-hand corner of the **Dashboard,** select **Your Profile** , choose **My Apps,** and click the **Create My App** button.
 
@@ -43,7 +40,7 @@ To obtain the Authorization Code, click the **Get Authorized** button now.
 
 ![ Get Authorized option](/guide/public/images/migration/helpscout-ticket-migrator/get-authorized-button-scaled-1.webp)
 
-This action will redirect you to **Help Scout** to authorize access. Click **A**uthorize** when prompted.
+This action will redirect you to **Help Scout** to authorize access. Click **Authorize** when prompted.
 
 ![HelpScout page](/guide/public/images/migration/helpscout-ticket-migrator/authorize-button-1.webp)
 
@@ -73,7 +70,5 @@ Here, you can see all the **Tickets** are **Imported** and the migration date & 
 
 ![Preview of Imported Tickets from HelpScout](/guide/public/images/migration/helpscout-ticket-migrator/help-scout-tickets-migrated-1.webp)
 
-This is how you can migrate your all tickets from **Help Scout** to **Fluent Support**!  
-
----
+This is how you can migrate your all tickets from **Help Scout** to Fluent Support!  
 

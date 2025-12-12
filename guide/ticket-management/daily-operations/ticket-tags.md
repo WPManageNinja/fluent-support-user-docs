@@ -25,5 +25,3 @@ For instance, I edited the **Title** from ‘Fluent Support’ to ‘Fluent Supp
 
 This way, you can create as many **Ticket Tags** as you want to categorize or organize your tickets!  
 
----
-

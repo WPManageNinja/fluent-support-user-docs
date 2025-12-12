@@ -1,11 +1,8 @@
 # Automatic Workflow
 
+A [**Workflow/Automation**](https://fluentsupport.com/docs/workflows-automations/) is a sequence of tasks that can be done [**Manually**](https://fluentsupport.com/docs/manual-workflow/) or **Automatically** using certain triggers and conditions to avoid performing the same actions repeatedly. This article will guide you through the process required to learn how to create  the **Automatic Workflow** in Fluent Support.
 
----
-
-A [**Workflow/Automation**](https://fluentsupport.com/docs/workflows-automations/) is a sequence of tasks that can be done [**Manually**](https://fluentsupport.com/docs/manual-workflow/) or **Automatically** using certain triggers and conditions to avoid performing the same actions repeatedly. This article will guide you through the process required to learn how to create  the **Automatic Workflow** in **[Fluent Support](https://fluentsupport.com/).**
-
-## Create An Automatic Workflow #
+## Create An Automatic Workflow
 
 To learn how to create a new workflow automatically, follow the steps with screenshots below —
 
@@ -25,7 +22,7 @@ For example, if you choose the **On Ticket Creation** trigger, the Workflow will
 
 Then, you have to set a **Condition** that will trigger the **Workflow**. Multiple conditions can be set using the **+OR** and **+AND** options.
 
-**You will get the following options to set the Condition for your Workflow –**
+You will get the following options to set the Condition for your Workflow –
 
 **Customer**
 
@@ -47,19 +44,19 @@ Then, you have to set a **Condition** that will trigger the **Workflow**. Multip
   * Selected Product
   * Mailbox
 
-**Custom** **Fields**
+**Custom Fields**
 
-  * Here, all of your existing custom fields will appear.
+Here, all of your existing custom fields will appear.
 
 ![Set Condition/s for the Workflow](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:set-conditions-4.webp)
 
-You can also **Delete** any existing condition by clicking the **Trash** **Icon**.
+You can also **Delete** any existing condition by clicking the **Trash Icon**.
 
 ![Delete any existing condition](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:delete-condition-5.webp)
 
 Now, set the **Action/s** (Task) from the dropdown list for **Workflow** to perform. Once you fill in all the necessary fields, click the **Save** button.
 
-**You will get the following Actions from the Dropdown List –**
+You will get the following Actions from the Dropdown List –
 
   * Add Response
   * Assign Agent
@@ -102,7 +99,7 @@ To save any new changes always press the **Update Workflow** button right **next
 
 To see how **Automatic Workflow** runs in **Fluent Support Portal** follow the screenshots below —
 
-For example, I set the **Trigger** as “**On Ticket Creation”** , **Condition** as “**Ticket Title that contains Refund word** ”**,** and **Action** as “**Add Bookmarks** ” in this **Workflow.**
+For example, I set the **Trigger** as “**On Ticket Creation”** , **Condition** as “**Ticket Title that contains Refund word** ”, and **Action** as “**Add Bookmarks** ” in this **Workflow.**
 
 Now, you can see that the **Ticket** shown in the screenshot below is **Automatically** **Bookmarked** after the **Creation** as it has the **Refund** word in the **Title.**
 
@@ -115,6 +112,4 @@ You can easily get all of your bookmarked tickets under the **Bookmarks** option
 ![Tickets will be stored under Bookmarked section](/guide/public/images/workflows-automation/automatic-workflow/ticket-bookmark-list-13.webp)
 
 This is how you can create and run **Automatic Workflow** in **Fluent** **Support!**  
-
----
 
