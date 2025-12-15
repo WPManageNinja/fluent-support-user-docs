@@ -138,6 +138,21 @@ a:hover {
   color: #2FD896 !important;
 }
 
+/* Exclude pager buttons from global link color */
+.VPDocFooter .pager-link,
+.VPDocFooter .pager-link a,
+.VPDocFooter .pager-link .title,
+.VPDocFooter .pager-link .text {
+  color: var(--vp-c-text-1) !important;
+}
+
+.VPDocFooter .pager-link:hover,
+.VPDocFooter .pager-link:hover a,
+.VPDocFooter .pager-link:hover .title,
+.VPDocFooter .pager-link:hover .text {
+  color: var(--vp-c-text-1) !important;
+}
+
 /* Navigation links - Use default color (but exclude footer nav) */
 .VPNav a,
 .VPNavBar a,
@@ -187,6 +202,21 @@ main a:hover,
 
 .dark a:hover {
   color: #2FD896 !important;
+}
+
+/* Exclude pager buttons from global link color in dark mode */
+.dark .VPDocFooter .pager-link,
+.dark .VPDocFooter .pager-link a,
+.dark .VPDocFooter .pager-link .title,
+.dark .VPDocFooter .pager-link .text {
+  color: var(--vp-c-text-1) !important;
+}
+
+.dark .VPDocFooter .pager-link:hover,
+.dark .VPDocFooter .pager-link:hover a,
+.dark .VPDocFooter .pager-link:hover .title,
+.dark .VPDocFooter .pager-link:hover .text {
+  color: var(--vp-c-text-1) !important;
 }
 
 .dark .VPNav a,
@@ -525,12 +555,15 @@ code {
 /* ============================================
    Title Color Override
    ============================================ */
-.title[data-v-43384334] {
-  color: #15BE7C !important;
+/* Pager link title - use default text color, not brand color */
+.VPDocFooter .title[data-v-43384334],
+.VPDocFooter .pager-link .title[data-v-43384334] {
+  color: var(--vp-c-text-1) !important;
 }
 
-.dark .title[data-v-43384334] {
-  color: #15BE7C !important;
+.dark .VPDocFooter .title[data-v-43384334],
+.dark .VPDocFooter .pager-link .title[data-v-43384334] {
+  color: var(--vp-c-text-1) !important;
 }
 
 .pager-link[data-v-43384334]:hover {

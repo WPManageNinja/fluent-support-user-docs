@@ -9,9 +9,7 @@ Fluent Support allows you to add Agents/Staff to manage your tickets, as well as
 
 ## Add Support Staff/Agents
 
-To learn how to add Support Staff for your WordPress site with Fluent Support, follow the steps with the screenshots below —
-
-Go to **Settings** from your Fluent Support Dashboard and click on **Support Staff** from the left sidebar.
+Go to **Settings** from your **Fluent Support Dashboard** and click on **Support Staff** from the left sidebar.
 
 ![The Support Staff section in Fluent Support Settings](/guide/public/images/setup-configuration/agents-permissions/adding-support-staff-agents/add-new-support-staff-1.webp)
 

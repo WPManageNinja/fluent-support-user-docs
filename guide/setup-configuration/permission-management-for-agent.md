@@ -3,9 +3,9 @@
 
 ---
 
-**[Fluent Support](https://fluentsupport.com/)** allows you to set specific permissions for **Agents** , similar to user role management. Based on your permission, the agent can view or access specific features or settings of the plugin. This article will explain the roles or permissions of agents to help you choose what permissions you should set for your support agents.
+Fluent Support allows you to set specific permissions for **Agents** , similar to user role management. Based on your permission, the agent can view or access specific features or settings of the plugin. This article will explain the roles or permissions of agents to help you choose what permissions you should set for your support agents.
 
-If you don’t have any agents, you can [**Add Support Staff** /**Agents**](https://fluentsupport.com/docs/adding-support-staffs-agents/) anytime.
+If you don’t have any agents, you can [**Add Support Staff** /**Agents**](/guide/setup-configuration/adding-support-staff-agents) anytime.
 
 ## Permissions For Agents/Staff 
 
@@ -21,7 +21,7 @@ Once you are done, hit the **Update** button to save all changes.
 
 **A brief explanation of all the above-mentioned Permissions –**
 
-### Tickets Permissions #
+### Tickets Permissions 
 
   * **View Dashboard:** This allows the agent to view the full dashboard.
   * **Manage Own Tickets:** Only allows for managing the agents’ own assigned tickets.
@@ -34,24 +34,24 @@ Once you are done, hit the **Update** button to save all changes.
   * **Draft Reply:** Using this permission, agents can keep their replies as draft.
   * **Approved Draft Reply:** This permission allows agents to approve other agents’ draft replies.
 
-### Workflow Permissions #
+### Workflow Permissions 
 
   * **Manage Workflows:** Allows the agent to create Workflows.
   * **Run Workflows:** This allows the agent to run Workflows.
   * **Manage Saved Replies:** The agent can add and delete saved replies.
 
-### Settings #
+### Settings 
 
   * **Manage Overall Settings:** The agent can access and make changes in the Business and global settings.
   * **Access Private Data (Customers, Agents):** The agent can access all the customer and other agent data that are stored in Fluent Support. 
 
-## Reporting #
+## Reporting 
 
   * **View All Reports:** This allows the agent to view all the reporting and stats in Fluent Support.
   * **View Activity Logs:** This allows the agent to view the activity log. 
   * **View Agent Today’s Performance:** This allows the agent to show day-wise performance. 
 
-### Restrictions #
+### Restrictions 
 
   * **Business Inbox Access Restriction:** Using this option, you can restrict the access for agents to reply any specific business inbox or inboxes tickets.
 

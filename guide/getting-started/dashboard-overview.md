@@ -29,14 +29,15 @@ At the top of the dashboard, you will find a set of counter cards that provide a
 
 ### Ticket Suggestions Widget
 
-Located on the right side, the section titled "Here Are A Few Tickets You May Want To Take A Look At" helps agents prioritize their workflow.
+On the right side, the section titled "**Here Are A Few Tickets You May Want To Take A Look At**" helps agents prioritize their workflow.
 
 This intelligent widget highlights tickets that need attention based on waiting time and priority. For each ticket listed, you can see:
-* **Priority Level:** (e.g., Normal, Medium, Critical).
-* **Ticket ID & Subject:** A quick link to the issue.
-* **Status:** (e.g., Active, New).
-* **Customer Name & Wait Time:** How long the customer has been waiting for a reply.
-* **Source:** The origin of the ticket (e.g., Email, Web, Zendesk).
+
+ * **Ticket Subject:** The main title of the support issue (e.g., Gmail Forwarding Confirmation).
+ * **Customer & ID:** The name of the user who submitted the ticket along with the Ticket ID (e.g., by Gmail #4).
+ * **Status Badge:** A visual indicator of the ticket status, such as Active (Green) or New (Red).
+ * **Priority:** The priority level of the ticket (e.g., Normal, Medium, Critical).
+ * **Wait Time:** How long it has been since the last interaction (e.g., 6 days ago).
 
 > [!NOTE]
 > At the bottom of this widget, you will often see a summary line indicating the total number of tickets waiting for a reply and the average wait time.
