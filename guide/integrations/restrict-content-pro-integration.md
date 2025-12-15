@@ -13,7 +13,7 @@ You do not need to integrate the **Restrict Content Pro** plugin manually with *
 
 For example, here you can see a user purchased the **Restrict Connect Pro** plugin and the outline of his membership details (Membership Level, Membership Status, Membership Activation Date) has automatically appeared on his ticket.
 
-![Preview of Restrict Connect Pro Integration with Fluent Support](/guide/public/images/integrations-channels/learning-membership/restrict-content-pro-integration/restrict-content-pro-integration-fluent-support-1.webp)
+![Preview of Restrict Connect Pro Integration with Fluent Support](/images/integrations-channels/learning-membership/restrict-content-pro-integration/restrict-content-pro-integration-fluent-support-1.webp)
 
 This is how the integration of **Restrict Content Pro** with **Fluent Support** works!  
 

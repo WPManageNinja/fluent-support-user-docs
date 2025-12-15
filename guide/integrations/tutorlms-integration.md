@@ -13,7 +13,7 @@ You do not need to integrate the **TutorLMS** plugin manually with **Fluent Supp
 
 For example, here you can see a user purchased a course from **TutorLMS** and the outline of course purchase history (Course Name and Enrollment Status) has automatically appeared on his ticket.
 
-![Preview of TutorLMS Integration with Fluent Support](/guide/public/images/integrations-channels/learning-membership/tutorlms-integration/tutor-lms-integration-scaled-1.webp)
+![Preview of TutorLMS Integration with Fluent Support](/images/integrations-channels/learning-membership/tutorlms-integration/tutor-lms-integration-scaled-1.webp)
 
 This is how the integration of **Tutor LMS** with **Fluent Support** works!  
 

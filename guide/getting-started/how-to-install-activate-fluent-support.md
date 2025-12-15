@@ -15,15 +15,15 @@ To learn how to **install and activate Fluent Support** directly from the **Word
 
 First, go to the **Plugins** from your WordPress dashboard & click on the **Add New Plugin**.
 
-![Add new plugin from WordPress Dashboard](/guide/public/images/getting-started/how-to-install-activate-fluent-support/add-new-plugin-scaled-1.webp)
+![Add new plugin from WordPress Dashboard](/images/getting-started/how-to-install-activate-fluent-support/add-new-plugin-scaled-1.webp)
 
 Then, type **Fluent Support** in the search box and it will appear on the plugins page. Now, click on the **Install Now** button.
 
-![Install Fluent Support plugin](/guide/public/images/getting-started/how-to-install-activate-fluent-support/install-plugin-1.webp)
+![Install Fluent Support plugin](/images/getting-started/how-to-install-activate-fluent-support/install-plugin-1.webp)
 
 After installing, click on the **Activate** button. Done! Your Fluent Support plugin is installed and activated smoothly.
 
-![Activate Fluent Support plugin](/guide/public/images/getting-started/how-to-install-activate-fluent-support/activate-plugin-1-1.webp)
+![Activate Fluent Support plugin](/images/getting-started/how-to-install-activate-fluent-support/activate-plugin-1-1.webp)
 
 ### Method-02: Install by Uploading the Zip File 
 
@@ -39,9 +39,9 @@ To do this, go to the **Plugins** page of your **WordPress Dashboard** and check
 
 Make sure that the pro version is activated with a valid license key. If you don’t have a license key or the license key is expired, you can purchase a new one or renew the existing one from [here](https://fluentsupport.com/pricing/).
 
-![Update Fluent Support plugin](/guide/public/images/getting-started/how-to-install-activate-fluent-support/plugins-authlab-wordpress-1-scaled.webp)
+![Update Fluent Support plugin](/images/getting-started/how-to-install-activate-fluent-support/plugins-authlab-wordpress-1-scaled.webp)
 
-![Fluent Support update](/guide/public/images/getting-started/how-to-install-activate-fluent-support/plugins-authlab-wordpress-2.webp)
+![Fluent Support update](/images/getting-started/how-to-install-activate-fluent-support/plugins-authlab-wordpress-2.webp)
 
 Congratulations now you can Experience the features of the **Fluent Support** plugin and take your productivity to the next level! We hope this article helps you have an amazing experience.
 

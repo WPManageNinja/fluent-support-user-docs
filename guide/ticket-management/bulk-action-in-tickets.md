@@ -8,15 +8,15 @@ To learn how you can perform various **Bulk Actions** in **Fluent Support** , fo
 
 First, go to your **Tickets** under**Fluent Support** **Dashboard**.
 
-![Tickets from Fluent Support dashboard](/guide/public/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-1.webp)
+![Tickets from Fluent Support dashboard](/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-1.webp)
 
 Now go to your desired ticket section from My Tickets, **All** **Tickets** , **Unassigned** , or **Bookmarks**. After that click on the **More Action** button now you will see **Show Bulk Action** select it to activate the Bulk Action feature. 
 
-![All ticket sections ](/guide/public/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-2.webp)
+![All ticket sections ](/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-2.webp)
 
 To access the bulk action, check the entries on the left and a popup will appear with icons.
 
-![Icons for bulk actions](/guide/public/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-3.webp)
+![Icons for bulk actions](/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-3.webp)
 
 Each **Icon** performs a certain action in bulk. With the bulk actions what you can perform is explained below –
 
@@ -27,7 +27,7 @@ Each **Icon** performs a certain action in bulk. With the bulk actions what you 
   * e) **Close:** Using this you Close all the selected tickets in bulk at once.
   * f) **Delete:** Using this you Delete all the selected tickets in bulk at once.
 
-![Explanation of each icon](/guide/public/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-4.webp)
+![Explanation of each icon](/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-4.webp)
 
 Also, you can select all the tickets in bulk at once or individually based on your needs.
 

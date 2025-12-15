@@ -8,17 +8,17 @@ To set up **Email Piping** , you must create a **Business Inbox** with an **Emai
 
 Go to **View Settings** from your desired email-based business inbox and click **Email Piping**.
 
-![Open desired Business inbox's settings](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/email-piping-dashboard.webp)
+![Open desired Business inbox's settings](/images/email-notifications/email-piping-email-based-support-ticket/email-piping-dashboard.webp)
 
 Read the **terms and conditions** before you agree to it and click the **Get Piping Email Details**.
 
 To get the **email piping details** , ensure your **fluent support license key** is **active** as **Email Piping** is a **Pro Feature** of **Fluent Support**. To learn how to get the license key and activate it, read this [Documentation](/guide/getting-started/upgrade-to-fluent-support-pro-add-on).
 
-![Get piping email details](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/get-email-piping-details.webp)
+![Get piping email details](/images/email-notifications/email-piping-email-based-support-ticket/get-email-piping-details.webp)
 
 Now, copy the **Mailbox Email** address provided by **Fluent Support** to set up auto-forwarding of your emails from other email addresses.
 
-![Copy Masked Mailbox Email ](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/copy-the-mailbox-email-provided-by-fluent-support.webp)
+![Copy Masked Mailbox Email ](/images/email-notifications/email-piping-email-based-support-ticket/copy-the-mailbox-email-provided-by-fluent-support.webp)
 
 ## How to Forward/Redirect From an Email Provider
 
@@ -56,17 +56,17 @@ When a user sends an email to your business inbox and includes additional CC use
 
 Here, you can see the customer-added CC email which you can remove by pressing the **Discard CC** button before replying to it if you want.
 
-![Discard CC](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/cc-email-discard-1.webp)
+![Discard CC](/images/email-notifications/email-piping-email-based-support-ticket/cc-email-discard-1.webp)
 
 You can also add one or more CC emails to send your reply to them. To add CC, click on the **Add CC** button.
 
-![Add CC](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/add-cc.webp)
+![Add CC](/images/email-notifications/email-piping-email-based-support-ticket/add-cc.webp)
 
 To reply to the ticket, click on the **Add Reply** button. Your ticket reply will be sent to the primary customer and all the CC recipients.
 
 Replies from CC users are treated as coming from the primary customer i.e., CC users can reply to the agent directly from their mailbox.
 
-![Add Reply](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/add-reply-button.webp)
+![Add Reply](/images/email-notifications/email-piping-email-based-support-ticket/add-reply-button.webp)
 
 If you want to know more details about Email Piping, you can also read this [What is Email Piping and Why?](https://fluentsupport.com/what-is-email-piping-and-why/)  
 

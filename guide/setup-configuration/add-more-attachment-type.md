@@ -43,7 +43,7 @@ Once you have added the code, you can verify that the new file type has been add
 Go to **Settings** from your **Fluent Support Dashboard**. Click on **Global Settings** from the left sidebar.
 Scroll down to the **Accepted File Types** section. You should now see your new file type (e.g., HTML) listed as a checkbox option.
 
-![Add More Attachment Types ](/guide/public/images/setup-configuration/ticket-forms-fields/add-more-attachment-types%20/attacth-file-type-html.webp)
+![Add More Attachment Types ](/images/setup-configuration/ticket-forms-fields/add-more-attachment-types%20/attacth-file-type-html.webp)
 
 Also, if you want to make any changes in any of the existing file types, you can do it by using the **“fluent_support/mime_groups”** filter and the **“add_filter”** hook.
 

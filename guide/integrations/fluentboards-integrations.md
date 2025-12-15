@@ -17,7 +17,7 @@ Go to the **Tickets** from the **Fluent Support** **Dashboard** and then open th
 
 And, a popup page will appear for adding this ticket to your Fluent Boards!
 
-![Add Ticket directly from Fluent Support to Fluent Boards](/guide/public/images/integrations-channels/core-integrations/fluentboards-integrations/fluent-boards-option-inside-a-ticket-scaled-1.webp)
+![Add Ticket directly from Fluent Support to Fluent Boards](/images/integrations-channels/core-integrations/fluentboards-integrations/fluent-boards-option-inside-a-ticket-scaled-1.webp)
 
 In the popup page, you’ll find the option to choose the **Board** and **Stage** from the **Dropdown** menu, and the task will automatically be added to the bottom of that stage. Fluent Support Agents can only view the boards to which they have access.
 
@@ -25,13 +25,13 @@ Here, you can set the **Starting** and **Ending Dates** for the task. Also, your
 
 Once you are done, click the **Create** **Task** button and the ticket will be added as a new task in your Fluent Boards.
 
-![Popup page for Adding Task to Fluent Boards](/guide/public/images/integrations-channels/core-integrations/fluentboards-integrations/fluent-support-details-scaled.webp)
+![Popup page for Adding Task to Fluent Boards](/images/integrations-channels/core-integrations/fluentboards-integrations/fluent-support-details-scaled.webp)
 
 If you need to make further changes to the task, simply open it from your **FluentBoards**. From there, you can add assignees, set priorities, add labels, adjust dates, and make any other necessary adjustments.
 
 If the ticket opener is a **[FluentCRM](https://fluentcrm.com/)** **User** , they’ll be automatically linked to the task as an **Associated** **CRM** contact.
 
-![Preview of newly added task in Fluent Boards](/guide/public/images/integrations-channels/core-integrations/fluentboards-integrations/task-added-in-fluent-boards-1-scaled-1.webp)
+![Preview of newly added task in Fluent Boards](/images/integrations-channels/core-integrations/fluentboards-integrations/task-added-in-fluent-boards-1-scaled-1.webp)
 
 This is how the integration of **FluentBoards** with **Fluent Support** works!  
 

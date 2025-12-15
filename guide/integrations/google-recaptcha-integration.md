@@ -9,7 +9,7 @@
 
 Visit the [**Google reCAPCHA**](https://www.google.com/recaptcha/about/) website and click on the **v3 Admin Console**. It will take you to the “**Register a new site”** page where you can choose how to add reCaptcha to your website.
 
-![Accessing Google ReCapcha Console](/guide/public/images/integrations-channels/other/google-recaptcha-integration/v3-admin-console-scaled-1.webp)
+![Accessing Google ReCapcha Console](/images/integrations-channels/other/google-recaptcha-integration/v3-admin-console-scaled-1.webp)
 
 First, add your **Label** & **Domain** name, select the **Score-based (v3)** or **Challenge (v2)** version, set Google Cloud Project (optional), and finally click the **Submit** button.
 
@@ -17,11 +17,11 @@ First, add your **Label** & **Domain** name, select the **Score-based (v3)** or 
   * **Domains:** Avoid using **“https://” or “/”** in your domain name as it won’t work, but you are free to use **.com** if needed.
   * **Google Cloud Platform** : You can also choose a G**oogle Cloud Project** where you want to create this reCAPTCHA.
 
-![Register a new site](/guide/public/images/integrations-channels/other/google-recaptcha-integration/register-a-new-site-page-scaled-1.webp)
+![Register a new site](/images/integrations-channels/other/google-recaptcha-integration/register-a-new-site-page-scaled-1.webp)
 
 Now you will get a **Copy Site Key** and a **Copy Secret Key**. Copy these keys to use later for integration.
 
-![Copy Site Key and a Copy Secret Key](/guide/public/images/integrations-channels/other/google-recaptcha-integration/copy-site-key-and-scret-key-scaled-1.webp)
+![Copy Site Key and a Copy Secret Key](/images/integrations-channels/other/google-recaptcha-integration/copy-site-key-and-scret-key-scaled-1.webp)
 
 ## Configure reCAPCHA into Fluent Support 
 
@@ -38,7 +38,7 @@ After entering your keys, you can verify if the integration works correctly by c
 
 Finally, click on the **Save Settings** button in the top right corner to apply your changes.
 
-![Configure reCAPCHA into Fluent Support](/guide/public/images/integrations-channels/other/google-recaptcha-integration/global-settings-recapcha-save-settings-scaled-1.webp)
+![Configure reCAPCHA into Fluent Support](/images/integrations-channels/other/google-recaptcha-integration/global-settings-recapcha-save-settings-scaled-1.webp)
 
 This is how you can integrate your Fluent support with reCAPCHA!  
 

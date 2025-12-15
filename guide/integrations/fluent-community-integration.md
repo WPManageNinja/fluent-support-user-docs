@@ -15,13 +15,13 @@ This first step allows you to add a special field to your support portal, enabli
 
 Navigate to **Settings** within your **Fluent Support** dashboard and choose **Custom Fields** from the side menu. Click the **Add New Field** button to open the settings modal.
 
-![FluentCommunity Integration](/guide/public/images/integrations-channels/core-integrations/fluent-community-integration/custom-field-1-scaled-1.webp)
+![FluentCommunity Integration](/images/integrations-channels/core-integrations/fluent-community-integration/custom-field-1-scaled-1.webp)
 
 ### Configuring the FluentCommunity Course Field 
 
 A modal window titled **Add New Custom Field** will appear. In the **Field Type** dropdown menu, you must select **Fluent Community Courses** or **FluentCommunity user Course**.
 
-![](/guide/public/images/integrations-channels/core-integrations/fluent-community-integration/custom-field-2-scaled-1.webp)
+![](/images/integrations-channels/core-integrations/fluent-community-integration/custom-field-2-scaled-1.webp)
 
 Now, enter the requirement details below:
 
@@ -36,7 +36,7 @@ Now, enter the requirement details below:
 
 After that, click the green **Add** button at the bottom to save and create the custom field.
 
-![](/guide/public/images/integrations-channels/core-integrations/fluent-community-integration/custom-field-3-scaled-1.webp)
+![](/images/integrations-channels/core-integrations/fluent-community-integration/custom-field-3-scaled-1.webp)
 
 ## **Creating an Automation Workflow with the Custom Field** 
 
@@ -44,17 +44,17 @@ With your new custom field, you can now create workflows to automate actions bas
 
 From your Fluent Support dashboard, navigate to **More** option. In the dropdown you will find **Workflows**. Simiply click on it.
 
-![Access Workflow](/guide/public/images/integrations-channels/core-integrations/fluent-community-integration/access-workflows.webp)
+![Access Workflow](/images/integrations-channels/core-integrations/fluent-community-integration/access-workflows.webp)
 
 Here, you will see all the available workflows. Now, click the **Create New** button.
 
-![Create Workflows](/guide/public/images/integrations-channels/core-integrations/fluent-community-integration/workflows-4-scaled-1.webp)
+![Create Workflows](/images/integrations-channels/core-integrations/fluent-community-integration/workflows-4-scaled-1.webp)
 
 #### **Defining Workflow Details** 
 
 In the pop-up, provide a **Workflow Name**. Select **Automatic** as the **Workflow Type**. Next, click the **Create Workflows** button.
 
-![](/guide/public/images/integrations-channels/core-integrations/fluent-community-integration/workflows-5-scaled-1.webp)
+![](/images/integrations-channels/core-integrations/fluent-community-integration/workflows-5-scaled-1.webp)
 
 #### **Setting Triggers and Conditions** 
 
@@ -70,7 +70,7 @@ Once all complete, save the workflow. Don’t forget to enable the Status draft 
 
 For additional details regarding workflow functionalities, please refer to this [article](https://fluentsupport.com/docs/workflows-automations/).
 
-![](/guide/public/images/integrations-channels/core-integrations/fluent-community-integration/workflows-6-scaled-1.webp)
+![](/images/integrations-channels/core-integrations/fluent-community-integration/workflows-6-scaled-1.webp)
 
 ## **FluentCommunity Widget in the Ticket Section** 
 
@@ -88,7 +88,7 @@ This widget displays key information related to the customer’s FluentCommunity
   * **Progress:** The customer’s progress within the course.
   * **Enrolled At:** The date when the customer enrolled in the course.
 
-![](/guide/public/images/integrations-channels/core-integrations/fluent-community-integration/preview-7-scaled-1.webp)
+![](/images/integrations-channels/core-integrations/fluent-community-integration/preview-7-scaled-1.webp)
 
 
 ---

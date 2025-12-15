@@ -13,7 +13,7 @@ First, sign up or log in to the customer support portal and the **Customer Porta
 
 Remember, for sign-up, use a valid email as a verification code will be sent to the user email for confirmation, ensuring only valid emails can be used for sign-in.
 
-![Customer Support Portal Dashboard](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-dashboard/dashboard-of-customer-support-portal-1-1.webp)
+![Customer Support Portal Dashboard](/images/setup-configuration/customer-portal/customer-support-portal-dashboard/dashboard-of-customer-support-portal-1-1.webp)
 
 **All the options of the Customer Portal Dashboard are explained below:**
 
@@ -23,7 +23,7 @@ Remember, for sign-up, use a valid email as a verification code will be sent to 
 
   1. **Use Gutenberg Block** : To get the logout option, you need to add the **Customer Support Portal** to your **WordPress Site** (desired page/post) using the Gutenberg Block. To learn how to add a **Customer Portal** using **Gutenberg Bloc** k, read this [Documentation](/guide/setup-configuration/add-and-customize-customer-portal-using-gutenberg-block).  
 
-  2. **Use Shortcode** : The second way to get the logout option in the **Customer Portal Dashboard** is to add the following **Shortcode** to your **WordPress Site** (desired page/post). To learn more details about adding a **Customer Portal** using **Shortcode** , read this [Documentation](/guide/ticket-management/automation-in-tickets/shortcodes).
+  2. **Use Shortcode** : The second way to get the logout option in the **Customer Portal Dashboard** is to add the following **Shortcode** to your **WordPress Site** (desired page/post). To learn more details about adding a **Customer Portal** using **Shortcode** , read this [Documentation](/guide/ticket-management/shortcodes).
 
 [code] 
     [fluent_support_portal show_logout = yes]

@@ -10,13 +10,13 @@ You have to send data through either **Manual** or **Automatic** workflow. To en
 
 Go to **Workflows** from the **Fluent Support Dashboard** navbar more section, and click the **+ Create new** button and a popup will appear.
 
-![Add workflow from Fluent Support Dashboard](/guide/public/images/ticket-management/automation-in-tickets/outgoing-webhook/outgoing-webhook-1.webp)
+![Add workflow from Fluent Support Dashboard](/images/ticket-management/automation-in-tickets/outgoing-webhook/outgoing-webhook-1.webp)
 
 You can choose between [Manual](https://fluentsupport.com/docs/manual-workflow/) and [Automatic](https://fluentsupport.com/docs/automatic-workflow/) workflows according to your needs (e.g., I selected the **Automatic** type to run the Workflow automatically).
 
 Now, enter a Name for the **WorkFlow,** select the **WorkFlow Type** , and click Continue.
 
-![Fill all information and click continue](/guide/public/images/ticket-management/automation-in-tickets/outgoing-webhook/outgoing-webhook-2.webp)
+![Fill all information and click continue](/images/ticket-management/automation-in-tickets/outgoing-webhook/outgoing-webhook-2.webp)
 
 Now choose a Trigger from the dropdown list to decide when your **Workflow** will run.
 
@@ -29,7 +29,7 @@ Now, select the **Trigger Outgoing Webhook** action from the dropdown list for *
 
 This will expand to show additional fields. Once you fill in all the necessary fields, click the **Save** button.
 
-![Select Outgoing WebHook trigger](/guide/public/images/ticket-management/automation-in-tickets/outgoing-webhook/outgoing-webhook-3.webp)
+![Select Outgoing WebHook trigger](/images/ticket-management/automation-in-tickets/outgoing-webhook/outgoing-webhook-3.webp)
 
 You will get the following Fields to fill in —
 
@@ -44,5 +44,5 @@ Once you are done, setting up the actions, **Publish** this by enabling the **To
 
 To save any new changes always press the **Update Workflow** button right next to the Toggle.
 
-![Publish the Workflow](/guide/public/images/ticket-management/automation-in-tickets/outgoing-webhook/outgoing-webhook-4.webp)
+![Publish the Workflow](/images/ticket-management/automation-in-tickets/outgoing-webhook/outgoing-webhook-4.webp)
 

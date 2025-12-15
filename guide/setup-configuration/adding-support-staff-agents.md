@@ -13,11 +13,11 @@ To learn how to add Support Staff for your WordPress site with Fluent Support, f
 
 Go to **Settings** from your Fluent Support Dashboard and click on **Support Staff** from the left sidebar.
 
-![The Support Staff section in Fluent Support Settings](/guide/public/images/setup-configuration/agents-permissions/adding-support-staff-agents/add-new-support-staff-1.webp)
+![The Support Staff section in Fluent Support Settings](/images/setup-configuration/agents-permissions/adding-support-staff-agents/add-new-support-staff-1.webp)
 
 Click the **Add New** button to add a **Support Agent/Staff**. A pop-up window will appear for adding information about the **Agent**.
 
-![The Add New button to create a Support Agent](/guide/public/images/setup-configuration/agents-permissions/adding-support-staff-agents/add-new-2.webp)
+![The Add New button to create a Support Agent](/images/setup-configuration/agents-permissions/adding-support-staff-agents/add-new-2.webp)
 
 ### Configuring Agent Information
 
@@ -35,7 +35,7 @@ In the pop-up window, you will need to fill in the following details:
 
 Once you have filled in the necessary information and selected the permissions, click on the **Create** button to finish the process.
 
-![Configuring basic information and setting permissions for a new agent](/guide/public/images/setup-configuration/agents-permissions/adding-support-staff-agents/add-new-support-staff-3.webp)
+![Configuring basic information and setting permissions for a new agent](/images/setup-configuration/agents-permissions/adding-support-staff-agents/add-new-support-staff-3.webp)
 
 This is how you can add as many new staff/agents as you need!
 
