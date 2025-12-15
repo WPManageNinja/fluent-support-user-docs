@@ -48,12 +48,15 @@ export default defineConfig({
             collapsed: true,
             items: [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               { text: 'First Business Inbox', link: '/guide/setup-configuration/create-business-inbox-initially' },
               { text: 'Multiple Business Inboxes', link: '/guide/setup-configuration/adding-multiple-business-inboxes' },
               { text: 'Web-Only Settings', link: '/guide/setup-configuration/web-based-settings-in-business-inbox' },
               { text: 'Web + Email Settings', link: '/guide/setup-configuration/web-and-email-settings-in-business-inbox' },
               { text: 'Products for Categories', link: '/guide/setup-configuration/creating-products-to-categorize-tickets' },
 =======
+=======
+>>>>>>> Stashed changes
               { text: 'Business Inbox', link: '/guide/setup-configuration/business-inboxes/business-inbox' },
               { text: 'Multiple Business Inboxes', link: '/guide/setup-configuration/business-inboxes/adding-multiple-business-inboxes' },
               { text: 'Web-Only Settings', link: '/guide/setup-configuration/business-inboxes/web-based-settings-in-business-inbox' },
