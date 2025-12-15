@@ -4,7 +4,7 @@ You must set up **Email Piping** first to use the **Business Inboxes** for **Ema
 
 ## Email Piping Settings
 
-To set up **Email Piping** , you must create a **Business Inbox** with an **Email-Based** support channel. And, to learn how to create this, read this [Documentation](/guide/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox).
+To set up **Email Piping** , you must create a **Business Inbox** with an **Email-Based** support channel. And, to learn how to create this, read this [Documentation](/guide/setup-configuration/web-and-email-settings-in-business-inbox).
 
 Go to **View Settings** from your desired email-based business inbox and click **Email Piping**.
 

@@ -14,8 +14,8 @@ Go to the Fluent Support **Dashboard** & click on the **Business Inboxes** tab. 
 Add a relevant **Inbox Name** &**Email** (company name & business email) and select the **Support** **Channel**.
 
 > [!NOTE]
-> Keep the support channel **Web-Based** if you want to allow customers to create support tickets from the website only. To learn more, check this **[Documentation](/guide/setup-configuration/business-inboxes/web-based-settings-in-business-inbox)**.  
-> Or, choose **Web and Email based** **(Mailbox)** for email-based support ticket setup using email piping. For more details, check this **[Documentation](/guide/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox)**.
+> Keep the support channel **Web-Based** if you want to allow customers to create support tickets from the website only. To learn more, check this **[Documentation](/guide/setup-configuration/web-based-settings-in-business-inbox)**.  
+> Or, choose **Web and Email based** **(Mailbox)** for email-based support ticket setup using email piping. For more details, check this **[Documentation](/guide/setup-configuration/web-and-email-settings-in-business-inbox)**.
 
 Once you are done, click the **Add Business Inbox** and your new business inbox will be added.
 

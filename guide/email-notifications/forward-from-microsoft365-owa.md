@@ -5,7 +5,7 @@ This article will guide you through the steps required to forward email from **O
 
 ## Forward from Microsoft 365 Outlook Web Access (OWA)
 
-Before starting the procedure, ensure you have followed the first steps; setting up a new Business Inbox in Fluent Support and your Fluent Support Mailbox Address is ready. To know the details of setting up a Business Inbox, check this [Documentation](/guide/setup-configuration/business-inboxes/adding-multiple-business-inboxes).
+Before starting the procedure, ensure you have followed the first steps; setting up a new Business Inbox in Fluent Support and your Fluent Support Mailbox Address is ready. To know the details of setting up a Business Inbox, check this [Documentation](/guide/setup-configuration/adding-multiple-business-inboxes).
 
 Now to learn how to set up auto-forwarding from Google Workspace to Fluent Support, follow the steps with the screenshots below —
 

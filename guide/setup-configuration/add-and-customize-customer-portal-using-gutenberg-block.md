@@ -48,7 +48,7 @@ Once you click the **Arrow Icon** right next to the **Custom Page Style** , you 
 
 Once you click the **Arrow Icon** right next to the **General Style Settings** , you will get the following settings option.
 
- **A. Select MailBox:** Here, you can specify the **Business Inbox** whose tickets you want to display in the customer portal. To learn more about Business Inbox, read this [Documentation](/guide/setup-configuration/business-inboxes/adding-multiple-business-inboxes).
+ **A. Select MailBox:** Here, you can specify the **Business Inbox** whose tickets you want to display in the customer portal. To learn more about Business Inbox, read this [Documentation](/guide/setup-configuration/adding-multiple-business-inboxes).
 
  **B. Border Radius** : Using this option you can customize the border radius of the customer portal through the slider or by entering a specific value in the input box.
 

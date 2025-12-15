@@ -4,7 +4,7 @@ This article will provide detailed guidelines on setting up automatic forwarding
 
 ## Auto-Forward from Google Workspace to Fluent Support
 
-Before starting the procedure, ensure you have followed the first steps; setting up a new Business Inbox in Fluent Support and your Fluent Support Mailbox Address is ready. To know the details of setting up a Business Inbox, check this [Documentation](/guide/setup-configuration/business-inboxes/adding-multiple-business-inboxes).
+Before starting the procedure, ensure you have followed the first steps; setting up a new Business Inbox in Fluent Support and your Fluent Support Mailbox Address is ready. To know the details of setting up a Business Inbox, check this [Documentation](/guide/setup-configuration/adding-multiple-business-inboxes).
 
 Now to learn how to set up auto-forwarding from Google Workspace to Fluent Support, follow the steps with the screenshots below —
 

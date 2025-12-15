@@ -8,7 +8,7 @@
 ## How To Create A New Business Inbox Initially 
 
 
-**Initially** , there is **No** **Need** to create a **Separate** **Business** **Inbox** , because a [**Web-based** **Business Inbox**](/guide/setup-configuration/business-inboxes/web-based-settings-in-business-inbox) will be created automatically when you provide all the necessary information to set up your support portal under the **Dashboard** section.
+**Initially** , there is **No** **Need** to create a **Separate** **Business** **Inbox** , because a [**Web-based** **Business Inbox**](/guide/setup-configuration/web-based-settings-in-business-inbox) will be created automatically when you provide all the necessary information to set up your support portal under the **Dashboard** section.
 
 
 To learn how to set up the support portal to create the initial Business Inbox, follow the steps with the screenshots below —

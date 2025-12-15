@@ -21,7 +21,7 @@ Remember, for sign-up, use a valid email as a verification code will be sent to 
 
 **B. Logout** : Using this button, users can logout from their customer support portal dashboard at any time. **Remember** , you can get the logout option, in two different ways. These are: 
 
-  1. **Use Gutenberg Block** : To get the logout option, you need to add the **Customer Support Portal** to your **WordPress Site** (desired page/post) using the Gutenberg Block. To learn how to add a **Customer Portal** using **Gutenberg Bloc** k, read this [Documentation](/guide/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block).  
+  1. **Use Gutenberg Block** : To get the logout option, you need to add the **Customer Support Portal** to your **WordPress Site** (desired page/post) using the Gutenberg Block. To learn how to add a **Customer Portal** using **Gutenberg Bloc** k, read this [Documentation](/guide/setup-configuration/add-and-customize-customer-portal-using-gutenberg-block).  
 
   2. **Use Shortcode** : The second way to get the logout option in the **Customer Portal Dashboard** is to add the following **Shortcode** to your **WordPress Site** (desired page/post). To learn more details about adding a **Customer Portal** using **Shortcode** , read this [Documentation](/guide/ticket-management/automation-in-tickets/shortcodes).
 

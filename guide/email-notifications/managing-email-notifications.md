@@ -8,7 +8,7 @@ From the Fluent Support **Dashboard** , go to **Business Inboxes** , select your
 
 ![Open the settings of  the desired business inbox](/guide/public/images/email-notifications/managing-email-notifications/email-notification-1.webp)
 
-Here are your **Email Settings** from where you can customize your email notification. To know the **Detailed Functionalities** of **Email Settings** , read this [Documentation](/guide/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox).
+Here are your **Email Settings** from where you can customize your email notification. To know the **Detailed Functionalities** of **Email Settings** , read this [Documentation](/guide/setup-configuration/web-and-email-settings-in-business-inbox).
 
 ![Open Email Settings](/guide/public/images/email-notifications/managing-email-notifications/email-notification-2.webp)
 
