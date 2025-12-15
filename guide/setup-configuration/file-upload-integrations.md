@@ -35,8 +35,8 @@ Once you have entered the details, click the **Connect (or Reconnect)** button t
 
 For specific instructions on how to generate the Client IDs and Secrets required for these platforms, please refer to their respective documentation guides below:
 
- * **Dropbox Integration:** To learn how to generate your keys and integrate Dropbox, read this full [Documentation](/guide/integrations-channels/other/dropbox-integration) .
- * **Google Drive Integration:** To learn how to set up Google Drive storage for your tickets, read this full [Documentation](/guide/integrations-channels/other/google-drive-integration).
+ * **Dropbox Integration:** To learn how to generate your keys and integrate Dropbox, read this full [Documentation](/guide/integrations/dropbox-integration) .
+ * **Google Drive Integration:** To learn how to set up Google Drive storage for your tickets, read this full [Documentation](/guide/integrations/google-drive-integration).
 
 >Remember: No configuration is necessary if you choose to stick with the Default WordPress Storage platform.
 

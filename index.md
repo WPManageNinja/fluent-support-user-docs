@@ -52,7 +52,7 @@ features:
   - icon: 🔌
     title: Integrations
     details: Connect with WooCommerce, LearnDash, FluentCRM, and 20+ other platforms
-    link: /guide/integrations-channels/fluentcrm-integration
+    link: /guide/integrations/fluentcrm-integration
     linkText: Connect
   - icon: 🤖
     title: AI Assistance
