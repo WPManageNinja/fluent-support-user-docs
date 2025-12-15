@@ -1,5 +1,6 @@
 # Business Inbox 
 
+
 ---
 
 **“Business Inboxes”** is an amazing feature of Fluent Support that manages support tickets from multiple businesses and their accounts according to your preferences. It allows you to group tickets by where they come from, such as your web portal or specific email addresses.
@@ -7,7 +8,7 @@
 ## Onboarding Dashboard (Initial Setup)
 
 >[!Note]
-> **Initially** , there is **No** **Need** to create a separate **Business** **Inbox** manually. A [**Web-based** **Business Inbox**](/guide/setup-configuration/web-based-settings-in-business-inbox) is created automatically when you first provide all the necessary information to set up your support portal under the **Onboarding Dashboard** section.
+> **Initially** , there is **No** **Need** to create a separate **Business** **Inbox** manually. A [**Web-based** **Business Inbox**](/guide/setup-configuration/web-based-settings-in-business-inbox) is created automatically when you frist provide all the necessary information to set up your support portal under the **Onboarding Dashboard** section.
 
 During the initial plugin setup (Onboarding):
  * You will fill out the necessary information to set up your Support Portal.
@@ -47,6 +48,7 @@ Select the **Page** from the **Dropdown menu** where you want to set up your **S
 You can **Paste** the **Shortcode** anywhere on any **Page** of your **WordPress** **Site** according to your preference.
 
 ![Adding the Support Portal in desired page using ShortCode](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/select-page-for-shortcode-gfif-drift-video-3918894-4023448-1709375724.gif)
+
 
 Or, you can simply enable the **create a page automatically with the shortcode** button to create a **Separate** **Page** for setting up your support portal **automatically**.
 

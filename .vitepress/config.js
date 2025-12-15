@@ -47,7 +47,7 @@ export default defineConfig({
             text: 'Business Inboxes',
             collapsed: true,
             items: [
-              { text: 'Business Inbox', link: '/guide/setup-configuration/business-inboxes/business-inbox' },
+              { text: 'Business Inbox', link: '/guide/setup-configuration/business-inbox' },
               { text: 'Multiple Business Inboxes', link: '/guide/setup-configuration/adding-multiple-business-inboxes' },
               { text: 'Web-Only Settings', link: '/guide/setup-configuration/web-based-settings-in-business-inbox' },
               { text: 'Web + Email Settings', link: '/guide/setup-configuration/web-and-email-settings-in-business-inbox' },
@@ -285,7 +285,7 @@ export default defineConfig({
 
   // Vite configuration
   vite: {
-    publicDir: './guide/public',
+    publicDir: './guide',
     server: {
       fs: {
         allow: ['..']
