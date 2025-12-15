@@ -3,7 +3,7 @@
 
 ---
 
-The Customer Portal is intended for direct use by end-users where users can view & use the dashboard to submit tickets. This article will guide you to set up your **Customer Portal** with **Global** **Settings** in **[Fluent Support](https://fluentsupport.com/)**.
+The Customer Portal is intended for direct use by end-users where users can view & use the dashboard to submit tickets. This article will guide you to set up your **Customer Portal** with **Global Settings** in **Fluent Support**.
 
 ## Accessing Global Settings
 
@@ -29,9 +29,9 @@ You will find the following options in **Global Settings** to configure your **F
 
 In the ’**Portal Page’** option, you can select the **Page** where you want to show the **Support Portal** for your customers to submit their tickets. You can **select** your desired **page** in **two different ways** and these are shown in the **GIFs** below —
 
-  * Select the desired page directly from the **Dropdown** option. Or, copy the **Shortcode** given just below the**Portal Page**.
+  * Select the desired page directly from the **Dropdown** option. Or, copy the **Shortcode** given just below the **Portal Page**.
 
-![Select the desired page from the drop-down to show the support portal](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/portal-page-drift-video-1.gif)
+![Select the desired page from the drop-down to show the support portal](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/support-portal-page.webp)
 
   * And, paste it manually on your **Desired page**.
 
@@ -44,7 +44,7 @@ In this option, you can customize certain texts for the users who have not logge
   * You will see a default message **(Please login or create an account to access the Customer Support Portal)** has been added which you can edit anytime according to your need.
   * Also, you can use different **Shortcodes** provided below to show different **Forms**.
 
-To know the details of these below-mentioned **Shortcodes,** check this **[Documentation](https://fluentsupport.com/docs/shortcodes/).**
+To know the details of these below-mentioned **Shortcodes,** check this **[Documentation](guide/ticket-management/shortcodes).**
 
 ![Message for non-logged-in users](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/message-for-non-logged-users-1.webp)
 
@@ -58,7 +58,7 @@ Enabling ‘**Disable Public Ticket Interaction’** allows only logged-in users
 
 Fluent Support accepts photos, CSV, PDF/Docs, Zip, and JSON files. You can also set the maximum file size and number of files to upload.
 
-To learn the details about file **Attachment Regulations** , read this **[Documentation](https://fluentsupport.com/docs/attachment-regulation/)**.
+To learn the details about file **Attachment Regulations** , read this **[Documentation](/guide/setup-configuration/attachment-regulation)**.
 
 ![Accepted File Types](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/accepeted-file-type.webp)
 
