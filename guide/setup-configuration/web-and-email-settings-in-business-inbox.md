@@ -7,12 +7,12 @@
 Go to **Business Inboxes** from the **Fluent Support** **Dashboard** , select the business inbox you kept **Web and Email-Based (Mailbox)** , and click on **View** **Settings**.
 
 
-![View settings from Fluent Support Dashboard](/images/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox/view-settings-2-scaled-1.webp)
+![View settings from Fluent Support Dashboard](/guide/public/images/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox/view-settings-2-scaled-1.webp)
 
 
 You will find **Inbox Settings,** **Email Settings, and Email Piping** to set your **Web and Email-Based (Mailbox).**
 
-![Three types of email-based settings in Business Inbox](/images/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox/3-settings-1.webp)
+![Three types of email-based settings in Business Inbox](/guide/public/images/setup-configuration/business-inboxes/web-and-email-settings-in-business-inbox/3-settings-1.webp)
 
 ### Inbox Settings 
 

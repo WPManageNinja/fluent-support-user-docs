@@ -8,7 +8,7 @@ To learn where you can easily **View Tickets** using**Fluent Support** , follow 
 
 Go to your Fluent Support **Dashboard** & click on **Tickets.**
 
-![Tickets from Fluent Support Dashboard](/images/ticket-management/daily-operations/view-manage-ticket-entries/dashboard-tickets-scaled-1.webp)
+![Tickets from Fluent Support Dashboard](/guide/public/images/ticket-management/daily-operations/view-manage-ticket-entries/dashboard-tickets-scaled-1.webp)
 
 After going to “**Tickets”** you will find another four **Sections** to view and manage your overall tickets. These are —
 
@@ -17,7 +17,7 @@ After going to “**Tickets”** you will find another four **Sections** to view
   * **Unassigned:** You will find tickets that are not assigned to any agents.
   * **Bookmarks:** All the bookmarked tickets will be stored in this section.
 
-![All Ticket's Sections](/images/ticket-management/daily-operations/view-manage-ticket-entries/four-sections-1.webp)
+![All Ticket's Sections](/guide/public/images/ticket-management/daily-operations/view-manage-ticket-entries/four-sections-1.webp)
 
 ## Settings Inside A Specific Ticket 
 
@@ -27,7 +27,7 @@ Click on the preferred ticket from the list of tickets, and then the individual 
 
 ### Settings Located On The Left-Hand Side Of A Ticket 
 
-![Left-hand side settings](/images/ticket-management/daily-operations/view-manage-ticket-entries/left-side-settings-scaled.webp)
+![Left-hand side settings](/guide/public/images/ticket-management/daily-operations/view-manage-ticket-entries/left-side-settings-scaled.webp)
 
 A brief explanation of the settings shown in the screenshot above is given below —
 
@@ -40,7 +40,7 @@ Or, you can directly **Paste** /**Attach** any **copied** **files** by typing �
 
 Once you are done, click the “**Add Reply** ” or “**Reply and Close** ” to finish and reply to the ticket.
 
-![](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-reply-scaled.webp)
+![](/guide/public/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-reply-scaled.webp)
 
   
 
@@ -56,7 +56,7 @@ Once you are done, click the “**Add Reply** ” or “**Reply and Close** ” 
 
 ### Settings Located On The Right-Hand Side Of A Ticket #
 
-![Right-side settings of a ticket](/images/ticket-management/daily-operations/view-manage-ticket-entries/right-side-settings-scaled-1.webp)
+![Right-side settings of a ticket](/guide/public/images/ticket-management/daily-operations/view-manage-ticket-entries/right-side-settings-scaled-1.webp)
 
 A brief explanation of the settings shown in the screenshot above is given below —
 

@@ -12,7 +12,7 @@ You will find the “Activities” option from the top-right menu on your dashbo
 
 Also, whenever an agent assigns a ticket, it will be displayed in the overall activities.
 
-![Activities from Fluent Support Dashboard](/images/reports-analytics/overall-activities/activities-dashboard-scaled-1.webp)
+![Activities from Fluent Support Dashboard](/guide/public/images/reports-analytics/overall-activities/activities-dashboard-scaled-1.webp)
 
 ### Settings
 
@@ -23,10 +23,10 @@ In the “Activities” section, you will find another **Settings** icon next to
   * Plus, you can select whether you want to open tickets on the existing page or a new tab.
   * After making any changes, ensure you click on the **Update Settings** button. Otherwise, the changes won’t appear.
 
-![Settings option for customizing the funtion of Activities in Fluent Support](/images/reports-analytics/overall-activities/activities-settings-video.gif)
+![Settings option for customizing the funtion of Activities in Fluent Support](/guide/public/images/reports-analytics/overall-activities/activities-settings-video.gif)
 
 ### Pagination 
 
 In the **Activities** section, you will find another amazing feature for pagination, where you can select how many ticket activities you want to display per page. Right now you can show from 10 to 150 tickets activities in one page.
 
-![Pagination option for managing activities of Fluent Support](/images/reports-analytics/overall-activities/pagination.webp)
+![Pagination option for managing activities of Fluent Support](/guide/public/images/reports-analytics/overall-activities/pagination.webp)

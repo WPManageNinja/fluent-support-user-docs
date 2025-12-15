@@ -9,7 +9,7 @@
 
 Go to **Business Inboxes** from the **Fluent** **Support** **Dashboard** , select the **business inbox** you kept **Web-based** , and click on **View Setting**. 
 
-![View Settings of specific web-based business inbox](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/view-settings-1-scaled.webp)
+![View Settings of specific web-based business inbox](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/view-settings-1-scaled.webp)
 
 You will find two types of **Settings** options (**Inbox** **Settings** & **Email Settings)** to set your Web-Based Inbox.
 
@@ -23,14 +23,14 @@ In the **Inbox Settings,** you can do lots of customization, e.g., changing inbo
 
  **Admin Email Address:** Here, you can add another email address for admin where admin will get email if enabled in email settings, and you can change it anytime.
 
-![Admin Email Address](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/inbox-settings-2.webp)
+![Admin Email Address](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/inbox-settings-2.webp)
 
 **Email Footer For Customers:** You can also set Email footer for your customers where —
  
  * You can add **Media** , **Text** and customize their **Visual** for the footer from here
  * By clicking on the **Click to see Available Dynamic Codes:** you can find the dynamic codes you can use on your footer.
 
-![Email Footer for Customers](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/email-footer-for-customer.webp)
+![Email Footer for Customers](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/email-footer-for-customer.webp)
 
  **Inbox Color:** From the Inbox Color drop-down, you can select any color for your business inboxes
 
@@ -40,7 +40,7 @@ In the **Inbox Settings,** you can do lots of customization, e.g., changing inbo
  
  To hide the badge from the ticket, just need to enable the **`Hide Badge in Tickets`** button. 
 
-![Hide Badge Tickets](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/hide-badget-4.webp)
+![Hide Badge Tickets](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/hide-badget-4.webp)
 
 Always press **Save Settings** after finishing all the customization in your **Inbox Settings** to save it, otherwise, changes will not appear in your inbox.
 
@@ -54,11 +54,11 @@ First, select any option you want to add, customize or modify. Then, click on th
 
 > For instance, I selected the **Ticket Created (To Customer)** option to send email notifications right after a customer submits a support ticket; but, you can choose any option to suit your needs.
 
-![Email Settings of web-based business inbox](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/email-settings-5.webp)
+![Email Settings of web-based business inbox](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/email-settings-5.webp)
 
 To enable this option, click on **Enable This Email Notification** and press **Save Settings** to send this email notification to customers.
 
-![Enable Email Notification](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/enable-button-for-options-drift-video.gif)
+![Enable Email Notification](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/enable-button-for-options-drift-video.gif)
 
 Click on the **Send Attachments (Not Recommended)** button to attach files to your email notifications.
 
@@ -66,11 +66,11 @@ Click on the **Send Attachments (Not Recommended)** button to attach files to yo
 > **Why is this button suggested as (Not Recommended)?**  
 > Sometimes when you attach any files to your email, it may face some delivery failure. To avoid this situation and ensure that any kind of email is delivered without any hassle, we recommend using the **[FluentSMTP](https://fluentsmtp.com/)** plugin. To learn the basic use of the **FluentSMTP** plugin, check this [**Documentation**](https://fluentsmtp.com/docs-category/getting-started/).
 
-![Send Attachments \(Not Recommended\)](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/send-attachments.webp)
+![Send Attachments \(Not Recommended\)](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/send-attachments.webp)
 
 You can customize the subject name and body content of your email using the **Email Subject** field and **Email Body** box. Also, use the **shortcodes** from the **Available** **Smartcodes** list within the Email body or subject which will dynamically fetch various information like the Customer name, email, ticket ID, etc.
 
-![Customize your email subject & body using shortcode](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/customize-your-email-content-1.webp)
+![Customize your email subject & body using shortcode](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/customize-your-email-content-1.webp)
 
 Always press**Save Settings** after finishing all the customization in your emails to save it, otherwise changes will not appear in your emails.
 
@@ -80,13 +80,13 @@ Always press**Save Settings** after finishing all the customization in your emai
 
 This **“Set as Default”** feature is available for Web-Based Business Inboxes only.
 
-![Set any web-based inbox as default business inbox](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/set-as-default-drift-video.gif)
+![Set any web-based inbox as default business inbox](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/set-as-default-drift-video.gif)
 
 ### Delete Business Inboxes 
 
 The “**Delete”** setting option allows you to delete any business inbox and transfer all support tickets easily to another inbox. 
 
-![Delete any web-based business inbox if needed](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/delete-inbox-drift-video-1.gif)
+![Delete any web-based business inbox if needed](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/delete-inbox-drift-video-1.gif)
 
 ---
 

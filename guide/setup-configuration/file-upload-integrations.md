@@ -17,7 +17,7 @@ To enable a third-party storage platform (like Dropbox or Google Drive), click t
 
 For example, to set up Dropbox, click the gear icon next to the **Dropbox** option.
 
-![Dropbox platform for file uploading](/images/setup-configuration/ticket-forms-fields/file-upload-integrations/file-upload-integration-configure-1-1.webp)
+![Dropbox platform for file uploading](/guide/public/images/setup-configuration/ticket-forms-fields/file-upload-integrations/file-upload-integration-configure-1-1.webp)
 
 ### Configuration Example: Dropbox
 
@@ -29,7 +29,7 @@ Once you click the settings icon, a pop-up window will appear requiring your cre
 
 Once you have entered the details, click the **Connect (or Reconnect)** button to authorize the integration.
 
-![Configure DropboxSettings popup page](/images/setup-configuration/ticket-forms-fields/file-upload-integrations/configure-dropbox-settings-popup-1.webp)
+![Configure DropboxSettings popup page](/guide/public/images/setup-configuration/ticket-forms-fields/file-upload-integrations/configure-dropbox-settings-popup-1.webp)
 
 ### Detailed Integration Guides
 

@@ -12,7 +12,7 @@ Select **Auto Close Settings** from the left sidebar and check the “**Enable A
 
 If you enable this feature, **Fluent Support** will automatically close tickets that match selected criteria in the background every hour.
 
-![Enable auto close settings](/images/ticket-management/automation-in-tickets/automatic-ticket-closing/auto-closing-ticket-1.webp)
+![Enable auto close settings](/guide/public/images/ticket-management/automation-in-tickets/automatic-ticket-closing/auto-closing-ticket-1.webp)
 
 ## Configuration Set 
 
@@ -20,7 +20,7 @@ After enabling the auto-closing settings, **a handy configuration set will appea
 
 Always press **Save Settings** after finishing all the configuration in your **Auto Close Settings** to save it. Otherwise, the changes you have made will not occur.
 
-![Configuration Set for Auto Closing](/images/ticket-management/automation-in-tickets/automatic-ticket-closing/auto-closing-ticket-2.webp)
+![Configuration Set for Auto Closing](/guide/public/images/ticket-management/automation-in-tickets/automatic-ticket-closing/auto-closing-ticket-2.webp)
 
 A brief explanation of the settings shown in the screenshot above is given below -
 

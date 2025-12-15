@@ -10,7 +10,7 @@ Go to your Fluent Support **Dashboard** & click on **Tickets.**
 
 After going to “**Tickets”** you will find various options for filtering and sorting your tickets.
 
-![Search options inside a Ticket](/images/ticket-management/search-filter/filtering-sorting-searching-tickets/sort-filter-1.webp)
+![Search options inside a Ticket](/guide/public/images/ticket-management/search-filter/filtering-sorting-searching-tickets/sort-filter-1.webp)
 
 ### 1. Status
 
@@ -70,7 +70,7 @@ Here is a list of available search parameters –
   * **Id:** Search any tickets based on the Ticket ID.
   * **Customer_id:** Search for any tickets using the customer ID. To do this, enter the customer ID in the following format: example: customer_ID: 29. This will display a list of tickets opened by that specific customer.
 
-![Search filter](/images/ticket-management/search-filter/filtering-sorting-searching-tickets/sort-filter-4.webp)
+![Search filter](/guide/public/images/ticket-management/search-filter/filtering-sorting-searching-tickets/sort-filter-4.webp)
 
 ### 9\. Waiting for Reply #
 
@@ -97,5 +97,5 @@ Given below are the current categories by which you can sort the tickets –
   * **Response Count**
   * **Created At**
 
-![Sorting](/images/ticket-management/search-filter/filtering-sorting-searching-tickets/sort-filter-3.webp)
+![Sorting](/guide/public/images/ticket-management/search-filter/filtering-sorting-searching-tickets/sort-filter-3.webp)
 

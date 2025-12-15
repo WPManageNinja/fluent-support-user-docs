@@ -14,11 +14,11 @@ The **Fluent Support Dashboard** has **five sections** that provide a comprehens
 
 Once you have installed Fluent Support, your **Fluent Support Dashboard** will be shown below. To use this feature, you must fill in all the necessary information and click the **Continue** button.
 
-![Initial overview of Fluent Support Dashboard](/images/reports-analytics/dashboard-overview/dashboard-forbid-territory-wordpress-scaled.webp)
+![Initial overview of Fluent Support Dashboard](/guide/public/images/reports-analytics/dashboard-overview/dashboard-forbid-territory-wordpress-scaled.webp)
 
 After filling in all the information, your **Fluent Support Dashboard** will look like the screenshot below.
 
-![General overview of Fluent Support Dashboard](/images/reports-analytics/dashboard-overview/general-overview-scaled-1.webp)
+![General overview of Fluent Support Dashboard](/guide/public/images/reports-analytics/dashboard-overview/general-overview-scaled-1.webp)
 
 The sections of the Fluent Support Dashboard are briefly explained below –
 
@@ -29,7 +29,7 @@ This “Here Are A Few Tickets You May Want To Take A Look At” section will gi
   * At the top, you will see a list of **Active** tickets to which you have previously replied, and if you haven’t replied to any tickets, a list of **New** tickets will be displayed.
   * At the bottom, you will find ticket details that display the **total number** of tickets waiting for a reply along with their **average** and **maximum** wait times.
 
-![Preview of Overall Ticket Activities](/images/reports-analytics/dashboard-overview/dashboard-authlab-task-01-wordpress.webp)
+![Preview of Overall Ticket Activities](/guide/public/images/reports-analytics/dashboard-overview/dashboard-authlab-task-01-wordpress.webp)
 
 ### Today’s Overview
 
@@ -43,23 +43,23 @@ This “Your Overview For Today” section will give you an overview of your tic
   * **Unassigned Tickets:** The number of tickets that have not been assigned to any agent yet.
   * The bottom of this section shows the **total number** of tickets waiting for a reply along with their **average** and **maximum** wait times.
 
-![Preview of Today’s Overview](/images/reports-analytics/dashboard-overview/overview-for-today-authlab-task-01-wordpress.webp)
+![Preview of Today’s Overview](/guide/public/images/reports-analytics/dashboard-overview/overview-for-today-authlab-task-01-wordpress.webp)
 
 ### Bookmarked Tickets
 
 This “Your Bookmarked Tickets” section will display the tickets that have been bookmarked by the agent.
 
-![Preview of Bookmarked Tickets](/images/reports-analytics/dashboard-overview/fluent-support-updates-bookmarked-1.webp)
+![Preview of Bookmarked Tickets](/guide/public/images/reports-analytics/dashboard-overview/fluent-support-updates-bookmarked-1.webp)
 
 ## Active Tickets By Products
 
 The **Today’s Active Tickets by Products** section offers an overview of the tickets currently in the queue, organized and categorized according to the respective products they relate to.
 
-![Preview of Active Tickets By Products](/images/reports-analytics/dashboard-overview/activity-by-products-authlab-task-01-wordpress.webp)
+![Preview of Active Tickets By Products](/guide/public/images/reports-analytics/dashboard-overview/activity-by-products-authlab-task-01-wordpress.webp)
 
 ## Agent Performance 
 
 The “Agent Performance (Today)” section presents a comprehensive overview of an agent’s activities, including the number of tickets on their waiting list, the number of responses they have provided, and the number of tickets they have successfully closed.
 
-![Preview of Agent Performance](/images/reports-analytics/dashboard-overview/agent-performance-pricing-update-1.webp)
+![Preview of Agent Performance](/guide/public/images/reports-analytics/dashboard-overview/agent-performance-pricing-update-1.webp)
 

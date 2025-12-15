@@ -9,7 +9,7 @@ This article guides you on adding **Multiple** **Business Inboxes** using the [*
 
 Go to the Fluent Support **Dashboard** & click on the **Business Inboxes** tab. Click the **Add New Business Inbox** button and a pop-up box will appear.
 
-![Add new Business Inbox](/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/add-new-business-boxes.webp)
+![Add new Business Inbox](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/add-new-business-boxes.webp)
 
 Add a relevant **Inbox Name** &**Email** (company name & business email) and select the **Support** **Channel**.
 
@@ -19,13 +19,13 @@ Add a relevant **Inbox Name** &**Email** (company name & business email) and sel
 
 Once you are done, click the **Add Business Inbox** and your new business inbox will be added.
 
-![Fill in the Add a New Business Inbox popup page](/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/add-inbox-popup-info-button-1.webp)
+![Fill in the Add a New Business Inbox popup page](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/add-inbox-popup-info-button-1.webp)
 
 This way, you can add **Multiple** **Business** **Inboxes** for your multiple businesses.
 
 To ensure your website can deliver emails in the easiest, fastest, and most secure way from the **email address** that you use under the **Support Inbox Email** , we recommend using the **[FluentSMTP](https://fluentsmtp.com/)** plugin. To learn the basic use of the **FluentSMTP** plugin, check this [**Documentation**](/guide/getting-started/how-to-install-activate-fluent-support).
 
-![Business Inbox is added](/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/final-look-of-multiople-business-inbox.webp)
+![Business Inbox is added](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/final-look-of-multiople-business-inbox.webp)
 
 ## Setup Support Portal For A Specific Business Inbox 
 
@@ -42,21 +42,21 @@ Go to the page where you want to embed a portal and paste the below shortcode.
 
 To find the Business Box ID, go to **Business Inboxes** from **Fluent Support Dashboard,** and click on the **View Settings** of your desired business inbox.
 
-![View Settings button](/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/5.-view-settings-scaled-1.webp)
+![View Settings button](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/5.-view-settings-scaled-1.webp)
 
 Now, you will find the business box ID in the URL of that business box as shown below. Copy the **Business Box ID**(number) from here.
 
-![](/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/business-box-id-1.webp)
+![](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/business-box-id-1.webp)
 
 And, use the **ID** in your **Shortcode** and place it anywhere on your website as per your requirements as I have used it below —
 
 This service is especially helpful for **[Web-Based Business Inboxes](https://fluentsupport.com/docs/web-based_settings_in_business_inbox/)**.
 
-![](/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/using-id-in-shortcode-1.webp)
+![](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/using-id-in-shortcode-1.webp)
 
 Here you can see the preview of the **Customer Support Portal** in the screenshot below.
 
-![Preview of Customer Support portal](/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/8.-support-portal-preview-1.webp)
+![Preview of Customer Support portal](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/8.-support-portal-preview-1.webp)
 
 
 ---

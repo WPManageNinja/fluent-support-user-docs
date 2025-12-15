@@ -16,14 +16,14 @@ This will open the Global Settings page, where you can configure the portal page
 > **Remember:** Always press the **Save Settings** button in the top right corner after finishing your customization to save your changes. Otherwise, changes will not appear in your Customer Portal.
 
 
-![Global Settings from Fluent Support Dashboard](/images/setup-configuration/customer-portal/customer-support-portal-setup/accessing-global-settings-1.webp)
+![Global Settings from Fluent Support Dashboard](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/accessing-global-settings-1.webp)
 
 
 ## Set up Customer Support Portal
 
 You will find the following options in **Global Settings** to configure your **Fluent Support Customer Portal**:
 
-![Set up Customer Support Portal](/images/setup-configuration/customer-portal/customer-support-portal-setup/setup-global-settings-2.webp)
+![Set up Customer Support Portal](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/setup-global-settings-2.webp)
 
 ### A. Portal Page 
 
@@ -31,11 +31,11 @@ In the ’**Portal Page’** option, you can select the **Page** where you want 
 
   * Select the desired page directly from the **Dropdown** option. Or, copy the **Shortcode** given just below the**Portal Page**.
 
-![Select the desired page from the drop-down to show the support portal](/images/setup-configuration/customer-portal/customer-support-portal-setup/portal-page-drift-video-1.gif)
+![Select the desired page from the drop-down to show the support portal](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/portal-page-drift-video-1.gif)
 
   * And, paste it manually on your **Desired page**.
 
-![Use the given Shortcode on desired page to show the support portal](/images/setup-configuration/customer-portal/customer-support-portal-setup/add-shortcode-drift-video-1.gif)
+![Use the given Shortcode on desired page to show the support portal](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/add-shortcode-drift-video-1.gif)
 
 ### B. Message for non-logged-in users 
 
@@ -46,13 +46,13 @@ In this option, you can customize certain texts for the users who have not logge
 
 To know the details of these below-mentioned **Shortcodes,** check this **[Documentation](https://fluentsupport.com/docs/shortcodes/).**
 
-![Message for non-logged-in users](/images/setup-configuration/customer-portal/customer-support-portal-setup/message-for-non-logged-users-1.webp)
+![Message for non-logged-in users](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/message-for-non-logged-users-1.webp)
 
 ### C. Disable Public Ticket Interaction 
 
 Enabling ‘**Disable Public Ticket Interaction’** allows only logged-in users to reply to tickets. If you uncheck the option, users can reply to tickets without logging in using a signed URL.
 
-![Disable Public Ticket Interaction](/images/setup-configuration/customer-portal/customer-support-portal-setup/disable-public-ticket-1.webp)
+![Disable Public Ticket Interaction](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/disable-public-ticket-1.webp)
 
 ### D. Accepted File Types 
 
@@ -60,7 +60,7 @@ Fluent Support accepts photos, CSV, PDF/Docs, Zip, and JSON files. You can also 
 
 To learn the details about file **Attachment Regulations** , read this **[Documentation](https://fluentsupport.com/docs/attachment-regulation/)**.
 
-![Accepted File Types](/images/setup-configuration/customer-portal/customer-support-portal-setup/accepeted-file-type.webp)
+![Accepted File Types](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/accepeted-file-type.webp)
 
 ### E. Delete all attachments on ticket close 
 
@@ -94,7 +94,7 @@ Enabling the ‘**Agent Feedback Rating’** option allows users to provide feed
 
 Enabling the ‘**Agent Time Rating’** option allows agents to set the amount of time a user needs to complete a ticket.
 
-![Agent Time Tracking option](/images/setup-configuration/customer-portal/customer-support-portal-setup/customer-registartion-file-u.webp)
+![Agent Time Tracking option](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/customer-registartion-file-u.webp)
 
 Always press **Save Settings** after finishing all the customization in your **Global Settings** to save it. Otherwise, changes will not appear in your Customer Portal.
 

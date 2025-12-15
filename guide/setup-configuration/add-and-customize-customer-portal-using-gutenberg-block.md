@@ -11,14 +11,14 @@ First, go to the **Pages** from the **WordPress** **Dashboard** , open the desir
 
 If you want to add your **Customer** **Support** **Portal** to a new page, click the **Add New Page** button in the top left corner and create a new page.
 
-![WordPress dashboard - Pages](/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/1.-selected-page-scaled.webp)
+![WordPress dashboard - Pages](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/1.-selected-page-scaled.webp)
 
 Once you are on the Page Editor, add a **FluentSupport (Customer Portal)** **Gutenberg Block** to your desired page as shown in the GIF below.
 
 > [!NOTE]
 > You can also add **FluentSupport (Customer Portal)** in **Posts** on your **WordPress** **Site** by following the process shown below.
 
-![](/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/2.-add-customer-portal-using-gutenberg-block-gif.gif)
+![](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/2.-add-customer-portal-using-gutenberg-block-gif.gif)
 
 ## Customize Customer Portal 
 
@@ -29,7 +29,7 @@ First, click any place of the portal randomly and it will take you to the **Bloc
 2. General Style Settings
 3. Advanced
 
-![](/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/3.-all-three-customization-option-scaled-1.webp)
+![](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/3.-all-three-customization-option-scaled-1.webp)
 
 **All three major customization settings mentioned above are briefly explained below:**
 
@@ -42,7 +42,7 @@ Once you click the **Arrow Icon** right next to the **Custom Page Style** , you 
  * **Hide:** Selecting Hide from the dropdown menu completely removes the logout button from the portal interface, as shown in the preview below.
  * **Show:** Select Show if you want the logout button to be visible to your customers.
 
-![](/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/4.-custom-page-style-1.webp)
+![](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/4.-custom-page-style-1.webp)
 
 ### 2. General Style Settings 
 
@@ -56,7 +56,7 @@ Once you click the **Arrow Icon** right next to the **General Style Settings** ,
 
  **D. Secondary Button Style** : Also, you can customize the appearance of the**Secondary Button** by changing its **Text** and **Background** color. You can reset them anytime using the **Three-dot Icon** on the right side.
 
-![](/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/5.-general-style-settings-1.webp)
+![](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/5.-general-style-settings-1.webp)
 
 #### Customize the Ticket Portal 
 
@@ -66,30 +66,30 @@ Once you click the **+ Create Ticket** button in the **Customer Portal** , you w
 
  **b. Secondary Button Style** : Also, you can customize the appearance of the**Secondary Button** by changing its **Text** and **Background** color. You can reset them anytime using the **Three-dot Icon** on the right side. **For example** , I made the **Browse File** button orange colour.
 
-![](/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/6.-secondary-button-and-input-fields-in-ticket-portal-1.webp)
+![](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/6.-secondary-button-and-input-fields-in-ticket-portal-1.webp)
 
 ### 3. Advanced 
 
 Once you click the **Arrow Icon** right next to the **Advanced** , you will get the following setting option.
 **a. Additional CSS Class(es):** You can use this advanced field to make the design of this Customer Portal (Gutenberg block) more customized by providing additional**CSS Class(es)**. 
 
-![](/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/7.-advanced-settings-1.webp)
+![](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/7.-advanced-settings-1.webp)
 
 Once you complete the customization process, click the **Save** button (**Publish** button for new pages) in the top right corner to save all your changes. To see the preview, click the button beside the **Save** button. 
 
-![](/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/8.-save-button-scaled-1.webp)
+![](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/8.-save-button-scaled-1.webp)
 
 ## Preview of Customer Portal 
 
 Here, you can see the preview of FluentSupport’s **Customer Portal**. 
 
-![](/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/9.-preview-of-customer-support-portal.webp)
+![](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/9.-preview-of-customer-support-portal.webp)
 
 ## Preview of Ticket Portal 
 
 Here, you can see the preview of **FluentSupport’s Ticket Portal**. 
 
-![](/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/10.-preview-of-ticket-portal-1.webp)
+![](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/10.-preview-of-ticket-portal-1.webp)
 
 ---
 

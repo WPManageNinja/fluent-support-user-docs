@@ -20,7 +20,7 @@ Once integrated, support agents can easily verify purchase details while viewing
 
 For example, when a support agent clicks on the **Eye Icon** next to the product price within the ticket view, a pop-up will appear displaying the user’s detailed EDD purchase history.
 
-![Preview of Easy Digital Downloads \(EDD\) Integration with Fluent Support  ](/images/integrations-channels/core-integrations/edd-integration/easy-digital-dwnloads-1.webp)
+![Preview of Easy Digital Downloads \(EDD\) Integration with Fluent Support  ](/guide/public/images/integrations-channels/core-integrations/edd-integration/easy-digital-dwnloads-1.webp)
 
 This is how the integration of **Easy Digital Download** with **Fluent Support** works!  
 

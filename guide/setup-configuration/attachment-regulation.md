@@ -31,7 +31,7 @@ You also have the option to control the size and number of files a user can uplo
 
 If you want you can add more **Attachment** **Types** using **Shortcode** if needed. To learn how to add Attachment Types, check this [**Documentation**](/guide/setup-configuration/add-more-attachment-type).
 
-![Global Settings from Fluent Support Dashboard](/images/setup-configuration/ticket-forms-fields/attachment-regulation/dashboard-global-settings-2-scaled-1.webp)
+![Global Settings from Fluent Support Dashboard](/guide/public/images/setup-configuration/ticket-forms-fields/attachment-regulation/dashboard-global-settings-2-scaled-1.webp)
 
 ### File Storage Structure
 

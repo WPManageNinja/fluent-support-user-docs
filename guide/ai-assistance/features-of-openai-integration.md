@@ -18,7 +18,7 @@ First, go to **Tickets** from the **Fleunt Support Dashboard,** open your **desi
 
 Once you are done, click on the **Add Reply** or **Reply and Close** button, and your reply will be added to your ticket.
 
-![Major-Three-feature-of-ChatGPT](/images/ai-assistance/features-of-openai-integration/major-three-feature-of-chatgpt-scaled-1.webp)
+![Major-Three-feature-of-ChatGPT](/guide/public/images/ai-assistance/features-of-openai-integration/major-three-feature-of-chatgpt-scaled-1.webp)
 
 **A detailed explanation of the Features of OpenAI mentioned above is given below:**
 
@@ -29,23 +29,23 @@ This AI assistant will give you two options for summarizing an entire ticket con
   * Ticket Summary
   * Customer Sentiment
 
-![Option-A-and-its-features](/images/ai-assistance/features-of-openai-integration/option-a-and-its-features-scaled-1.webp)
+![Option-A-and-its-features](/guide/public/images/ai-assistance/features-of-openai-integration/option-a-and-its-features-scaled-1.webp)
 
 A brief explanation of the two AI options mentioned above is given below:
 
   * **Ticket Summary** : Once you click this button, the AI will summarize the entire conversation you have in your ticket like the screenshot below.
 
-![Preview-of-Ticket-Summary-option](/images/ai-assistance/features-of-openai-integration/preview-of-ticket-summary-option-1.webp)
+![Preview-of-Ticket-Summary-option](/guide/public/images/ai-assistance/features-of-openai-integration/preview-of-ticket-summary-option-1.webp)
 
   * **Customer Sentiment** : Once you press this button, the AI will summarize the user’s satisfaction level with your responses in a statement with an emoji, as shown in the screenshot below. 
 
-![Preview-of-customer-sentiment-option](/images/ai-assistance/features-of-openai-integration/preview-of-customer-sentiment-option-1.webp)
+![Preview-of-customer-sentiment-option](/guide/public/images/ai-assistance/features-of-openai-integration/preview-of-customer-sentiment-option-1.webp)
 
 ### AI Assistant B: #
 
 This AI assistant will help you to generate responses to make your responses efficient for your tickets.
 
-![Option-B-and-its-features](/images/ai-assistance/features-of-openai-integration/option-b-and-its-features-1.webp)
+![Option-B-and-its-features](/guide/public/images/ai-assistance/features-of-openai-integration/option-b-and-its-features-1.webp)
 
 A brief explanation of all the AI options mentioned above is given below:
 
@@ -67,7 +67,7 @@ A brief explanation of all the AI options mentioned above is given below:
 
 This AI assistant will help you modify your existing texts so that you can refine your ticket responses with to enhance clarity and precision.
 
-![Option-C-and-its-features](/images/ai-assistance/features-of-openai-integration/option-c-and-its-features-1.webp)
+![Option-C-and-its-features](/guide/public/images/ai-assistance/features-of-openai-integration/option-c-and-its-features-1.webp)
 
 A brief explanation of all the AI options mentioned above is given below:
 
@@ -91,7 +91,7 @@ To check your all AI-related activities in one place, follow the steps with scre
 
 First, go to the Activities section from the **Fluent Support Dashboard,** click on the **AI Activities** tab, and you will get all the available options to manage your activities. 
 
-![AI-Activities-tab-from-Activities-section-of-Fluent-Support-Dashboard](/images/ai-assistance/features-of-openai-integration/ai-activities-tab-from-activities-section-of-fluent-support-dashboard-1.webp)
+![AI-Activities-tab-from-Activities-section-of-Fluent-Support-Dashboard](/guide/public/images/ai-assistance/features-of-openai-integration/ai-activities-tab-from-activities-section-of-fluent-support-dashboard-1.webp)
 
 **A brief explanation of all the above-mentioned options is given below:**
 

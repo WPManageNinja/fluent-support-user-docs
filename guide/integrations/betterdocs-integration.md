@@ -22,7 +22,7 @@ From the **Fluent Support Dashboard**, go to **Settings** and click on **Ticket 
 * **Select Post Types:** Under the **Knowledge Base Post Types** section, select **docs**. This option appears because **BetterDocs** uses the 'docs' post type for its articles.
 * **Set Article Limit:** In the **Suggested Articles Limit** field, define the maximum number of suggested articles you want to display (e.g., 5 or 15).
 
-![Enable knowledge base suggestion on the ticket creation form box](/images/integrations-channels/other/betterdocs-integration/enable-post-type-article-limit-1.webp)
+![Enable knowledge base suggestion on the ticket creation form box](/guide/public/images/integrations-channels/other/betterdocs-integration/enable-post-type-article-limit-1.webp)
 
 Once you have configured these options, do not forget to click the **Save Settings** button in the top right corner.
 

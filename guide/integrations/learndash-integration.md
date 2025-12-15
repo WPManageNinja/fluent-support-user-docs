@@ -13,7 +13,7 @@ You do not need to integrate the **LearnDash** plugin manually with **Fluent Sup
 
 For example, here you can see a user purchased three courses from **LearnDash Courses** and the overview of course purchase history (Course Name and Enrollment Status) has automatically appeared on his ticket.
 
-![Preview of LearnDash Integration with Fluent Support](/images/integrations-channels/learning-membership/learndash-integration/learndash-integration-scaled-1.webp)
+![Preview of LearnDash Integration with Fluent Support](/guide/public/images/integrations-channels/learning-membership/learndash-integration/learndash-integration-scaled-1.webp)
 
 This is how the integration of **LearnDash** with **Fluent** **Support** works!  
 

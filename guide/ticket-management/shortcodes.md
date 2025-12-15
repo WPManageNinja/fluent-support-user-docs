@@ -19,7 +19,7 @@ Remember, there is a significant difference between the functionality of both sh
 
 The above-mentioned shortcodes will display all the **Built-in** **Login, Signup, and** **Reset Passwords** together in one form as shown in the screenshot below. Once users complete the login process, they will get access to the **Customer Support Portal**.
 
-![Login form with Sing up and Reset Password](/images/ticket-management/automation-in-tickets/shortcodes/both-signup-and-login-1-1024x747.webp)
+![Login form with Sing up and Reset Password](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/both-signup-and-login-1-1024x747.webp)
 
 ## Shortcodes for the Customer Support Portal
 
@@ -37,7 +37,7 @@ Remember , you can enable **[Two-Factor Authentication](https://fluentsupport.co
     [fluent_support_login]
 ```
 
-![Built in Login Form](/images/ticket-management/automation-in-tickets/shortcodes/built-in-login-form-1.webp)
+![Built in Login Form](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/built-in-login-form-1.webp)
 
 ### 2. Login Form with Reset Password 
 
@@ -50,7 +50,7 @@ To display only the **Reset** **Password** option with the **built-in Login** fo
     [fluent_support_login show-reset-password=true]
 ```
 
-![Login with Reset Password Form](/images/ticket-management/automation-in-tickets/shortcodes/reset-password-with-log-in-form.webp)
+![Login with Reset Password Form](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/reset-password-with-log-in-form.webp)
 
 ### 3. Login Form with Create New Account
 
@@ -62,7 +62,7 @@ To display only the **Signup** (**Create an Account**) option with the **built-i
     [fluent_support_login show-signup=true]
 ```
 
-![Login withCreate an Account form](/images/ticket-management/automation-in-tickets/shortcodes/new-create-an-account-option-1024x764.webp)
+![Login withCreate an Account form](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/new-create-an-account-option-1024x764.webp)
 
 ### 4. Signup Form
 
@@ -76,7 +76,7 @@ Remember , for sign-up, use a valid email as a verification code will be sent to
     [fluent_support_signup]
 ```
 
-![Signup Form](/images/ticket-management/automation-in-tickets/shortcodes/signup-portal-1.webp)
+![Signup Form](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/signup-portal-1.webp)
 
 ### 5. Reset Password Form
 
@@ -86,7 +86,7 @@ To display the **Reset Password** **Form** only, use this **fluent_support_signu
     [fluent_support_reset_password]
 ```
 
-![Reset Password](/images/ticket-management/automation-in-tickets/shortcodes/reset-password-only.webp)
+![Reset Password](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/reset-password-only.webp)
 
 ### 6. Set-Mailbox Shortcode
 
@@ -106,6 +106,6 @@ To **display** the Logout Option in the **Customer Support Portal Dashboard** , 
     [fluent_support_portal show_logout = yes]
 ```
 
-![Logout option in customer portal](/images/ticket-management/automation-in-tickets/shortcodes/7.-logout-option-shortcode-1.webp)
+![Logout option in customer portal](/guide/public/images/ticket-management/automation-in-tickets/shortcodes/7.-logout-option-shortcode-1.webp)
 
 

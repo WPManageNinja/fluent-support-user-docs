@@ -6,15 +6,15 @@ With Fluent Support, you can set up **Email Notifications** that will send autom
 
 From the Fluent Support **Dashboard** , go to **Business Inboxes** , select your desired business inbox, and click on **View Settings**.
 
-![Open the settings of  the desired business inbox](/images/email-notifications/managing-email-notifications/email-notification-1.webp)
+![Open the settings of  the desired business inbox](/guide/public/images/email-notifications/managing-email-notifications/email-notification-1.webp)
 
 Here are your **Email Settings** from where you can customize your email notification. To know the **Detailed Functionalities** of **Email Settings** , read this [Documentation](/guide/setup-configuration/web-and-email-settings-in-business-inbox).
 
-![Open Email Settings](/images/email-notifications/managing-email-notifications/email-notification-2.webp)
+![Open Email Settings](/guide/public/images/email-notifications/managing-email-notifications/email-notification-2.webp)
 
 Choose the **Notification Type** from the list of email notifications that suits your needs.
 
-![Choose from all the Notification Types](/images/email-notifications/managing-email-notifications/email-notification-3.webp)
+![Choose from all the Notification Types](/guide/public/images/email-notifications/managing-email-notifications/email-notification-3.webp)
 
 A brief explanation of the Settings of the Above-Mentioned Email Notifications List:
 

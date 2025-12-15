@@ -8,7 +8,7 @@ To access the migration tools, follow the steps below:
 
 Go to **Settings** from the **Fluent Support Dashboard** and click on **Ticket Importer** from the left sidebar.
 
-![All Ticket Importer's options from Global Settings under Fluent Support Dashboard](/images/migration/ticket-importer/dashboard-settings-ticket-importes-scaled-1.webp)
+![All Ticket Importer's options from Global Settings under Fluent Support Dashboard](/guide/public/images/migration/ticket-importer/dashboard-settings-ticket-importes-scaled-1.webp)
 
 ## Importing Tickets
 

@@ -13,7 +13,7 @@ You do not need to integrate the **LifterLMS** plugin manually with **Fluent Sup
 
 For example, here you can see a user purchased two courses from **LifterLMS** and the outline of course purchase history (Course Name and Enrollment Status) has automatically appeared on his ticket.
 
-![Preview of LifterLMS Integration with Fluent Support](/images/integrations-channels/learning-membership/lifterlms-integration/lifterlms-integration-scaled-1.webp)
+![Preview of LifterLMS Integration with Fluent Support](/guide/public/images/integrations-channels/learning-membership/lifterlms-integration/lifterlms-integration-scaled-1.webp)
 
 This is how the integration of **LifterLMS** with **Fluent Support** works!  
 

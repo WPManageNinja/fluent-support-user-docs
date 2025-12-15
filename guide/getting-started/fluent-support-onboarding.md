@@ -28,7 +28,7 @@ The first screen of the wizard welcomes you and asks for basic business informat
 
 Click the **Next Step** button to proceed.
 
-![Onboarding Wizard Step 1: Business Information and Portal Page setup](/images/getting-started/onboarding/getting-started-onboarding-1.webp)
+![Onboarding Wizard Step 1: Business Information and Portal Page setup](/guide/public/images/getting-started/onboarding/getting-started-onboarding-1.webp)
 
 ### Step 2: Finalizing Your Setup
 
@@ -39,7 +39,7 @@ The second step allows you to stay updated and help improve the plugin environme
 
 Click the **Finish** button to complete the setup.
 
-![Onboarding Wizard Step 2: Finalizing setup and tracking preference](/images/getting-started/onboarding/finish-button-2.webp)
+![Onboarding Wizard Step 2: Finalizing setup and tracking preference](/guide/public/images/getting-started/onboarding/finish-button-2.webp)
 
 ## Usage Tracking Preference
 
@@ -49,7 +49,7 @@ This option enables Fluent Support to collect non-sensitive data, allowing us to
 
 You can choose "**Yes, Count me in!**" to opt-in or "**No Thanks**" to decline. No personal data is tracked or stored.
 
-![Usage tracking preference pop-up](/images/getting-started/onboarding/better-fluentsupport-2.webp)
+![Usage tracking preference pop-up](/guide/public/images/getting-started/onboarding/better-fluentsupport-2.webp)
 
 ## Setup Complete
 
@@ -64,7 +64,7 @@ From this screen, you have access to Quick Setup Options to customize your helpd
 
 Simply click **Go to Dashboard** to enter your Fluent Support dashboard and start managing tickets.
 
-![Onboarding setup complete screen with quick setup options](/images/getting-started/onboarding/go-to-dashboard-3.webp)
+![Onboarding setup complete screen with quick setup options](/guide/public/images/getting-started/onboarding/go-to-dashboard-3.webp)
 
 Congratulations, now you can experience the features of the Fluent Support plugin and take your productivity to the next level! We hope this article helps you have an amazing experience.
 

@@ -13,7 +13,7 @@ You do not need to integrate the **LearnPress** plugin manually with **Fluent Su
 
 For example, here you can see a user purchased one course from **LearnPress** and the outline of course purchase history (Course Name, Graduation Progress, Enrollment Status, and Starting Date) has automatically appeared on his ticket.
 
-![Preview of LearnPress Integration with Fluent Support](/images/integrations-channels/learning-membership/learnpress-integration/learn-press-integration-1.webp)
+![Preview of LearnPress Integration with Fluent Support](/guide/public/images/integrations-channels/learning-membership/learnpress-integration/learn-press-integration-1.webp)
 
 This is how the integration of **LearnPress** with **Fluent Support** works!  
 

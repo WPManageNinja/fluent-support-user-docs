@@ -14,14 +14,14 @@ Open the specific ticket you want to split and hit the **Three dot button** on t
 
 Now, click on the **Split Ticket** and a pop-up will appear.
 
-![Split ticket option](/images/ticket-management/productivity-tools/split-reply-in-new-tickets/split-ticket-1.webp)
+![Split ticket option](/guide/public/images/ticket-management/productivity-tools/split-reply-in-new-tickets/split-ticket-1.webp)
 
 The popup will display all the options for splitting tickets e.g., **Ticket** **Title** , **Ticket** **Content** , **Ticket** **Product** , etc. And, once you are done, don’t forget to click the **Split Ticket** button.
 
-![Split Ticket popup page](/images/ticket-management/productivity-tools/split-reply-in-new-tickets/split-ticket-2.webp)
+![Split Ticket popup page](/guide/public/images/ticket-management/productivity-tools/split-reply-in-new-tickets/split-ticket-2.webp)
 
 You can see the **split tickets appeared separately** on both the customer & support ends.
 
-![Tickets split separately ](/images/ticket-management/productivity-tools/split-reply-in-new-tickets/split-ticket-3.webp)
+![Tickets split separately ](/guide/public/images/ticket-management/productivity-tools/split-reply-in-new-tickets/split-ticket-3.webp)
 
 

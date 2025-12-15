@@ -11,8 +11,8 @@ First, go to your **Fluent Support** and click on **Tickets**. Then go to your d
 Open the specific ticket you want to close silently and click on the **Three dot Icon**.  
 Now, select **Close Ticket Silently** and a confirmation message (Ticket has been closed) will appear that only you can see.
 
-![Close Ticket Silently option](/images/ticket-management/automation-in-tickets/close-ticket-silently/close-ticket-silently-1.png)
+![Close Ticket Silently option](/guide/public/images/ticket-management/automation-in-tickets/close-ticket-silently/close-ticket-silently-1.png)
 
 You can also see that the **Closed Ticket** if you return to this ticket.
 
-![Ticket closed silently](/images/ticket-management/automation-in-tickets/close-ticket-silently/close-ticket-silently-2.png)
+![Ticket closed silently](/guide/public/images/ticket-management/automation-in-tickets/close-ticket-silently/close-ticket-silently-2.png)

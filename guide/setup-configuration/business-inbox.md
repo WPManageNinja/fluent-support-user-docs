@@ -38,16 +38,16 @@ Here, you will see an overview of all your active inboxes presented as cards. Ea
 
 To create a new inbox, you can simply click the **+ Add New Business Box** button located in the top right corner.
 
-![Fluent Support Business Inbox](/images/setup-configuration/business-inboxes/create-business-inbox/add-new-business-box.webp)
+![Fluent Support Business Inbox](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/add-new-business-box.webp)
 
 Fill out all the necessary information to **set** up your **Support** **Portal,** as shown in the screenshot below.
 
-![Business details for Fluent Support Portal](/images/setup-configuration/business-inboxes/create-business-inbox/dashboard-of-fluent-support-scaled-1.webp)
+![Business details for Fluent Support Portal](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/dashboard-of-fluent-support-scaled-1.webp)
 
 Select the **Page** from the **Dropdown menu** where you want to set up your **Support** **Portal**. Copy the **Shortcode** provided below and paste it on the selected page.
 You can **Paste** the **Shortcode** anywhere on any **Page** of your **WordPress** **Site** according to your preference.
 
-![Adding the Support Portal in desired page using ShortCode](/images/setup-configuration/business-inboxes/create-business-inbox/select-page-for-shortcode-gfif-drift-video-3918894-4023448-1709375724.gif)
+![Adding the Support Portal in desired page using ShortCode](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/select-page-for-shortcode-gfif-drift-video-3918894-4023448-1709375724.gif)
 
 
 Or, you can simply enable the **create a page automatically with the shortcode** button to create a **Separate** **Page** for setting up your support portal **automatically**.
@@ -57,12 +57,12 @@ However, if you want to set up your support portal on a specific page or block o
 After entering all the necessary information, click on the **Continue** button.  
 Your Support Portal will then be connected to your WordPress Site, and an automatic business inbox will also be created.
 
-![Automatically created Support portal in a separate page](/images/setup-configuration/business-inboxes/create-business-inbox/automatically-create-page-for-support-portal.gif)
+![Automatically created Support portal in a separate page](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/automatically-create-page-for-support-portal.gif)
 
 ## Preview of Customer Support Portal 
 Here you can see the preview of the **Customer Support Portal** using the shortcode.
 
-![Preview of Customer Support Portal using ShortCode](/images/setup-configuration/business-inboxes/create-business-inbox/5.-preview-of-customer-support-portal-1.webp)
+![Preview of Customer Support Portal using ShortCode](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/5.-preview-of-customer-support-portal-1.webp)
 
 ## Customize Your Support Portal 
 
