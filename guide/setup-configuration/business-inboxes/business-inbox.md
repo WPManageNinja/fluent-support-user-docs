@@ -7,7 +7,7 @@
 ## Onboarding Dashboard (Initial Setup)
 
 >[!Note]
-> **Initially** , there is **No** **Need** to create a separate **Business** **Inbox** manually. A [**Web-based** **Business Inbox**](/guide/setup-configuration/business-inboxes/web-based-settings-in-business-inbox) is created automatically when you frist provide all the necessary information to set up your support portal under the **Onboarding Dashboard** section.
+> **Initially** , there is **No** **Need** to create a separate **Business** **Inbox** manually. A [**Web-based** **Business Inbox**](/guide/setup-configuration/web-based-settings-in-business-inbox) is created automatically when you first provide all the necessary information to set up your support portal under the **Onboarding Dashboard** section.
 
 During the initial plugin setup (Onboarding):
  * You will fill out the necessary information to set up your Support Portal.
@@ -66,5 +66,5 @@ Here you can see the preview of the **Customer Support Portal** using the shortc
 
 If you want to customize the design of your Support Portal for your customer, you can do this easily by adding the **Fluent Support** (**Customer Portal**) **Gutenberg Block** to your page or post.
 
-To learn how to **Add** and **Customize** the **Customer Portal** , check this **[Documentation](/guide/setup-configuration/customer-portal/customer-support-portal-dashboard)**.
+To learn how to **Add** and **Customize** the **Customer Portal** , check this **[Documentation](/guide/setup-configuration/customer-support-portal-dashboard)**.
 
