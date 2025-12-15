@@ -1,8 +1,5 @@
 # FluentCommunity Integration
 
-
----
-
 Integrating **FluentCommunity** with **Fluent Support** creates a more efficient and context-rich support experience. When connected, you can automate ticket routing based on a user’s course and provide your support agents with their community details directly within the ticket view.
 
 > **Use Case:** A student taking your “Advanced SEO” course submits a support ticket and selects the course from a dropdown. A workflow rule can automatically assigns this ticket to your SEO specialist. When the agent opens the ticket, they instantly see a **FluentCommunity Widget** confirming the student is on “Lesson 5: Link Building,” giving them full context to resolve the issue quickly and effectively.
@@ -90,6 +87,4 @@ This widget displays key information related to the customer’s FluentCommunity
 
 ![](/guide/public/images/integrations-channels/core-integrations/fluent-community-integration/preview-7-scaled-1.webp)
 
-
----
 
