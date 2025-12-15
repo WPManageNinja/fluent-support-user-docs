@@ -9,11 +9,9 @@ In your WordPress site, you can add the **Fluent Support** plugin in **two ways*
 You can get started with the [free version](https://wordpress.org/plugins/fluent-support/) of **Fluent Support,** or if you want to purchase the **Fluent Support Pro** , [check here](https://fluentsupport.com/docs/upgrade-to-fluent-support-pro-add-on/).
 
 
-Instructions for both Methods of Fluent Support installation are shown below —
+### Method-01: Install from the WordPress Plugin Directory 
 
-### Install from the WordPress Plugin Directory 
-
-To learn how to **install and activate Fluent Support** directly from the **WordPress Plugin directory** into your WordPress site, follow the steps with the screenshots below —
+To learn how to **install and activate Fluent Support** directly from the **WordPress Plugin directory** into your WordPress site, follow the step by step process below —
 
 First, go to the **Plugins** from your WordPress dashboard & click on the **Add New Plugin**.
 
@@ -27,7 +25,7 @@ After installing, click on the **Activate** button. Done! Your Fluent Support pl
 
 ![Activate Fluent Support plugin](/guide/public/images/getting-started/how-to-install-activate-fluent-support/activate-plugin-1-1.webp)
 
-### Install by Uploading the Zip File 
+### Method-02: Install by Uploading the Zip File 
 
 To install and activate the **Fluent Support PRO** version, you must **upload the Zip file** manually. Otherwise, you can add the free version simply from the WordPress Plugin directory as shown above.
 
