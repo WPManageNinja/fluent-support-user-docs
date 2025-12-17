@@ -95,19 +95,20 @@ To save any new changes always press the **Update Workflow** button right **next
 
 ![Publish the workflow](/guide/public/images/workflows-automation/automatic-workflow/automatic-workflow:publish-toggle-11.webp)
 
-## See How Automatic Workflow Runs #
+## See How Automatic Workflow Runs 
 
-To see how **Automatic Workflow** runs in **Fluent Support Portal** follow the screenshots below —
 
 For example, I set the **Trigger** as “**On Ticket Creation”** , **Condition** as “**Ticket Title that contains Refund word** ”, and **Action** as “**Add Bookmarks** ” in this **Workflow.**
 
 Now, you can see that the **Ticket** shown in the screenshot below is **Automatically** **Bookmarked** after the **Creation** as it has the **Refund** word in the **Title.**
 
-**Note**: When you bookmark a ticket and select another agent, you’ll see the selected agent in the **Watchers** list.
+>[!Note]
+>When you bookmark a ticket and select another agent, you’ll see the selected agent in the **Watchers** list.
 
 ![Refund Ticket is bookmarked automatically ](/guide/public/images/workflows-automation/automatic-workflow/ticket-bookmarked-with-automatic-workflow-12.webp)
 
-**Note:** You can easily get all of your bookmarked tickets under the **Bookmarks** option placed in the left sidebar of Fluent Support’s **Tickets**.
+[!Note]
+>You can easily get all of your bookmarked tickets under the **Bookmarks** option placed in the left sidebar of Fluent Support’s **Tickets**.
 
 ![Tickets will be stored under Bookmarked section](/guide/public/images/workflows-automation/automatic-workflow/ticket-bookmark-list-13.webp)
 
