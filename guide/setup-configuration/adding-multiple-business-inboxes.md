@@ -1,29 +1,28 @@
-# Adding Multiple Business Inboxes
+# Adding Business Inboxes
 
+This article guides you on adding **Multiple** **Business Inboxes** using the Fluent Support plugins for your **WordPress** site to ensure your multiple business management is effortless. Follow the instructions accordingly to add **Business** **Inboxes** as many as you want.
 
----
-
-This article guides you on adding **Multiple** **Business Inboxes** using the [**Fluent Support**](https://fluentsupport.com/) plugins for your **WordPress** site to ensure your multiple business management is effortless. Follow the instructions accordingly to add **Business** **Inboxes** as many as you want.
-
-## How To Add Multiple Business Inboxes 
+## Add Multiple Business Inboxes 
 
 Go to the Fluent Support **Dashboard** & click on the **Business Inboxes** tab. Click the **Add New Business Inbox** button and a pop-up box will appear.
 
 ![Add new Business Inbox](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/add-new-business-boxes.webp)
 
-Add a relevant **Inbox Name** &**Email** (company name & business email) and select the **Support** **Channel**.
+Add a relevant **Inbox Name** & **Email** (company name & business email) and select the **Support Channel**.
 
 > [!NOTE]
-> Keep the support channel **Web-Based** if you want to allow customers to create support tickets from the website only. To learn more, check this **[Documentation](/guide/setup-configuration/web-based-settings-in-business-inbox)**.  
-> Or, choose **Web and Email based** **(Mailbox)** for email-based support ticket setup using email piping. For more details, check this **[Documentation](/guide/setup-configuration/web-and-email-settings-in-business-inbox)**.
+> Keep the support channel **Web-Based** if you want to allow customers to create support tickets from the website only. To learn more, check this [Documentation](/guide/setup-configuration/web-based-settings-in-business-inbox).  
+> Or, choose **Web and Email based (Mailbox)** for email-based support ticket setup using email piping. For more details, check this[Documentation](/guide/setup-configuration/web-and-email-settings-in-business-inbox).
 
 Once you are done, click the **Add Business Inbox** and your new business inbox will be added.
 
 ![Fill in the Add a New Business Inbox popup page](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/add-inbox-popup-info-button-1.webp)
 
-This way, you can add **Multiple** **Business** **Inboxes** for your multiple businesses.
+This way, you can add **Multiple Business Inboxes** for your multiple businesses.
 
-To ensure your website can deliver emails in the easiest, fastest, and most secure way from the **email address** that you use under the **Support Inbox Email** , we recommend using the **[FluentSMTP](https://fluentsmtp.com/)** plugin. To learn the basic use of the **FluentSMTP** plugin, check this [**Documentation**](/guide/getting-started/how-to-install-activate-fluent-support).
+:::tip
+To ensure your website can deliver emails in the easiest, fastest, and most secure way from the **email address** that you use under the **Support Inbox Email** , we recommend using the **[FluentSMTP](https://fluentsmtp.com/)** plugin. To learn the basic use of the **FluentSMTP** plugin, check this [Documentation](/guide/getting-started/how-to-install-activate-fluent-support).
+:::
 
 ![Business Inbox is added](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/final-look-of-multiople-business-inbox.webp)
 
@@ -40,7 +39,7 @@ Go to the page where you want to embed a portal and paste the below shortcode.
 > **Remember** , instead of **2** (business box ID), use your own
 > **Business Box ID** from your chosen business inbox.
 
-To find the Business Box ID, go to **Business Inboxes** from **Fluent Support Dashboard,** and click on the **View Settings** of your desired business inbox.
+To find the Business Box ID, go to **Business Inboxes** from **Fluent Support Dashboard**, and click on the **View Settings** of your desired business inbox.
 
 ![View Settings button](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/5.-view-settings-scaled-1.webp)
 
@@ -50,14 +49,10 @@ Now, you will find the business box ID in the URL of that business box as shown 
 
 And, use the **ID** in your **Shortcode** and place it anywhere on your website as per your requirements as I have used it below —
 
-This service is especially helpful for **[Web-Based Business Inboxes](https://fluentsupport.com/docs/web-based_settings_in_business_inbox/)**.
+This service is especially helpful for [Web-Based Business Inboxes](/guide/setup-configuration/web-based-settings-in-business-inbox.md).
 
 ![](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/using-id-in-shortcode-1.webp)
 
 Here you can see the preview of the **Customer Support Portal** in the screenshot below.
 
 ![Preview of Customer Support portal](/guide/public/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/8.-support-portal-preview-1.webp)
-
-
----
-

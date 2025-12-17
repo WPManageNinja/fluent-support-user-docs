@@ -21,7 +21,7 @@ When you first install Fluent Support, the **Onboarding Wizard** guides you thro
 
 For a detailed guide on this process, please refer to the [Fluent Support Onboarding](/guide/getting-started/fluent-support-onboarding).
 
-### Manual Configuration via Global Settings
+## Portal Configuration via Global Settings
 
 If you skipped the wizard or need to reconfigure the initial setup, you can ensure your initial inbox and portal are set up correctly through the **Global Settings**.
 
