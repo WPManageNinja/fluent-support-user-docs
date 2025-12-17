@@ -1,9 +1,6 @@
 # Creating Products to Categorize Tickets
 
-
----
-
-**[Fluent Support](https://fluentsupport.com/)** , allows you to create multiple products for organizing your tickets and allows customers to select the relevant product when submitting their tickets. This article will help you through the process of creating products to categorize tickets.
+Fluent Support allows you to create multiple products for organizing your tickets and allows customers to select the relevant product when submitting their tickets. This article will help you through the process of creating products to categorize tickets.
 
 ## Creating Products 
 
@@ -19,11 +16,7 @@ You will successfully add product. Now, you can **Edit** the product by clicking
 
 ![Edit or Delete any product if needed](/guide/public/images/setup-configuration/business-inboxes/creating-products-to-categorize-tickets/edit-or-delete.webp)
 
-For instance, I **edited** the Product **Title** from **‘Fluent Support’** to **‘Fluent Support PRO’**. Similarly, you can **Edit/Delete** any of your existing products according to your needs.
-
-![Example of editing or deleting product](/guide/public/images/setup-configuration/business-inboxes/creating-products-to-categorize-tickets/edit-products-drift-video-1.gif)
+For instance, I **edited** the Product **Title** from **Fluent Support** to **Fluent Support PRO**. Similarly, you can **Edit/Delete** any of your existing products according to your needs.
 
 This way, you can create as many **Products** as you want to categorize or organize your tickets!  
-
----
 

@@ -1,16 +1,13 @@
 # Add More Attachment Types
 
-
----
-
-When submitting/replying to any ticket, **[Fluent Support](https://fluentsupport.com/)** allows certain types of **Attachments** with some specific regulations such as **Photos, CSV, PDF/Docs, Zip, and JSON**. But, if you want you can add more **Attachment** **Types** if needed. This article will guide you through the process of **Adding** **more** **Attachment** **Types**.
+When submitting/replying to any ticket, Fluent Support allows certain types of **Attachments** with some specific regulations such as **Photos, CSV, PDF/Docs, Zip, and JSON**. But, if you want you can add more **Attachment Types** if needed. This article will guide you through the process of **Adding more Attachment Types**.
 
 ## Add More Attachment Types 
 
 To add a new file type to the accepted list, you will need to add a custom code snippet to your WordPress site.
 
-You can add more attachment types using the **“fluent_support/mime_groups”** filter and the **“add_filter”** hook.
-For example, I added the “**HTML** ” file type here by using the following **Shortcode.**
+You can add more attachment types using the `fluent_support/mime_groups` filter and the `add_filter` hook.
+For example, I added the **HTML** file type here by using the following **Shortcode.**
 
 > You can easily add this code to your site using a code snippet plugin.
 > 
@@ -56,6 +53,4 @@ add_filter('fluent_support/mime_groups', function ($mimeTypes) {
     return $mimeTypes;
 });
 ```
-
----
 
