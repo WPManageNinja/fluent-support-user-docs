@@ -64,7 +64,7 @@ Remember, the **Chat ID starts with a minus sign (-)** , and you would have to *
 
 ## Configure Telegram in Fluent Support
 
-From your **Fluent Support Dashboard** , go to **Global Settings** , and click the **Notification Integrations** from the left sidebar. This will open the **Telegram** **Integration Settings** tab**.**
+From your **Fluent Support Dashboard** , go to **Global Settings** , and click the **Notification Integrations** from the left sidebar. This will open the **Telegram** **Integration Settings** tab.
 
 Then, paste the**Bot Token** & **Group Chat ID** that you have copied before into the **Bot Token** & **Default Channel/Group Chat ID** field. Finally press the **Save Telegram Settings**.
 
