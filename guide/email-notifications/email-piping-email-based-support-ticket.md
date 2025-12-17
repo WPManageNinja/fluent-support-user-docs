@@ -8,17 +8,17 @@ To set up **Email Piping** , you must create a **Business Inbox** with an **Emai
 
 Go to **View Settings** from your desired email-based business inbox and click **Email Piping**.
 
-![Open desired Business inbox's settings](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/email-piping-dashboard.webp)
+![Open desired Business inbox's settings](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/email-piping-dashboard-1.webp)
 
 Read the **terms and conditions** before you agree to it and click the **Get Piping Email Details**.
 
 To get the **email piping details** , ensure your **fluent support license key** is **active** as **Email Piping** is a **Pro Feature** of **Fluent Support**. To learn how to get the license key and activate it, read this [Documentation](/guide/getting-started/upgrade-to-fluent-support-pro-add-on).
 
-![Get piping email details](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/get-email-piping-details.webp)
+![Get piping email details](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/get-email-piping-details-2.webp)
 
 Now, copy the **Mailbox Email** address provided by **Fluent Support** to set up auto-forwarding of your emails from other email addresses.
 
-![Copy Masked Mailbox Email ](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/copy-the-mailbox-email-provided-by-fluent-support.webp)
+![Copy Masked Mailbox Email ](/guide/public/images/email-notifications/email-piping-email-based-support-ticket/copy-the-mailbox-email-provided-by-fluent-support-3.webp)
 
 ## How to Forward/Redirect From an Email Provider
 
