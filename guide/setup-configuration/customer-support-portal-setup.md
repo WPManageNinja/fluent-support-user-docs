@@ -44,7 +44,7 @@ In this option, you can customize certain texts for the users who have not logge
   * You will see a default message **(Please login or create an account to access the Customer Support Portal)** has been added which you can edit anytime according to your need.
   * Also, you can use different **Shortcodes** provided below to show different **Forms**.
 
-To know the details of these below-mentioned **Shortcodes,** check this **[Documentation](guide/ticket-management/shortcodes).**
+To know the details of these below-mentioned **Shortcodes,** check this **[Documentation](/guide/ticket-management/shortcodes).**
 
 ![Message for non-logged-in users](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/message-for-non-logged-users-1.webp)
 
