@@ -40,14 +40,14 @@ You will get the following **Fields** on the **Add New Custom Field** popup page
   * **Placeholder** : This is the default text that will appear as instruction until any input is entered in the field.
   * **This is an agent only field** : Use this to visible the Custom Field only to support agents.
   * **Enable Conditional Logic:** Use this if you want any field to show only in specific situations based on specific conditions that you will set.
-  * **Required** : Use this to make the Custom Field mandatory for users to submit their tickets.
+  * **Required** : Use this to make the **Custom Field** mandatory for users to submit their tickets.
 
 ![All the additional fields inside the Add new custom field popup](/guide/public/images/setup-configuration/ticket-forms-fields/conditional-custom-fields/add-new-custom-field-popup-add-button-scaled-1.webp)
 
 Here, you will get the following **Options** to set **Conditions.**
 
-  * **Ticket Title** : Content entered in the ticket title field
-  * **Ticket Content** : Content entered in the ticket body
+  * **Ticket Title** : Content entered in the ticket title field.
+  * **Ticket Content** : Content entered in the ticket body.
   * **Ticket Client Priority** : Priority status set by Client, i.e., Customer.
   * **Selected Product or Service** : Product or Service as declared by the customer.
   * **Existing Custom Fields:** Any custom fields that you’ve created before.
