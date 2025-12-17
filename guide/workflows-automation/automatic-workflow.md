@@ -107,7 +107,7 @@ Now, you can see that the **Ticket** shown in the screenshot below is **Automati
 
 ![Refund Ticket is bookmarked automatically ](/guide/public/images/workflows-automation/automatic-workflow/ticket-bookmarked-with-automatic-workflow-12.webp)
 
-[!Note]
+>[!Note]
 >You can easily get all of your bookmarked tickets under the **Bookmarks** option placed in the left sidebar of Fluent Support’s **Tickets**.
 
 ![Tickets will be stored under Bookmarked section](/guide/public/images/workflows-automation/automatic-workflow/ticket-bookmark-list-13.webp)
