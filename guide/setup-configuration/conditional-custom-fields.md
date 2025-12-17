@@ -59,11 +59,11 @@ For example, I set the condition as “**Ticket Title** that **contains** **Form
   * You can set **Multiple** **Conditions** by clicking the **Green Plus** **Icon** or **Delete** any existing **Conditions** by clicking the **Trash Icon**.
   * Also, you can customize the logical outcome by selecting whether to function if **Match all conditions** or **Match any conditions**.
 
-Once you’re done with all the configuration, click **Add**.
+Once you’re done with all the configuration, click the **Add** button.
 
 ![Can add multiple conditions & delete any conditions as per your needs](/guide/public/images/setup-configuration/ticket-forms-fields/conditional-custom-fields/condition-plus-icon-trash-icon-condition-match-scaled.webp)
 
-Here, you can see the **Custom Field** has been added to the **Fluent** **Support** **Portal**.
+Here, you can see the **Custom Field** has been added to the **Fluent Support Portal**.
 
 ![Customer Support Portal's Ticket Submission Portal](/guide/public/images/setup-configuration/ticket-forms-fields/conditional-custom-fields/8.-support-portal-custom-field-1.webp)
 
