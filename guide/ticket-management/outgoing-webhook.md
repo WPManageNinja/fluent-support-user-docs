@@ -6,13 +6,13 @@ The **Outgoing Webhook** feature of Fluent Support allows sending data from Flue
 
 To learn how to send data using Outgoing Webhook, follow the steps with screenshots below —
 
-You have to send data through either **Manual** or **Automatic** workflow. To ensure which one is appropriate for you, check this [Documentation](https://fluentsupport.com/docs/workflows-automations/).
+You have to send data through either **Manual** or **Automatic** workflow. To ensure which one is appropriate for you, check this [documentation](/guide/workflows-automation/workflows-automations.md).
 
 Go to **Workflows** from the **Fluent Support Dashboard** navbar more section, and click the **+ Create new** button and a popup will appear.
 
 ![Add workflow from Fluent Support Dashboard](/guide/public/images/ticket-management/automation-in-tickets/outgoing-webhook/outgoing-webhook-1.webp)
 
-You can choose between [Manual](https://fluentsupport.com/docs/manual-workflow/) and [Automatic](https://fluentsupport.com/docs/automatic-workflow/) workflows according to your needs (e.g., I selected the **Automatic** type to run the Workflow automatically).
+You can choose between [Manual](/guide/workflows-automation/manual-workflow.md) and [Automatic](/guide/workflows-automation/automatic-workflow.md) workflows according to your needs (e.g., I selected the **Automatic** type to run the Workflow automatically).
 
 Now, enter a Name for the **WorkFlow,** select the **WorkFlow Type** , and click Continue.
 

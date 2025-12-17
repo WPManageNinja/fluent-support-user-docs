@@ -574,4 +574,14 @@ code {
   border-color: #15BE7C !important;
 }
 
+/* ============================================
+   Table of Contents Outline Marker
+   ============================================ */
+.outline-marker {
+  background-color: #15BE7C !important;
+}
+
+.dark .outline-marker {
+  background-color: #15BE7C !important;
+}
 
