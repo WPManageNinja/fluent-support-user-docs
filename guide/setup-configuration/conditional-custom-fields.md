@@ -3,7 +3,7 @@
 
 ---
 
-Custom fields are an advanced WordPress feature in [Fluent Support](https://fluentsupport.com/) that allows support agents to add extra information/fields to their ticket submission forms or other submission fields to organize the tickets more sophisticatedly.
+Custom fields are an advanced WordPress feature in **Fluent Support** that allows support agents to add extra information/fields to their ticket submission forms or other submission fields to organize the tickets more sophisticatedly.
 
 ## Custom Fields in Fluent Support 
 
@@ -20,7 +20,7 @@ You will get the following **Field Types** from the Dropdown List –
   * **Numeric Fields** : Used for numerical inputs
   * **Select Choice** : Used for multiple fixed inputs as choices
   * **Radio Choice** : Used for radio button choices
-  * **Checkboxes** ; Used for multiple/single tick inputs
+  * **Checkboxes** : Used for multiple/single tick inputs
 
 ![Choose Filed type from dropdown list](/guide/public/images/setup-configuration/ticket-forms-fields/conditional-custom-fields/field-type-add-button-scaled-1.webp)
 
