@@ -24,11 +24,9 @@ Don’t forget to press the **Save** button once you’re done.
 
 ![Paste masked email address](/guide/public/images/email-notifications/forward-from-microsoft365-owa/paste-the-mail.webp)
 
-That’s it! Your email forwarding is set and the mailbox is activated! 
+That’s it! Your email forwarding is set and the mailbox is activated! Now, when anyone sends an email to your email address, a new ticket will be created in **Fluent Support**.
 
-Now, when anyone sends an email to your email address, a new ticket will be created in Fluent Support.
-
-![Mailbox is activated](/guide/public/images/email-notifications/forward-from-microsoft365-owa/mailbox-activated-scaled-1.webp)
+![Mailbox is activated](/guide/public/images/email-notifications/forward-from-microsoft365-owa/mailbox-active-scaled-1.webp)
 
 
 ## If You Face Any Issues Regarding Mailbox activation 
