@@ -1,8 +1,5 @@
 # Permission Management for Agents
 
-
----
-
 Fluent Support allows you to set specific permissions for **Agents** , similar to user role management. Based on your permission, the agent can view or access specific features or settings of the plugin. This article will explain the roles or permissions of agents to help you choose what permissions you should set for your support agents.
 
 If you don’t have any agents, you can [**Add Support Staff** /**Agents**](/guide/setup-configuration/adding-support-staff-agents) anytime.
@@ -28,7 +25,7 @@ Once you are done, hit the **Update** button to save all changes.
   * **Manage Unassigned Tickets:** This allows the agent to manage the unassigned tickets.
   * **Manage Other Tickets:** This allows the agent to manage other agent/s tickets.
   * **Assign Agents:** This allows the agent to assign agents for a specific tickets.
-  * **Delete Tickets:** Gives the agent the ability to delete tickets.
+  * **Delete Tickets & Individual Responses:** Gives the agent the ability to delete tickets.
   * **Merge Tickets:** Allow the agents to merge the tickets.
   * **Split Tickets:** Gives the permission to split the tickets.
   * **Draft Reply:** Using this permission, agents can keep their replies as draft.
@@ -54,7 +51,3 @@ Once you are done, hit the **Update** button to save all changes.
 ### Restrictions 
 
   * **Business Inbox Access Restriction:** Using this option, you can restrict the access for agents to reply any specific business inbox or inboxes tickets.
-
-
----
-

@@ -1,9 +1,6 @@
 # File Upload Integrations
 
-
----
-
-[**Fluent Support**](https://fluentsupport.com/) offers three platforms for storing uploaded files: your **Default WordPress storage** , **Dropbox** , and **Google Drive**. But, you can select only one storage platform for your uploaded files at a time. This article will guide you through the process required to upload your files in fluent support.
+Fluent Support offers three platforms for storing uploaded files: your **Default WordPress storage** , **Dropbox** , and **Google Drive**. But, you can select only one storage platform for your uploaded files at a time. This article will guide you through the process required to upload your files in fluent support.
 
 ## File Upload Integration With Fluent Support 
 
@@ -40,9 +37,8 @@ For specific instructions on how to generate the Client IDs and Secrets required
 
 >Remember: No configuration is necessary if you choose to stick with the Default WordPress Storage platform.
 
-Before uploading the files to **Google Drive** , you must integrate it with your **Fluent Support.**
+Before uploading the files to **Google Drive** , you must integrate it with your Fluent Support.
 
 This is how you can integrate File Upload Platforms with Fluent Support!  
 
----
 
