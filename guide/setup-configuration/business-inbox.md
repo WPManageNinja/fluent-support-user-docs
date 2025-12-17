@@ -1,72 +1,46 @@
-# Business Inbox 
+# Create Business Inbox Initially
 
 
 ---
 
-**“Business Inboxes”** is an amazing feature of Fluent Support that manages support tickets from multiple businesses and their accounts according to your preferences. It allows you to group tickets by where they come from, such as your web portal or specific email addresses.
-
-## Onboarding Dashboard (Initial Setup)
-
->[!Note]
-> **Initially** , there is **No** **Need** to create a separate **Business** **Inbox** manually. A [**Web-based** **Business Inbox**](/guide/setup-configuration/web-based-settings-in-business-inbox) is created automatically when you frist provide all the necessary information to set up your support portal under the **Onboarding Dashboard** section.
-
-During the initial plugin setup (Onboarding):
- * You will fill out the necessary information to set up your Support Portal.
- * You will select a Page where you want the portal to appear, or allow the plugin to create a page automatically with the required shortcode.
- * Once you click **Continue** and finish the setup, your Support Portal connects to your WordPress site.
-
-To learn about onboarding dashboard, read this full [Documentation](/guide/getting-started/fluent-support-onboarding).
-
-The system will then automatically generate your primary **web-based** business inbox, ensuring you are ready to receive tickets immediately without manual configuration.
-
-## Types of Business Inboxes
-
-There are generally two types of business inboxes you can manage:
-
- * **Web-Based:** This is typically your default inbox (marked as DEFAULT) where tickets submitted directly through your customer support portal are stored.
- * **Email-Based:** These inboxes collect tickets created via email forwarding. You can have multiple email-based inboxes for different departments (e.g., Sales, General Support) or different brands.
+**“Business Inboxes”** is an amazing feature of Fluent Support, which manages support tickets from multiple businesses and their accounts according to your preferences. This article helps you learn how to create the initial Business Inbox right after installing and activating the Fluent Support plugin.
 
 ## How To Create A New Business Inbox 
 
-To learn how to set up the support portal to create the initial Business Inbox, follow the steps with the screenshots below —
+**Initially** , there is **No** **Need** to create a separate **Business** **Inbox** manually. A [**Web-based** **Business Inbox**](/guide/setup-configuration/web-based-settings-in-business-inbox) is created automatically when you frist provide all the necessary information to set up your support portal under the **Onboarding Dashboard** section.
 
-## Access the Business Inbox
+This setup typically happens during the initial configuration of the plugin.
 
-To view and manage your inboxes, navigate to the **Business Inboxes** tab from the top menu bar of your Fluent Support dashboard.
+### Automatic Creation via Onboarding Wizard
 
-Here, you will see an overview of all your active inboxes presented as cards. Each card displays the Inbox Name, Email, Type, Ticket Count, and a Settings button.
+When you first install Fluent Support, the **Onboarding Wizard** guides you through the essential configurations.
 
-To create a new inbox, you can simply click the **+ Add New Business Box** button located in the top right corner.
+ * **Business Information:** You will be asked to enter your **Business Name** and **Business Email**.
+ * **Portal Page:** You will select or create a page for your support portal.
+ * **Completion:** Once you click **Finish** and complete the wizard, your **Web-based Business** Inbox is automatically generated using the details you provided.
 
-![Fluent Support Business Inbox](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/add-new-business-box.webp)
+For a detailed guide on this process, please refer to the [Fluent Support Onboarding](/guide/getting-started/fluent-support-onboarding).
 
-Fill out all the necessary information to **set** up your **Support** **Portal,** as shown in the screenshot below.
+### Manual Configuration via Global Settings
 
-![Business details for Fluent Support Portal](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/dashboard-of-fluent-support-scaled-1.webp)
+If you skipped the wizard or need to reconfigure the initial setup, you can ensure your initial inbox and portal are set up correctly through the **Global Settings**.
 
-Select the **Page** from the **Dropdown menu** where you want to set up your **Support** **Portal**. Copy the **Shortcode** provided below and paste it on the selected page.
-You can **Paste** the **Shortcode** anywhere on any **Page** of your **WordPress** **Site** according to your preference.
+ 1. Go to **Settings** from your Fluent Support Dashboard and click on **Global Settings**.
+ 2. **Portal Page:** Select the page where you want your support portal to appear, or use the shortcode [fluent_support_portal] on a new page.
+ 3. **Save Settings:** Once you save these global settings, the system ensures your primary Web-based inbox is active and connected to this portal page.
 
-![Adding the Support Portal in desired page using ShortCode](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/select-page-for-shortcode-gfif-drift-video-3918894-4023448-1709375724.gif)
+For more details on configuring these options, please check the [Setup Customer Support Portal With Global Settings](/guide/setup-configuration/customer-support-portal-setup) documentation.
 
+![Fluent Support Business Inbox](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/setup-support-portal-page.webp)
 
-Or, you can simply enable the **create a page automatically with the shortcode** button to create a **Separate** **Page** for setting up your support portal **automatically**.
+### Preview of Customer Support Portal
 
-However, if you want to set up your support portal on a specific page or block of your website, ignore the automatic option and follow the instructions given above in the drop-down menu option. 
-
-After entering all the necessary information, click on the **Continue** button.  
-Your Support Portal will then be connected to your WordPress Site, and an automatic business inbox will also be created.
-
-![Automatically created Support portal in a separate page](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/automatically-create-page-for-support-portal.gif)
-
-## Preview of Customer Support Portal 
-Here you can see the preview of the **Customer Support Portal** using the shortcode.
+Once set up, you can view your Customer Support Portal on the page you selected. This portal is directly connected to your automatically created Business Inbox.
 
 ![Preview of Customer Support Portal using ShortCode](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/5.-preview-of-customer-support-portal-1.webp)
 
-## Customize Your Support Portal 
+### Customize Your Support Portal
 
-If you want to customize the design of your Support Portal for your customer, you can do this easily by adding the **Fluent Support** (**Customer Portal**) **Gutenberg Block** to your page or post.
+If you want to customize the design of your **Support Portal** for your customer, you can do this easily by adding the Fluent Support (Customer Portal) [Gutenberg Block](/guide/setup-configuration/add-and-customize-customer-portal-using-gutenberg-block) to your page or post.
 
-To learn how to **Add** and **Customize** the **Customer Portal** , check this **[Documentation](/guide/setup-configuration/customer-support-portal-dashboard)**.
 
