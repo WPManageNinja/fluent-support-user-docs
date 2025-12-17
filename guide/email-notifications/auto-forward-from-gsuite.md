@@ -8,7 +8,7 @@ Before starting the procedure, ensure you have followed the first steps; setting
 
 Now to learn how to set up auto-forwarding from Google Workspace to Fluent Support, follow the steps with the screenshots below —
 
-Go to your **Gmail inbox** , click on the **Gear Icon** located in the top right corner, and click on the **See all settings** option from the drop-down menu.
+Go to your **Gmail Inbox** , click on the **Gear Icon** located in the top right corner, and click on the **See all settings** option from the drop-down menu.
 
 ![Open settings of Gmail Inbox](/guide/public/images/email-notifications/auto-forward-from-gsuite/gmail-inbox-settings-1.webp)
 
@@ -20,7 +20,7 @@ Click on the **Add a forwarding address** button & a pop-up will appear asking f
 
 ![Enable Add a forwarding address](/guide/public/images/email-notifications/auto-forward-from-gsuite/add-forwarding-address-1.webp)
 
-Now paste the **Mailbox Email Address** you got from the [Email Piping](https://fluentsupport.com/docs/email-piping-email-based-support-ticket/#0-toc-title) settings of Fluent Support, and press the **Next** button.
+Now paste the **Mailbox Email Address** you got from the [Email Piping](/guide/email-notifications/email-piping-email-based-support-ticket) settings of **Fluent Support**, and press the **Next** button.
 
 ![Add the masked Email address](/guide/public/images/email-notifications/auto-forward-from-gsuite/add-address-next-button-1.webp)
 
@@ -36,7 +36,6 @@ You can also choose what to do with the messages in your Gmail inbox. We recomme
 
 ![Enable Forwarding a copy of incoming mail to option](/guide/public/images/email-notifications/auto-forward-from-gsuite/enable-forward-mail-to-1.webp)
 
-That’s it! Your email forwarding is set and the mailbox is activated!  
-Now when anyone sends an email to your email address, a new ticket will be created in Fluent Support
+That’s it! Your email forwarding is set and the mailbox is activated! Now when anyone sends an email to your email address, a new ticket will be created in Fluent Support.
 
 ![Mailbox is activated](/guide/public/images/email-notifications/auto-forward-from-gsuite/mailbox-active-scaled-1.webp)
