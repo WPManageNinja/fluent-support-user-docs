@@ -3,7 +3,7 @@
 
 ---
 
-[**FluentSupport**](https://fluentsupport.com/) (**Customer Portal**) **Gutenberg Block** empowers you to create a customized customer portal. You can design the customer portal precisely according to your preferences. To know the whole process, follow the steps accordingly. 
+FluentSupport (**Customer Portal**) **Gutenberg Block** empowers you to create a customized customer portal. You can design the customer portal precisely according to your preferences. To know the whole process, follow the steps accordingly. 
 
 ## **Add Customer Portal** 
 

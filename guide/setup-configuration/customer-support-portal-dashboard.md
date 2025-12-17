@@ -3,7 +3,7 @@
 
 ---
 
-The **Customer Portal** is intended for direct use by end-users where users can view & use the dashboard to submit tickets. This article will guide you through how the **Customer Portal** of [**Fluent Support**](https://fluentsupport.com/) can be used with all the available options.
+The **Customer Portal** is intended for direct use by end-users where users can view & use the dashboard to submit tickets. This article will guide you through how the **Customer Portal** of Fluent Support can be used with all the available options.
 
 ## Customer Portal 
 
@@ -11,7 +11,8 @@ To learn how you can use the customer portal with the help of its all available 
 
 First, sign up or log in to the customer support portal and the **Customer Portal Dashboard** will open with all available options.
 
-Remember, for sign-up, use a valid email as a verification code will be sent to the user email for confirmation, ensuring only valid emails can be used for sign-in.
+> [!Note]
+> Remember, for sign-up, use a valid email as a verification code will be sent to the user email for confirmation, ensuring only valid emails can be used for sign-in.
 
 ![Customer Support Portal Dashboard](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-dashboard/dashboard-of-customer-support-portal-1-1.webp)
 
@@ -25,9 +26,7 @@ Remember, for sign-up, use a valid email as a verification code will be sent to 
 
   2. **Use Shortcode** : The second way to get the logout option in the **Customer Portal Dashboard** is to add the following **Shortcode** to your **WordPress Site** (desired page/post). To learn more details about adding a **Customer Portal** using **Shortcode** , read this [Documentation](/guide/ticket-management/shortcodes).
 
-[code] 
-    [fluent_support_portal show_logout = yes]
-[/code]
+`[fluent_support_portal show_logout = yes]`
 
 **C**.**Status Filter** : Using this, users can filter which tickets they want to see in their dashboard based based on the available ticket stauses (e.g., **All** , **Opened,** or **Closed** tickets). 
 
