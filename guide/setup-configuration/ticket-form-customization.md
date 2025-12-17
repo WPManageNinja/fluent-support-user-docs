@@ -3,12 +3,12 @@
 
 ---
 
-This article will guide you through the process required to customize the default **Ticket** **Submission** **Form** of [**Fluent** **Support**](https://fluentsupport.com/) (e.g., hiding or changing some text or field within the default form). Follow the instructions accordingly to know the whole process.
+This article will guide you through the process required to customize the default **Ticket Submission Form** of **Fluent** **Support** (e.g., hiding or changing some text or field within the default form). Follow the instructions accordingly to know the whole process.
 
 > [!Note]
 >If you want, you can build a **Ticket Form** from scratch as well.
 
-## Ticket Form Configuration #
+## Ticket Form Configuration 
 
 To learn where you can find all the customization settings of your **Ticket** **Form** provided by default from **Fluent Support,** follow the steps below —
 
@@ -100,7 +100,6 @@ This section allows you to rename the labels of your form fields to match your b
 
 
 ![Setting for from labels customization](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/form-labels-customization-1.webp)
-
 
 ---
 
