@@ -2,7 +2,7 @@
 
 
 ---
-This article will guide you through the process of configuring **File Attachment Settings** for the **Support Portal Page** in [Fluent Support](https://fluentsupport.com/). It covers the accepted file formats, size limits, and upload restrictions for tickets.
+This article will guide you through the process of configuring **File Attachment Settings** for the **Support Portal Page** in **Fluent Support**. It covers the accepted file formats, size limits, and upload restrictions for tickets.
 
 ## File Attachment Settings
 
