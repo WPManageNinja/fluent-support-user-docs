@@ -20,6 +20,9 @@ Fill out all the necessary information to **set** up your **Support** **Portal**
 ![Setup Support Portal Page](/guide/public/images/setup-configuration/business-inboxes/create-business-inbox/setup-support-portal-page.webp)
 
 Select the **Page** from the **Dropdown menu** where you want to set up your **Support** **Portal**. Copy the **Shortcode** provided below and paste it on the selected page.
+
+**Shortcode:** `[fluent_support_portal]`
+
 You can **Paste** the **Shortcode** anywhere on any **Page** of your **WordPress** **Site** according to your preference.
 
 Or, you can simply enable the **create a page automatically with the shortcode** button to create a **Separate** **Page** for setting up your support portal **automatically**.

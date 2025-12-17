@@ -26,7 +26,7 @@ For a detailed guide on this process, please refer to the [Fluent Support Onboar
 If you skipped the wizard or need to reconfigure the initial setup, you can ensure your initial inbox and portal are set up correctly through the **Global Settings**.
 
  1. Go to **Settings** from your Fluent Support Dashboard and click on **Global Settings**.
- 2. **Portal Page:** Select the page where you want your support portal to appear, or use the shortcode [fluent_support_portal] on a new page.
+ 2. **Portal Page:** Select the page where you want your support portal to appear, or use the shortcode `[fluent_support_portal]` on a new page.
  3. **Save Settings:** Once you save these global settings, the system ensures your primary Web-based inbox is active and connected to this portal page.
 
 For more details on configuring these options, please check the [Setup Customer Support Portal With Global Settings](/guide/setup-configuration/customer-support-portal-setup) documentation.
