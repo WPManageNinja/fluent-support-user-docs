@@ -159,7 +159,6 @@ export default defineConfig({
         text: 'Reports & Analytics',
         collapsed: true,
         items: [
-          { text: 'Dashboard Overview', link: '/guide/reports-analytics/dashboard-overview' },
           { text: 'Reports & Statistics', link: '/guide/reports-analytics/reports-and-stats' },
           { text: 'Overall Activities', link: '/guide/reports-analytics/overall-activities' },
           { text: 'Dynamic Dashboard', link: '/guide/reports-analytics/dynamic-dashboard' },
