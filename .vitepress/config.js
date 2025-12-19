@@ -165,6 +165,7 @@ export default defineConfig({
           { text: 'Products Reports', link: '/guide/reports-analytics/products-reports' },
           { text: 'Business Boxes Reports', link: '/guide/reports-analytics/business-boxes-reports' },
           { text: 'Activity Reports', link: '/guide/reports-analytics/activity-reports' },
+          { text: 'Time Sheet', link: '/guide/reports-analytics/time-sheet' },
           { text: 'Overall Activities', link: '/guide/reports-analytics/overall-activities' },
           { text: 'Dynamic Dashboard', link: '/guide/reports-analytics/dynamic-dashboard' },
         ]
