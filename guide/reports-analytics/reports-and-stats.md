@@ -8,7 +8,7 @@ You will find the **Reports** option in the top navigation menu of your **Fluent
 
   * [Personal Reports](/guide/reports-analytics/personal-report)
   * [Agents Reports](/guide/reports-analytics/agents-report)
-  * [Products Reports](/guide/reports-analytics/products-report)
+  * [Products Reports](/guide/reports-analytics/products-reports)
   * [Business Boxes Reports](/guide/reports-analytics/business-boxes-reports)
   * [Activity Reports](/guide/reports-analytics/activity-reports)
   * [Time Sheet](/guide/reports-analytics/time-sheet)
