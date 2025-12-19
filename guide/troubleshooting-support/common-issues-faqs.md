@@ -1,4 +1,4 @@
-# Common Issues & FAQs
+# s
 
 This article addresses common issues and frequently asked questions about **[Fluent Support](https://fluentsupport.com/)**. If you're experiencing a problem or have a question, check this guide first for quick solutions.
 
@@ -6,9 +6,9 @@ This article addresses common issues and frequently asked questions about **[Flu
 
 ### What is Fluent Support?
 
-Fluent Support is a comprehensive WordPress support ticket system that helps you manage customer support requests efficiently. It allows you to create tickets, manage conversations, track agent performance, and integrate with various WordPress plugins and services.
+Fluent Support is a comprehensive WordPress support ticket system that helps you manage customer support requests efficiently. It allows you to create tickets, manage conversations, track agent performance, and integrate with various WordPress plugins and ssservices.
 
-### What are the system requirements for Fluent Support?
+### Requirements 
 
 Fluent Support requires:
 - WordPress 5.0 or higher
@@ -130,7 +130,7 @@ Fluent Support requires:
 
 ### Customers cannot access the portal
 
-- Check "Who can access customer portal?" settings
+- Check "**Who can access customer portal?**" settings
 - Verify user roles are allowed
 - Ensure the portal page is published and accessible
 - Check if any security plugins are blocking access
@@ -139,8 +139,7 @@ Fluent Support requires:
 
 If you've tried the solutions above and still need assistance:
 
-1. **Check Documentation:** Review other documentation articles for detailed guides
-2. **Contact Support:** Reach out to our support team through your [support portal](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/)
+**Check Documentation:** Review other documentation articles for detailed guides.**Contact Support:** Reach out to our support team through your [support portal](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/)
 3. **Community:** Join our community forums for additional help
 
 
