@@ -303,6 +303,52 @@ main a:hover,
 }
 
 /* ============================================
+   Navbar Search + Appearance Toggle Colors
+   ============================================ */
+/* Base reset so borders show our brand color on focus/hover */
+.VPNavBarSearch button,
+.DocSearch-Button,
+.VPNavBarAppearance button {
+  border: 1px solid transparent;
+  transition: color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Hover: tint with Fluent Support brand color */
+.VPNavBarSearch button:hover,
+.DocSearch-Button:hover,
+.VPNavBarAppearance button:hover {
+  color: #15BE7C !important;
+  border-color: #15BE7C !important;
+  box-shadow: 0 0 0 2px rgba(21, 190, 124, 0.18);
+}
+
+/* Focus visible: keep brand outline */
+.VPNavBarSearch button:focus-visible,
+.DocSearch-Button:focus-visible,
+.VPNavBarAppearance button:focus-visible {
+  outline: none;
+  border-color: #15BE7C !important;
+  box-shadow: 0 0 0 3px rgba(21, 190, 124, 0.28);
+}
+
+/* Dark mode: same brand color with slightly stronger glow */
+.dark .VPNavBarSearch button:hover,
+.dark .DocSearch-Button:hover,
+.dark .VPNavBarAppearance button:hover {
+  color: #15BE7C !important;
+  border-color: #15BE7C !important;
+  box-shadow: 0 0 0 2px rgba(21, 190, 124, 0.25);
+}
+
+.dark .VPNavBarSearch button:focus-visible,
+.dark .DocSearch-Button:focus-visible,
+.dark .VPNavBarAppearance button:focus-visible {
+  outline: none;
+  border-color: #15BE7C !important;
+  box-shadow: 0 0 0 3px rgba(21, 190, 124, 0.35);
+}
+
+/* ============================================
    Active Navigation Items
    ============================================ */
 .VPSidebarItem.level-1.is-active > .item > .text {
@@ -574,4 +620,14 @@ code {
   border-color: #15BE7C !important;
 }
 
+/* ============================================
+   Table of Contents Outline Marker
+   ============================================ */
+.outline-marker {
+  background-color: #15BE7C !important;
+}
+
+.dark .outline-marker {
+  background-color: #15BE7C !important;
+}
 

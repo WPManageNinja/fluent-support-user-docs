@@ -33,8 +33,6 @@ Click on **Upload Plugin** button.
 
 Click on the **Choose file** to upload the zip file of the **Fluent Support Pro** plugin.
 
-![Choose Fluent Support Pro plugin's Zip File](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/choose-zip-file.webp)
-
 Select the **Zip** **file** of the **Fluent Support Pro** plugin from your device that you have downloaded before and click the **Install Now** button. Now, the Fluent Support PRO plugin will be successfully installed on your WordPress site!
 
 ![Install Fluent Support Pro plugin](/guide/public/images/getting-started/upgrade-to-fluent-support-pro-add-on/install-now-1.webp)

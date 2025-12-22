@@ -1,15 +1,12 @@
 # Managing Tickets Using Telegram
 
+FluentSupport allows you to manage your tickets using Telegram. You can see your New Tickets Notification in your Telegram groups or a person’s Inbox and can also reply from your Telegram inbox. This article will guide you through how to connect your Fluent Support with Telegram to manage your tickets in Telegram.
 
----
+## **Fluent Support Telegram Settings**
 
-**[FluentSupport](https://fluentsupport.com/)** allows you to manage your tickets using Telegram. You can see your New Tickets Notification in your Telegram groups or a person’s Inbox and can also reply from your Telegram inbox. This article will guide you through how to connect your Fluent Support with Telegram to manage your tickets in Telegram.
+To make your Telegram Integration running, you need to get the **Bot Token** and **Group Chat ID** from Telegram. To learn how to manage your tickets using Telegram, follow the guidelines accordingly.
 
-## **Fluent Support Telegram Settings** 
-
-To make your **Telegram Integration running** , you need to get the **Bot Token** and **Group Chat ID** from **Telegram**. To learn how to **Manage** your **Tickets** using **Telegram** , follow the guidelines accordingly –
-
-### Get Bot Token 
+### Get Bot Token
 
 First, send a text to [**@BotFather**](https://t.me/BotFather) or click the start button to start the bot in your Telegram application.
 
@@ -24,11 +21,11 @@ After finishing these steps, **@BotFather** will provide you with the **Bot Toke
 
 ![Get the Bot Token ID](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/get-the-bot-token-id-1.webp)
 
-### Get Group Chat ID 
+### Get Group Chat ID
 
 Now you will need a **Group Chat ID** to send your notification. To do this, first, you need to **Create** a **Group** in **Telegram**.
 
-#### Creating A New Group On Telegram 
+#### Creating A New Group On Telegram
 
 To create a new group in Telegram, follow the Screenshots & GIF below –
 
@@ -49,7 +46,7 @@ After giving your Bot the **“Admin Access”** you can see the preview from **
 
 ![Admin Preview](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/admin-preview-1-1.webp)
 
-#### Get Group Chat ID 
+#### Getting the Group Chat ID
 
 Finally, to get the **Chat ID** of your group, add [**@GetIdsBot**](https://t.me/getidsbot) as a member of this same newly created group.
 
@@ -63,7 +60,7 @@ Remember, the **Chat ID starts with a minus sign (-)** , and you would have to *
 
 ![Get the Group Chat ID code](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/get-the-group-chat-id-code-1.webp)
 
-## Configure Telegram in Fluent Support 
+## Configure Telegram in Fluent Support
 
 From your **Fluent Support Dashboard** , go to **Global Settings** , and click the **Notification Integrations** from the left sidebar. This will open the **Telegram** **Integration Settings** tab**.
 
@@ -75,18 +72,18 @@ Remember, the **Chat ID starts** **with a minus sign (-)** , and you would **hav
 
 A brief explanation of other options mentioned above –
 
-  * **Notification Events:** Using this option, choose for which instances you want to be notified through Telegram. The available notification events are – **Ticket Created** , **Ticket Closed** , **Replied by Customer** , and **Agent Assigned To Ticket**.  
+* **Notification Events:** Using this option, choose for which instances you want to be notified through Telegram. The available notification events are – **Ticket Created** , **Ticket Closed** , **Replied by Customer** , and **Agent Assigned To Ticket**.
 
-  * **Test Message** : You can also insert any text message to test whether you connected your telegram successfully or not. After you click the **Save Telegram Settings** if**** the settings are correct, you will see a message in your Telegram, and the settings will be saved.  
+* **Test Message** : You can also insert any text message to test whether you connected your telegram successfully or not. After you click the **Save Telegram Settings** if**** the settings are correct, you will see a message in your Telegram, and the settings will be saved.
 
-  * **Enable Telegram Notifications:** Enable this option, to make sure you get the telegram notifications.
-  * **Enable Reply From Telegram (Agent can directly reply from telegram):** You can also enable this option, so that your support agents can directly reply from Telegram. 
+* **Enable Telegram Notifications:** Enable this option, to make sure you get the telegram notifications.
+* **Enable Reply From Telegram (Agent can directly reply from telegram):** You can also enable this option, so that your support agents can directly reply from Telegram.
 
-## Reply Tickets From Telegram #
+## Reply Tickets From Telegram
 
-To reply to any tickets directly from Telegram, follow the steps with screenshots below – 
+To reply to any tickets directly from Telegram, follow the steps with screenshots below –
 
-**Note:** If **you** or **your agents** want to**get notifications** in your/their **individual inbox** , **you** or**any agents** must **send** a **test** **message** (e.g., Hi) to the **Bot** that you have **created and added to the group**. This will enable the bot to forward telegram replies to the original tickets in the support portal. 
+**Note:** If **you** or **your agents** want to**get notifications** in your/their **individual inbox** , **you** or**any agents** must **send** a **test** **message** (e.g., Hi) to the **Bot** that you have **created and added to the group**. This will enable the bot to forward telegram replies to the original tickets in the support portal.
 
 First, you need to add your support agent’s **Telegram Chat ID** to their profile.  
 To get the Telegram **user chat ID** , send a message to [**@GetIdsBot**](https://t.me/getidsbot) and it will return the message with the ID. Copy the **Chat id**.
@@ -100,7 +97,3 @@ Now, go to **Support Staff** under the **Global Settings** from your Fluent Supp
 Scroll down to the **Telegram Integration** option, paste the **Chat Id** you have copied before into the Telegram Chat ID field, and click the Update button. Now your chosen agent/agents can reply to tickets from Telegram.
 
 ![Telegram Chat ID Field](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/telegram-chat-id-field-1-scaled-1.webp)
-
-
----
-

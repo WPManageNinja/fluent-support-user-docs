@@ -5,7 +5,7 @@ description: "Guidelines and recommended steps for contacting the Fluent Support
 
 # How to Get Support
 
-If you have reviewed our existing documentation and are still encountering a technical issue or require assistance with the [Fluent Support](https://fluentsupport.com/) plugin, our dedicated support team at WPManageNinja is available to help.
+If you have reviewed our existing documentation and are still encountering a technical issue or require assistance with the [Fluent Support](https://fluentsupport.com/) plugin, our dedicated support team at **WPManageNinja** is available to help.
 
 ## How to Contact Support
 

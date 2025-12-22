@@ -1,8 +1,6 @@
 # File Attachment Regulations
 
-
----
-This article will guide you through the process of configuring **File Attachment Settings** for the **Support Portal Page** in [Fluent Support](https://fluentsupport.com/). It covers the accepted file formats, size limits, and upload restrictions for tickets.
+This article will guide you through the process of configuring **File Attachment Settings** for the **Support Portal Page** in **Fluent Support**. It covers the accepted file formats, size limits, and upload restrictions for tickets.
 
 ## File Attachment Settings
 
@@ -29,7 +27,7 @@ You also have the option to control the size and number of files a user can uplo
   * **Max File Size (in MegaByte):** Define the maximum size limit for a single file (e.g., 2 MB).
   * **Maximum File Upload:** Set the maximum number of files that can be attached to a single ticket or reply (e.g., 3 files).
 
-If you want you can add more **Attachment** **Types** using **Shortcode** if needed. To learn how to add Attachment Types, check this [**Documentation**](/guide/setup-configuration/add-more-attachment-type).
+If you want you can add more **Attachment Types** using **Shortcode** if needed. To learn how to add Attachment Types, check this [Documentation](/guide/setup-configuration/add-more-attachment-type).
 
 ![Global Settings from Fluent Support Dashboard](/guide/public/images/setup-configuration/ticket-forms-fields/attachment-regulation/dashboard-global-settings-2-scaled-1.webp)
 
@@ -46,6 +44,4 @@ The storage location depends on your Fluent Support configuration:
 
 >**Remember** Ensure you always press the **Save Settings** button in the top right corner after making changes to the File Attachment Settings. Otherwise, the changes will not appear in your Support Portal.
 
-
----
 

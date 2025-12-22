@@ -48,9 +48,9 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Business Inbox', link: '/guide/setup-configuration/business-inbox' },
-              { text: 'Multiple Business Inboxes', link: '/guide/setup-configuration/adding-multiple-business-inboxes' },
-              { text: 'Web-Only Settings', link: '/guide/setup-configuration/web-based-settings-in-business-inbox' },
-              { text: 'Web + Email Settings', link: '/guide/setup-configuration/web-and-email-settings-in-business-inbox' },
+              { text: 'Adding Business Inboxes', link: '/guide/setup-configuration/adding-multiple-business-inboxes' },
+              { text: 'Web Only Settings', link: '/guide/setup-configuration/web-based-settings-in-business-inbox' },
+              { text: 'Web & Email Settings', link: '/guide/setup-configuration/web-and-email-settings-in-business-inbox' },
               { text: 'Products for Categories', link: '/guide/setup-configuration/creating-products-to-categorize-tickets' },
             ]
           },
@@ -75,12 +75,12 @@ export default defineConfig({
             text: 'Ticket Forms & Fields',
             collapsed: true,
             items: [
-              { text: 'Custom Submission Forms', link: '/guide/setup-configuration/add-custom-ticket-submission-form' },
               { text: 'Customize Forms', link: '/guide/setup-configuration/ticket-form-customization' },
               { text: 'Custom Fields', link: '/guide/setup-configuration/conditional-custom-fields' },
               { text: 'File Attachments', link: '/guide/setup-configuration/attachment-regulation' },
               { text: 'Additional Attachment Types', link: '/guide/setup-configuration/add-more-attachment-type' },
               { text: 'File Upload Services', link: '/guide/setup-configuration/file-upload-integrations' },
+              { text: 'Custom Submission Forms', link: '/guide/setup-configuration/add-custom-ticket-submission-form' },
             ]
           },
         ]
@@ -159,10 +159,22 @@ export default defineConfig({
         text: 'Reports & Analytics',
         collapsed: true,
         items: [
-          { text: 'Dashboard Overview', link: '/guide/reports-analytics/dashboard-overview' },
-          { text: 'Reports & Statistics', link: '/guide/reports-analytics/reports-and-stats' },
+          {
+            text: 'Reports & Statistics Overview',
+            link: '/guide/reports-analytics/reports-and-stats',
+            collapsed: true,
+            items: [
+              { text: 'Personal Reports', link: '/guide/reports-analytics/personal-report' },
+              { text: 'Agents Reports', link: '/guide/reports-analytics/agents-report' },
+              { text: 'Products Reports', link: '/guide/reports-analytics/products-reports' },
+              { text: 'Business Boxes Reports', link: '/guide/reports-analytics/business-boxes-reports' },
+              { text: 'Activity Reports', link: '/guide/reports-analytics/activity-reports' },
+              { text: 'Time Sheet', link: '/guide/reports-analytics/time-sheet' },
+            ]
+          },
           { text: 'Overall Activities', link: '/guide/reports-analytics/overall-activities' },
           { text: 'Dynamic Dashboard', link: '/guide/reports-analytics/dynamic-dashboard' },
+
         ]
       },
       {
@@ -285,7 +297,7 @@ export default defineConfig({
 
   // Vite configuration
   vite: {
-    publicDir: './guide',
+    publicDir: './guide/public',
     server: {
       fs: {
         allow: ['..']

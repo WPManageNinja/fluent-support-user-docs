@@ -4,7 +4,7 @@
 
 ## How to Add Internal Notes 
 
-To learn how to add the **Internal Notes** inside a specific ticket, follow the steps with the screenshots & GIFs below —
+To learn how to add the **Internal Notes** inside a specific ticket, follow the steps with the screenshots below —
 
 First, go to **Tickets** under **Fluent Support** **Dashboard** & **open your desired ticket** and this will take you to the **ticket entry page**.
 

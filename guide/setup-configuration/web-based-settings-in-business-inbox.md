@@ -1,17 +1,14 @@
 # Web-Based Settings in Business Inbox
 
-
----
-
-**Web-based** **Business** **Inbox** allows customers to create support tickets directly from the website only. This article will explain the functionalities of web-based business inbox settings in [**Fluent Support**](https://fluentsupport.com/). Read the article accordingly to understand what these settings do.
+**Web-based Business Inbox** allows customers to create support tickets directly from the website only. This article will explain the functionalities of web-based business inbox settings in Fluent Support. Read the article accordingly to understand what these settings do.
 
 ## Web-Based Settings of Business Inbox 
 
-Go to **Business Inboxes** from the **Fluent** **Support** **Dashboard** , select the **business inbox** you kept **Web-based** , and click on **View Setting**. 
+Go to **Business Inboxes** from the **Fluent Support Dashboard** , select the **business inbox** you kept **Web-based** , and click on **View Setting**. 
 
 ![View Settings of specific web-based business inbox](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/view-settings-1-scaled.webp)
 
-You will find two types of **Settings** options (**Inbox** **Settings** & **Email Settings)** to set your Web-Based Inbox.
+You will find two types of **Settings** options (**Inbox Settings** & **Email Settings**) to set your Web-Based Inbox.
 
 ### Inbox Settings 
 
@@ -68,11 +65,11 @@ Click on the **Send Attachments (Not Recommended)** button to attach files to yo
 
 ![Send Attachments \(Not Recommended\)](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/send-attachments.webp)
 
-You can customize the subject name and body content of your email using the **Email Subject** field and **Email Body** box. Also, use the **shortcodes** from the **Available** **Smartcodes** list within the Email body or subject which will dynamically fetch various information like the Customer name, email, ticket ID, etc.
+You can customize the subject name and body content of your email using the **Email Subject** field and **Email Body** box. Also, use the **shortcodes** from the **Available Smartcodes** list within the Email body or subject which will dynamically fetch various information like the Customer name, email, ticket ID, etc.
 
 ![Customize your email subject & body using shortcode](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/customize-your-email-content-1.webp)
 
-Always press**Save Settings** after finishing all the customization in your emails to save it, otherwise changes will not appear in your emails.
+Always press **Save Settings** after finishing all the customization in your emails to save it, otherwise changes will not appear in your emails.
 
 ### Set as Default 
 
@@ -80,13 +77,12 @@ Always press**Save Settings** after finishing all the customization in your emai
 
 This **“Set as Default”** feature is available for Web-Based Business Inboxes only.
 
-![Set any web-based inbox as default business inbox](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/set-as-default-drift-video.gif)
+![Set any web-based inbox as default business inbox](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/set-as-default.webp)
 
 ### Delete Business Inboxes 
 
 The “**Delete”** setting option allows you to delete any business inbox and transfer all support tickets easily to another inbox. 
 
-![Delete any web-based business inbox if needed](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/delete-inbox-drift-video-1.gif)
+![Delete any web-based business inbox if needed](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/delete-business-inbox.webp)
 
----
 

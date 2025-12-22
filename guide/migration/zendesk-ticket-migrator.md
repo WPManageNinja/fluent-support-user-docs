@@ -6,32 +6,31 @@ Zendesk is a comprehensive SaaS platform for customer service solutions. Fluent 
 
 From the **Fluent Support Dashboard**, go to **Settings** and select **Ticket Importer** from the left sidebar. Find **Zendesk** in the list of migration options and click the **Import Tickets** button.
 
-![Ticket migration from Zendesk](/guide/public/images/migration/zendesk-ticket-migrator/dashboard-zendesk-import-tickets-scaled-1.webp)
+![Ticket migration from Zendesk](/guide/public/images/migration/zendesk-ticket-migrator/zendesk-settings-1.webp)
 
 ## Configuring the Import
 
 A popup page will appear asking for your **Zendesk Domain, Email Address,** and **API Key.** To proceed, you need to retrieve these credentials from your Zendesk account.
 
-![Zendesk Domain, Email Address, and API Key](/guide/public/images/migration/zendesk-ticket-migrator/zendesk-popup-page-scaled-1.webp)
+![Zendesk Domain, Email Address, and API Key](/guide/public/images/migration/zendesk-ticket-migrator/zendesk-settings-2.webp)
 
 ### Retrieve API Credentials from Zendesk
 
-To get the **Zendesk Domain** and **API Key,** login to your [Zendesk](https://www.zendesk.com/) account. Press the **Settings Icon** from the left sidebar and click the **Go to Admin Center**.
+To get the **Zendesk Domain** and **API Key,** login to your [Zendesk](https://www.zendesk.com/) account. Press the **API Tokens** from the sidebar and click on the **Get Started** button.
 
-![Zendesk Settings Icon](/guide/public/images/migration/zendesk-ticket-migrator/settings-icon-go-to-admin-center-button-scaled-1.webp)
+![Zendesk Settings Icon](/guide/public/images/migration/zendesk-ticket-migrator/zendesk-api-1.webp)
 
-From the **Apps and Integration** in the left sidebar, select the **Zendesk API** , agree with the **Zendesk Terms & Conditions,** and click the **Get Started** button to begin.
+Now here you have to give a Description to your API key and then clcik on the **Save** button.
 
-![Get started to get the Zendesk API](/guide/public/images/migration/zendesk-ticket-migrator/apps-integration-zendesk-api-terms-conditions-get-started-button-scaled-1.webp)
+![Get started to get the Zendesk API](/guide/public/images/migration/zendesk-ticket-migrator/zendesk-api-3.webp)
 
-On the **Zendesk API** page, you need to enable **Tocken Acess** by clicking the toggle.  
-Then, press the **Add API token** button and an API will appear. Simply, copy the API and click on the **Save** button.
+On the **Zendesk API** page now the **API token** will appear. Simply, copy the API and click on the **Save** button.
 
-![Add API token](/guide/public/images/migration/zendesk-ticket-migrator/copy-the-api-token-1.webp)
+![Add API token](/guide/public/images/migration/zendesk-ticket-migrator/zendesk-api-4.webp)
 
 Also, copy **Zendesk’s Domain URL** from the URL section.
 
-![Zendesk’s Domain URL](/guide/public/images/migration/zendesk-ticket-migrator/copy-the-domain-url-scaled-1.webp)
+![Zendesk’s Domain URL](/guide/public/images/migration/zendesk-ticket-migrator/zendesk-domain-1.webp)
 
 
 ### Authorize and Import
@@ -40,13 +39,11 @@ Return to the **Zendesk** popup page from the **Fluent Support Dashboard**.
   
 Paste the **Domain URL,** **Email** (which you used to open your Zendesk account), and **API Key** (copied from your Zendesk account), into the desired fields. Finally, click on the **Import Tickets** button.
 
-![Finally Import Tickets ](/guide/public/images/migration/zendesk-ticket-migrator/finally-import-tickets-button-1-scaled-1.webp)
+![Finally Import Tickets ](/guide/public/images/migration/zendesk-ticket-migrator/zendesk-settings-3.webp)
 
 Congratulations, you are now ready to proceed! The importation of tickets will begin, and a notification will be sent once all your tickets have been successfully imported.
 
 Here, you can see all the **Tickets** are **Imported** and the migration date & time are displayed as well.
-
-![Preview of Imported Tickets from Zendesk](/guide/public/images/migration/zendesk-ticket-migrator/migrated-tickets-1.webp)
 
 This is how you can migrate your all tickets from **Zendesk** to **Fluent Support**!  
 

@@ -5,7 +5,7 @@ This article will guide you through the process of using the ”**Tags”** feat
 
 ## How To Create Tags
 
-To learn how to create tags using Fluent Support, follow the steps with the screenshots & GIF below —
+To learn how to create tags using Fluent Support, follow the steps with the screenshots —
 
 Go to your Fluent Support **Dashboard** & click on **Global Settings.**
 

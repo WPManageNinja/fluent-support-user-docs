@@ -1,15 +1,12 @@
 # Managing Tickets Using Slack
 
+FluentSupport allows you to manage your tickets using Slack. You can see your New Tickets notification in your Slack account and reply to your ticket from Slack. This article will guide you through how to connect your Fluent Support with **Slack** to manage your tickets in Slack. 
 
----
-
-**[FluentSupport](https://fluentsupport.com/)** allows you to manage your tickets using Slack. You can see your New Tickets notification in your Slack account and reply to your ticket from Slack. This article will guide you through how to connect your **Fluent Support** with**Slack** to manage your tickets in Slack. 
-
-## **Fluent Support Slack Settings** #
+## Fluent Support Slack Settings
 
 To learn how to manage your Tickets using Slack, follow the steps with the screenshots below –
 
-### Slack App #
+### Slack App
 
 First, go to the [**Slack API**](https://api.slack.com/) and log in to your account to create an App in Slack. If you don’t have an account in Slack create one.  
   
@@ -30,14 +27,14 @@ Give the App name, select **Slack Workspace** , and click the **Create App** but
 
 ![Create App popup](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/slack-api-applications-slack-2-1.webp)
 
-### **Configure the Slack App** #
+### Configure the Slack App
 
 Now you need to configure your Slack App and create an API token.  
 So first select the **OAuth & Permission** from the left sidebar.
 
 ![OAuth & Permissions](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/slack-api-applications-new-workspace-0auth-token-scaled-1.webp)
 
-Scroll down, go to the Scopes, and add these four (**channels:history** , **chat:write** , **groups:history** , and **groups:write**) OAuth Scope from the dropdown menu.
+Scroll down, go to the Scopes, and add these four (`channels:history` , `chat:write` , `groups:history` , and `groups:write`) OAuth Scope from the dropdown menu.
 
 ![Four options needed to add under Scopes](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/four-scope-options-1-1.webp)
 
@@ -49,7 +46,7 @@ Now you will get a **Bot User OAuth Token** here. Copy the token for later use.
 
 ![Bot User OAuth Token URL](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/slack-api-applications-new-workspace-auth-token-copy-1.webp)
 
-### **Add a Channel for Ticket Notifications** #
+### Add a Channel for Ticket Notifications
 
 Go to your Slack **Workspace** , select **Add Channels,** and **Create a new channel** for Fluent Support Ticket notification. 
 
@@ -79,15 +76,15 @@ Now simply copy the **Channel Name** and **Channel ID**.
 
 ![Channel Name and Channel ID](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/channel-fs-notification-details-slack-scaled-1.webp)
 
-### **Configuring Slack in Fluent Support** #
+### Configuring Slack in Fluent Support
 
-Go to the **Global** **Settings** from the Fluent Support **Dashboard** and select **Notification** **Integrations** from the left sidebar to find the **Slack** option. You will see the **Slack Integration Settings** page**.**  
+Go to the **Globa Settings** from the Fluent Support **Dashboard** and select **Notification Integrations** from the left sidebar to find the **Slack** option. You will see the **Slack Integration Settings** page.  
   
 Now fill in all the fields with the necessary information that you have copied before. Also, you can enable the checkboxes if needed. Once you are done, do not forget to click on **Save Slack Settings**.
 
 ![Save Slack Settings](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/managing-tickets-using-slack:slack-notification-settings-paste-tokens-01.webp)
 
-### **Slack Reply** #
+### Slack Reply
 
 You can also send **Reply** for your business Tickets from your Slack channel. You need to follow some simple steps to complete the process.
 
@@ -98,9 +95,9 @@ To send a reply from your Slack channel go to your Slack App settings. Now Searc
 Now you will need to give a Redirected URL here. You will get this redirected URL in the Fluent Support Slack Configuration page. Get the URL from there and paste it here.  
   
 Also, here you need to add some Event bots. So click on the Add Bot User Event button.  
-Now add these two bot events **message.channels** & **message.groups**.  
+Now add these two bot events `message.channels` & `message.groups`.  
   
-After all the changes you have been made, click on the **Save** **Changes**. 
+After all the changes you have been made, click on the **Save Changes**. 
 
 ![Message.channels & Message.groups](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/slack-api-applications-reply-event-slack-scaled-1.webp)
 
@@ -116,7 +113,4 @@ Click on the **Edit** button of the **Agent profile** you want to connect with S
 After going to the Edit option you will find a **Slack User ID field** , now paste your **Slack member ID** here and click on the **Update** button. 
 
 ![Slack User ID field](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/managing-tickets-using-slack:support-staff-slack-user-id-03.webp)
-
-
----
 
