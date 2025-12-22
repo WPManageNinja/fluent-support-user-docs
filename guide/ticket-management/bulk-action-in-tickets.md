@@ -4,7 +4,7 @@ Fluent Support allows you to perform various **Bulk actions** e.g., replying to 
 
 ## Bulk Actions 
 
-To learn how you can perform various **Bulk Actions** in **Fluent Support** , follow the steps with the screenshots & GIF below —
+To learn how you can perform various **Bulk Actions** in **Fluent Support** , follow the steps with the screenshots below —
 
 First, go to your **Tickets** under**Fluent Support** **Dashboard**.
 

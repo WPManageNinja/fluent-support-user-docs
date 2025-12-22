@@ -75,12 +75,12 @@ export default defineConfig({
             text: 'Ticket Forms & Fields',
             collapsed: true,
             items: [
-              { text: 'Custom Submission Forms', link: '/guide/setup-configuration/add-custom-ticket-submission-form' },
               { text: 'Customize Forms', link: '/guide/setup-configuration/ticket-form-customization' },
               { text: 'Custom Fields', link: '/guide/setup-configuration/conditional-custom-fields' },
               { text: 'File Attachments', link: '/guide/setup-configuration/attachment-regulation' },
               { text: 'Additional Attachment Types', link: '/guide/setup-configuration/add-more-attachment-type' },
               { text: 'File Upload Services', link: '/guide/setup-configuration/file-upload-integrations' },
+              { text: 'Custom Submission Forms', link: '/guide/setup-configuration/add-custom-ticket-submission-form' },
             ]
           },
         ]
