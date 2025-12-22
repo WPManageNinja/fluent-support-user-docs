@@ -1,4 +1,4 @@
-# s
+# Common Issues & FAQs
 
 This article addresses common issues and frequently asked questions about **[Fluent Support](https://fluentsupport.com/)**. If you're experiencing a problem or have a question, check this guide first for quick solutions.
 
