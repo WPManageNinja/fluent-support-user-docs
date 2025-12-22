@@ -1,6 +1,8 @@
 # Manual Workflow
 
-A [**Workflow/Automation**](/guide/workflows-automation/automatic-workflow) is a sequence of tasks that can be done **Manually** or **[Automatically](/guide/workflows-automation/automatic-workflow)** using certain triggers and conditions to avoid performing the same actions repeatedly. This article will guide you through the process required to learn how to create the **Workflow Manually** in Fluent Support.
+A [**Workflow/Automation**](/guide/workflows-automation/automatic-workflow) is a sequence of tasks that can be done **Manually** or **[Automatically](/guide/workflows-automation/automatic-workflow)** using certain triggers and conditions to avoid performing the same actions repeatedly. 
+
+This article will guide you through the process required to learn how to create the **Workflow Manually** in Fluent Support.
 
 ## Create A Manual Workflow 
 
@@ -56,8 +58,6 @@ To save any new changes always press the **Update Workflow** button right next t
 ![Publish the workflow](/guide/public/images/workflows-automation/manual-workflow/publish-button-update-workflow-scaled-8.webp)
 
 ## Run Your Workflow In A Specific Ticket
-
-To learn how to run the created workflows in a specific ticket, follow the steps with screenshot & GIF below —
 
 Go to **Tickets** from the **Fluent Support Dashboard** , open your **desired ticket** , and click the **Workflow** button at the top right corner inside the ticket.
 
