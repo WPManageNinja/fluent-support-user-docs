@@ -1,10 +1,10 @@
 # Automatic Workflow
 
-A [**Workflow/Automation**](https://fluentsupport.com/docs/workflows-automations/) is a sequence of tasks that can be done [**Manually**](https://fluentsupport.com/docs/manual-workflow/) or **Automatically** using certain triggers and conditions to avoid performing the same actions repeatedly. This article will guide you through the process required to learn how to create  the **Automatic Workflow** in Fluent Support.
+A [**Workflow/Automation**](/guide/workflows-automation/workflows-automations) is a sequence of tasks that can be done [**Manually**](/guide/workflows-automation/manual-workflow) or **Automatically** using certain triggers and conditions to avoid performing the same actions repeatedly. 
+
+This article will guide you through the process required to learn how to create  the **Automatic Workflow** in Fluent Support.
 
 ## Create An Automatic Workflow
-
-To learn how to create a new workflow automatically, follow the steps with screenshots below —
 
 From the **Fluent Support Dashboard,** go to **Workflows** and click the **\+ Create New** button to create a new workflow.
 
