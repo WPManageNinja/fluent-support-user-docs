@@ -297,7 +297,7 @@ export default defineConfig({
 
   // Vite configuration
   vite: {
-    publicDir: './guide',
+    publicDir: './guide/public',
     server: {
       fs: {
         allow: ['..']
