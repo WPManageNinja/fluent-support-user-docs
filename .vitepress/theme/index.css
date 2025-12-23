@@ -631,3 +631,39 @@ code {
   background-color: #15BE7C !important;
 }
 
+.search-bar[data-v-b0ca7c1a]:focus-within {
+  border-color: #15BE7E !important;
+}
+
+.search-actions button[data-v-b0ca7c1a]:not([disabled]):hover, .toggle-layout-button.detailed-list[data-v-b0ca7c1a] {
+  color: #15be7c !important;
+}
+
+.titles[data-v-b0ca7c1a] mark, .excerpt[data-v-b0ca7c1a] mark {
+    background-color: #15be7c !important;
+}
+
+.result.selected[data-v-b0ca7c1a] {
+  border-color: #15be7c !important;
+}
+.result.selected .titles[data-v-b0ca7c1a], .result.selected .title-icon[data-v-b0ca7c1a] {
+  color: #15be7c !important;
+}
+
+
+
+/* ============================================
+   Local Search Result Title Text Color
+   Light Mode → White
+   Dark Mode → Black
+   ============================================ */
+
+/* Light mode */
+html:not(.dark) .titles[data-v-b0ca7c1a] span {
+  color: #000000 !important;
+}
+
+/* Dark mode */
+.dark .titles[data-v-b0ca7c1a] span {
+  color: #ffffff !important;
+}
