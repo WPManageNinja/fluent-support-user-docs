@@ -18,11 +18,8 @@ You can assign single or multiple support staff to the ticket using the dropdown
 
 The **support staff** (agents) will also be **bookmarked** on the right side of that ticket and will shown under the watcher section.
 
-
 ![Bookmarked ticket](/guide/public/images/ticket-management/productivity-tools/bookmark-tickets/ticket-bookmark-3.webp)
 
-
 You can add more support staff (agents) or remove by clicking on the **+ Add Watcher** button. 
-
 
 ![Add more agents](/guide/public/images/ticket-management/productivity-tools/bookmark-tickets/ticket-bookmark-4.webp)

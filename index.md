@@ -22,7 +22,7 @@ features:
   - icon: 🏢
     title: Setup & Configuration 
     details: Manage business inboxes, agents, and customer support portals efficiently
-    link: /guide/setup-configuration/create-business-inbox-initially
+    link: /guide/setup-configuration/business-inbox.md
     linkText: Learn More
   - icon: ⚡
     title: Ticket Management
@@ -32,7 +32,7 @@ features:
   - icon: 📊
     title: Reports & Analytics
     details: Track your support team's performance and analyze ticket metrics
-    link: /guide/reports-analytics/dashboard-overview
+    link: /guide/reports-analytics//reports-and-stats.md
     linkText: View Reports
   - icon: 📧
     title: Email Management
