@@ -1,4 +1,4 @@
-# s
+# Common Issues & FAQs
 
 This article addresses common issues and frequently asked questions about **[Fluent Support](https://fluentsupport.com/)**. If you're experiencing a problem or have a question, check this guide first for quick solutions.
 
@@ -139,7 +139,8 @@ Fluent Support requires:
 
 If you've tried the solutions above and still need assistance:
 
-**Check Documentation:** Review other documentation articles for detailed guides.**Contact Support:** Reach out to our support team through your [support portal](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/)
-3. **Community:** Join our community forums for additional help
+ * **Check Documentation:** Review other documentation articles for detailed guides.
+ * **Contact Support:** Reach out to our support team through your [support portal](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/).
+
 
 
