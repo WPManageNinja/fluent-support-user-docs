@@ -5,7 +5,7 @@ description: "Analyze support ticket volume and performance metrics broken down 
 
 # Products Reports
 
-The ‘Products Reports’ section breaks down your support volume based on specific products. This is essential for understanding which products generate the most support requests.
+The ‘**Products Reports**’ section breaks down your support volume based on specific products. This is essential for understanding which products generate the most support requests.
 
 ## Accessing Products Reports
 
@@ -13,8 +13,8 @@ To access products reports, go to the **Reports** tab from the top menu bar and 
 
 ## Filtering and Statistics
 
-* **Product Filter:** Use the dropdown menu to view statistics for **All Products** or select a specific product (e.g., FluentCRM, Fluent Form) to isolate its data.
-* **Product Statistics Graph:** Shows the number of tickets for each product during the selected date range. You can also view **Ticket Stats**, **Resolve Stats**, and **Response Stats**.
+ * **Product Filter:** Use the dropdown menu to view statistics for **All Products** or select a specific product (e.g., FluentCRM, Fluent Form) to isolate its data.
+ * **Product Statistics Graph:** Shows the number of tickets for each product during the selected date range. You can also view **Ticket Stats**, **Resolve Stats**, and **Response Stats**.
 
 ## Product Summary Table
 

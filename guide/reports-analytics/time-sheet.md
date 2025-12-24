@@ -5,7 +5,7 @@ description: "A guide to tracking and exporting agent hours, daily output, and t
 
 # Time Sheet
 
-The ‘Time Sheet’ provides a concise summary of activity, useful for tracking agent hours or daily output over a specific period.
+The ‘**Time Sheet**’ provides a concise summary of activity, useful for tracking agent hours or daily output over a specific period.
 
 ## Accessing Time Sheet 
 

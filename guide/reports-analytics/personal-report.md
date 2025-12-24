@@ -5,7 +5,7 @@ description: "A guide to understanding and accessing individual performance stat
 
 # Personal Reports
 
-The ‘Personal Reports’ section displays the ticket statistics and performance data specific to you as a logged-in support agent. This report is private to you and helps you track your individual productivity.
+The ‘**Personal Reports**’ section displays the ticket statistics and performance data specific to you as a logged-in support agent. This report is private to you and helps you track your individual productivity.
 
 ## Accessing Personal Reports
 

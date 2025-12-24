@@ -3,7 +3,7 @@
 
 ---
 
-[**Fluent Support**](https://fluentsupport.com/) gives you an amazing opportunity to view all your **Integration** **Statuses** together in one place. This article will guide you through where you can find your integration statuses.
+**Fluent Support** gives you an amazing opportunity to view all your **Integration** **Statuses** together in one place. This article will guide you through where you can find your integration statuses.
 
 ## Integration Statuses 
 

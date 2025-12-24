@@ -3,7 +3,7 @@
 
 ---
 
-**Dropbox** is a cloud storage platform that enables easy file storage, sharing, and seamless access and collaboration across multiple devices. Integrating it with **[Fluent Support](https://fluentsupport.com/)** allows automatic ticket attachment uploads, streamlining workflows. This article guides you through this integration process.
+**Dropbox** is a cloud storage platform that enables easy file storage, sharing, and seamless access and collaboration across multiple devices. Integrating it with **Fluent Support** allows automatic ticket attachment uploads, streamlining workflows. This article guides you through this integration process.
 
 ## Dropbox Integration With Fluent Support 
 

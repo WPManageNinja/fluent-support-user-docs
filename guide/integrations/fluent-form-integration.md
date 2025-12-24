@@ -5,7 +5,7 @@
 
 **Fluent Forms** plugin allows you to build beautiful **Forms** for WordPress with less time and effort. You can easily create a Ticket Submission Form by integrating **Fluent Forms** with **Fluent Support**.
 
-This article will guide you through integrating [**Fluent Forms**](https://fluentforms.com/) with [**Fluent Support**](https://fluentsupport.com/).
+This article will guide you through integrating [**Fluent Forms**](https://fluentforms.com/) with **Fluent Support**.
 
 ## Fluent Forms Integration With Fluent Support 
 

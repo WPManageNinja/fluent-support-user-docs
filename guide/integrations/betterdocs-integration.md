@@ -5,7 +5,7 @@
 
 **BetterDocs** is a user-friendly documentation and knowledge base plugin that you can integrate with **Fluent Support**. This will allow you to display relevant **Documentation** to the users when they type their issues in the Subject field of the ticket form under the Support Portal.
 
-This article will guide you through integrating [**BetterDocs**](https://betterdocs.co/) with [**Fluent Support**](https://fluentsupport.com/).
+This article will guide you through integrating [**BetterDocs**](https://betterdocs.co/) with **Fluent Support**.
 
 ## BetterDocs Integration With FluentSupport 
 

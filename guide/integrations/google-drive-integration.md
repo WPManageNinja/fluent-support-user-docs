@@ -3,7 +3,7 @@
 
 ---
 
-Integrating **Google** **Drive** with the[ **Fluent Support**](https://fluentsupport.com/) plugin allows the synchronization of files between the two platforms. This article will guide you through integrating **Google** **Drive** with **Fluent** **Support**.
+Integrating **Google** **Drive** with the **Fluent Support** plugin allows the synchronization of files between the two platforms. This article will guide you through integrating **Google** **Drive** with **Fluent** **Support**.
 
 ## Google Drive Integration With Fluent Support 
 

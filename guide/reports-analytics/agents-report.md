@@ -5,7 +5,7 @@ description: "A comprehensive guide to monitoring team efficiency, individual ag
 
 # Agents Reports
 
-The ‘Agents Reports’ section provides an overall view of the entire support team's performance. It is typically accessible to support managers or administrators who need to monitor team efficiency.
+The ‘**Agents Reports**’ section provides an overall view of the entire support team's performance. It is typically accessible to support managers or administrators who need to monitor team efficiency.
 
 ## Accessing Agents Reports 
 

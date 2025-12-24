@@ -3,7 +3,7 @@
 
 ---
 
-**[FluentSupport](https://fluentsupport.com/)** can send notifications for your Tickets to Discord. This article will guide you through the whole process. 
+**FluentSupport** can send notifications for your Tickets to Discord. This article will guide you through the whole process. 
 
 ## **Fluent Support Discord Settings** 
 
@@ -13,14 +13,16 @@ You will see the **Discord Integration Settings** page where you will see that a
 
 Also, you will get the **Notification** **Events** which allow you to choose what kind of notifications you want for your Tickets. Just select the checkbox to enable the notification option.
 
-Once you provide the **Webhook** **URL** and set your **Notifications** **Events** , do not forget to click on **Save** **Discord Settings**.
+Once you provide the **Webhook** **URL** and set your **Notifications** **Events**. Do not forget to click on **Save Settings** button.
 
 ![Discord Integration Settings ](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-discord/discord-notification-settings-scaled-1.webp)
 
 ## **Get Discord Webhook URL** 
 
-To **get the Webhook URL** , first, you need to**create a channel** for your notifications.  
-**Or** , you can also get the notifications in any existing channel. Then, go to the **channel settings** by clicking the **settings icon** placed on the **right side of the channel name**.
+To **get the Webhook URL** , first, you need to **create a channel** for your notifications.  
+**Or** , you can also get the notifications in any existing channel. 
+
+Then, go to the **channel settings** by clicking the **settings icon** placed on the **right side of the channel name**.
 
 ![Discord Channel settings ](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-discord/discord-channel-for-tickets-1.webp)
 
@@ -32,7 +34,7 @@ Create a bot here with your relevant name and save it. Now click on the **Copy W
 
 ![Webhook URL](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-discord/discord-notification-settings-webhook-scaled-1.webp)
 
-Now **Paste** the **Webhook URL** in your Fluent Support and click on the **Save Discord Settings** button.
+Now **Paste** the **Webhook URL** in your Fluent Support and click on the **Save Settings** button.
 
 ![Save Discord Settings](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-discord/discord-notification-settings-save-scaled-1.webp)
 

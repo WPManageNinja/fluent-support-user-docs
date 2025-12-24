@@ -5,7 +5,7 @@
 
 **LifterLMS** is a powerful **WordPress LMS** plugin to easily create, sell, and secure engaging online courses and training-based membership websites. **Fluent Support** integrates with **Lifter LMS** to display an overview of the **Course Purchase History** of any user, including the **Course Name** and **Enrollment Status** on the **Ticket Entries** page after a user purchases.
 
-This article will guide you through integrating [**LifterLMS**](https://lifterlms.com/) with [**Fluent Support**](https://fluentsupport.com/).
+This article will guide you through integrating [**LifterLMS**](https://lifterlms.com/) with **Fluent Support**.
 
 ## **LifterLMS Purchase Information In Your Ticket** #
 

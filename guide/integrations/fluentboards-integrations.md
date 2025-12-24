@@ -5,13 +5,11 @@
 
 **FluentBoards** integration with **Fluent Support** allows you to create a task directly from your Fluent Support **Tickets** (i.e., if any Tickets come in your Fluent Support your support agent can add that Tickect as a task on your Fluent Boards).  
   
-This article will guide you through integrating [**FluentBoards**](https://fluentboards.com/) with [**Fluent Support**](https://fluentsupport.com/).
+This article will guide you through integrating [**FluentBoards**](https://fluentboards.com/) with **Fluent Support**.
 
 > Remember, you do not need to integrate the **FluentBoards** plugin manually with **Fluent Support** ; it happens automatically if the both plugins are already installed on your site.
 
 ## **Adding Task from Fluent Support Ticket** 
-
-To learn how to integrate FluentBoards into Fluent Support, follow the steps with the screenshots below —
 
 Go to the **Tickets** from the **Fluent Support** **Dashboard** and then open the specific ticket you want to add to your **FluentBoards** ‘ **Task**. Now, click on **Add Task to Fluent Boards** from the **Three-Dot** button on the top right corner of your ticket.
 
