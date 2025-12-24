@@ -7,15 +7,15 @@
 
 SureTriggers integration allows you to create automation with Fluent Support. Especially, it helps to connect Fluent Support with the other WordPress Plugins and SaaS that do not have direct Integrations with it. 
 
-This article will guide you through integrating [SureTriggers](https://suretriggers.com/) with [Fluent Support](https://fluentsupport.com/).
+This article will guide you through integrating **SureTriggers** with **Fluent Support**.
 
-## Integrate SureTriggers with Fluent Support #
+## Integrate SureTriggers with Fluent Support 
 
 To learn how to integrate Sure Triggers with Fluent Support, follow the steps with the screenshots below —
 
 Before starting the process, ensure you **Installed** and **Activated** the [**SureTriggers**](https://suretriggers.com/) Plugin on your WordPress site.
 
-### Creating Workflow to Connect Fluent Support #
+### Creating Workflow to Connect Fluent Support 
 
 Once you have authorized the account, your **SureTriggers** **Dashboard** will appear on your **WordPress Site**.  
 Now, go to the **Workflows** , open the **Create Workflow** dropdown, and click the **Create From Scratch** button. 
@@ -30,7 +30,7 @@ From here, you can add the **Fluent Support Trigger/Actions** to your **SureTrig
 
 ![Add Trigger - Plus Icon](/guide/public/images/integrations-channels/core-integrations/suretriggers-integration/3.-add-trigger-1.webp)
 
-#### Adding Fluent Support Trigger #
+#### Adding Fluent Support Trigger 
 
 To learn how you can add Fluent Support Trigger in your SureTriggers Workflow, follow the steps below –
 

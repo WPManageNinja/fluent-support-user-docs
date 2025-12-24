@@ -5,7 +5,7 @@
 
 BuddyBoss is an open-source solution for building online communities with less time and effort. Fluent Support integrates BuddyBoss to display an overview of a user’s BuddyBoss group information, including **Group Name** and **Joining Date** on the **Ticket Entries** page after a user purchases this plugin.
 
-This article will guide you through integrating [**BuddyBoss**](https://www.buddyboss.com/) with [**Fluent Support**](https://fluentsupport.com/).
+This article will guide you through integrating [**BuddyBoss**](https://www.buddyboss.com/) with **Fluent Support**.
 
 ## **BuddyBoss Purchase Information In Your Ticket** #
 

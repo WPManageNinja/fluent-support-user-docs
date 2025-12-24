@@ -3,7 +3,7 @@
 
 ---
 
-**[Fluent Support](https://fluentsupport.com/)** allows users to integrate with **Google** **ReCaptcha** to protect their websites from spam. This article will guide you through integrating Google ReCapcha with Fluent Support.
+**Fluent Support** allows users to integrate with **Google** **ReCaptcha** to protect their websites from spam. This article will guide you through integrating Google ReCapcha with Fluent Support.
 
 ## Accessing Google ReCapcha Console 
 

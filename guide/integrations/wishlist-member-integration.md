@@ -5,7 +5,7 @@
 
 With the **WishList Member** plugin, you can easily create online courses, launch a monthly membership, sell digital downloads, and many more. **Fluent Support** integrates with **WishList Member** to display an overview of the **Membership** details of a user, including the **Membership Level** and **Membership Status** on the **Ticket Entries** page, who purchases this plugin.
 
-This article will guide you through integrating [**WishList Member**](https://wishlistmember.com/) with [**Fluent Support**](https://fluentsupport.com/).
+This article will guide you through integrating [**WishList Member**](https://wishlistmember.com/) with **Fluent Support**.
 
 ## **WishList Member Purchase Information In Your Ticket** 
 

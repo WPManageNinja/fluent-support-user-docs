@@ -5,7 +5,7 @@
 
 **WooCommerce** is a customizable, open-source eCommerce platform for **WordPress** that allows support agents to view the **purchase** **history** of any WooCommerce product user and allows customers to open tickets through Fluent Support for issues related to specific WooCommerce products or orders.
 
-This article will guide you through integrating [**WooCommerce**](https://woocommerce.com/) with [**Fluent Support**](https://fluentsupport.com/).
+This article will guide you through integrating [**WooCommerce**](https://woocommerce.com/) with **Fluent Support**.
 
 ## **WooCommerce Integration With FluentSupport** 
 

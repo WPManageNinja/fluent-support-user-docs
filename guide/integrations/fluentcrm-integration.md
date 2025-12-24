@@ -5,7 +5,7 @@
 
 Fluent CRM is a self-hosted **Email** M**arketing** A**utomation** plugin for **WordPress** that you can easily integrate with your **Fluent Support**.
 
-This article will guide you through the process of integrating [**FluentCRM**](https://fluentcrm.com/) into [**Fluent Support**](https://fluentsupport.com/).
+This article will guide you through the process of integrating [**FluentCRM**](https://fluentcrm.com/) into **Fluent Support**.
 
 ## Fluent CRM Integration With Fluent Support 
 

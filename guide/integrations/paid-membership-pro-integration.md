@@ -5,7 +5,7 @@
 
 **Paid Memberships Pro** is a popular free membership/subscription plugin for **WordPress**. **Fluent Support** integrates with **Paid Memberships Pro** to display an overview of the **Membership** details of a user, including the **Membership Level** and **Membership Starting Date** on the **Ticket Entries** page, who purchases this plugin.
 
-This article will guide you through integrating [**Paid Memberships Pro**](https://www.paidmembershipspro.com/) with [**Fluent Support**](https://fluentsupport.com/).
+This article will guide you through integrating [**Paid Memberships Pro**](https://www.paidmembershipspro.com/) with **Fluent Support**.
 
 ## **Paid Memberships PRO Purchase Information In Your Ticket** #
 

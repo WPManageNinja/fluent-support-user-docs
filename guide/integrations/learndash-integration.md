@@ -5,7 +5,7 @@
 
 **LearnDash** is a worldwide trusted **WordPress LMS** plugin for creating (and selling) their online courses. **Fluent Support** integrates with **LearnDash** to display an overview of the **Course Purchase History** of any user, including the **Course Name** and **Enrollment Status** on the **Ticket Entries** page after a user purchases.
 
-This article will guide you through integrating [**LearnDash**](https://www.learndash.com/learndash-lms/) with [**Fluent Support**](https://fluentsupport.com/).
+This article will guide you through integrating [**LearnDash**](https://www.learndash.com/learndash-lms/) with **Fluent Support**.
 
 ## **LearnDash Purchase Information In Your Ticket** #
 
