@@ -81,6 +81,8 @@ Go to the **Globa Settings** from the Fluent Support **Dashboard** and select **
   
 Now fill in all the fields with the necessary information that you have copied before. Also, you can enable the checkboxes if needed. 
 
+**Fallback Agent for reply from Slack thread:** Using this option, you can select a specific fallback agent from the dropdown list for replies from slack.
+
 Once you are done, do not forget to click on **Save Settings** button.
 
 ![Save Slack Settings](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-slack/managing-tickets-using-slack-slack-notification-settings-paste-tokens-01.webp)
