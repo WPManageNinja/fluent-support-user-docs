@@ -12,9 +12,11 @@ If you have reviewed our existing documentation and are still encountering a tec
 To ensure you receive the quickest and most effective assistance, please adhere to the following guidelines when submitting your inquiry:
 
 1.  **Visit the WPManageNinja Support Portal:**
+
     * Go to the official [WPManageNinja support](https://wpmanageninja.com/account/) website. This is the primary, dedicated channel for submitting formal support tickets.
 
 2.  **Submit a Support Ticket:**
+
     * Log in to your [WPManageNinja account](https://wpmanageninja.com/account/).
     * Navigate to the "Support Tickets" section.
     * Click on "Create a New Ticket."
@@ -29,7 +31,7 @@ When submitting your ticket, please include as much relevant detail as possible.
     * **Screenshots or Screen Recordings:** Visual documentation significantly aids in diagnosing complex issues.
     * **Error Messages:** If any error text is displayed, please copy and paste the full message into the ticket.
     * **Your WordPress Version.**
-    * **Your FluentSupport Plugin Version.**
+    * **Your FluentSupport Plugin Version.
 
 
 4.  **Support Hours:**
