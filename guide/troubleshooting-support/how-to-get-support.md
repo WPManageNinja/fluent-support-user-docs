@@ -20,17 +20,20 @@ To ensure you receive the quickest and most effective assistance, please adhere 
     * Click on "Create a New Ticket."
 
 3.  **Provide Detailed Information:**
-    When submitting your ticket, please include as much relevant detail as possible. This is crucial for our team to quickly understand your situation and provide an accurate solution. Required details include:
-    * **Your FluentSupport License Key:** This is necessary to verify your purchase and ensure eligibility for premium support.
-    * **A Clear Description of the Problem:** Explain the desired functionality and describe exactly what is occurring instead.
-    * **Steps to Reproduce the Issue:** List the precise sequence of actions that leads to the error or unexpected behavior.
-    * **Screenshots or Screen Recordings:** Visual documentation significantly aids in diagnosing complex issues.
-    * **Error Messages:** If any error text is displayed, please copy and paste the full message into the ticket.
-    * **Your WordPress Version.**
-    * **Your FluentSupport Plugin Version.**
-    * **Your PHP Version (if known).**
+
+When submitting your ticket, please include as much relevant detail as possible. This is crucial for our team to quickly understand your situation and provide an accurate solution. Required details include:
+
+* **Your FluentSupport License Key:** This is necessary to verify your purchase and ensure eligibility for premium support.
+* **A Clear Description of the Problem:** Explain the desired functionality and describe exactly what is occurring instead.
+* **Steps to Reproduce the Issue:** List the precise sequence of actions that leads to the error or unexpected behavior.
+* **Screenshots or Screen Recordings:** Visual documentation significantly aids in diagnosing complex issues.
+* **Error Messages:** If any error text is displayed, please copy and paste the full message into the ticket.
+* **Your WordPress Version.**
+* **Your FluentSupport Plugin Version.**
+
 
 4.  **Support Hours:**
-    Our professional support team operates during standard business hours, typically Monday through Friday. We are committed to responding to all legitimate inquiries and working towards a resolution promptly.
+
+Our professional support team operates during standard business hours, typically Monday through Friday. We are committed to responding to all legitimate inquiries and working towards a resolution promptly.
 
 We are dedicated to helping you maximize the utility of the FluentSupport plugin.

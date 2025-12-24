@@ -5,7 +5,7 @@
 
 **FluentCart** is a high-performance e-commerce plugin built for **WordPress** , designed to give you full control of your store while keeping things fast, scalable, and simple. The integration with Fluent Support allows agents to view the **purchase history** of any FluentCart user and enables customers to open tickets for issues related to specific FluentCart products or orders.
 
-In this guide, you’ll learn how to integrate FluentCart with Fluent Support, access purchase details directly from the ticket sidebar, create custom fields for FluentCart products and orders, and automate workflows to enhance your support process.
+In this guide, you’ll learn how to integrate **FluentCart with Fluent Support**, access purchase details directly from the ticket sidebar, create custom fields for FluentCart products and orders, and automate workflows to enhance your support process.
 
 ## FluentCart Integration With Fluent Support 
 
@@ -70,7 +70,7 @@ A popup will appear. Now, give your workflow a name and select the **Automatic**
 
 ![Create Workflow](/guide/public/images/integrations-channels/core-integrations/fluentcart-integration/create-worflow.webp)
 
-Under **Set Your Trigger & Conditions**, select a **Workflow Trigger** , such as **On Ticket Creation, On Customer Response,** or**On Ticket Closed**.
+Under **Set Your Trigger & Conditions**, select a **Workflow Trigger** , such as **On Ticket Creation, On Customer Response,** or **On Ticket Closed**.
 
 Next, set the **Conditions**. Select your FluentCart custom field (e.g., **fc_products** or **fct_order**) from the dropdown, choose an operator (like **Equal**), and select the specific product or order that should trigger this workflow.
 
