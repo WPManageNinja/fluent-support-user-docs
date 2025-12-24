@@ -100,7 +100,8 @@ Make sure to include the **Country Code** when adding this number. Now you can r
 
 ![WhatsApp number field](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-whatsapp/managing-tickets-using-whatsapp:whatsapp-number-field-inside-twilio-integration-3.webp)
 
-**Note:** To reply to any specific tickets directly from WhatsApp chat, you’ll have to type in ##Ticket number## before the message. For example, to reply to ticket no. 33 you have to type ##33## and then type your response.
+>[!Note]
+>To reply to any specific tickets directly from WhatsApp chat, you’ll have to type in **Ticket number** before the message. For example, to reply to ticket no. 33 you have to type **33** and then type your response.
 
 
 ---
