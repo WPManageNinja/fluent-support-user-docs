@@ -3,7 +3,7 @@
 
 ---
 
-[**Fluent Support**](https://fluentsupport.com/) allows you to manage your tickets using **WhatsApp**. You can see your New Tickets notification in your **WhatsApp** account and reply to your ticket from this. This article will guide you in setting up **WhatsApp** integration with **FluentSupport**.
+**Fluent Support** allows you to manage your tickets using **WhatsApp**. You can see your New Tickets notification in your **WhatsApp** account and reply to your ticket from this. This article will guide you in setting up **WhatsApp** integration with **FluentSupport**.
 
 ## Fluent Support Twilio Settings 
 
