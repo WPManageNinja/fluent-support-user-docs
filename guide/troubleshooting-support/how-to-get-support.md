@@ -31,7 +31,7 @@ When submitting your ticket, please include as much relevant detail as possible.
     * **Screenshots or Screen Recordings:** Visual documentation significantly aids in diagnosing complex issues.
     * **Error Messages:** If any error text is displayed, please copy and paste the full message into the ticket.
     * **Your WordPress Version.**
-    * **Your FluentSupport Plugin Version.
+    * **Your FluentSupport Plugin Version.**
 
 
 4.  **Support Hours:**
