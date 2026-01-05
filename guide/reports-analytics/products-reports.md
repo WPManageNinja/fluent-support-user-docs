@@ -9,7 +9,7 @@ The ‘**Products Reports**’ section breaks down your support volume based on 
 
 ## Accessing Products Reports
 
-To access products reports, go to the **Reports** tab from the top menu bar and select **Products Reports**.
+To access products reports, go to the **Reports** tab from the top menu bar and select **Products Reports** from the left side.
 
 ## Filtering and Statistics
 

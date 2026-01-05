@@ -18,7 +18,7 @@ With the Drag & Drop feature, all the widget sections of the [General Dashboard]
 
 ### Settings
 
-You will find the **Settings (Gear)** Icon in the top right corner of your **Fluent Support Dashboard**. This option allows you to customize your dashboard interface via a dedicated sidebar panel.
+You will find the **Settings (Gear) Icon** in the top right corner of your **Fluent Support Dashboard**. This option allows you to customize your dashboard interface via a dedicated sidebar panel.
 
 Specifically, from the **All Widgets** sidebar, you can:
 
@@ -30,7 +30,6 @@ Specifically, from the **All Widgets** sidebar, you can:
 
 ### Reset 
 
-You will also find the **Reset** button right next to the **Settings** icon. This allows you to undo all the changes that you have previously made.
 You will also find the **Reset** button right next to the **Settings** icon. This allows you to instantly undo all custom changes and revert the dashboard back to its default layout and widget configuration.
 
 ![Reset option for undo all changes of your Dashboard](/guide/public/images/reports-analytics/dynamic-dashboard/reset-2-1.gif)
