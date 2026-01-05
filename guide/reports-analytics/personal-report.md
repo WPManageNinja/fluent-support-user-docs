@@ -9,7 +9,7 @@ The ‘**Personal Reports**’ section displays the ticket statistics and perfor
 
 ## Accessing Personal Reports
 
-To view your report, go to the **Reports** tab in the dashboard menu and select **Personal Reports**.
+To view your report, go to the **Reports** tab in the dashboard menu and select **Personal Reports** from the left side.
 
 ## Dashboard Overview 
 
