@@ -276,7 +276,7 @@ export default defineConfig({
     },
 
     footer: {
-      copyright: 'Copyright © 2025 Fluent Support'
+      copyright: 'Copyright © 2026 Fluent Support'
     }
 
   },
