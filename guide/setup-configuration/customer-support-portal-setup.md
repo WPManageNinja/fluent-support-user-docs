@@ -1,8 +1,5 @@
 # Setup Customer Support Portal With Global Settings
 
-
----
-
 The Customer Portal is intended for direct use by end-users where users can view & use the dashboard to submit tickets. This article will guide you to set up your **Customer Portal** with **Global Settings** in **Fluent Support**.
 
 ## Accessing Global Settings
@@ -97,7 +94,4 @@ Enabling the ‘**Agent Time Rating’** option allows agents to set the amount 
 ![Agent Time Tracking option](/guide/public/images/setup-configuration/customer-portal/customer-support-portal-setup/customer-registartion-file-u.webp)
 
 Always press **Save Settings** after finishing all the customization in your **Global Settings** to save it. Otherwise, changes will not appear in your Customer Portal.
-
-
----
 

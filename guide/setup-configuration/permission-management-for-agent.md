@@ -10,7 +10,7 @@ First, go to **Settings → Global Settings** , click on the **Support Staff** s
 
 ![Support satff](/guide/public/images/setup-configuration/agents-permissions/permission-management-for-agent/specific-support-staff-scaled-1.webp)
 
-Now, here you will find all the options under **All Permissions dropdown** from where you can **give** your **agents** **permissions** or **restrictions** to access these roles just by **enabling** or **disabling** the **checkbox**.
+Now, here you will find all the options under **All Permissions dropdown** from where you can **give** your **agents permissions** or **restrictions** to access these roles just by **enabling** or **disabling** the **checkbox**.
 
 Once you are done, hit the **Update** button to save all changes.
 

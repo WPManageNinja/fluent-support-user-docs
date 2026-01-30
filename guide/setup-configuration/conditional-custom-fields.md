@@ -1,9 +1,6 @@
 # Custom Fields
 
-
----
-
-Custom fields are an advanced WordPress feature in **Fluent Support** that allows support agents to add extra information/fields to their ticket submission forms or other submission fields to organize the tickets more sophisticatedly.
+Custom fields are an advanced WordPress feature in Fluent Support that allows support agents to add extra information/fields to their ticket submission forms or other submission fields to organize the tickets more sophisticatedly.
 
 ## Custom Fields in Fluent Support 
 
@@ -66,7 +63,4 @@ Once you’re done with all the configuration, click the **Add** button.
 Here, you can see the **Custom Field** has been added to the **Fluent Support Portal**.
 
 ![Customer Support Portal's Ticket Submission Portal](/guide/public/images/setup-configuration/ticket-forms-fields/conditional-custom-fields/8.-support-portal-custom-field-1.webp)
-
-
----
 

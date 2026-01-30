@@ -1,8 +1,5 @@
 # Customer Support Portal Dashboard
 
-
----
-
 The **Customer Portal** is intended for direct use by end-users where users can view & use the dashboard to submit tickets. This article will guide you through how the **Customer Portal** of Fluent Support can be used with all the available options.
 
 ## Customer Portal 
@@ -45,7 +42,4 @@ First, sign up or log in to the customer support portal and the **Customer Porta
 **J: Tickets Display Dropdown** : Using the option, users can define per page how many tickets they want to see.
 
 **K: Pagination** : Using this arrow option, users can scroll to different pages.
-
-
----
 

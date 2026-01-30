@@ -4,8 +4,6 @@ Fluent Support offers three platforms for storing uploaded files: your **Default
 
 ## File Upload Integration With Fluent Support 
 
-To learn how to set your preferred file storage platform, follow the steps with screenshots below
-
 Go to **Settings** from your **Fluent Support Dashboard** and click on **File Upload Integrations** from the left sidebar.
 
 ### Enable Your File Storage Platform
@@ -40,5 +38,3 @@ For specific instructions on how to generate the Client IDs and Secrets required
 Before uploading the files to **Google Drive** , you must integrate it with your Fluent Support.
 
 This is how you can integrate File Upload Platforms with Fluent Support!  
-
-

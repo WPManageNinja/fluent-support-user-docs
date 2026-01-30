@@ -4,8 +4,6 @@ This article will guide you through the process of configuring **File Attachment
 
 ## File Attachment Settings
 
-To configure the regulations for file attachments, follow the steps with the screenshots below —
-
 Go to **Settings** from your **Fluent Support Dashboard** and click on **Global Settings** from the left sidebar.
 
 Scroll down to the **Accepted File Types** section. Here, you will find the configuration options for files that users can upload when submitting or replying to a ticket.

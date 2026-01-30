@@ -1,22 +1,19 @@
 # Customize Customer Portal via Gutenberg Block
 
-
----
-
 FluentSupport (**Customer Portal**) **Gutenberg Block** empowers you to create a customized customer portal. You can design the customer portal precisely according to your preferences. To know the whole process, follow the steps accordingly. 
 
 ## **Add Customer Portal** 
 
-First, go to the **Pages** from the **WordPress** **Dashboard** , open the desired page where you want to add your **Customer** **Support** **Portal** 1 and click the **Edit** button.
+First, go to the **Pages** from the **WordPress Dashboard** , open the desired page where you want to add your **Customer Support** **Portal** 1 and click the **Edit** button.
 
-If you want to add your **Customer** **Support** **Portal** to a new page, click the **Add New Page** button in the top left corner and create a new page.
+If you want to add your **Customer Support Portal** to a new page, click the **Add New Page** button in the top left corner and create a new page.
 
 ![WordPress dashboard - Pages](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/1.-selected-page-scaled.webp)
 
-Once you are on the Page Editor, add a **FluentSupport (Customer Portal)** **Gutenberg Block** to your desired page as shown in the GIF below.
+Once you are on the Page Editor, add a **FluentSupport (Customer Portal) Gutenberg Block** to your desired page as shown in the GIF below.
 
 > [!NOTE]
-> You can also add **FluentSupport (Customer Portal)** in **Posts** on your **WordPress** **Site** by following the process shown below.
+> You can also add **FluentSupport (Customer Portal)** in **Posts** on your **WordPress Site** by following the process shown below.
 
 ![](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/2.-add-customer-portal-using-gutenberg-block-gif.gif)
 
@@ -91,5 +88,4 @@ Here, you can see the preview of **FluentSupport’s Ticket Portal**.
 
 ![](/guide/public/images/setup-configuration/customer-portal/add-and-customize-customer-portal-using-gutenberg-block/10.-preview-of-ticket-portal-1.webp)
 
----
 
