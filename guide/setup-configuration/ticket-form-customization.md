@@ -1,25 +1,18 @@
 # Ticket Form Customization
 
+This article will guide you through the process required to customize the default **Ticket Submission Form** of **Fluent Support** (e.g., hiding or changing some text or field within the default form). Follow the instructions accordingly to know the whole process.
 
----
-
-This article will guide you through the process required to customize the default **Ticket Submission Form** of **Fluent** **Support** (e.g., hiding or changing some text or field within the default form). Follow the instructions accordingly to know the whole process.
-
-> [!Note]
->If you want, you can build a **Ticket Form** from scratch as well.
 
 ## Ticket Form Configuration 
-
-To learn where you can find all the customization settings of your **Ticket** **Form** provided by default from **Fluent Support,** follow the steps below —
 
 Go to **Settings → Global Settings** from your Fluent Support **Dashboard**. Click on **Ticket Form Config** from the left sidebar.
 
 ![Global Settings from Fluent Support's Dashboard](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/ticket-form-settins-1.webp)
 
-Here are all of the **Settings** of the **Ticket** **Form** which you can customize anytime.
+Here are all of the **Settings** of the **Ticket Form** which you can customize anytime.
 
 > [!TIP]
-> Always press **Save** **Settings** after doing any customization in your **Ticket** **Form** **Settings** to save it, otherwise, the changes will not appear in your Ticket Form.
+> Always press **Save Settings** after doing any customization in your **Ticket Form Settings** to save it, otherwise, the changes will not appear in your Ticket Form.
 
 ![All setting options for Ticket Form Customization](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/ticket-form-settings-new-1.webp)
 
@@ -28,6 +21,8 @@ Here are all of the **Settings** of the **Ticket** **Form** which you can custom
 You will find different settings options in Ticket Form Settings to customize your Ticket Form. These are —
 
   * Knowledge base suggestion on ticket creation form
+  * Knowledge base post type
+  * Suggested Article Limit
   * Disabled Default Fields
   * Disable Rich Text Editor for Frontend
   * Required fields for products and services
@@ -46,6 +41,22 @@ Enable this setting so that your customers receive instant solution suggestions 
   * **Suggested Articles Limit:** Define how many suggestions should appear (e.g., 5).
 
 ![Knowledge-base suggestions related setting](/guide/public/images/setup-configuration/ticket-forms-fields/ticket-form-customization/knowledge-base-suggestion-1.webp)
+
+#### Knowledge base post type
+
+This setting allows you to specify exactly which types of content on your WordPress site should be used to provide suggestions to the customer.
+
+* **Selection:** You can choose from standard WordPress Posts, Pages, or Attachments.
+* **Custom Post Types:** If you use third-party plugins, you can also select Products (WooCommerce), Docs (BetterDocs/Fluent Support Docs), or Courses (FluentCommunity/LearnDash).
+* **Versatility:** You can select multiple post types simultaneously. For example, selecting both "Docs" and "Products" ensures that the system searches both your documentation and your store items to find a relevant match for the customer's subject line.
+
+#### Suggested Article Limit
+
+This option controls the maximum number of suggestions displayed to the customer as they type their ticket subject.
+
+* **Configuration:** Enter a numerical value (e.g., 3, 5, or 10) to limit the list of search results.
+* **User Experience:** Setting a reasonable limit (such as 5) helps provide the most relevant solutions without overwhelming the customer with too many choices, ensuring a clean and helpful interface.
+
 
 #### Disabled Default Fields 
 
