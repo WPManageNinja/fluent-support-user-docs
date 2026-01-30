@@ -51,6 +51,7 @@ export default defineConfig({
               { text: 'Adding Business Inboxes', link: '/guide/setup-configuration/adding-multiple-business-inboxes' },
               { text: 'Web Only Settings', link: '/guide/setup-configuration/web-based-settings-in-business-inbox' },
               { text: 'Web & Email Settings', link: '/guide/setup-configuration/web-and-email-settings-in-business-inbox' },
+              { text: 'Email Piping Setup', link: '/guide/setup-configuration/email-piping-email-based-support-ticket' },
               { text: 'Products for Categories', link: '/guide/setup-configuration/creating-products-to-categorize-tickets' },
             ]
           },
@@ -140,7 +141,6 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Email Notifications', link: '/guide/email-notifications/managing-email-notifications' },
-          { text: 'Email Piping Setup', link: '/guide/email-notifications/email-piping-email-based-support-ticket' },
           { text: 'Google Workspace Forward', link: '/guide/email-notifications/auto-forward-from-gsuite' },
           { text: 'Microsoft 365 Forward', link: '/guide/email-notifications/forward-from-microsoft365-owa' },
           { text: 'Lambda Service', link: '/guide/email-notifications/changing-amazon-lambda-settings' },

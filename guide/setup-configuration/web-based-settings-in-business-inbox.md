@@ -1,6 +1,6 @@
 # Web-Based Settings in Business Inbox
 
-**Web-based Business Inbox** allows customers to create support tickets directly from the website only. This article will explain the functionalities of web-based business inbox settings in Fluent Support. Read the article accordingly to understand what these settings do.
+**Web-based Business Inbox** allows customers to create support tickets directly from the website only. This article will explain the functionalities of web-based business inbox settings in Fluent Support. 
 
 ## Web-Based Settings of Business Inbox 
 
@@ -24,8 +24,8 @@ In the **Inbox Settings,** you can do lots of customization, e.g., changing inbo
 
 **Email Footer For Customers:** You can also set Email footer for your customers where —
  
- * You can add **Media** , **Text** and customize their **Visual** for the footer from here
- * By clicking on the **Click to see Available Dynamic Codes:** you can find the dynamic codes you can use on your footer.
+ * You can add **Media** , **Text** and customize their footer in **Visual/Code** mode from here
+ * **Smart Codes:** You will find the Smartcodes here and you can use on your footer.
 
 ![Email Footer for Customers](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/email-footer-for-customer.webp)
 
@@ -61,7 +61,9 @@ Click on the **Send Attachments (Not Recommended)** button to attach files to yo
 
 > [!NOTE]
 > **Why is this button suggested as (Not Recommended)?**  
-> Sometimes when you attach any files to your email, it may face some delivery failure. To avoid this situation and ensure that any kind of email is delivered without any hassle, we recommend using the **[FluentSMTP](https://fluentsmtp.com/)** plugin. To learn the basic use of the **FluentSMTP** plugin, check this [**Documentation**](https://fluentsmtp.com/docs-category/getting-started/).
+> Sometimes when you attach any files to your email, it may face some delivery failure. 
+> To avoid this situation and ensure that any kind of email is delivered without any hassle, we recommend using the **[FluentSMTP](https://fluentsmtp.com/)** plugin. 
+
 
 ![Send Attachments \(Not Recommended\)](/guide/public/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/send-attachments.webp)
 

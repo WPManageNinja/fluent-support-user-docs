@@ -17,7 +17,7 @@ From the **Mailbox Settings** of your **Outlook** mailbox, select **Mail** , the
 
 ![Enabling Forwarding](/guide/public/images/email-notifications/forward-from-microsoft365-owa/email-forwarding-enable.webp)
 
-Now, paste the **Mailbox Email Address** you got from the [Email Piping](/guide/email-notifications/email-piping-email-based-support-ticket) settings of **Fluent Support** into the ‘Forward my email to’ field.
+Now, paste the **Mailbox Email Address** you got from the [Email Piping](/guide/setup-configuration/email-piping-email-based-support-ticket) settings of **Fluent Support** into the ‘Forward my email to’ field.
 Also, we recommend enabling the **Keep a copy of forwarded messages** option.  
 
 Don’t forget to press the **Save** button once you’re done.
