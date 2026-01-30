@@ -10,7 +10,7 @@ Go to **View Settings** from your desired email-based business inbox and click *
 
 ![Open desired Business inbox's settings](/guide/public/images/setup-configuration/business-inboxes/email-piping-email-based-support-ticket/email-piping-dashboard-1.webp)
 
-Read the **terms and conditions** before you agree to it and click the **Get Piping Email Details**.
+>Read the **terms and conditions** before you agree to it and click the **Get Piping Email Details**.
 
 To get the **email piping details** , ensure your **fluent support license key** is **active** as **Email Piping** is a **Pro Feature** of **Fluent Support**. To learn how to get the license key and activate it, read this [Documentation](/guide/getting-started/upgrade-to-fluent-support-pro-add-on).
 
@@ -52,20 +52,15 @@ CC is an email feature that allows you to include additional recipients in a mes
 
 The Screenshots below show the whole process being demonstrated visually:
 
-When a user sends an email to your business inbox and includes additional CC users in subsequent reply emails, Fluent Support automatically designates CC users as sub-customers for that specific ticket. You will see the added CC emails also in your ticket.
+When a user sends an email to your business inbox and includes additional CC users in subsequent reply emails, Fluent Support automatically designates CC users as sub-customers for that specific ticket. You will see the **Apply CC** button to add CC emails in your ticket.
 
-Here, you can see the customer-added CC email which you can remove by pressing the **Discard CC** button before replying to it if you want.
+Here, you can see the customer-added CC email which you can add or remove by pressing the **Apply CC** and **Discard CC** button before replying if you want. You can add multiple **CC Email** here. 
 
-![Discard CC](/guide/public/images/setup-configuration/business-inboxes/email-piping-email-based-support-ticket/cc-email-discard-1.webp)
+![Apply CC](/guide/public/images/setup-configuration/business-inboxes/email-piping-email-based-support-ticket/email-piping-cc.webp)
 
-You can also add one or more CC emails to send your reply to them. To add CC, click on the **Add CC** button.
-
-![Add CC](/guide/public/images/setup-configuration/business-inboxes/email-piping-email-based-support-ticket/add-cc.webp)
 
 To reply to the ticket, click on the **Add Reply** button. Your ticket reply will be sent to the primary customer and all the CC recipients.
 
-Replies from CC users are treated as coming from the primary customer i.e., CC users can reply to the agent directly from their mailbox.
-
-![Add Reply](/guide/public/images/setup-configuration/business-inboxes/email-piping-email-based-support-ticket/add-reply-button.webp)
+>Replies from CC users are treated as coming from the primary customer i.e., CC users can reply to the agent directly from their mailbox.
 
 If you want to know more details about Email Piping, you can also read this [What is Email Piping and Why?](https://fluentsupport.com/what-is-email-piping-and-why/)  
