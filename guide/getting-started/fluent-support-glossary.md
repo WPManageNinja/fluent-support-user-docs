@@ -85,7 +85,7 @@ This glossary defines common terms used throughout the Fluent Support documentat
 
 **Silent Close:** An option to close a ticket without sending a notification email to the customer. This is useful for closing spam tickets or internal administrative tickets.
 
-**Support Staff:** (See Agent).
+**Support Staff:** A team member or user assigned with specific permissions to handle support inquiries within the Fluent Support system. Support staff can be categorized by roles, an Admin can select levels of access to manage tickets, view customer data, and configure system settings.
 
 ## T
 

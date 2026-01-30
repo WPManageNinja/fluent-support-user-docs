@@ -24,7 +24,7 @@ At the top of the dashboard, you will find a set of counter cards that provide a
 * **Active Tickets:** The total count of tickets currently open and in progress.
 * **Closed Tickets:** The number of tickets resolved and closed today.
 * **Responses:** The total number of replies sent by your agents today.
-* **Interactions:** Counts the total touchpoints or interactions made within tickets.
+* **Interactions:** Counts the total touch points or interactions made within tickets.
 * **Unassigned Tickets:** The number of tickets that are waiting to be assigned to an agent.
 
 ### Ticket Suggestions Widget
@@ -44,7 +44,7 @@ This intelligent widget highlights tickets that need attention based on waiting 
 
 ### Today's Active Tickets By Products
 
-If you have set up **Products** in Fluent Support, this widget categorizes your active tickets by product. This allows you to quickly see which products are generating the most support requests for the day (e.g., Fluent Form vs. FluentCRM).
+If you have set up **Products** in Fluent Support, this widget categorizes your active tickets by product. This allows you to quickly see which products are generating the most support requests for the day.
 
 ### Personal & Agent Widgets
 
@@ -69,7 +69,7 @@ The top menu bar within the Fluent Support panel provides quick access to other 
 
 Fluent Support features a **Dynamic Dashboard**, allowing you to personalize your workspace by choosing exactly which widgets appear on your screen.
 
-To customize your dashboard, Locate the **Settings (Gear) Icon** in the top right corner of the dashboard, right next to the **Reset** button. Click the icon to open the **All Widgets** sidebar panel.
+To customize your dashboard, Locate the **Settings (Gear) Icon** in the top right corner of the dashboard, with the **Reset** button. Click the icon to open the **All Widgets** sidebar panel.
 
 ![The Settings (Gear) Icon used to customize the dashboard widgets](/guide/public/images/getting-started/dasboard/all-widget.webp)
 
