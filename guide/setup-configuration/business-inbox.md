@@ -1,13 +1,14 @@
-# Create Business Inbox Initially
+# Business Inbox Initially
 
+A **Business Inbox** in FluentSupport acts as a dedicated communication channel for a specific brand, department, or website. It serves as a central hub that captures incoming inquiries—whether via web forms or email piping—and converts them into organized support tickets.
 
----
+By using Business Inboxes, you can manage multiple brands or departments from a single WordPress dashboard while keeping their data and workflows entirely separate. This allows you to assign specific agents to certain inboxes, use unique email addresses for different services (like `sales@` vs `support@`), and ensure customers receive replies from the correct brand identity.
 
-**“Business Inboxes”** is an amazing feature of Fluent Support, which manages support tickets from multiple businesses and their accounts according to your preferences. This article helps you learn how to create the initial Business Inbox right after installing and activating the Fluent Support plugin.
+Ultimately, it streamlines ticket routing, enhances team focus, and provides a professional, segmented support experience as your business scales.
 
-## How To Create A New Business Inbox 
+## Creating A Business Inbox 
 
-**Initially** , there is **No** **Need** to create a separate **Business** **Inbox** manually. A [**Web-based** **Business Inbox**](/guide/setup-configuration/web-based-settings-in-business-inbox) is created automatically when you frist provide all the necessary information to set up your support portal under the **Onboarding Dashboard** section.
+Initially , there is **No Need** to create a separate **Business Inbox** manually. A [**Web-based Business Inbox**](/guide/setup-configuration/web-based-settings-in-business-inbox) is created automatically when you frist provide all the necessary information to set up your support portal under the **Onboarding Dashboard** section.
 
 This setup typically happens during the initial configuration of the plugin.
 
