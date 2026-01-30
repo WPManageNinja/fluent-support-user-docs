@@ -1,8 +1,8 @@
 # Business Inbox Initially
 
-A **Business Inbox** in FluentSupport acts as a dedicated communication channel for a specific brand, department, or website. It serves as a central hub that captures incoming inquiries—whether via web forms or email piping—and converts them into organized support tickets.
+A **Business Inbox** in Fluent Support acts as a dedicated communication channel for a specific brand, department, or website. It serves as a central hub that captures incoming inquiries via web forms or email piping and converts them into organized support tickets.
 
-By using Business Inboxes, you can manage multiple brands or departments from a single WordPress dashboard while keeping their data and workflows entirely separate. This allows you to assign specific agents to certain inboxes, use unique email addresses for different services (like `sales@` vs `support@`), and ensure customers receive replies from the correct brand identity.
+By using Business Inboxes, you can manage multiple brands or departments from a single WordPress dashboard while keeping their data and workflows entirely separate. This allows you to assign specific agents to certain inboxes, use unique email addresses for different services (like `sales@` vs `support@`), and ensure customers receive replies from the correct identity.
 
 Ultimately, it streamlines ticket routing, enhances team focus, and provides a professional, segmented support experience as your business scales.
 
