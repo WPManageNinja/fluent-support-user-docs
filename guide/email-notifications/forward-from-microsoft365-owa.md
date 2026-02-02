@@ -1,13 +1,12 @@
 # Forwarding from Microsoft 365 / OWA
 
-This article will guide you through the steps required to forward email from **Outlook Web Access** on **Microsoft 365** (formerly known as **Office 365**), also known as **OWA** , to your **Mailbox** of Fluent Support.
+Integrating your **Microsoft 365 (Outlook Web Access)** email with **Fluent Support** allows you to automatically convert incoming emails into support tickets. This guide will walk you through the simple process of setting up email forwarding from **OWA** to your **Mailbox** of Fluent Support.
 
 
 ## Forward from Microsoft 365 Outlook Web Access (OWA)
 
-Before starting the procedure, ensure you have followed the first steps; setting up a new Business Inbox in Fluent Support and your Fluent Support Mailbox Address is ready. To know the details of setting up a Business Inbox, check this [Documentation](/guide/setup-configuration/adding-multiple-business-inboxes).
+Before starting the procedure, ensure you have followed the first steps; setting up a new Business Inbox in Fluent Support and your Fluent Support Mailbox Address is ready. To learn how to create a Business Inbox and retrieve your forwarding address, please check this [Documentation](/guide/setup-configuration/adding-multiple-business-inboxes).
 
-Now to learn how to set up auto-forwarding from Google Workspace to Fluent Support, follow the steps with the screenshots below —
 
 Log in to your **Microsoft 365 Outlook Web Access** by [clicking here](https://outlook.office365.com/). Then, click on the **Gear Icon** located in the top right corner, and a Settings pop-up will appear.
 
