@@ -4,8 +4,6 @@ Fluent Support provides a helpful feature called **My Tickets** where you can ea
 
 ## Agent Specific Tickets (My Tickets) 
 
-To learn where you can find this **My Tickets** feature, follow the steps with screenshots below —
-
 Go to your **Fluent Support Dashboard** & click on **Tickets**.
 
 ![Tickets from Fluent Support dashboard](/guide/public/images/ticket-management/daily-operations/agent-specific-tickets/my-tickets-1.webp)

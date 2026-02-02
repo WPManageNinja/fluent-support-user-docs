@@ -4,8 +4,6 @@ Fluent Support allows you to **Split** any reply into a new ticket i.e. if a cus
 
 ## Split Reply In New Tickets
 
-To learn how you can perform various **Bulk Actions** in **Fluent Support** , follow the steps with the screenshots below —
-
 First, go to your **Fluent Support** and click on **Tickets**.
 
 Now go to your desired ticket section from **All Tickets** , **My Tickets, Unassigned,** or **Bookmarks.**

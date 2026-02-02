@@ -4,8 +4,6 @@
 
 ## How to Add Internal Notes 
 
-To learn how to add the **Internal Notes** inside a specific ticket, follow the steps with the screenshots below —
-
 First, go to **Tickets** under **Fluent Support** **Dashboard** & **open your desired ticket** and this will take you to the **ticket entry page**.
 
 Now, click on the **Notes** button at the top and this will open a text editor where you can add the notes about your users for better ticket management.
