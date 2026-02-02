@@ -42,7 +42,7 @@ Now, give your bot “**Admin Acces** ” i.e., simply **make the bot admin** of
 
 ![Give Admin Access to Your created Bot.gif](https://github.com/ab-auth/fs-doc/blob/main/\(Telegram\)%20Give%20Admin%20Access%20to%20Your%20created%20Bot.gif?raw=true)
 
-After giving your Bot the **“Admin Access”** you can see the preview from **View group info** by clicking the three-dot from the right-side corner
+After giving your Bot the **“Admin Access”** you can see the preview from **View group info** by clicking the three-dot from the right-side corner.
 
 ![Admin Preview](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/admin-preview-1-1.webp)
 
@@ -62,9 +62,10 @@ Remember, the **Chat ID starts with a minus sign (-)** , and you would have to *
 
 ## Configure Telegram in Fluent Support
 
-From your **Fluent Support Dashboard** , go to **Global Settings** , and click the **Notification Integrations** from the left sidebar. This will open the **Telegram** **Integration Settings** tab**.
+From your **Fluent Support Dashboard**, navigate to **Settings** and select **Notification Integrations** from the left sidebar. Ensure the **Telegram** tab is active at the top of the page.
 
-Then, paste the**Bot Token** & **Group Chat ID** that you have copied before into the **Bot Token** & **Default Channel/Group Chat ID** field. Finally press the **Save Telegram Settings**.
+ * **Bot Token:** **Paste** the **Bot Token** you generated (via BotFather) into the **Bot Token** field.
+ * **Default Group Chat ID:** Enter the **Chat ID** for the group or channel where you want to receive notifications. 
 
 Remember, the **Chat ID starts** **with a minus sign (-)** , and you would **have to copy the code exactly provided** by the **GetIDs** **bot**.
 
@@ -90,7 +91,7 @@ To get the Telegram **user chat ID** , send a message to [**@GetIdsBot**](https:
 
 ![Get Telegram Chat ID from GetIDs Bot](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/get-telegram-chat-id-from-getids-1.webp)
 
-Now, go to **Support Staff** under the **Global Settings** from your Fluent Support Dashboard, and click on the **Pencil Icon** of your desired agent/s whom you want to give access to reply tickets directly from telegram.
+Now, go to **Support Staff** under the **Settings** from your Fluent Support Dashboard, and click on the **Pencil Icon** of your desired agent/s whom you want to give access to reply tickets directly from telegram.
 
 ![Support Staff from Global Settings](/guide/public/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/support-staff-from-globl-settings-1-scaled-1.webp)
 
