@@ -4,8 +4,6 @@ This article will guide you through the process required to **create a ticket** 
 
 ## How to Create Tickets on Behalf of the Customer
 
-To learn how to create tickets on behalf of the customer, follow the steps with the screenshots below —
-
 Go to your Fluent Support **Dashboard** & click on **Tickets.**
 
 ![Tickets from Fluent Support Dashboard](/guide/public/images/ticket-management/daily-operations/creating-ticket-on-behalf-of-customer/create-ticket-for-customers-1.webp)

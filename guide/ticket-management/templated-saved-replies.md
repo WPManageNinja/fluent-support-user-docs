@@ -4,8 +4,6 @@ This article will guide you through the process required to create the **Saved (
 
 ## Saved Replies 
 
-To create **Templated** replies using the **Saved Replies** feature, follow the steps with the screenshots below —
-
 First, go to the Fluent Support **Dashboard** & click on the **Saved Replies**.
 
 ![Saved Replies from Fluent Support Dashboard](/guide/public/images/ticket-management/daily-operations/templated-saved-replies/saved-reply-1.webp)
