@@ -6,7 +6,7 @@ This article will help you through the steps required to learn the whole process
 
 ## Set & Customize Your Email Notifications 
 
-From the Fluent Support **Dashboard** , go to **Business Inboxes** , select your desired business inbox, and click on the **View Settings** button.
+From the Fluent Support **Dashboard** , go to **Business Inboxes** , select your desired business inbox, and click on the **Setting Icon**.
 
 ![Open the settings of  the desired business inbox](/guide/public/images/email-notifications/managing-email-notifications/email-notification-1.webp)
 
