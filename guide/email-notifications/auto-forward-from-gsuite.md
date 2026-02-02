@@ -1,6 +1,7 @@
 # Auto-forward from Google Workspace
 
-This article will provide detailed guidelines on setting up automatic forwarding of all emails from a **Google Workspace** mailbox or **Gmail address** to Fluent Support. 
+
+Integrating your **Google Workspace (Gmail)** email with Fluent Support allows you to automatically convert incoming emails into support tickets. This guide will walk you through the simple process of setting up email forwarding from **Gmail** to your Fluent Support.
 
 ## Auto-Forward from Google Workspace to Fluent Support
 
