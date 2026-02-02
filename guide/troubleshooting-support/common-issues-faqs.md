@@ -11,7 +11,7 @@ Fluent Support is a comprehensive WordPress support ticket system that helps you
 ### Requirements 
 
 Fluent Support requires:
-- WordPress 5.0 or higher
+- WordPress 5.6 or higher
 - PHP 7.4 or higher
 - MySQL 5.6 or higher
 
@@ -25,13 +25,7 @@ Fluent Support requires:
 
 2. **Plugin Conflicts:** Deactivate other plugins temporarily to check for conflicts. Reactivate them one by one to identify the conflicting plugin.
 
-3. **Memory Limit:** Increase your PHP memory limit by adding this to your `wp-config.php`:
-   
-   ```php
-   define('WP_MEMORY_LIMIT', '256M');
-   ```
-
-4. **File Permissions:** Ensure WordPress has proper file permissions to install plugins.
+3. **File Permissions:** Ensure WordPress has proper file permissions to install plugins.
 
 ### Plugin installation fails
 
@@ -49,7 +43,7 @@ Fluent Support requires:
 
 1. **Check Email Settings:** Go to **Settings → Global Settings → Email Settings** and verify your email configuration.
 
-2. **Test Email Functionality:** Use a plugin like "WP Mail SMTP" to test if WordPress can send emails.
+2. **Test Email Functionality:** Use a plugin like "FluentSMTP" to test if WordPress can send emails.
 
 3. **Check Spam Folder:** Sometimes emails end up in spam. Ask recipients to check their spam folders.
 
@@ -59,10 +53,14 @@ Fluent Support requires:
 
 ### Email piping is not working
 
-- Verify your email forwarding rules are set up correctly
-- Check that your email server supports piping
-- Ensure the piping script is accessible and has proper permissions
-- Review your email provider's documentation for specific requirements
+If your email piping is configured correctly but tickets aren't appearing, the issue is likely due to a connection being blocked. Here is a summary of the most common causes:
+
+* **Disabled REST-API:** FluentSupport relies on the WordPress REST-API to receive data. If this is disabled, email parsing will fail.
+* **Cloudflare Bot Fight Mode:** This security feature can misidentify parsed emails as bot traffic and block them. Try disabling it to restore the connection.
+* **Security Plugins:** Some WordPress security plugins block third-party connections. Check your plugin settings to ensure they aren't interfering with the parser.
+* **Server-Side Security:** Your hosting provider may have firewalls or IMAP restrictions that prevent third-party parsing for security reasons.
+
+**Recommendation:** If you have checked your API and plugins and the issue persists, contact your hosting provider to see if their server security is blocking the incoming data.
 
 ## Ticket Management Issues
 
@@ -141,6 +139,3 @@ If you've tried the solutions above and still need assistance:
 
  * **Check Documentation:** Review other documentation articles for detailed guides.
  * **Contact Support:** Reach out to our support team through your [support portal](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/).
-
-
-
