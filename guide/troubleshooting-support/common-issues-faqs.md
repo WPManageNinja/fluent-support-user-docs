@@ -126,12 +126,6 @@ If your email piping is configured correctly but tickets aren't appearing, the i
 2. **User Roles:** Ensure users have the correct WordPress user roles
 3. **Business Inbox Access:** Verify agents have access to the correct business inboxes
 
-### Customers cannot access the portal
-
-- Check "**Who can access customer portal?**" settings
-- Verify user roles are allowed
-- Ensure the portal page is published and accessible
-- Check if any security plugins are blocking access
 
 ## Still Need Help?
 
