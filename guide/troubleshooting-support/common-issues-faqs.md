@@ -4,22 +4,19 @@ This article addresses common issues and frequently asked questions about **[Flu
 
 ## General Questions
 
-### What is Fluent Support?
+* **What is Fluent Support?:** Fluent Support is a comprehensive WordPress support ticket system that helps you manage customer support requests efficiently. It allows you to create tickets, manage conversations, track agent performance, and integrate with various WordPress plugins and ssservices.
 
-Fluent Support is a comprehensive WordPress support ticket system that helps you manage customer support requests efficiently. It allows you to create tickets, manage conversations, track agent performance, and integrate with various WordPress plugins and ssservices.
-
-### Requirements 
-
-Fluent Support requires:
-- WordPress 5.6 or higher
-- PHP 7.4 or higher
-- MySQL 5.6 or higher
+* **System Requirements:** To run Fluent Support smoothly, your server must meet the following requirements:
+   
+   - **WordPress:** Version 5.6 or higher
+   - **PHP:** Version 7.4 or higher
+   - **MySQL:** Version 5.6 or higher
 
 ## Installation & Activation Issues
 
 ### The plugin won't activate
 
-**Possible causes and solutions:**
+If the plugin fails to activate, consider the following causes:
 
 1. **PHP Version:** Ensure your server is running PHP 7.4 or higher. Check your PHP version in your hosting control panel.
 
@@ -32,7 +29,7 @@ Fluent Support requires:
 - Check your WordPress file permissions
 - Verify you have sufficient disk space
 - Ensure your hosting provider allows plugin installations
-- Try downloading and uploading the plugin manually via FTP
+- Try downloading the plugin file and uploading it manually via **FTP/SFTP**.
 
 
 ## Email & Notification Issues
@@ -49,7 +46,6 @@ Fluent Support requires:
 
 4. **SMTP Configuration:** If using SMTP, verify your SMTP credentials are correct.
 
-5. **Email Piping:** If using email piping, ensure your email forwarding is properly configured.
 
 ### Email piping is not working
 
@@ -128,7 +124,7 @@ If your email piping is configured correctly but tickets aren't appearing, the i
 
 ### Customers cannot access the portal
 
-- Check "**Who can access customer portal?**" settings
+- Check "**Who can access customer portal?**" settings in **GLobal Settings**
 - Verify user roles are allowed
 - Ensure the portal page is published and accessible
 - Check if any security plugins are blocking access
