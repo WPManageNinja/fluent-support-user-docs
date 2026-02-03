@@ -29,7 +29,7 @@ If the plugin fails to activate, consider the following causes:
 - Check your WordPress file permissions
 - Verify you have sufficient disk space
 - Ensure your hosting provider allows plugin installations
-- Try downloading the plugin file and uploading it manually via **FTP/SFTP**.
+- Try downloading the plugin file and uploading it manually via **FTP**.
 
 
 ## Email & Notification Issues
