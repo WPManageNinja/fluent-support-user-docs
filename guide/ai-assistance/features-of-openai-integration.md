@@ -83,8 +83,6 @@ A brief explanation of all the AI options mentioned above is given below:
 
 ## Check Your All AI Activities #
 
-To check your all AI-related activities in one place, follow the steps with screenshots below –
-
 First, go to the Activities section from the **Fluent Support Dashboard,** click on the **AI Activities** tab, and you will get all the available options to manage your activities. 
 
 ![AI-Activities-tab-from-Activities-section-of-Fluent-Support-Dashboard](/guide/public/images/ai-assistance/features-of-openai-integration/ai-features-5.webp)
