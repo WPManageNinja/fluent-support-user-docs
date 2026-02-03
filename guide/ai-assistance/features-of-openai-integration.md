@@ -106,7 +106,3 @@ First, go to the Activities section from the **Fluent Support Dashboard,** click
   * **Prompt** : Here, you can see what prompts you used in your tickets.
 
   6. With this **Pagination** option, you can set how many ticket activities you want to display per page.
-
-
----
-
