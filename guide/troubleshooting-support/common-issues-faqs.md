@@ -124,7 +124,7 @@ If your email piping is configured correctly but tickets aren't appearing, the i
 
 ### Customers cannot access the portal
 
-- Check "**Who can access customer portal?**" settings in **GLobal Settings**
+- Check "**Who can access customer portal?**" settings in **Global Settings**
 - Verify user roles are allowed
 - Ensure the portal page is published and accessible
 - Check if any security plugins are blocking access
