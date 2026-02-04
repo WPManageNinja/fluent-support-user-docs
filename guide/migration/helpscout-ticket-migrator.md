@@ -34,11 +34,7 @@ Once your app is created in Help Scout, you will be provided with an **App ID** 
 
 Return to the **Help Scout** popup page from the **Fluent Support Dashboard** and paste the **App ID** & **App Secret** copied from your Help Scout account into the desired field.
 
-![Import tickets from HelpScout popup in Fluent Support dashboard](/guide/public/images/migration/helpscout-ticket-migrator/paste-app-id-app-secret-scaled-1.webp)
-
 To obtain the Authorization Code, click the **Get Authorized** button now.
-
-![ Get Authorized option](/guide/public/images/migration/helpscout-ticket-migrator/get-authorized-button-scaled-1.webp)
 
 This action will redirect you to **Help Scout** to authorize access. Click **Authorize** when prompted.
 
@@ -52,7 +48,6 @@ You will receive your Authorization code here, now simply **copy** it.
 
 Return to the **Help Scout** popup page again and **paste** this in the **Authorization Code** field.
 
-![Authorization Code field](/guide/public/images/migration/helpscout-ticket-migrator/paste-the-authorization-code-scaled-1.webp)
 
 Click the **Request Token** to get your **Access Token**. After requesting the token, a Choose **Mailbox** dropdown will appear. Select the specific Help Scout mailbox you wish to import tickets from.
 
@@ -61,8 +56,6 @@ You can choose only one **Mailbox** at a time, and without selecting the specifi
 ![Request Token option](/guide/public/images/migration/helpscout-ticket-migrator/request-ticket-button-choose-mailbox-scaled-1.webp)
 
 Once you have selected the mailbox, click the **Import Tickets** button to begin the process.
-
-![Finally Import Tickets ](/guide/public/images/migration/helpscout-ticket-migrator/finally-import-tickets-button-scaled-1.webp)
 
 Congratulations, you are now ready to proceed! The importation of tickets will begin, and a notification will be sent once all your tickets have been successfully imported.
 
