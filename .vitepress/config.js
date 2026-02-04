@@ -100,6 +100,7 @@ export default defineConfig({
               { text: 'Internal Notes', link: '/guide/ticket-management/internal-notes' },
               { text: 'Custom Tags', link: '/guide/ticket-management/ticket-tags' },
               { text: 'My Tickets', link: '/guide/ticket-management/agent-specific-tickets' },
+              { text: 'Ticket Display Settings', link: '/guide/ticket-management/ticket-display-settings' },
             ]
           },
           {
