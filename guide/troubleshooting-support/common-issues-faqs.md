@@ -6,7 +6,7 @@ This article addresses common issues and frequently asked questions about **[Flu
 
 ### What is Fluent Support?
 
-Fluent Support is a comprehensive WordPress support ticket system that helps you manage customer support requests efficiently. It allows you to create tickets, manage conversations, track agent performance, and integrate with various WordPress plugins and services.
+Fluent Support is a comprehensive WordPress support ticket system that helps you manage customer support requests efficiently. It allows you to create tickets, manage conversations, track agent performance, and integrate with various WordPress plugins and ssservices.
 
 ### Requirements 
 
