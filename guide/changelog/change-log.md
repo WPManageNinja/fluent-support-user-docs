@@ -2,6 +2,46 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.0.0
+
+*Released on February 05, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Complete admin interface redesign with a modern layout
+• Full RTL (Right-to-Left) language support across the interface
+• Revamped menu structure with dropdowns for better organization
+• Responsive hamburger menus for Main Menu, Settings, and Reports
+• Drag & Drop Image Upload for tickets
+• Ticket List Display Settings: manage layout and element visibility directly from the Display Settings icon
+• Compact Ticket List Layout for faster scanning and higher information density
+• Keyboard Shortcuts: Enable via Plugin Settings → Global Settings → Enable Keyboard Shortcuts. Click "Keyboard Shortcuts" to view all available commands
+• Added Reports Stats API for product/business-specific insights
+```
+
+```markdown [🚀 Improvements]
+• Fully mobile-responsive experience across all modules
+• Improved Frontend Support Portal responsiveness and theme compatibility
+• Refactored Customer Portal SCSS variables for easier dark mode implementation
+• Updated core PHP framework; resolved PHP 8.4 compatibility issues
+• Improved input sanitization and validation
+• Migrated components to Options API and refactored Vue components for better performance
+• Prevented unnecessary API calls in Reports module
+• Separated personal reports from agent performance reports
+• Selected date range persists when switching report tabs
+```
+
+```markdown [🐞 Bug fixes]
+• Resolved issue where pressing Enter caused page reload instead of submitting forms
+• Fixed Block Editor styles not applying correctly on Customer Portal
+• Fixed WordPress 6.9 admin text editor toolbar compatibility issues
+• Fixed database table error when Activity Log feature was disabled
+• Fixed auto password generation issue for new users with empty password fields
+```
+
+:::
+
 ## Fluent Support v1.10.5
 
 *Released on November 28, 2025*
