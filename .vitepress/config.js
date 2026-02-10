@@ -19,7 +19,13 @@ export default defineConfig({
       light: '/images/brand/fluentsupport_primary_logo.png',
       dark: '/images/brand/fluentsupport_secondary_logo.png'
     },
-    
+
+    // Edit link configuration
+    editLink: {
+      pattern: 'https://github.com/WPManageNinja/fluent-support-user-docs/edit/master/:path',
+      text: 'Edit this page on GitHub'
+    },
+
     nav: [
       { text: 'User Docs', link: '/guide/getting-started/how-to-install-activate-fluent-support' },
       { text: 'Dev Docs', link: 'https://developers.fluentsupport.com/' },
@@ -293,6 +299,7 @@ export default defineConfig({
 
   // Build configuration
   srcDir: './',
+  srcExclude: ['README.md', 'LICENSE', 'CONTRIBUTING.md', '.github/**'],
   outDir: './.vitepress/dist',
   cacheDir: './.vitepress/cache',
 

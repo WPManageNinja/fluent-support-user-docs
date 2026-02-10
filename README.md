@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="guide/public/images/brand/fluentsupport_primary_logo.png" alt="Fluent Support Logo" width="400">
+  <img src="https://raw.githubusercontent.com/WPManageNinja/fluent-support-user-docs/master/guide/public/images/brand/fluentsupport_primary_logo.png" alt="Fluent Support Logo" width="400">
 
   # Fluent Support Documentation
 
