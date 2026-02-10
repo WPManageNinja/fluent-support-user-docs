@@ -2,6 +2,41 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.0.2
+
+*Released on February 09, 2026*
+
+::: code-group
+
+```markdown [🐞 Bug fixes]
+• Fixed an issue where current ticket watchers were not displaying in the ticket list
+• Fixed an issue where ticket merging could fail from the ticket view page
+• Fixed an issue where reCAPTCHA settings were not saving properly
+• Fixed a responsiveness issue with the bulk actions bar in the ticket list
+• Fixed issues related to ticket migration
+• Fixed a customer profile update issue by treating customer IP fields as strings
+• Fixed a styling issue with the Ticket Merge dialog buttons
+```
+
+:::
+
+## Fluent Support v2.0.1
+
+*Released on February 06, 2026*
+
+::: code-group
+
+```markdown [🚀 Improvements]
+• Improved onboarding completion UI and post-onboarding navigation
+• Improved sanitization and validation handling
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed Saved Replies modal showing stale content when editing
+```
+
+:::
+
 ## Fluent Support v2.0.0
 
 *Released on February 05, 2026*
