@@ -5,7 +5,7 @@ export default defineConfig({
   description: 'Complete documentation for Fluent Support - WordPress Support Ticket System',
   
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/guide/public/images/brand/fluentsupport_primary_icon.png' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/images/brand/fluentsupport_primary_icon.png' }],
     ['meta', { name: 'theme-color', content: '#15BE7C' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:locale', content: 'en' }],
@@ -16,8 +16,8 @@ export default defineConfig({
   themeConfig: {
     siteTitle: false,
     logo: {
-      light: '/guide/public/images/brand/fluentsupport_primary_logo.png',
-      dark: '/guide/public/images/brand/fluentsupport_secondary_logo.png'
+      light: '/images/brand/fluentsupport_primary_logo.png',
+      dark: '/images/brand/fluentsupport_secondary_logo.png'
     },
     
     nav: [
