@@ -81,6 +81,37 @@
 }
 
 /* ============================================
+   Hero Section - Center Aligned
+   ============================================ */
+.VPHomeHero .container {
+  text-align: center;
+}
+.VPHomeHero .main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.VPHomeHero .heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.VPHomeHero .name,
+.VPHomeHero .text {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.VPHomeHero .tagline {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.VPHomeHero .actions {
+  justify-content: center;
+}
+
+/* ============================================
    Hero Section - Fluent Support Text Color
    ============================================ */
 .VPHomeHero .name {
@@ -726,4 +757,26 @@ html:not(.dark) .result .titles span {
 
 .dark .pager-link[data-v-af19f31a]:hover {
   border-color: #15BE7C !important;
+}
+
+/* ============================================
+   Mobile responsive
+   ============================================ */
+@media (max-width: 480px) {
+  .VPHomeHero .actions {
+    gap: 8px;
+  }
+  .VPHomeHero .VPButton {
+    min-height: 44px;
+    padding: 10px 20px;
+  }
+}
+
+/* Ensure code blocks and tables scroll on small screens */
+.VPContent .content pre,
+.VPContent .content div[class*='language-'],
+.VPContent .content table {
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }

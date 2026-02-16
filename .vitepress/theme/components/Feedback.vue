@@ -157,16 +157,22 @@ const submitMessage = async () => {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .btn {
-  padding: 6px 16px;
+  padding: 10px 16px;
+  min-height: 44px;
   border: 1px solid var(--vp-c-divider);
   background-color: var(--vp-c-bg);
   border-radius: 6px;
   cursor: pointer;
   font-weight: 500;
   transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
 }
 
 .btn:hover { background-color: var(--vp-c-bg-mute); transform: translateY(-1px); }
@@ -180,8 +186,20 @@ const submitMessage = async () => {
 
 .text-btn { color: var(--vp-c-text-2); }
 
-.comment-area { margin-top: 15px; display: flex; flex-direction: column; gap: 10px; max-width: 450px;}
-.comment-area textarea { min-width: 450px;}
+.comment-area {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  max-width: 450px;
+  box-sizing: border-box;
+}
+.comment-area textarea {
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+}
 
 .input-box {
   width: 100%;
