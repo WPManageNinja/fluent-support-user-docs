@@ -668,40 +668,46 @@ code {
   background-color: #15BE7C !important;
 }
 
-.search-bar[data-v-b0ca7c1a]:focus-within {
-  border-color: #15BE7E !important;
+/* ============================================
+   Local Search Modal - Brand Colors
+   Use stable class selectors (no data-v-* hash) so
+   styles apply in both dev and production builds.
+   ============================================ */
+.search-bar:focus-within {
+  border-color: #15BE7C !important;
 }
 
-.search-actions button[data-v-b0ca7c1a]:not([disabled]):hover, .toggle-layout-button.detailed-list[data-v-b0ca7c1a] {
-  color: #15be7c !important;
+.search-actions button:not([disabled]):hover,
+.toggle-layout-button.detailed-list {
+  color: #15BE7C !important;
 }
 
-.titles[data-v-b0ca7c1a] mark, .excerpt[data-v-b0ca7c1a] mark {
-    background-color: #15be7c !important;
+/* Keyword highlight in search results */
+.titles mark,
+.excerpt mark {
+  background-color: rgba(21, 190, 124, 0.35) !important;
+  color: inherit !important;
 }
 
-.result.selected[data-v-b0ca7c1a] {
-  border-color: #15be7c !important;
+/* Selected result border and text */
+.result.selected {
+  border-color: #15BE7C !important;
 }
-.result.selected .titles[data-v-b0ca7c1a], .result.selected .title-icon[data-v-b0ca7c1a] {
-  color: #15be7c !important;
+.result.selected .titles,
+.result.selected .title-icon {
+  color: #15BE7C !important;
 }
-
-
 
 /* ============================================
    Local Search Result Title Text Color
-   Light Mode → White
-   Dark Mode → Black
+   Light Mode → Black, Dark Mode → White
+   (scoped to .result so we don't affect doc content)
    ============================================ */
-
-/* Light mode */
-html:not(.dark) .titles[data-v-b0ca7c1a] span {
+html:not(.dark) .result .titles span {
   color: #000000 !important;
 }
 
-/* Dark mode */
-.dark .titles[data-v-b0ca7c1a] span {
+.dark .result .titles span {
   color: #ffffff !important;
 }
 
