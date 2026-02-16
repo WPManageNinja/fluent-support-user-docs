@@ -707,4 +707,17 @@ html:not(.dark) .titles[data-v-b0ca7c1a] span {
 
 .pager-link[data-v-1bcd8184]:hover {
   border-color: #15BE7C !important;
-} 
+}
+
+.dark .pager-link[data-v-1bcd8184]:hover {
+  border-color: #15BE7C !important;
+}
+
+
+.pager-link[data-v-af19f31a]:hover {
+  border-color: #15BE7C !important;
+}
+
+.dark .pager-link[data-v-af19f31a]:hover {
+  border-color: #15BE7C !important;
+}
