@@ -704,3 +704,7 @@ html:not(.dark) .titles[data-v-b0ca7c1a] span {
 .dark .titles[data-v-b0ca7c1a] span {
   color: #ffffff !important;
 }
+
+.pager-link[data-v-1bcd8184]:hover {
+  border-color: #15BE7C !important;
+} 
