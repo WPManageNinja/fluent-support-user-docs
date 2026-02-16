@@ -136,7 +136,7 @@ Additional information or context
 
 **Internal links** (within docs):
 ```markdown
-[Link text](/guide/category/page)
+[Link text](/docs/page-slug)
 ```
 
 **External links**:
@@ -154,7 +154,7 @@ Additional information or context
 - Use descriptive file names: `ticket-creation-form.png` not `img1.png`
 - Optimize images (keep file size under 500KB)
 - Use PNG for screenshots, SVG for diagrams
-- Place images in appropriate folders: `/guide/public/images/[category]/[feature]/`
+- Place images in appropriate folders: `docs/public/images/[category]/[feature]/`
 
 ### Content Organization
 
@@ -209,7 +209,7 @@ Common issues and solutions.
 4. Save with descriptive name
 5. Place in appropriate folder:
    ```
-   guide/public/images/[section]/[feature]/screenshot-name.png
+   docs/public/images/[section]/[feature]/screenshot-name.png
    ```
 
 ### Image Best Practices

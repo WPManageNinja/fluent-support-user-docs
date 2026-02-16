@@ -8,7 +8,7 @@ assignees: ''
 
 ## Page to Improve
 **Page URL or File Path:**
-<!-- e.g., https://fluentsupport.com/docs/guide/ticket-management/filters or guide/ticket-management/filters.md -->
+<!-- e.g., https://docs.fluentsupport.com/docs/filtering-sorting-searching-tickets or guide/ticket-management/filtering-sorting-searching-tickets.md -->
 
 ## Current State
 <!-- What does the documentation currently say? -->

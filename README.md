@@ -10,7 +10,7 @@
   [![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/fluent-support.svg)](https://wordpress.org/plugins/fluent-support/)
   [![WordPress Version](https://img.shields.io/wordpress/plugin/tested/fluent-support.svg)](https://wordpress.org/plugins/fluent-support/)
 
-  [Website](https://fluentsupport.com) • [Documentation](https://fluentsupport.com/docs/) • [Developer Docs](https://developers.fluentsupport.com/) • [WordPress.org](https://wordpress.org/plugins/fluent-support/)
+  [Website](https://fluentsupport.com) • [Documentation](https://docs.fluentsupport.com/) • [Developer Docs](https://developers.fluentsupport.com/) • [WordPress.org](https://wordpress.org/plugins/fluent-support/)
 </div>
 
 ---
@@ -198,7 +198,7 @@ Example: `docs: add guide for custom workflows`
 
 - **Product Website**: [fluentsupport.com](https://fluentsupport.com)
 - **WordPress Plugin**: [wordpress.org/plugins/fluent-support](https://wordpress.org/plugins/fluent-support/)
-- **User Documentation**: [fluentsupport.com/docs](https://fluentsupport.com/docs/)
+- **User Documentation**: [docs.fluentsupport.com](https://docs.fluentsupport.com/)
 - **Developer Documentation**: [developers.fluentsupport.com](https://developers.fluentsupport.com/)
 - **Support**: [fluentsupport.com/support](https://fluentsupport.com/support/)
 - **Community**: [Facebook Group](https://www.facebook.com/groups/fluentsupport/)

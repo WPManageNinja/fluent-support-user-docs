@@ -380,7 +380,31 @@ main a:hover,
 }
 
 /* ============================================
-   Active Navigation Items
+   Sidebar Links - Default state (normal color), green only on hover/active
+   ============================================ */
+.VPSidebar .link > .text,
+.VPSidebarItem .item .link > .text {
+  color: var(--vp-c-text-1) !important;
+  transition: color 0.2s ease;
+}
+
+.dark .VPSidebar .link > .text,
+.dark .VPSidebarItem .item .link > .text {
+  color: var(--vp-c-text-2) !important;
+}
+
+.VPSidebar .link:hover > .text,
+.VPSidebarItem .item .link:hover > .text {
+  color: #15BE7C !important;
+}
+
+.dark .VPSidebar .link:hover > .text,
+.dark .VPSidebarItem .item .link:hover > .text {
+  color: #15BE7C !important;
+}
+
+/* ============================================
+   Active Navigation Items (current page stays green)
    ============================================ */
 .VPSidebarItem.level-1.is-active > .item > .text {
   color: #15BE7C !important;
@@ -757,6 +781,29 @@ html:not(.dark) .result .titles span {
 
 .dark .pager-link[data-v-af19f31a]:hover {
   border-color: #15BE7C !important;
+}
+
+/* ============================================
+   Sidebar: green only on hover/active (override any .link .text green default)
+   ============================================ */
+.VPSidebar nav .VPSidebarItem .item .link > .text,
+.VPSidebar nav .VPSidebarItem .item .link .link-text-value {
+  color: var(--vp-c-text-1) !important;
+}
+
+.dark .VPSidebar nav .VPSidebarItem .item .link > .text,
+.dark .VPSidebar nav .VPSidebarItem .item .link .link-text-value {
+  color: var(--vp-c-text-2) !important;
+}
+
+.VPSidebar nav .VPSidebarItem .item .link:hover > .text,
+.VPSidebar nav .VPSidebarItem .item .link:hover .link-text-value {
+  color: #15BE7C !important;
+}
+
+.VPSidebar nav .VPSidebarItem.is-active .item .link > .text,
+.VPSidebar nav .VPSidebarItem.is-active .item .link .link-text-value {
+  color: #15BE7C !important;
 }
 
 /* ============================================
