@@ -582,7 +582,33 @@ code {
 /* ============================================
    Link Text - Custom Color
    ============================================ */
-/* .link > .text[data-v-64d7ab74] {
+.link > .text[data-v-64d7ab74] {
+  color: #15BE7C !important;
+}
+
+.link > .text[data-v-64d7ab74]:hover {
+  color: #2FD896 !important;
+}
+
+.link-text-value[data-v-14af4935] {
+  color: #15BE7C !important;
+}
+
+.link-text-value[data-v-14af4935]:hover {
+  color: #2FD896 !important;
+}
+
+.dark .link-text-value[data-v-14af4935] {
+  color: #15BE7C !important;
+}
+
+.dark .link-text-value[data-v-14af4935]:hover {
+  color: #2FD896 !important;
+}
+/* ============================================
+   Link Text - Custom Color
+   ============================================ */
+.link > .text[data-v-64d7ab74] {
   color: #15BE7C !important;
 }
 
@@ -596,7 +622,18 @@ code {
 
 .dark .link > .text[data-v-64d7ab74]:hover {
   color: #2FD896 !important;
-} */
+} 
+
+.link-text-value[data-v-bd37d1a2] { 
+  color: #15BE7C !important;
+}
+
+.link-text-value[data-v-bd37d1a2]:hover {
+  color: #2FD896 !important;
+}
+
+
+
 
 /* ============================================
    Title Color Override
