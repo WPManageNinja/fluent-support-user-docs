@@ -37,7 +37,7 @@ features:
   - icon: 📧
     title: Email Management
     details: Set up email notifications, piping, and forwarding for seamless communication
-    link: /docs/managing-email-notifications
+    link: /docs/customize-email-notifications
     linkText: Configure
   - icon: 🔄
     title: Workflow & Automation

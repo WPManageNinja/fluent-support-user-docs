@@ -8,7 +8,7 @@ Ultimately, it streamlines ticket routing, enhances team focus, and provides a p
 
 ## Creating A Business Inbox 
 
-Initially , there is **No Need** to create a separate **Business Inbox** manually. A [**Web-based Business Inbox**](/docs/web-based-settings-in-business-inbox) is created automatically when you frist provide all the necessary information to set up your support portal under the **Onboarding Dashboard** section.
+Initially , there is **No Need** to create a separate **Business Inbox** manually. A [**Web-based Business Inbox**](/docs/web-based_settings_in_business_inbox) is created automatically when you frist provide all the necessary information to set up your support portal under the **Onboarding Dashboard** section.
 
 This setup typically happens during the initial configuration of the plugin.
 
@@ -42,6 +42,6 @@ Once set up, you can view your Customer Support Portal on the page you selected.
 
 ### Customize Your Support Portal
 
-If you want to customize the design of your **Support Portal** for your customer, you can do this easily by adding the Fluent Support (Customer Portal) [Gutenberg Block](/docs/add-and-customize-customer-portal-using-gutenberg-block) to your page or post.
+If you want to customize the design of your **Support Portal** for your customer, you can do this easily by adding the Fluent Support (Customer Portal) [Gutenberg Block](/docs/customize-your-customer-portal) to your page or post.
 
 

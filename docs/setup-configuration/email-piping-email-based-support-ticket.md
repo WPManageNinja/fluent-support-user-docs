@@ -30,8 +30,8 @@ To show you the process, we have listed a few examples below –
 
 ### Forward or redirect from an Email Provider
 
-  * [Google Workspace (formerly known as G Suite)](/docs/auto-forward-from-gsuite)
-  * [Office 365 Outlook Web Access (OWA)](/docs/forward-from-microsoft365-owa)
+  * [Google Workspace (formerly known as G Suite)](/docs/auto-forward-from-google-workspace-to-fluent-support)
+  * [Office 365 Outlook Web Access (OWA)](/docs/forward-from-microsoft-365-outlook-web-access-owa)
   * [Amazon WorkMail](https://docs.aws.amazon.com/workmail/latest/userguide/email-rules.html)
   * [Zoho Mail](https://www.zoho.com/mail/help/email-forwarding.html)
   * [Yahoo Mail](https://help.yahoo.com/kb/new-mail-for-desktop/enable-automatic-email-forwarding-yahoo-mail-sln29133.html)

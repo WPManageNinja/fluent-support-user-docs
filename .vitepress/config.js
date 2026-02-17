@@ -49,10 +49,10 @@ export default defineConfig({
             items: [
               { text: 'Business Inbox', link: '/docs/business-inbox' },
               { text: 'Adding Business Inboxes', link: '/docs/adding-multiple-business-inboxes' },
-              { text: 'Web Only Settings', link: '/docs/web-based-settings-in-business-inbox' },
+              { text: 'Web Only Settings', link: '/docs/web-based_settings_in_business_inbox' },
               { text: 'Web & Email Settings', link: '/docs/web-and-email-settings-in-business-inbox' },
               { text: 'Email Piping Setup', link: '/docs/email-piping-email-based-support-ticket' },
-              { text: 'Products for Categories', link: '/docs/creating-products-to-categorize-tickets' },
+              { text: 'Products for Categories', link: '/docs/creating-ticket-categories-products' },
             ]
           },
           {
@@ -60,7 +60,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Add Support Agents', link: '/docs/adding-support-staff-agents' },
-              { text: 'Agent Permissions', link: '/docs/permission-management-for-agent' },
+              { text: 'Agent Permissions', link: '/docs/permission-management-for-agents' },
             ]
           },
           {
@@ -69,7 +69,7 @@ export default defineConfig({
             items: [
               { text: 'Portal Settings', link: '/docs/customer-support-portal-setup' },
               { text: 'Portal Dashboard', link: '/docs/customer-support-portal-dashboard' },
-              { text: 'Gutenberg Blocks', link: '/docs/add-and-customize-customer-portal-using-gutenberg-block' },
+              { text: 'Gutenberg Blocks', link: '/docs/customize-your-customer-portal' },
             ]
           },
           {
@@ -79,9 +79,9 @@ export default defineConfig({
               { text: 'Customize Forms', link: '/docs/ticket-form-customization' },
               { text: 'Custom Fields', link: '/docs/conditional-custom-fields' },
               { text: 'File Attachments', link: '/docs/attachment-regulation' },
-              { text: 'Additional Attachment Types', link: '/docs/add-more-attachment-type' },
+              { text: 'Additional Attachment Types', link: '/docs/add-more-attachments-type' },
               { text: 'File Upload Services', link: '/docs/file-upload-integrations' },
-              { text: 'Custom Submission Forms', link: '/docs/add-custom-ticket-submission-form' },
+              { text: 'Custom Submission Forms', link: '/docs/adding-custom-ticket-submission-form' },
             ]
           },
         ]
@@ -98,8 +98,8 @@ export default defineConfig({
               { text: 'Create for Customers', link: '/docs/creating-ticket-on-behalf-of-customer' },
               { text: 'Saved Replies', link: '/docs/templated-saved-replies' },
               { text: 'Internal Notes', link: '/docs/internal-notes' },
-              { text: 'Custom Tags', link: '/docs/ticket-tags' },
-              { text: 'My Tickets', link: '/docs/agent-specific-tickets' },
+              { text: 'Custom Tags', link: '/docs/ticket-tags-custom-tags' },
+              { text: 'My Tickets', link: '/docs/agent-specific-tickets-my-tickets' },
               { text: 'Ticket Display Settings', link: '/docs/ticket-display-settings' },
             ]
           },
@@ -119,7 +119,7 @@ export default defineConfig({
               { text: 'Bulk Actions', link: '/docs/bulk-action-in-tickets' },
               { text: 'Merge Tickets', link: '/docs/merge-tickets' },
               { text: 'Split Replies', link: '/docs/split-reply-in-new-tickets' },
-              { text: 'Bookmark Tickets', link: '/docs/bookmark-tickets' },
+              { text: 'Bookmark Tickets', link: '/docs/bookmarks' },
               { text: 'Agent Time Tracking', link: '/docs/agent-time-tracking' },
               { text: 'Keyboard Shortcuts', link: '/docs/navigate-with-keyboard-shortcut' },
               { text: 'Frontend Agent Portal', link: '/docs/forntend-agent-portal' },
@@ -141,10 +141,10 @@ export default defineConfig({
         text: 'Email & Notifications',
         collapsed: true,
         items: [
-          { text: 'Email Notifications', link: '/docs/managing-email-notifications' },
-          { text: 'Google Workspace Forward', link: '/docs/auto-forward-from-gsuite' },
-          { text: 'Microsoft 365 Forward', link: '/docs/forward-from-microsoft365-owa' },
-          { text: 'Lambda Service', link: '/docs/changing-amazon-lambda-settings' },
+          { text: 'Email Notifications', link: '/docs/customize-email-notifications' },
+          { text: 'Google Workspace Forward', link: '/docs/auto-forward-from-google-workspace-to-fluent-support' },
+          { text: 'Microsoft 365 Forward', link: '/docs/forward-from-microsoft-365-outlook-web-access-owa' },
+          { text: 'Lambda Service', link: '/docs/change-amazon-lambda-cloud-processing-service-for-email-piping' },
         ]
       },
       {
@@ -189,7 +189,7 @@ export default defineConfig({
               { text: 'Slack', link: '/docs/managing-tickets-using-slack' },
               { text: 'Telegram', link: '/docs/managing-tickets-using-telegram' },
               { text: 'Discord', link: '/docs/managing-tickets-using-discord' },
-              { text: 'WhatsApp', link: '/docs/managing-tickets-using-whatsapp' },
+              { text: 'WhatsApp', link: '/docs/whatsapp-integration-via-twilio' },
             ]
           },
           {
@@ -240,7 +240,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'OpenAI Setup', link: '/docs/openai-integration-with-fluent-support' },
-          { text: 'OpenAI Features', link: '/docs/features-of-openai-integration' },
+          { text: 'OpenAI Features', link: '/docs/features-of-openai-integration-in-fluent-support' },
         ]
       },
       {

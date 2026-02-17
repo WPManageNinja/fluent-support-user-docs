@@ -37,7 +37,7 @@ Finally, you will get the OpenAI API key, click the **Copy** button and you will
 Now, go back to **OpenAI Integration** , paste the **API key** you copied under the **Access code** , click the **Verify OpenAI** button and your OpenAI will be integrated.
 
 :::tip
-To learn how you can use this integrated OpenAI inside a specific Ticket of Fluent Support, read this [Documentation](/docs/features-of-openai-integration).
+To learn how you can use this integrated OpenAI inside a specific Ticket of Fluent Support, read this [Documentation](/docs/features-of-openai-integration-in-fluent-support).
 :::
 
 ![OpenAI API Key is connected](/images/ai-assistance/openai-integration-with-fluent-support/openai-api-key-is-connected-2.webp)

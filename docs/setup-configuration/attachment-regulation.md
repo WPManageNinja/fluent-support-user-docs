@@ -25,7 +25,7 @@ You also have the option to control the size and number of files a user can uplo
   * **Max File Size (in MegaByte):** Define the maximum size limit for a single file (e.g., 2 MB).
   * **Maximum File Upload:** Set the maximum number of files that can be attached to a single ticket or reply (e.g., 3 files).
 
-If you want you can add more **Attachment Types** using **Shortcode** if needed. To learn how to add Attachment Types, check this [Documentation](/docs/add-more-attachment-type).
+If you want you can add more **Attachment Types** using **Shortcode** if needed. To learn how to add Attachment Types, check this [Documentation](/docs/add-more-attachments-type).
 
 ![Global Settings from Fluent Support Dashboard](/images/setup-configuration/ticket-forms-fields/attachment-regulation/dashboard-global-settings-2-scaled-1.webp)
 
