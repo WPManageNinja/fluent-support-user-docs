@@ -4,7 +4,7 @@ Fluent Support allows you to **Merge** multiple tickets into a single ticket fro
 
 ## Merge Tickets
 
-Remember, only those with [**permission**](/docs/permission-management-for-agents) can merge tickets. Also, once you merge all tickets, you can’t **Unmerge** them.
+Remember, only those with [**permission**](/permission-management-for-agents) can merge tickets. Also, once you merge all tickets, you can’t **Unmerge** them.
 
 First, go to your **Fluent Support** and click on **Tickets.**
 

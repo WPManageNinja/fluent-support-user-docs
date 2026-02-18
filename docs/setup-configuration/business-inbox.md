@@ -8,7 +8,7 @@ Ultimately, it streamlines ticket routing, enhances team focus, and provides a p
 
 ## Creating A Business Inbox 
 
-Initially , there is **No Need** to create a separate **Business Inbox** manually. A [**Web-based Business Inbox**](/docs/web-based_settings_in_business_inbox) is created automatically when you frist provide all the necessary information to set up your support portal under the **Onboarding Dashboard** section.
+Initially , there is **No Need** to create a separate **Business Inbox** manually. A [**Web-based Business Inbox**](/web-based_settings_in_business_inbox) is created automatically when you frist provide all the necessary information to set up your support portal under the **Onboarding Dashboard** section.
 
 This setup typically happens during the initial configuration of the plugin.
 
@@ -20,7 +20,7 @@ When you first install Fluent Support, the **Onboarding Wizard** guides you thro
  * **Portal Page:** You will select or create a page for your support portal.
  * **Completion:** Once you click **Finish** and complete the wizard, your **Web-based Business** Inbox is automatically generated using the details you provided.
 
-For a detailed guide on this process, please refer to the [Fluent Support Onboarding](/docs/fluent-support-onboarding).
+For a detailed guide on this process, please refer to the [Fluent Support Onboarding](/fluent-support-onboarding).
 
 ## Portal Configuration via Global Settings
 
@@ -30,7 +30,7 @@ If you skipped the wizard or need to reconfigure the initial setup, you can ensu
  2. **Portal Page:** Select the page where you want your support portal to appear, or use the shortcode `[fluent_support_portal]` on a new page.
  3. **Save Settings:** Once you save these global settings, the system ensures your primary Web-based inbox is active and connected to this portal page.
 
-For more details on configuring these options, please check the [Setup Customer Support Portal With Global Settings](/docs/customer-support-portal-setup) documentation.
+For more details on configuring these options, please check the [Setup Customer Support Portal With Global Settings](/customer-support-portal-setup) documentation.
 
 ![Fluent Support Business Inbox](/images/setup-configuration/business-inboxes/create-business-inbox/setup-support-portal-page.webp)
 
@@ -42,6 +42,6 @@ Once set up, you can view your Customer Support Portal on the page you selected.
 
 ### Customize Your Support Portal
 
-If you want to customize the design of your **Support Portal** for your customer, you can do this easily by adding the Fluent Support (Customer Portal) [Gutenberg Block](/docs/customize-your-customer-portal) to your page or post.
+If you want to customize the design of your **Support Portal** for your customer, you can do this easily by adding the Fluent Support (Customer Portal) [Gutenberg Block](/customize-your-customer-portal) to your page or post.
 
 

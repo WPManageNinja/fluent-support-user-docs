@@ -6,7 +6,7 @@ This article will guide you through the process required to **add a custom ticke
 
 **Fluent Forms** will allow you to customize the form according to your requirements. With Fluent Forms, you can easily add a personalized ticket submission form to your Fluent Support Customer Portal, complete with a unique layout, fields, and design.
 
-To **learn** how to add a custom ticket form by **integrating Fluent Forms** , check this [Documentation](/docs/fluent-form-integration).
+To **learn** how to add a custom ticket form by **integrating Fluent Forms** , check this [Documentation](/fluent-form-integration).
 
 Here is an example of a **Ticket** **Form** created using the **Fluent Forms** plugin
 

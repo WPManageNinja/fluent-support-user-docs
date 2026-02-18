@@ -12,7 +12,7 @@ Right now, the **Dynamic dashboard** has **three functionalities** and these are
 
 ### Drag & Drop 
 
-With the Drag & Drop feature, all the widget sections of the [General Dashboard](/docs/dashboard-overview) can be moved according to your requirements. You can simply click and hold a widget header, then drag it to your desired position within the grid layout.
+With the Drag & Drop feature, all the widget sections of the [General Dashboard](/dashboard-overview) can be moved according to your requirements. You can simply click and hold a widget header, then drag it to your desired position within the grid layout.
 
 ![Drag & Drop option for the General Dashboard](/images/reports-analytics/dynamic-dashboard/drag-drop.gif)
 
@@ -34,4 +34,4 @@ You will also find the **Reset** button right next to the **Settings** icon. Thi
 
 ![Reset option for undo all changes of your Dashboard](/images/reports-analytics/dynamic-dashboard/reset-2-1.gif)
 
-This is how simple it is to customize your dashboard dynamically! You can also check out, our [Dashboard Overview](/docs/dashboard-overview).
+This is how simple it is to customize your dashboard dynamically! You can also check out, our [Dashboard Overview](/dashboard-overview).

@@ -4,7 +4,7 @@ Fluent Support integrates OpenAI, making it easier for users to generate ticket 
 
 ## Integrate OpenAI with Fluent Support 
 
-Before starting the process, ensure you **install** and **activate** the Fluent Support Plugin’s latest versions (both Free and Pro) on your WordPress site. To learn how to install & activate Fluent Support , [click here](/docs/how-to-install-activate-fluent-support), and for Fluent Support Pro , [click here](/docs/upgrade-to-fluent-support-pro-add-on).
+Before starting the process, ensure you **install** and **activate** the Fluent Support Plugin’s latest versions (both Free and Pro) on your WordPress site. To learn how to install & activate Fluent Support , [click here](/how-to-install-activate-fluent-support), and for Fluent Support Pro , [click here](/upgrade-to-fluent-support-pro-add-on).
 
 ### Enable OpenAI Integrations 
 
@@ -37,7 +37,7 @@ Finally, you will get the OpenAI API key, click the **Copy** button and you will
 Now, go back to **OpenAI Integration** , paste the **API key** you copied under the **Access code** , click the **Verify OpenAI** button and your OpenAI will be integrated.
 
 :::tip
-To learn how you can use this integrated OpenAI inside a specific Ticket of Fluent Support, read this [Documentation](/docs/features-of-openai-integration-in-fluent-support).
+To learn how you can use this integrated OpenAI inside a specific Ticket of Fluent Support, read this [Documentation](/features-of-openai-integration-in-fluent-support).
 :::
 
 ![OpenAI API Key is connected](/images/ai-assistance/openai-integration-with-fluent-support/openai-api-key-is-connected-2.webp)

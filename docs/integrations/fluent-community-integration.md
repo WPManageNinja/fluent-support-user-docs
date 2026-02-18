@@ -65,7 +65,7 @@ You can add conditional logic by using: **\+ OR** (for alternative conditions) o
 
 Once all complete, save the workflow. Don’t forget to enable the Status draft to published.
 
-For additional details regarding workflow functionalities, please refer to this [article](/docs/workflows-automations).
+For additional details regarding workflow functionalities, please refer to this [article](/workflows-automations).
 
 ![](/images/integrations-channels/core-integrations/fluent-community-integration/workflows-6-scaled-1.webp)
 

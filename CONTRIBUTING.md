@@ -136,7 +136,7 @@ Additional information or context
 
 **Internal links** (within docs):
 ```markdown
-[Link text](/docs/page-slug)
+[Link text](/page-slug)
 ```
 
 **External links**:

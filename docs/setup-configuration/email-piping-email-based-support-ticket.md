@@ -4,7 +4,7 @@ You must set up **Email Piping** first to use the **Business Inboxes** for **Ema
 
 ## Email Piping Settings
 
-To set up **Email Piping** , you must create a **Business Inbox** with an **Email-Based** support channel. And, to learn how to create this, read this [Documentation](/docs/web-and-email-settings-in-business-inbox).
+To set up **Email Piping** , you must create a **Business Inbox** with an **Email-Based** support channel. And, to learn how to create this, read this [Documentation](/web-and-email-settings-in-business-inbox).
 
 Go to **View Settings** from your desired email-based business inbox and click **Email Piping**.
 
@@ -12,7 +12,7 @@ Go to **View Settings** from your desired email-based business inbox and click *
 
 >Read the **terms and conditions** before you agree to it and click the **Get Piping Email Details**.
 
-To get the **email piping details** , ensure your **fluent support license key** is **active** as **Email Piping** is a **Pro Feature** of **Fluent Support**. To learn how to get the license key and activate it, read this [Documentation](/docs/upgrade-to-fluent-support-pro-add-on).
+To get the **email piping details** , ensure your **fluent support license key** is **active** as **Email Piping** is a **Pro Feature** of **Fluent Support**. To learn how to get the license key and activate it, read this [Documentation](/upgrade-to-fluent-support-pro-add-on).
 
 ![Get piping email details](/images/setup-configuration/business-inboxes/email-piping-email-based-support-ticket/get-email-piping-details-2.webp)
 
@@ -30,8 +30,8 @@ To show you the process, we have listed a few examples below –
 
 ### Forward or redirect from an Email Provider
 
-  * [Google Workspace (formerly known as G Suite)](/docs/auto-forward-from-google-workspace-to-fluent-support)
-  * [Office 365 Outlook Web Access (OWA)](/docs/forward-from-microsoft-365-outlook-web-access-owa)
+  * [Google Workspace (formerly known as G Suite)](/auto-forward-from-google-workspace-to-fluent-support)
+  * [Office 365 Outlook Web Access (OWA)](/forward-from-microsoft-365-outlook-web-access-owa)
   * [Amazon WorkMail](https://docs.aws.amazon.com/workmail/latest/userguide/email-rules.html)
   * [Zoho Mail](https://www.zoho.com/mail/help/email-forwarding.html)
   * [Yahoo Mail](https://help.yahoo.com/kb/new-mail-for-desktop/enable-automatic-email-forwarding-yahoo-mail-sln29133.html)

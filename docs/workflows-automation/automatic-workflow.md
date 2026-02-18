@@ -1,6 +1,6 @@
 # Automatic Workflow
 
-A **Workflow/Automation** is a sequence of tasks that can be done [**Manually**](/docs/manual-workflow) or **Automatically** using certain triggers and conditions to avoid performing the same actions repeatedly. 
+A **Workflow/Automation** is a sequence of tasks that can be done [**Manually**](/manual-workflow) or **Automatically** using certain triggers and conditions to avoid performing the same actions repeatedly. 
 
 This article will guide you through the process required to learn how to create  the **Automatic Workflow** in Fluent Support.
 

@@ -6,7 +6,7 @@ The features of [OpenAI](https://openai.com/) allow users to generate ticket res
 
 Within a specific ticket, you will find three key features of OpenAI designed to simplify ticket responses. 
 
-Before starting the process, ensure you integrate your OpenAI account with your Fluent Support plugin in your WordPress Site. To learn how you can integrate the OpenAI with Fluent Support, read this [Documentation](/docs/openai-integration-with-fluent-support). 
+Before starting the process, ensure you integrate your OpenAI account with your Fluent Support plugin in your WordPress Site. To learn how you can integrate the OpenAI with Fluent Support, read this [Documentation](/openai-integration-with-fluent-support). 
 
 First, go to **Tickets** from the **Fleunt Support Dashboard,** open your **desired** ticket, and you will get all your AI features. These are:
 

@@ -2,7 +2,7 @@
 
 Fluent Support allows you to set specific permissions for **Agents** , similar to user role management. Based on your permission, the agent can view or access specific features or settings of the plugin. This article will explain the roles or permissions of agents to help you choose what permissions you should set for your support agents.
 
-If you don’t have any agents, you can [**Add Support Staff** /**Agents**](/docs/adding-support-staff-agents) anytime.
+If you don’t have any agents, you can [**Add Support Staff** /**Agents**](/adding-support-staff-agents) anytime.
 
 ## Permissions For Agents/Staff 
 

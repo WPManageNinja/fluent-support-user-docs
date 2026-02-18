@@ -11,7 +11,7 @@ A clear and concise description of what the issue is.
 
 ## Location
 **Page URL or File Path:**
-<!-- e.g., https://docs.fluentsupport.com/docs/how-to-install-activate-fluent-support or guide/getting-started/how-to-install-activate-fluent-support.md -->
+<!-- e.g., https://docs.fluentsupport.com/how-to-install-activate-fluent-support or guide/getting-started/how-to-install-activate-fluent-support.md -->
 
 ## What's Wrong?
 <!-- Describe the problem with the documentation -->

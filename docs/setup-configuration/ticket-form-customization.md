@@ -37,7 +37,7 @@ To learn how to configure these settings, follow the detailed steps below.
 Enable this setting so that your customers receive instant solution suggestions from related posts, docs, or products on your website when they type a subject.
 
   * **Enable knowledge base suggestion:** Check this box to activate the feature.
-  * **Knowledge Base Post Types:** Select the source of your articles (e.g., post, attachment, product). You can choose various options like **Post** , **Attachment** , **Product** , **[Docs](/docs/betterdocs-integration)** , etc. based on your website content as suggestions.
+  * **Knowledge Base Post Types:** Select the source of your articles (e.g., post, attachment, product). You can choose various options like **Post** , **Attachment** , **Product** , **[Docs](/betterdocs-integration)** , etc. based on your website content as suggestions.
   * **Suggested Articles Limit:** Define how many suggestions should appear (e.g., 5).
 
 ![Knowledge-base suggestions related setting](/images/setup-configuration/ticket-forms-fields/ticket-form-customization/knowledge-base-suggestion-1.webp)

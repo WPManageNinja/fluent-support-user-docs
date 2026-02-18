@@ -37,7 +37,7 @@ Once you are done, click on **Create Ticket** to add the ticket on behalf of the
   * **Selected Contact Details:** Here, you will find the name & email of the customer on whose behalf you opened this ticket.
   * **Select Business Inbox:** Here, you can select Business Inbox from the dropdown to specify the mailbox where this ticket should open.
   * **Subject:** You can add the subject to your ticket here.
-  * **Ticket Details:** Here, you can add appropriate ticket details using this **Text** editor. And, to know the details about the **Templates** setting located in the left corner under Ticket Details, [click here](/docs/templated-saved-replies).
+  * **Ticket Details:** Here, you can add appropriate ticket details using this **Text** editor. And, to know the details about the **Templates** setting located in the left corner under Ticket Details, [click here](/templated-saved-replies).
   * **Add Attchments:** Using this setting, you can attach files with your ticket which can be Photos, CSV, PDF/Docs, Zip, and JSON.
   * **Related Product/Service:** Here, you can select your relevant Product Name, for example. Fluent Support, Fluent CRM, and so on.
   * **Priority:** Also, you can choose the ticket’s priority level; there are three priority levels; **Normal, Medium** & **Critical.**

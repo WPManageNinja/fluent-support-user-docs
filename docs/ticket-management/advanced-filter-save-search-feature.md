@@ -8,7 +8,7 @@ In this article, we’ll guide you through the simple steps to save your advance
 
 First, go to Fluent Support and click on **Tickets** in the navbar to view all your tickets. Next, enable the **Advanced Filter** option by toggling it on.
 
-Create your advanced search using the available conditions and options. To learn more about the Advanced Filter options, check out this [article](/docs/advanced-filter-fluent-support).
+Create your advanced search using the available conditions and options. To learn more about the Advanced Filter options, check out this [article](/advanced-filter-fluent-support).
 
 Once you’re done, click the **Save Search** button to save the filter for future use.
 

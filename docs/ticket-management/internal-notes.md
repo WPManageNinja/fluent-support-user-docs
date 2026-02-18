@@ -15,7 +15,7 @@ Or, upload an external file using the **Browse Files** button.
 
 You can ask **AI** for your internal note suggestions. Simply click on the AI button and AI will give you the internal note suggestion. 
 
-You can also use templated replies by clicking on the **Templates** button. It allows you to search for a saved reply using the search box. Use the dropdown at the top to **filter** the replies based on the products. To know more,[click here](/docs/templated-saved-replies).
+You can also use templated replies by clicking on the **Templates** button. It allows you to search for a saved reply using the search box. Use the dropdown at the top to **filter** the replies based on the products. To know more,[click here](/templated-saved-replies).
 
 ![Add Media to you internal notes](/images/ticket-management/daily-operations/internal-notes/ticket-notes-2.webp)
 

@@ -10,7 +10,7 @@ Go to your **Fluent Support Dashboard** & click on **Tickets**.
 
 Now, click on **My Tickets** and you will see a list of tickets that are assigned only for you.
 
-You can also **Filter, Sort, and Search** all your tickets if needed. **My Tickets** work the same as **All Tickets**. To learn more about how this works, read this [Documentation](/docs/filtering-sorting-searching-tickets).
+You can also **Filter, Sort, and Search** all your tickets if needed. **My Tickets** work the same as **All Tickets**. To learn more about how this works, read this [Documentation](/filtering-sorting-searching-tickets).
 
 ![All agent specific tickets](/images/ticket-management/daily-operations/agent-specific-tickets/my-tickets-2.webp)
 

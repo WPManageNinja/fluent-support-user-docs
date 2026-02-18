@@ -5,7 +5,7 @@ Integrating your **Microsoft 365 (Outlook Web Access)** email with **Fluent Supp
 
 ## Forward from Microsoft 365 Outlook Web Access (OWA)
 
-Before starting the procedure, ensure you have followed the first steps; setting up a new Business Inbox in Fluent Support and your Fluent Support Mailbox Address is ready. To learn how to create a Business Inbox and retrieve your forwarding address, please check this [Documentation](/docs/adding-multiple-business-inboxes).
+Before starting the procedure, ensure you have followed the first steps; setting up a new Business Inbox in Fluent Support and your Fluent Support Mailbox Address is ready. To learn how to create a Business Inbox and retrieve your forwarding address, please check this [Documentation](/adding-multiple-business-inboxes).
 
 
 Log in to your **Microsoft 365 Outlook Web Access** by [clicking here](https://outlook.office365.com/). Then, click on the **Gear Icon** located in the top right corner, and a Settings pop-up will appear.
@@ -16,7 +16,7 @@ From the **Mailbox Settings** of your **Outlook** mailbox, select **Mail** , the
 
 ![Enabling Forwarding](/images/email-notifications/forward-from-microsoft365-owa/email-forwarding-enable.webp)
 
-Now, paste the **Mailbox Email Address** you got from the [Email Piping](/docs/email-piping-email-based-support-ticket) settings of **Fluent Support** into the ‘Forward my email to’ field.
+Now, paste the **Mailbox Email Address** you got from the [Email Piping](/email-piping-email-based-support-ticket) settings of **Fluent Support** into the ‘Forward my email to’ field.
 Also, we recommend enabling the **Keep a copy of forwarded messages** option.  
 
 Don’t forget to press the **Save** button once you’re done.

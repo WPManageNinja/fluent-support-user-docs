@@ -2,7 +2,7 @@
 
 Fluent Support allows its **Agents** to view the **Front End** of the entire **Support Portal** ( i.e., you want your Agents to have access to see only the **Front End** of the **Support Portal** , not the **Back End** ). This article will guide you through the process of doing it.
 
-To view the **Front End Agent Portal** , you must have the **Fluent Support Pro Add-on** installed and activated on your **WordPress** site. To learn how to install and activate the Fluent Support Pro Add-on, [**click here**](/docs/upgrade-to-fluent-support-pro-add-on).
+To view the **Front End Agent Portal** , you must have the **Fluent Support Pro Add-on** installed and activated on your **WordPress** site. To learn how to install and activate the Fluent Support Pro Add-on, [**click here**](/upgrade-to-fluent-support-pro-add-on).
 
 ## Front End Agent Portal 
 

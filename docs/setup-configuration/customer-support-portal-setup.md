@@ -41,7 +41,7 @@ In this option, you can customize certain texts for the users who have not logge
   * You will see a default message **(Please login or create an account to access the Customer Support Portal)** has been added which you can edit anytime according to your need.
   * Also, you can use different **Shortcodes** provided below to show different **Forms**.
 
-To know the details of these below-mentioned **Shortcodes,** check this **[Documentation](/docs/shortcodes).**
+To know the details of these below-mentioned **Shortcodes,** check this **[Documentation](/shortcodes).**
 
 ![Message for non-logged-in users](/images/setup-configuration/customer-portal/customer-support-portal-setup/message-for-non-logged-users-1.webp)
 
@@ -55,7 +55,7 @@ Enabling ‘**Disable Public Ticket Interaction’** allows only logged-in users
 
 Fluent Support accepts photos, CSV, PDF/Docs, Zip, and JSON files. You can also set the maximum file size and number of files to upload.
 
-To learn the details about file **Attachment Regulations** , read this **[Documentation](/docs/attachment-regulation)**.
+To learn the details about file **Attachment Regulations** , read this **[Documentation](/attachment-regulation)**.
 
 ![Accepted File Types](/images/setup-configuration/customer-portal/customer-support-portal-setup/accepeted-file-type.webp)
 

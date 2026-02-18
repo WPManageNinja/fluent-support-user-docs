@@ -23,8 +23,8 @@ To begin the process, Identify the platform you wish to migrate from. Click the 
 
 To learn the specific configuration steps for these platforms, please check the detailed guides below:—
 
-  1. [Help Scout Ticket Migration](/docs/helpscout-ticket-migrator)
-  2. [Freshdesk (Freshworks) Ticket Migrator](/docs/freshdesk-ticket-migrator)
-  3. [Zendesk Ticket Migrator](/docs/zendesk-ticket-migrator)
+  1. [Help Scout Ticket Migration](/helpscout-ticket-migrator)
+  2. [Freshdesk (Freshworks) Ticket Migrator](/freshdesk-ticket-migrator)
+  3. [Zendesk Ticket Migrator](/zendesk-ticket-migrator)
 
 

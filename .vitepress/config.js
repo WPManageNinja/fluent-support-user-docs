@@ -21,9 +21,9 @@ export default defineConfig({
     },
 
     nav: [
-      { text: 'User Docs', link: '/docs/how-to-install-activate-fluent-support' },
+      { text: 'User Docs', link: '/how-to-install-activate-fluent-support' },
       { text: 'Dev Docs', link: 'https://developers.fluentsupport.com/' },
-      { text: 'Changelog', link: '/docs/change-log' },
+      { text: 'Changelog', link: '/change-log' },
       { text: 'Website', link: 'https://fluentsupport.com/' },
     ],
 
@@ -32,11 +32,11 @@ export default defineConfig({
         text: 'Getting Started',
         collapsed: false,
         items: [
-          { text: 'Install Fluent Support', link: '/docs/how-to-install-activate-fluent-support' },
-          { text: 'Install Fluent Support Pro', link: '/docs/upgrade-to-fluent-support-pro-add-on' },
-          { text: 'Fluent Support Onboarding', link: '/docs/fluent-support-onboarding' },
-          { text: 'Fluent Support Glossary', link: '/docs/fluent-support-glossary' },
-          { text: 'Dasboard Overview', link: '/docs/dashboard-overview' },
+          { text: 'Install Fluent Support', link: '/how-to-install-activate-fluent-support' },
+          { text: 'Install Fluent Support Pro', link: '/upgrade-to-fluent-support-pro-add-on' },
+          { text: 'Fluent Support Onboarding', link: '/fluent-support-onboarding' },
+          { text: 'Fluent Support Glossary', link: '/fluent-support-glossary' },
+          { text: 'Dasboard Overview', link: '/dashboard-overview' },
         ]
       },
       {
@@ -47,41 +47,41 @@ export default defineConfig({
             text: 'Business Inboxes',
             collapsed: true,
             items: [
-              { text: 'Business Inbox', link: '/docs/business-inbox' },
-              { text: 'Adding Business Inboxes', link: '/docs/adding-multiple-business-inboxes' },
-              { text: 'Web Only Settings', link: '/docs/web-based_settings_in_business_inbox' },
-              { text: 'Web & Email Settings', link: '/docs/web-and-email-settings-in-business-inbox' },
-              { text: 'Email Piping Setup', link: '/docs/email-piping-email-based-support-ticket' },
-              { text: 'Products for Categories', link: '/docs/creating-ticket-categories-products' },
+              { text: 'Business Inbox', link: '/business-inbox' },
+              { text: 'Adding Business Inboxes', link: '/adding-multiple-business-inboxes' },
+              { text: 'Web Only Settings', link: '/web-based_settings_in_business_inbox' },
+              { text: 'Web & Email Settings', link: '/web-and-email-settings-in-business-inbox' },
+              { text: 'Email Piping Setup', link: '/email-piping-email-based-support-ticket' },
+              { text: 'Products for Categories', link: '/creating-ticket-categories-products' },
             ]
           },
           {
             text: 'Agents & Permissions',
             collapsed: true,
             items: [
-              { text: 'Add Support Agents', link: '/docs/adding-support-staff-agents' },
-              { text: 'Agent Permissions', link: '/docs/permission-management-for-agents' },
+              { text: 'Add Support Agents', link: '/adding-support-staff-agents' },
+              { text: 'Agent Permissions', link: '/permission-management-for-agents' },
             ]
           },
           {
             text: 'Customer Portal',
             collapsed: true,
             items: [
-              { text: 'Portal Settings', link: '/docs/customer-support-portal-setup' },
-              { text: 'Portal Dashboard', link: '/docs/customer-support-portal-dashboard' },
-              { text: 'Gutenberg Blocks', link: '/docs/customize-your-customer-portal' },
+              { text: 'Portal Settings', link: '/customer-support-portal-setup' },
+              { text: 'Portal Dashboard', link: '/customer-support-portal-dashboard' },
+              { text: 'Gutenberg Blocks', link: '/customize-your-customer-portal' },
             ]
           },
           {
             text: 'Ticket Forms & Fields',
             collapsed: true,
             items: [
-              { text: 'Customize Forms', link: '/docs/ticket-form-customization' },
-              { text: 'Custom Fields', link: '/docs/conditional-custom-fields' },
-              { text: 'File Attachments', link: '/docs/attachment-regulation' },
-              { text: 'Additional Attachment Types', link: '/docs/add-more-attachments-type' },
-              { text: 'File Upload Services', link: '/docs/file-upload-integrations' },
-              { text: 'Custom Submission Forms', link: '/docs/adding-custom-ticket-submission-form' },
+              { text: 'Customize Forms', link: '/ticket-form-customization' },
+              { text: 'Custom Fields', link: '/conditional-custom-fields' },
+              { text: 'File Attachments', link: '/attachment-regulation' },
+              { text: 'Additional Attachment Types', link: '/add-more-attachments-type' },
+              { text: 'File Upload Services', link: '/file-upload-integrations' },
+              { text: 'Custom Submission Forms', link: '/adding-custom-ticket-submission-form' },
             ]
           },
         ]
@@ -94,45 +94,45 @@ export default defineConfig({
             text: 'Daily Operations',
             collapsed: true,
             items: [
-              { text: 'View & Manage Tickets', link: '/docs/view-manage-ticket-entries' },
-              { text: 'Create for Customers', link: '/docs/creating-ticket-on-behalf-of-customer' },
-              { text: 'Saved Replies', link: '/docs/templated-saved-replies' },
-              { text: 'Internal Notes', link: '/docs/internal-notes' },
-              { text: 'Custom Tags', link: '/docs/ticket-tags-custom-tags' },
-              { text: 'My Tickets', link: '/docs/agent-specific-tickets-my-tickets' },
-              { text: 'Ticket Display Settings', link: '/docs/ticket-display-settings' },
+              { text: 'View & Manage Tickets', link: '/view-manage-ticket-entries' },
+              { text: 'Create for Customers', link: '/creating-ticket-on-behalf-of-customer' },
+              { text: 'Saved Replies', link: '/templated-saved-replies' },
+              { text: 'Internal Notes', link: '/internal-notes' },
+              { text: 'Custom Tags', link: '/ticket-tags-custom-tags' },
+              { text: 'My Tickets', link: '/agent-specific-tickets-my-tickets' },
+              { text: 'Ticket Display Settings', link: '/ticket-display-settings' },
             ]
           },
           {
             text: 'Search & Filter',
             collapsed: true,
             items: [
-              { text: 'Filter, Sort & Search', link: '/docs/filtering-sorting-searching-tickets' },
-              { text: 'Advanced Filters', link: '/docs/advanced-filter-fluent-support' },
-              { text: 'Save Searches', link: '/docs/advanced-filter-save-search-feature' },
+              { text: 'Filter, Sort & Search', link: '/filtering-sorting-searching-tickets' },
+              { text: 'Advanced Filters', link: '/advanced-filter-fluent-support' },
+              { text: 'Save Searches', link: '/advanced-filter-save-search-feature' },
             ]
           },
           {
             text: 'Productivity Tools',
             collapsed: true,
             items: [
-              { text: 'Bulk Actions', link: '/docs/bulk-action-in-tickets' },
-              { text: 'Merge Tickets', link: '/docs/merge-tickets' },
-              { text: 'Split Replies', link: '/docs/split-reply-in-new-tickets' },
-              { text: 'Bookmark Tickets', link: '/docs/bookmarks' },
-              { text: 'Agent Time Tracking', link: '/docs/agent-time-tracking' },
-              { text: 'Keyboard Shortcuts', link: '/docs/navigate-with-keyboard-shortcut' },
-              { text: 'Frontend Agent Portal', link: '/docs/forntend-agent-portal' },
+              { text: 'Bulk Actions', link: '/bulk-action-in-tickets' },
+              { text: 'Merge Tickets', link: '/merge-tickets' },
+              { text: 'Split Replies', link: '/split-reply-in-new-tickets' },
+              { text: 'Bookmark Tickets', link: '/bookmarks' },
+              { text: 'Agent Time Tracking', link: '/agent-time-tracking' },
+              { text: 'Keyboard Shortcuts', link: '/navigate-with-keyboard-shortcut' },
+              { text: 'Frontend Agent Portal', link: '/forntend-agent-portal' },
             ]
           },
           {
             text: 'Automation in Tickets',
             collapsed: true,
             items: [
-              { text: 'Auto-Close Tickets', link: '/docs/automatic-ticket-closing' },
-              { text: 'Close Silently', link: '/docs/close-ticket-silently' },
-              { text: 'Outgoing Webhooks', link: '/docs/outgoing-webhook' },
-              { text: 'Shortcodes', link: '/docs/shortcodes' },
+              { text: 'Auto-Close Tickets', link: '/automatic-ticket-closing' },
+              { text: 'Close Silently', link: '/close-ticket-silently' },
+              { text: 'Outgoing Webhooks', link: '/outgoing-webhook' },
+              { text: 'Shortcodes', link: '/shortcodes' },
             ]
           },
         ]
@@ -141,19 +141,19 @@ export default defineConfig({
         text: 'Email & Notifications',
         collapsed: true,
         items: [
-          { text: 'Email Notifications', link: '/docs/customize-email-notifications' },
-          { text: 'Google Workspace Forward', link: '/docs/auto-forward-from-google-workspace-to-fluent-support' },
-          { text: 'Microsoft 365 Forward', link: '/docs/forward-from-microsoft-365-outlook-web-access-owa' },
-          { text: 'Lambda Service', link: '/docs/change-amazon-lambda-cloud-processing-service-for-email-piping' },
+          { text: 'Email Notifications', link: '/customize-email-notifications' },
+          { text: 'Google Workspace Forward', link: '/auto-forward-from-google-workspace-to-fluent-support' },
+          { text: 'Microsoft 365 Forward', link: '/forward-from-microsoft-365-outlook-web-access-owa' },
+          { text: 'Lambda Service', link: '/change-amazon-lambda-cloud-processing-service-for-email-piping' },
         ]
       },
       {
         text: 'Workflows & Automation',
         collapsed: true,
         items: [
-          { text: 'Workflows Overview', link: '/docs/workflows-automations' },
-          { text: 'Manual Workflows', link: '/docs/manual-workflow' },
-          { text: 'Automatic Workflows', link: '/docs/automatic-workflow' },
+          { text: 'Workflows Overview', link: '/workflows-automations' },
+          { text: 'Manual Workflows', link: '/manual-workflow' },
+          { text: 'Automatic Workflows', link: '/automatic-workflow' },
         ]
       },
       {
@@ -162,19 +162,19 @@ export default defineConfig({
         items: [
           {
             text: 'Reports & Statistics Overview',
-            link: '/docs/reports-and-stats',
+            link: '/reports-and-stats',
             collapsed: true,
             items: [
-              { text: 'Personal Reports', link: '/docs/personal-report' },
-              { text: 'Agents Reports', link: '/docs/agents-report' },
-              { text: 'Products Reports', link: '/docs/products-reports' },
-              { text: 'Business Boxes Reports', link: '/docs/business-boxes-reports' },
-              { text: 'Activity Reports', link: '/docs/activity-reports' },
-              { text: 'Time Sheet', link: '/docs/time-sheet' },
+              { text: 'Personal Reports', link: '/personal-report' },
+              { text: 'Agents Reports', link: '/agents-report' },
+              { text: 'Products Reports', link: '/products-reports' },
+              { text: 'Business Boxes Reports', link: '/business-boxes-reports' },
+              { text: 'Activity Reports', link: '/activity-reports' },
+              { text: 'Time Sheet', link: '/time-sheet' },
             ]
           },
-          { text: 'Overall Activities', link: '/docs/overall-activities' },
-          { text: 'Dynamic Dashboard', link: '/docs/dynamic-dashboard' },
+          { text: 'Overall Activities', link: '/overall-activities' },
+          { text: 'Dynamic Dashboard', link: '/dynamic-dashboard' },
 
         ]
       },
@@ -186,51 +186,51 @@ export default defineConfig({
             text: 'Messaging Apps',
             collapsed: true,
             items: [
-              { text: 'Slack', link: '/docs/managing-tickets-using-slack' },
-              { text: 'Telegram', link: '/docs/managing-tickets-using-telegram' },
-              { text: 'Discord', link: '/docs/managing-tickets-using-discord' },
-              { text: 'WhatsApp', link: '/docs/whatsapp-integration-via-twilio' },
+              { text: 'Slack', link: '/managing-tickets-using-slack' },
+              { text: 'Telegram', link: '/managing-tickets-using-telegram' },
+              { text: 'Discord', link: '/managing-tickets-using-discord' },
+              { text: 'WhatsApp', link: '/whatsapp-integration-via-twilio' },
             ]
           },
           {
             text: 'Core Integrations',
             collapsed: true,
             items: [
-              { text: 'FluentCRM', link: '/docs/fluentcrm-integration' },
-              { text: 'WooCommerce', link: '/docs/woocommerce-integration' },
-              { text: 'Easy Digital Downloads', link: '/docs/edd-integration' },
-              { text: 'Fluent Forms', link: '/docs/fluent-form-integration' },
-              { text: 'FluentBoards', link: '/docs/fluentboards-integrations' },
-              { text: 'FluentCart', link: '/docs/fluentcart-integration' },
-              { text: 'FluentCommunity', link: '/docs/fluent-community-integration' },
-              { text: 'SureTriggers', link: '/docs/suretriggers-integration' },
-              { text: 'Incoming Webhook', link: '/docs/incoming-webhook' },
-              { text: 'Integration Status', link: '/docs/integration_statuses' },
+              { text: 'FluentCRM', link: '/fluentcrm-integration' },
+              { text: 'WooCommerce', link: '/woocommerce-integration' },
+              { text: 'Easy Digital Downloads', link: '/edd-integration' },
+              { text: 'Fluent Forms', link: '/fluent-form-integration' },
+              { text: 'FluentBoards', link: '/fluentboards-integrations' },
+              { text: 'FluentCart', link: '/fluentcart-integration' },
+              { text: 'FluentCommunity', link: '/fluent-community-integration' },
+              { text: 'SureTriggers', link: '/suretriggers-integration' },
+              { text: 'Incoming Webhook', link: '/incoming-webhook' },
+              { text: 'Integration Status', link: '/integration_statuses' },
             ]
           },
           {
             text: 'Learning & Membership',
             collapsed: true,
             items: [
-              { text: 'LearnDash', link: '/docs/learndash-integration' },
-              { text: 'LifterLMS', link: '/docs/lifterlms-integration' },
-              { text: 'Tutor LMS', link: '/docs/tutorlms-integration' },
-              { text: 'LearnPress', link: '/docs/learnpress-integration' },
-              { text: 'BuddyBoss', link: '/docs/buddyboss-integration' },
-              { text: 'MemberPress', link: '/docs/memberpress-integration' },
-              { text: 'Paid Memberships Pro', link: '/docs/paid-membership-pro-integration' },
-              { text: 'Restrict Content Pro', link: '/docs/restrict-content-pro-integration' },
-              { text: 'WishList Member', link: '/docs/wishlist-member-integration' },
+              { text: 'LearnDash', link: '/learndash-integration' },
+              { text: 'LifterLMS', link: '/lifterlms-integration' },
+              { text: 'Tutor LMS', link: '/tutorlms-integration' },
+              { text: 'LearnPress', link: '/learnpress-integration' },
+              { text: 'BuddyBoss', link: '/buddyboss-integration' },
+              { text: 'MemberPress', link: '/memberpress-integration' },
+              { text: 'Paid Memberships Pro', link: '/paid-membership-pro-integration' },
+              { text: 'Restrict Content Pro', link: '/restrict-content-pro-integration' },
+              { text: 'WishList Member', link: '/wishlist-member-integration' },
             ]
           },
           {
             text: 'Other',
         collapsed: true,
         items: [
-              { text: 'BetterDocs', link: '/docs/betterdocs-integration' },
-              { text: 'Google reCAPTCHA', link: '/docs/google-recaptcha-integration' },
-              { text: 'Google Drive', link: '/docs/google-drive-integration' },
-              { text: 'Dropbox', link: '/docs/dropbox-integration' },
+              { text: 'BetterDocs', link: '/betterdocs-integration' },
+              { text: 'Google reCAPTCHA', link: '/google-recaptcha-integration' },
+              { text: 'Google Drive', link: '/google-drive-integration' },
+              { text: 'Dropbox', link: '/dropbox-integration' },
             ]
           },
         ]
@@ -239,33 +239,33 @@ export default defineConfig({
         text: 'AI Assistance',
         collapsed: true,
         items: [
-          { text: 'OpenAI Setup', link: '/docs/openai-integration-with-fluent-support' },
-          { text: 'OpenAI Features', link: '/docs/features-of-openai-integration-in-fluent-support' },
+          { text: 'OpenAI Setup', link: '/openai-integration-with-fluent-support' },
+          { text: 'OpenAI Features', link: '/features-of-openai-integration-in-fluent-support' },
         ]
       },
       {
         text: 'Migration',
         collapsed: true,
         items: [
-          { text: 'Ticket Importer', link: '/docs/ticket-importer' },
-          { text: 'HelpScout', link: '/docs/helpscout-ticket-migrator' },
-          { text: 'Freshdesk', link: '/docs/freshdesk-ticket-migrator' },
-          { text: 'Zendesk', link: '/docs/zendesk-ticket-migrator' },
+          { text: 'Ticket Importer', link: '/ticket-importer' },
+          { text: 'HelpScout', link: '/helpscout-ticket-migrator' },
+          { text: 'Freshdesk', link: '/freshdesk-ticket-migrator' },
+          { text: 'Zendesk', link: '/zendesk-ticket-migrator' },
         ]
       },
       {
         text: 'Troubleshooting & Support',
         collapsed: true,
         items: [
-          { text: 'Common Issues & FAQs', link: '/docs/common-issues-faqs' },
-          { text: 'How to Get Support', link: '/docs/how-to-get-support' },
+          { text: 'Common Issues & FAQs', link: '/common-issues-faqs' },
+          { text: 'How to Get Support', link: '/how-to-get-support' },
         ]
       },
       {
         text: 'Changelog',
         collapsed: true,
         items: [
-          { text: 'Change Log', link: '/docs/change-log' },
+          { text: 'Change Log', link: '/change-log' },
         ]
       },
     ],
@@ -310,9 +310,10 @@ export default defineConfig({
   // Clean URLs
   cleanUrls: true,
 
-  // Rewrites: hide section in URL so only slug shows (e.g. /docs/how-to-install-activate-fluent-support)
+  // Rewrites: hide folder structure so only slug shows (e.g. /how-to-install-activate-fluent-support)
   rewrites: {
-    'docs/:section/:slug': 'docs/:slug'
+    'docs/:slug': ':slug',
+    'docs/:section/:slug': ':slug'
   },
 
   // Sitemap

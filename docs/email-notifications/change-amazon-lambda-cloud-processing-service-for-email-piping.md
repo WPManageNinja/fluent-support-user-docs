@@ -1,6 +1,6 @@
 # Change Amazon Lambda Settings for Email Piping
 
-This article will help you through the steps required to change your default **Amazon Lambda Cloud Processing** service and implement another one for [Email Piping](/docs/email-piping-email-based-support-ticket) in Fluent Support.
+This article will help you through the steps required to change your default **Amazon Lambda Cloud Processing** service and implement another one for [Email Piping](/email-piping-email-based-support-ticket) in Fluent Support.
 
 ## How to Change the Amazon Lambda Cloud Processing Service
 

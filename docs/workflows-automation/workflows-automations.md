@@ -12,8 +12,8 @@ Now, a popup page will appear where you will get the options to choose the workf
 
 
 > [!NOTE]
- > **Manual Workflow** : To learn the details of creating a manual workflow, read this full [Documentation](/docs/manual-workflow).  
- > **Automatic Workflow** : To learn the details of creating an automatic workflow, read this full [Documentation](/docs/automatic-workflow).
+ > **Manual Workflow** : To learn the details of creating a manual workflow, read this full [Documentation](/manual-workflow).  
+ > **Automatic Workflow** : To learn the details of creating an automatic workflow, read this full [Documentation](/automatic-workflow).
 
 ![Popup page to create a workflow](/images/workflows-automation/workflows-automations/popup-page-to-create-a-workflow-2.webp)
 

@@ -3,7 +3,7 @@
 Upgrade your Fluent Support experience to the next level with the [Fluent Support PRO](https://fluentsupport.com/pricing/) , unlocking every plugin feature. This article will help you upgrade your **Fluent Support** easily to the **PRO Add-On** on your WordPress Website. Follow the guidelines accordingly for a successful upgrade.
 
 > [!NOTE]
-> Before installing **Fluent Support PRO** , make sure you have the [Free version](https://wordpress.org/plugins/fluent-support/) of [FluentSupport](https://fluentsupport.com/) installed on your site. To learn how to install and activate the free version of Fluent Support, check this [Documentation](/docs/how-to-install-activate-fluent-support).
+> Before installing **Fluent Support PRO** , make sure you have the [Free version](https://wordpress.org/plugins/fluent-support/) of [FluentSupport](https://fluentsupport.com/) installed on your site. To learn how to install and activate the free version of Fluent Support, check this [Documentation](/how-to-install-activate-fluent-support).
 
 ## Upgrade to Fluent Support Pro Add-on 
 

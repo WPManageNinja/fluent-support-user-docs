@@ -5,7 +5,7 @@ Integrating your **Google Workspace (Gmail)** email with Fluent Support allows y
 
 ## Auto-Forward from Google Workspace to Fluent Support
 
-Before starting the procedure, ensure you have followed the first steps; setting up a new Business Inbox in Fluent Support and your Fluent Support Mailbox Address is ready. To know the details of setting up a Business Inbox, check this [Documentation](/docs/adding-multiple-business-inboxes).
+Before starting the procedure, ensure you have followed the first steps; setting up a new Business Inbox in Fluent Support and your Fluent Support Mailbox Address is ready. To know the details of setting up a Business Inbox, check this [Documentation](/adding-multiple-business-inboxes).
 
 
 Go to your **Gmail Inbox** , click on the **Gear Icon** located in the top right corner, and click on the **See all settings** option from the drop-down menu.
@@ -20,7 +20,7 @@ Click on the **Add a forwarding address** button & a pop-up will appear asking f
 
 ![Enable Add a forwarding address](/images/email-notifications/auto-forward-from-gsuite/add-forwarding-address-1.webp)
 
-Now, paste the **Mailbox Email Address** you got from the [Email Piping](/docs/email-piping-email-based-support-ticket) settings of **Fluent Support**, and press the **Next** button.
+Now, paste the **Mailbox Email Address** you got from the [Email Piping](/email-piping-email-based-support-ticket) settings of **Fluent Support**, and press the **Next** button.
 
 ![Add the masked Email address](/images/email-notifications/auto-forward-from-gsuite/add-address-next-button-1.webp)
 

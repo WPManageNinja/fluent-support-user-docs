@@ -30,7 +30,7 @@ Here are some **Shortcodes** listed below that you can use for your **Fluent Sup
 To display only the built-in **Login Form** , use the following shortcode and the form will only apply to **non-logged-in users**. The **Username or Email Address** and **Password** options will appear in your Customer Portal for login like the screenshot below.
 
 :::info
-Remember , you can enable **[Two-Factor Authentication](/docs/customer-support-portal-setup#10-toc-title)** for the login form. This will require customers to enter a verification code sent to their email whenever they try to log in to the customer portal. To learn how you can enable Two-Factor Authentication, [**click here**](/docs/customer-support-portal-setup).
+Remember , you can enable **[Two-Factor Authentication](/customer-support-portal-setup#10-toc-title)** for the login form. This will require customers to enter a verification code sent to their email whenever they try to log in to the customer portal. To learn how you can enable Two-Factor Authentication, [**click here**](/customer-support-portal-setup).
 :::
 
 ```
@@ -92,7 +92,7 @@ To display the **Reset Password** **Form** only, use this **fluent_support_signu
 
 To manage multiple business inboxes with ease, you can easily generate a Support Portal for your specific Business Inbox by using this shortcode. This shortcode makes it easy to direct support tickets from any page to the right inbox and create a personalized support portal for your business needs. 
 
-To know more about how to use this shortcode follow this [documentation](/docs/business-inbox#0-toc-title).
+To know more about how to use this shortcode follow this [documentation](/business-inbox#0-toc-title).
 
 ```
     [fluent_support_portal show_logout = yes business_box_id=2]
