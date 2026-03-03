@@ -2,6 +2,36 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.0.5
+
+*Released on March 02, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Admin Dashboard Dark Mode
+• Support for OpenAI GPT-5.2 & GPT-5.2 Chat models
+• View Tickets (Read Only) permission
+```
+
+```markdown [🚀 Improvements]
+• Faster ticket list loading
+• Optimized large-scale Zendesk migration
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed Draft Reply permission issue
+• Fixed Attachment links during ticket merge
+• Fixed Ticket content unordered list formatting
+• Fixed Integration settings save button visibility
+• Fixed "Waiting Since" tooltip date display
+• Fixed Saved Replies left menu link
+• Fixed Login page styling issue
+• Fixed Date range picker responsive layout
+```
+
+:::
+
 ## Fluent Support v2.0.2
 
 *Released on February 09, 2026*
