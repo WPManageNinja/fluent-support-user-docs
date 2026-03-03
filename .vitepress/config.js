@@ -36,7 +36,7 @@ export default defineConfig({
           { text: 'Install Fluent Support Pro', link: '/upgrade-to-fluent-support-pro-add-on' },
           { text: 'Fluent Support Onboarding', link: '/fluent-support-onboarding' },
           { text: 'Fluent Support Glossary', link: '/fluent-support-glossary' },
-          { text: 'Dasboard Overview', link: '/dashboard-overview' },
+          { text: 'Dashboard Overview', link: '/dashboard-overview' },
         ]
       },
       {
@@ -313,7 +313,9 @@ export default defineConfig({
   // Rewrites: hide folder structure so only slug shows (e.g. /how-to-install-activate-fluent-support)
   rewrites: {
     'docs/:slug': ':slug',
-    'docs/:section/:slug': ':slug'
+    'docs/:section/:slug': ':slug',
+    // Map flat sidebar links to actual file paths under docs/
+    'dashboard-overview': 'docs/getting-started/dashboard-overview'
   },
 
   // Sitemap

@@ -84,3 +84,16 @@ This feature ensures that your dashboard remains clean and relevant to your spec
 > [!Note]
 > **Remember:** You can use the **Reset** button near the greeting to refresh your dashboard widgets and ensure you are seeing the most up-to-date data.
 
+## Admin Dashboard Theme (Dark Mode)
+
+Fluent Support now offers a built-in theme toggle, allowing you to switch between **Light** and **Dark** modes for a more comfortable viewing experience.
+
+To change your dashboard theme, go to **Theme Toggle** Icon (sliders) located in the top right corner of the screen, just to the left of the **Settings (Gear)** icon.
+
+Click the icon to open a dropdown menu with three appearance options:
+
+ * **Light:** Keeps the dashboard in the standard light mode.
+ * **Dark:** Switches the dashboard to a dark color scheme, which is easier on the eyes in low-light environments.
+ * **System:** Automatically matches the dashboard theme to your device's current operating system settings.
+
+![Admin Dashboard Theme](/images/getting-started/dasboard/admin-dashboard-theme.webp)

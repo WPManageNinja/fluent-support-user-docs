@@ -16,6 +16,7 @@ Once you are done, hit the **Update** button to save all changes.
 
 ![Permissions for Agents](/images/setup-configuration/agents-permissions/permission-management-for-agent/permissions-for-agents-1-1.webp)
 
+
 **A brief explanation of all the above-mentioned Permissions –**
 
 ### Tickets Permissions 
@@ -30,6 +31,7 @@ Once you are done, hit the **Update** button to save all changes.
   * **Split Tickets:** Gives the permission to split the tickets.
   * **Draft Reply:** Using this permission, agents can keep their replies as draft.
   * **Approved Draft Reply:** This permission allows agents to approve other agents’ draft replies.
+  * **View Tickets (Read Only):** This allows the agent to view the contents of tickets without having the ability to reply, edit, or modify them.
 
 ### Workflow Permissions 
 
