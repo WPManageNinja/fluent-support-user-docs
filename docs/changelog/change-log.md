@@ -2,6 +2,32 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.0.6
+
+*Released on March 05, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Zendesk migration improvement to collect archived tickets and resume previous migrations
+```
+
+```markdown [🚀 Improvements]
+• Updated Core PHP framework
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed Onboarding dark mode design issue
+• Fixed Bulk option checkbox now visible by default
+• Fixed Ticket list not updating after bulk actions
+• Fixed File upload limit validation issue after deleting previously uploaded files
+• Fixed WordPress admin bar overlapping Fluent Support menu
+• Fixed Agent reply count in reports incorrectly including internal notes
+• Fixed Error when navigating directly to a ticket URL due to window.history.state being null
+```
+
+:::
+
 ## Fluent Support v2.0.5
 
 *Released on March 02, 2026*
