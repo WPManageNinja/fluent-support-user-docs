@@ -61,6 +61,7 @@ export default defineConfig({
             items: [
               { text: 'Add Support Agents', link: '/adding-support-staff-agents' },
               { text: 'Agent Permissions', link: '/permission-management-for-agents' },
+              { text: 'Agent Groups', link: '/agent-group' },
             ]
           },
           {
