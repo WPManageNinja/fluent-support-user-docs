@@ -232,6 +232,7 @@ export default defineConfig({
               { text: 'Google reCAPTCHA', link: '/google-recaptcha-integration' },
               { text: 'Google Drive', link: '/google-drive-integration' },
               { text: 'Dropbox', link: '/dropbox-integration' },
+              { text: 'Cloudflare R2', link: '/cloudflare-integration' },
             ]
           },
         ]
@@ -316,7 +317,8 @@ export default defineConfig({
     'docs/:slug': ':slug',
     'docs/:section/:slug': ':slug',
     // Map flat sidebar links to actual file paths under docs/
-    'dashboard-overview': 'docs/getting-started/dashboard-overview'
+    'dashboard-overview': 'docs/getting-started/dashboard-overview',
+    'cloudflare-integration': 'docs/integrations/cloudflare'
   },
 
   // Sitemap
