@@ -233,6 +233,7 @@ export default defineConfig({
               { text: 'Google Drive', link: '/google-drive-integration' },
               { text: 'Dropbox', link: '/dropbox-integration' },
               { text: 'Cloudflare R2', link: '/cloudflare' },
+              { text: 'Amazon S3', link: '/amazon-s3' },
             ]
           },
         ]
