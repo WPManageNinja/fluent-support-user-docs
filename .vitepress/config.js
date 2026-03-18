@@ -232,7 +232,7 @@ export default defineConfig({
               { text: 'Google reCAPTCHA', link: '/google-recaptcha-integration' },
               { text: 'Google Drive', link: '/google-drive-integration' },
               { text: 'Dropbox', link: '/dropbox-integration' },
-              { text: 'Cloudflare R2', link: '/cloudflare-integration' },
+              { text: 'Cloudflare R2', link: '/cloudflare' },
             ]
           },
         ]
