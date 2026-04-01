@@ -1,4 +1,4 @@
-# Fluent Support - Site-to-Site Ticket Migration Guide
+# Fluent Support - Site-to-Site Migration Guide
 
 This comprehensive guide explains how to successfully migrate all your Fluent Support data—including tickets, conversations, customers, agents, attachments, and settings—from one WordPress website to another.
 
