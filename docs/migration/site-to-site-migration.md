@@ -4,7 +4,7 @@ This comprehensive guide explains how to successfully migrate all your Fluent Su
 
 Because there is no built-in, one-click tool for site-to-site transfers, this process involves direct database operations. Please follow these instructions carefully to ensure a smooth transition.
 
-## 1. What Gets Migrated?
+## What Gets Migrated?
 
 Fluent Support stores all its data in custom database tables prefixed with `fs_` and saves physical attachment files in your WordPress uploads directory. Here is exactly what will be transferred:
 
@@ -19,7 +19,7 @@ Fluent Support stores all its data in custom database tables prefixed with `fs_`
 * **Pro Features (If applicable):** Saved/canned replies (`fs_saved_replies`), Time tracking logs (`fs_time_tracks`), Workflows (`fs_workflows`), and Workflow individual actions (`fs_workflow_actions`).
 
 
-## 2. Migration Prerequisites
+## Migration Prerequisites
 
 Before initiating the migration, ensure you have the following ready:
 
@@ -29,7 +29,7 @@ Before initiating the migration, ensure you have the following ready:
 
 > **⚠️ CRITICAL:** Always create a complete backup of both the source and destination sites before proceeding.
 
-## 3. Choosing a Migration Method
+## Choosing a Migration Method
 
 There are three primary ways to migrate your data:
 
