@@ -254,6 +254,7 @@ export default defineConfig({
           { text: 'HelpScout', link: '/helpscout-ticket-migrator' },
           { text: 'Freshdesk', link: '/freshdesk-ticket-migrator' },
           { text: 'Zendesk', link: '/zendesk-ticket-migrator' },
+          { text: 'Site-to-Site Migration', link: '/site-to-site-migration' },
         ]
       },
       {
