@@ -30,7 +30,7 @@ Here, you need to fill up the required fields with the customer’s details and 
 
 Once you are done, click on **Create Ticket** to add the ticket on behalf of the customer.
 
-![Finally create ticket for customer](/images/ticket-management/daily-operations/creating-ticket-on-behalf-of-customer/create-ticket-for-customers-6.webp)
+![Finally create ticket for customer](/images/ticket-management/daily-operations/creating-ticket-on-behalf-of-customer/create-ticket-for-customers-7.webp)
 
 **A brief explanation of the settings shown in the screenshot above is given below —**
 
@@ -41,4 +41,4 @@ Once you are done, click on **Create Ticket** to add the ticket on behalf of the
   * **Add Attchments:** Using this setting, you can attach files with your ticket which can be Photos, CSV, PDF/Docs, Zip, and JSON.
   * **Related Product/Service:** Here, you can select your relevant Product Name, for example. Fluent Support, Fluent CRM, and so on.
   * **Priority:** Also, you can choose the ticket’s priority level; there are three priority levels; **Normal, Medium** & **Critical.**
-
+  * **Initiated by agent:** Check this box to clearly indicate that the support ticket is being created by an agent on behalf of the customer.
