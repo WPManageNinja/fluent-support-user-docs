@@ -124,6 +124,7 @@ export default defineConfig({
               { text: 'Agent Time Tracking', link: '/agent-time-tracking' },
               { text: 'Keyboard Shortcuts', link: '/navigate-with-keyboard-shortcut' },
               { text: 'Frontend Agent Portal', link: '/forntend-agent-portal' },
+              { text: 'Dynamic Sidebar Widgets', link: '/dynamic-sidebar-widgets' },
             ]
           },
           {
