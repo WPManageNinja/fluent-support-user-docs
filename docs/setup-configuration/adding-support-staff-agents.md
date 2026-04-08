@@ -31,9 +31,19 @@ In the pop-up window, you will need to fill in the following details:
     * **Reporting:** (e.g., View All Reports).
 * **Restrictions:** You can check **Business Inbox Access Restriction** if you want to limit this agent to specific business inboxes.
 
-Once you have filled in the necessary information and selected the permissions, click on the **Create** button to finish the process.
-
 ![Configuring basic information and setting permissions for a new agent](/images/setup-configuration/agents-permissions/adding-support-staff-agents/add-new-support-staff-3.webp)
+
+### Agent Signature
+
+You can easily set up a custom sign-off to automatically append to the bottom of an agent's ticket replies. Scroll to the bottom of the agent configuration window and check the box labeled **Enable signature for this agent**.
+
+1. When checked, a rich text editor will open.
+2. Use the standard formatting tools (bold, italic, lists, links) to design the signature text.
+3. Switch between **Visual** and **Code** views as needed. Use **Add media** to insert images—such as a company logo or a headshot—directly into the signature.
+
+
+
+When you have finished filling in the information, personalizing the signature, and selecting permissions, click **Update** or **Create** at the bottom right to save.
 
 This is how you can add as many new staff/agents as you need!
 
