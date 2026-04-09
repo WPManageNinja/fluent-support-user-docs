@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { zoomablePlugin } from './theme/components/plugin-zoomable'
 
 export default defineConfig({
   title: 'Fluent Support',
@@ -288,7 +289,10 @@ export default defineConfig({
 
   // Markdown configuration
   markdown: {
-    lineNumbers: false,
+    lineNumbers: true,
+    config: (md) => {
+      md.use(zoomablePlugin)
+    },
     theme: {
       light: 'github-light',
       dark: 'github-dark'
