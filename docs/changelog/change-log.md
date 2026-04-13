@@ -2,6 +2,53 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.1.1
+
+*Released on April 10, 2026*
+
+::: code-group
+
+```markdown [🐞 Bug fixes]
+• Fixed an issue where the global ticket summary was not rendering outside Fluent Support pages
+• Fixed Slack notification sending issue (Pro)
+• Fixed activity log staff filter dropdown collapsing issue
+```
+
+:::
+
+## Fluent Support v2.1.0
+
+*Released on April 09, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added Agent Groups to organize support teams and enable smart ticket distribution
+• Added Agent Signature option for support agents
+• Added Agent-Initiated Tickets (agents can create tickets on behalf of customers)
+• Added new email template for Agent-Initiated Tickets
+• Added file upload integration with Cloudflare R2 and Amazon S3 (Pro)
+• Added Dynamic Sidebar Widgets system (hook-based, supports PHP and Vue components)
+• Added fluent_support/should_send_notification filter to control notification delivery across channels
+```
+
+```markdown [🚀 Improvements]
+• Improved overall security
+• Optimized database queries for better performance
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed Fluent Boards integration action availability in free version when plugin is active
+• Fixed portal signup visibility issue when using shortcode attribute
+• Fixed "Close Ticket Silently" not suppressing email notifications
+• Fixed incorrect syncing of customer status with FluentCRM
+• Fixed advanced filter deletion issue in tickets list
+• Fixed theme mode toggle visibility issue
+• Fixed untranslated strings in advanced filter options
+```
+
+:::
+
 ## Fluent Support v2.0.6
 
 *Released on March 05, 2026*
