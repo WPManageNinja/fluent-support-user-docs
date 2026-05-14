@@ -2,6 +2,38 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.2.0
+
+*Released on May 14, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added Internal Notifications — agents now receive real-time in-app notifications for @mentions, ticket assignments and reassignments, customer replies, ticket close/reopen events, and Workflow triggers; fully configurable per event category with a self-notification toggle
+• Added FluentBooking integration — insert available time slots from ticket replies, view upcoming meetings in the ticket sidebar, and log scheduled-meeting notes automatically
+• Added Public Ticket Numbers with optional prefix support — configurable serial numbers appear in email notifications, the ticket UI, and the Customer Portal; admins can set a minimum ticket number and a global prefix
+• Added FluentCommunity as a Customer Portal destination — embed Fluent Support inside a FluentCommunity space so ticket links in email notifications redirect customers there
+• Added Signing Secret support for Slack webhooks — enter your Slack App's Signing Secret in Fluent Support settings for HMAC-SHA256 verification of incoming Slack replies
+• Added automatic Signing Secret for Telegram webhooks — Fluent Support now registers a secret token when setting up the Telegram webhook for improved security
+```
+
+```markdown [🚀 Improvements]
+• Improved Customer Portal destination setting — choose where ticket links in email notifications redirect: Default Portal Page, WooCommerce My Account, or FluentCommunity
+• Improved attachment handling for agent-created ticket emails and pasted inline images
+• Improved dark mode visibility for filters, switches, radio controls, tables, and reply controls
+• Refined the ticket reply composer UI for a smoother and more intuitive reply-writing experience
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed Customer Portal not immediately reflecting ticket status changes applied by a Workflow action (e.g., auto-close on customer reply)
+• Fixed Fluent Support admin font (Inter) leaking into WordPress admin chrome outside Fluent Support pages
+• Fixed dark mode toggle switch colors in Global Settings
+• Fixed Global Settings page design inconsistencies
+• Fixed shortcode attribute not normalizing to lowercase
+```
+
+:::
+
 ## Fluent Support v2.1.2
 
 *Released on April 20, 2026*

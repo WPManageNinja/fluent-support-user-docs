@@ -1,8 +1,37 @@
 # FluentCommunity Integration
 
-Integrating **FluentCommunity** with **Fluent Support** creates a more efficient and context-rich support experience. When connected, you can automate ticket routing based on a user’s course and provide your support agents with their community details directly within the ticket view.
+Integrating **FluentCommunity** with **Fluent Support** creates a more efficient and context-rich support experience. When connected, you can automate ticket routing based on a user’s course, provide your support agents with community details directly within the ticket view, and embed the Fluent Support portal inside your FluentCommunity space.
 
 > **Use Case:** A student taking your “Advanced SEO” course submits a support ticket and selects the course from a dropdown. A workflow rule can automatically assigns this ticket to your SEO specialist. When the agent opens the ticket, they instantly see a **FluentCommunity Widget** confirming the student is on “Lesson 5: Link Building,” giving them full context to resolve the issue quickly and effectively.
+
+## Embed Fluent Support in FluentCommunity
+
+If your support community lives inside a FluentCommunity space, you can make Fluent Support accessible directly there. When this is set up, ticket links in email notifications redirect customers into FluentCommunity instead of a standalone portal page.
+
+### Set FluentCommunity as the Portal Destination
+
+1. Go to **Fluent Support** from your WordPress dashboard.
+2. Open **Settings** and click **Global Settings** from the left sidebar.
+3. Under **Customer Portal Destination**, select **FluentCommunity Portal**.
+4. A **FluentCommunity Portal URL** will appear below the option. Click **Copy** to copy it.
+5. Click **Save Settings**.
+
+<!-- TODO: Capture screenshot for this step and save it at /images/integrations-channels/core-integrations/fluent-community-integration/fc-portal-destination.webp -->
+
+::: info
+The **FluentCommunity Portal** option only appears when FluentCommunity is installed and active on your site.
+:::
+
+### Add the Portal URL to FluentCommunity Navigation
+
+After copying the URL from the previous step:
+
+1. Go to your **FluentCommunity** settings.
+2. Open the navigation or menu settings for your community space.
+3. Add a new menu item and paste the Fluent Support portal URL as the link.
+4. Save the FluentCommunity menu.
+
+Your community members can now open and manage their support tickets without leaving FluentCommunity.
 
 ### **Creating Custom Ticket Fields for FluentCommunity Courses** 
 

@@ -69,6 +69,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'Portal Settings', link: '/customer-support-portal-setup' },
+              { text: 'Public Ticket Numbers', link: '/public-ticket-numbers' },
               { text: 'Portal Dashboard', link: '/customer-support-portal-dashboard' },
               { text: 'Gutenberg Blocks', link: '/customize-your-customer-portal' },
             ]
@@ -99,6 +100,7 @@ export default defineConfig({
               { text: 'Create for Customers', link: '/creating-ticket-on-behalf-of-customer' },
               { text: 'Saved Replies', link: '/templated-saved-replies' },
               { text: 'Internal Notes', link: '/internal-notes' },
+              { text: 'Internal Notifications', link: '/internal-notifications' },
               { text: 'Custom Tags', link: '/ticket-tags-custom-tags' },
               { text: 'My Tickets', link: '/agent-specific-tickets-my-tickets' },
               { text: 'Ticket Display Settings', link: '/ticket-display-settings' },
@@ -204,6 +206,7 @@ export default defineConfig({
               { text: 'Fluent Forms', link: '/fluent-form-integration' },
               { text: 'FluentBoards', link: '/fluentboards-integrations' },
               { text: 'FluentCart', link: '/fluentcart-integration' },
+              { text: 'FluentBooking', link: '/fluentbooking-integration' },
               { text: 'FluentCommunity', link: '/fluent-community-integration' },
               { text: 'SureTriggers', link: '/suretriggers-integration' },
               { text: 'Incoming Webhook', link: '/incoming-webhook' },

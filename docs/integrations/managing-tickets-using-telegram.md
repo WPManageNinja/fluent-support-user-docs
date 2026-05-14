@@ -71,6 +71,16 @@ Remember, the **Chat ID starts** **with a minus sign (-)** , and you would **hav
 
 ![Configure Telegram Group with FluentSupport](/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/configure-telegram-group-with-fluentsupport-1-scaled-1.webp)
 
+### Webhook Security (Automatic)
+
+When you register the Telegram webhook in Fluent Support, a **secret token** is automatically generated and sent to Telegram. Telegram then includes this token in every webhook request it sends back to your site, and Fluent Support verifies it before processing any replies.
+
+You do not need to configure anything manually — this happens automatically when you click the register webhook button. If you re-register the webhook, a new secret token is generated and registered with Telegram.
+
+::: tip
+If you set up the integration before version 2.2.0, re-registering your Telegram webhook applies the improved security automatically. Go to **Notification Integrations → Telegram** and click the register/update webhook button.
+:::
+
 A brief explanation of other options mentioned above –
 
 * **Notification Events:** Using this option, choose for which instances you want to be notified through Telegram. The available notification events are – **Ticket Created** , **Ticket Closed** , **Replied by Customer** , and **Agent Assigned To Ticket**.

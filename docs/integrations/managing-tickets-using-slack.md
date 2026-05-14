@@ -77,7 +77,7 @@ Now simply copy the **Channel Name** and **Channel ID**.
 
 ### Configuring Slack in Fluent Support
 
-Go to the **Globa Settings** from the Fluent Support **Dashboard** and select **Notification Integrations** from the left sidebar to find the **Slack** option. You will see the **Slack Integration Settings** page.  
+Go to the **Global Settings** from the Fluent Support **Dashboard** and select **Notification Integrations** from the left sidebar to find the **Slack** option. You will see the **Slack Integration Settings** page.  
   
 Now fill in all the fields with the necessary information that you have copied before. Also, you can enable the checkboxes if needed. 
 
@@ -86,6 +86,27 @@ Now fill in all the fields with the necessary information that you have copied b
 Once you are done, do not forget to click on **Save Settings** button.
 
 ![Save Slack Settings](/images/integrations-channels/messaging-apps/managing-tickets-using-slack/managing-tickets-using-slack-slack-notification-settings-paste-tokens-01.webp)
+
+### Signing Secret (Optional)
+
+The **Slack Signing Secret** adds an extra layer of security by verifying that incoming Slack replies actually come from your Slack app using HMAC-SHA256 verification.
+
+To add the Signing Secret:
+
+1. Go to the [Slack API](https://api.slack.com/) and open your app.
+2. In the left sidebar, click **Basic Information**.
+3. Scroll down to **App Credentials** and copy the **Signing Secret**.
+4. Go back to Fluent Support → **Global Settings** → **Notification Integrations** → **Slack**.
+5. Paste the value into the **Slack Signing Secret** field.
+6. Click **Save Settings**.
+
+<!-- TODO: Capture screenshot for this step and save it at /images/integrations-channels/messaging-apps/managing-tickets-using-slack/slack-signing-secret.webp -->
+
+After saving, send a test reply from a Slack ticket thread to confirm verification is working.
+
+::: info
+Adding the Signing Secret is optional. Existing Slack integrations without a Signing Secret continue to work. If you enter an incorrect value, Fluent Support will reject incoming Slack replies, so double-check what you paste.
+:::
 
 ### Slack Reply
 
