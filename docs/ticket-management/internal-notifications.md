@@ -92,26 +92,26 @@ This will open the **Notification Settings** modal, where you can enable or disa
 
 Available preferences include:
 
-* **Enable Mention Notification** — Always enabled. Notifies agents when they are mentioned in a reply or internal note.
-* **Enable Assignment Notifications** — Notify agents when tickets are assigned or reassigned to them.
-* **Enable Customer Reply Notifications** — Notify the assigned agent when a customer replies to a ticket.
-* **Enable Workflow Notifications** — Notify agents when an automation workflow runs on their tickets.
-* **Enable Ticket Status Notifications** — Notify agents when tickets are closed or reopened.
-* **Notify Assigned Agent When Another Agent Replies** — Keep the assigned agent in the loop when a teammate responds to their ticket.
-* **Allow Self Notifications** — By default, agents are not notified for their own actions. Enable this only if you want agents to receive notifications for actions they performed themselves.
+* **Enable Mention Notification:** Always enabled. Notifies agents when they are mentioned in a reply or internal note.
+* **Enable Assignment Notifications:** Notify agents when tickets are assigned or reassigned to them.
+* **Enable Customer Reply Notifications:** Notify the assigned agent when a customer replies to a ticket.
+* **Enable Workflow Notifications:** Notify agents when an automation workflow runs on their tickets.
+* **Enable Ticket Status Notifications:** Notify agents when tickets are closed or reopened.
+* **Notify Assigned Agent When Another Agent Replies:** Keep the assigned agent in the loop when a teammate responds to their ticket.
+* **Allow Self Notifications:** By default, agents are not notified for their own actions. Enable this only if you want agents to receive notifications for actions they performed themselves.
 
 After updating your preferences, click **Update Settings** to save the changes.
 
 ::: tip
-Mention notifications are always on by design — so agents can never miss when a teammate tags them. All other notification types can be toggled on or off based on your team's workflow.
+Mention notifications are always on by design so agents can never miss when a teammate tags them. All other notification types can be toggled on or off based on your team's workflow.
 :::
 
 ## Difference Between Internal and Email Notifications
 
-**Internal Notifications** appear inside the Fluent Support dashboard for agents — perfect for team activity and real-time updates while working on tickets.
+**Internal Notifications** appear inside the Fluent Support dashboard for agents perfect for team activity and real-time updates while working on tickets.
 
-**Email Notifications**, on the other hand, are sent through email based on your inbox notification settings — perfect for customer-facing communication and out-of-dashboard updates.
+**Email Notifications**, on the other hand, are sent through email based on your inbox notification settings perfect for customer-facing communication and out-of-dashboard updates.
 
 If you want to customize customer or agent email templates, check the [Managing Email Notifications](/customize-email-notifications) documentation.
 
-In short — use **Internal Notifications** for team activity inside the dashboard, and **Email Notifications** for sending updates to inboxes.
+In short use **Internal Notifications** for team activity inside the dashboard, and **Email Notifications** for sending updates to inboxes.
