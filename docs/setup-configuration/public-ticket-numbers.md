@@ -60,6 +60,38 @@ Once enabled, your public ticket number will show up across Fluent Support and t
 | **Email Notifications** | Public number in the subject line and body |
 | **Customer Portal** | Public number on the customer's ticket list and ticket view |
 
+## Using the Public Ticket Number in Email Templates
+
+Once public ticket numbers are enabled, you can include the public number directly in your email notification subjects and body content using the <code v-pre>{{ticket.public_id}}</code> smart code.
+
+### Where to Find It
+
+Open any **Business Inbox**, click the **Settings** icon, and navigate to **Email Settings**. When you edit a notification template — such as *Ticket Created (To Customer)* or *Replied by Agent (To Customer)* — you'll see a list of available smart codes on the right side of the editor. **Public Ticket ID** (<code v-pre>{{ticket.public_id}}</code>) is listed there. Click it to insert it at your cursor position, or type it manually.
+
+<!-- TODO: Capture screenshot of the email notification editor showing the Public Ticket ID smart code in the list, save at /images/setup-configuration/customer-portal/public-ticket-numbers/public-ticket-number-email-smartcode.webp -->
+
+### Example Usage
+
+A subject line like this:
+
+```
+[{{ticket.public_id}}] We received your support request: {{ticket.title}}
+```
+
+…will produce emails with subjects such as:
+
+```
+[FS-1042] We received your support request: Login issue on mobile
+```
+
+### Fallback Behavior
+
+<code v-pre>{{ticket.public_id}}</code> always returns a value — it is safe to use in your templates even before you enable the Public Ticket Numbers feature. When the feature is off, it falls back to the internal database ticket ID. Once you enable the feature, it automatically starts outputting the formatted public number for all new tickets.
+
+::: tip
+Add <code v-pre>{{ticket.public_id}}</code> to your email subject lines so customers always have a reference number they can quote when following up.
+:::
+
 ## Frequently Asked Questions
 
 **What happens to tickets created before I enabled this feature?**
