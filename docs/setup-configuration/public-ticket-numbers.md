@@ -84,6 +84,8 @@ A subject line like this:
 [FS-1042] We received your support request: Login issue on mobile
 ```
 
+![Public Ticket ID in Email fields in Fluent Support](/images/setup-configuration/customer-portal/public-ticket-numbers/public-ticket-number-3.webp)
+
 ### Fallback Behavior
 
 <code v-pre>{{ticket.public_id}}</code> always returns a value — it is safe to use in your templates even before you enable the Public Ticket Numbers feature. When the feature is off, it falls back to the internal database ticket ID. Once you enable the feature, it automatically starts outputting the formatted public number for all new tickets.
