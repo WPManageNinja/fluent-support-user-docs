@@ -2,6 +2,30 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.2.1
+
+*Released on May 23, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added Grid view layout for the ticket list
+```
+
+```markdown [🚀 Improvements]
+• Unified and improved dynamic support menu UI structure
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed issue with time tracking where working minutes were showing as null
+```
+
+```markdown [🔒 Security]
+• Hardened ticket ID resolution in Customer Portal policy
+```
+
+:::
+
 ## Fluent Support v2.2.0
 
 *Released on May 20, 2026*
