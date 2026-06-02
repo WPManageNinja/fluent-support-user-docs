@@ -17,6 +17,10 @@ You can choose between two different layouts based on how much information you w
 
 ![Display Settings](/images/ticket-management/daily-operations/ticket-display-settings/ticket-display-settings-3.webp)
 
+* **Grid View:** This organizes your tickets using table columns, providing a structured format to easily scan specific ticket details side-by-side.
+
+![Display Settings](/images/ticket-management/daily-operations/ticket-display-settings/ticket-display-settings-4-grid.webp)
+
 ## Display Settings Toggle
 
 In this section, you can check or uncheck boxes to show or hide specific ticket details in the main list. This helps you focus only on the data that matters most to your workflow. You can toggle the following details:
