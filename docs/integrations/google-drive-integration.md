@@ -27,7 +27,11 @@ First, go to the [**Google Cloud Console**](https://console.cloud.google.com/) a
 
 ### Creating New Project 
 
-To get the API, create a new project by clicking the **Create Project**.
+Now, click on the **My project** or **Select Project** option.
+
+![Select Project](/images/integrations-channels/other/google-drive-integration/select-project-2.webp)
+
+To get the API, create a new project by clicking the **New Project**.
 
 Or, you can easily select any of your existing projects from the “**Select a Project”** dropdown list by clicking on the **Arrow** **Icon.**
 
@@ -39,7 +43,7 @@ Give a name to your project (location is optional) and press the **CREATE** butt
 
 ### **Enabling Google Drive API** 
 
-Click on **\+ ENABLE APIS AND SERVICES.**
+Click on **\+ Enable APIs and Services.**
 
 ![ENABLE APIS AND SERVICES](/images/integrations-channels/other/google-drive-integration/enable-apis-services-scaled-1.webp)
 
@@ -47,11 +51,11 @@ Select **Google Drive API**.
 
 ![Google Drive API](/images/integrations-channels/other/google-drive-integration/google-drive-api-scaled-1.webp)
 
-Now, click on the **ENABLE** button to activate the Google Drive API.
+Now, click on the **Enable** button to activate the Google Drive API.
 
 ![Active ENABLE button](/images/integrations-channels/other/google-drive-integration/enable-button-1.webp)
 
-You will see the **CREATE CREDENTIALS** button, click on it.
+You will see the **Create Credentials** button, click on it.
 
 ![CREATE CREDENTIALS button](/images/integrations-channels/other/google-drive-integration/create-credintials-scaled-1.webp)
 
@@ -67,11 +71,11 @@ You will see the **CREATE CREDENTIALS** button, click on it.
 
 ![Credential Type](/images/integrations-channels/other/google-drive-integration/user-data-1.webp)
 
-  * In the **OAuth Consent Screen** , give an App name, User support email, and Developer email. Once you are done, click the **SAVE AND CONTINUE** button.
+  * In the **OAuth Consent Screen** , give an App name, User support email, and Developer email. Once you are done, click the **Save and Continue** button.
 
 ![OAuth Consent Screen](/images/integrations-channels/other/google-drive-integration/oath-consent-screen-1.webp)
 
-  * As **Scopes** is optional, you can skip it and go to the next step by clicking the **SAVE AND CONTINUE** button.
+  * As **Scopes** is optional, you can skip it and go to the next step by clicking the **Save and Continue** button.
 
 ![Scopes](/images/integrations-channels/other/google-drive-integration/scopes-1.webp)
 
@@ -89,7 +93,7 @@ Here, you will find the **Client ID** and you can copy. Now click on the **Done*
 
 ![Your Credentials](/images/integrations-channels/other/google-drive-integration/your-credentials-1.webp)
 
-Now this page will come, go to the **CREDENTIALS** section and click on **Web Client 1** under OAuth 2.0 Client IDs.
+Now this page will come, go to the **Credentials** section and click on **Web Client 2** under OAuth 2.0 Client IDs.
 
 ![CREDENTIALS & Web Client 1](/images/integrations-channels/other/google-drive-integration/credentials-web-client-id-scaled-1.webp)
 
@@ -97,9 +101,9 @@ After that, the below page will come and you will find the **Client ID** and **C
 
 ![Client ID and Client Secret](/images/integrations-channels/other/google-drive-integration/client-id-client-secret-scaled-1.webp)
 
-Now, go to the **OAuth Consent Screen** section and click the **PUBLISH APP** button.
+Now, go to the **Audience** section and click the **Publish App** button.
 
-![OAuth Consent Screen and PUBLISH APP ](/images/integrations-channels/other/google-drive-integration/publish-app-scaled-1.webp)
+![PUBLISH APP ](/images/integrations-channels/other/google-drive-integration/publish-app-scaled-1.webp)
 
 ### **Configure Fluent Support** 
 
