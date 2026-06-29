@@ -11,16 +11,14 @@ AI features require **Fluent Support Pro**. The AI Model Setup page will show an
 ## How To Set It Up
 
 1. Go to **Fluent Support** from your WordPress dashboard.
-2. Open **Global Settings** and click **AI Model Setup** in the left sidebar.
-3. Turn on the **Enable AI** toggle.
-4. Under **AI Provider**, choose your **Provider** from the dropdown.
-5. Select a **Model** for that provider.
-6. Enter your **API Key**.
-7. Click **Save**.
+2. Click **Global Settings** in the left sidebar, then open **AI Model Setup** under the **AI Integration** section.
+3. Turn on the **Enable AI** toggle at the top of the page. Once enabled, AI becomes available for response suggestions and ticket summaries.
+4. In the **AI Provider** box, pick your **Provider** from the dropdown (OpenAI, Google Gemini, or Anthropic Claude).
+5. Choose a **Model** for that provider from the **Model** dropdown.
+6. In the **API Key** box, paste your **API Key**. It is stored securely on your site.
+7. Click **Save** in the top-right corner.
 
-![AI Model Setup page showing the Enable AI toggle, Provider dropdown, and API Key field](/images/ai-assistance/openai-integration-with-fluent-support/ai-model-setup.webp)
-
-<!-- TODO: Capture screenshot of the new AI Model Setup settings page and save to /images/ai-assistance/openai-integration-with-fluent-support/ai-model-setup.webp -->
+![AI Model Setup page showing the Enable AI toggle, the AI Provider and Model dropdowns, and the API Key field](/images/ai-assistance/openai-integration-with-fluent-support/ai-model-setup.webp)
 
 Once saved, AI tools become available inside every ticket. To learn how to use them, see [AI Features in Tickets](/features-of-openai-integration-in-fluent-support).
 
