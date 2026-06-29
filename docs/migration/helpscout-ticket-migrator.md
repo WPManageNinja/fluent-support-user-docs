@@ -63,5 +63,54 @@ Here, you can see all the **Tickets** are **Imported** and the migration date & 
 
 ![Preview of Imported Tickets from HelpScout](/images/migration/helpscout-ticket-migrator/help-scout-tickets-migrated-1.webp)
 
-This is how you can migrate your all tickets from **Help Scout** to Fluent Support!  
+This is how you can migrate your all tickets from **Help Scout** to Fluent Support!
+
+---
+
+## Migrate via WP-CLI
+
+For large mailboxes or interrupted migrations, you can run the Help Scout import from the command line using WP-CLI. The CLI method supports automatic resume — if a previous run was interrupted, it picks up where it left off.
+
+::: info
+WP-CLI migration requires **Fluent Support Pro** and [WP-CLI](https://wp-cli.org/) installed on your server. The CLI uses a Help Scout API access token directly rather than the OAuth flow used by the UI importer.
+:::
+
+### Get a Help Scout access token
+
+1. Log in to your [Help Scout](https://www.helpscout.com/) account.
+2. Go to **Your Profile → My Apps** and click **Create My App**.
+3. After the app is created, copy the **App ID** and **App Secret**.
+4. Exchange them for an access token using a tool like `curl`:
+
+```bash
+curl -X POST "https://api.helpscout.net/v2/tokens" \
+  --data "grant_type=client_credentials&client_id=YOUR_APP_ID&client_secret=YOUR_APP_SECRET"
+```
+
+Copy the `access_token` value from the response.
+
+### Find your mailbox ID
+
+Your mailbox ID is the numeric ID shown in the Help Scout dashboard URL when viewing a mailbox (e.g. `app.helpscout.com/mailboxes/12345`).
+
+### Basic command
+
+```bash
+wp fluent_support helpscout_ticket_import \
+  --access_token=YOUR_ACCESS_TOKEN \
+  --mailbox_id=12345
+```
+
+If you omit either flag, the command will prompt you for it interactively.
+
+### Resuming an interrupted migration
+
+If the import stops partway through, run the same command again with the same `--mailbox_id`. Fluent Support saves progress after each page and continues from where it left off automatically.
+
+### Parameters
+
+| Flag | Required | Description |
+|------|----------|-------------|
+| `--access_token` | Yes | A Help Scout API access token |
+| `--mailbox_id` | Yes | The numeric ID of the Help Scout mailbox to import |
 

@@ -1,12 +1,12 @@
-# Features of OpenAI Integration
+# AI Features in Tickets
 
-The features of [OpenAI](https://openai.com/) allow users to generate ticket responses, enhance their own writings, and summarize an entire conversation with users including their satisfaction status level, effortlessly with simple commands and AI-generated prompts. This article will help you learn in detail about using all AI features of OpenAI in a Ticket of Fluent Support.
+Fluent Support Pro's AI assistance helps your agents write better replies, understand conversations faster, and polish their writing — all from inside the ticket view. These features work with any configured AI provider (OpenAI, Google Gemini, or Anthropic Claude).
 
-## OpenAI Features In a Ticket of Fluent Support
+## AI Features In a Ticket
 
-Within a specific ticket, you will find three key features of OpenAI designed to simplify ticket responses. 
+Within a specific ticket, you will find three key AI features designed to simplify ticket responses.
 
-Before starting the process, ensure you integrate your OpenAI account with your Fluent Support plugin in your WordPress Site. To learn how you can integrate the OpenAI with Fluent Support, read this [Documentation](/openai-integration-with-fluent-support). 
+Before starting, make sure you have connected an AI provider in **Global Settings → AI Model Setup**. To learn how, see [AI Setup](/openai-integration-with-fluent-support).
 
 First, go to **Tickets** from the **Fleunt Support Dashboard,** open your **desired** ticket, and you will get all your AI features. These are:
 

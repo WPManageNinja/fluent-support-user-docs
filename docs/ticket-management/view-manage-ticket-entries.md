@@ -56,6 +56,6 @@ The right sidebar provides a 360-degree view of the customer and the ticket's pr
     * **Agent Priority:** The priority level assigned by the support staff.
     * **Add Tags:** Apply custom labels for better ticket organization and filtering.
     * **Integration Data:** View data from connected apps like WooCommerce (purchase history), LMS platforms (enrollment status), or FluentCRM.
-    * **Previous Conversations:** A list of the customer's past support history to provide full context for the current issue.
+    * **Previous Conversations:** A list of the customer's past support history to provide full context for the current issue. When a customer has many past tickets, a **Load More** button appears at the bottom of the list — click it to fetch additional tickets without leaving the current ticket view.
 
 ![Ticket Management](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-management-5.webp)

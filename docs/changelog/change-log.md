@@ -2,6 +2,34 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.2.2
+
+*Released on -upcoming-*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added MCP (Model Context Protocol) support — AI clients such as Claude, Cursor, and Codex can now read and manage tickets, post replies, search customers, and retrieve team context using WordPress Application Passwords; requires the free FluentHub plugin
+• Added multi-provider AI support — choose between OpenAI, Google Gemini, and Anthropic Claude as your AI provider from a single settings screen
+• Added native Easy Digital Downloads workflow conditions — route tickets automatically based on EDD purchase history, product variations, and active license status (requires EDD Software Licensing for license checks)
+• Added EDD custom field types — agents can add EDD Products and EDD Orders dropdown fields to ticket submission forms
+• Added native FluentCart workflow conditions — route tickets automatically based on FluentCart purchase history, product variations, and active license status (requires FluentCart Pro for license checks)
+• Added Support Expiry gate — restrict ticket creation and replies for customers with expired licenses using FluentCRM tags; replaces the previous built-in EDD/FluentCart gate
+• Added Load More pagination to the Previous Conversations sidebar widget
+• Added FluentBooking to the Integration Statuses page
+```
+
+```markdown [🚀 Improvements]
+• Workflow conditions list now includes Agent Group and Bookmarks condition types
+• AI Setup page now supports selecting the AI provider and model from a unified settings screen
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed AI response rendering to display formatted markdown correctly in ticket conversations
+```
+
+:::
+
 ## Fluent Support v2.2.1
 
 *Released on May 23, 2026*

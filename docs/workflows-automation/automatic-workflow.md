@@ -43,6 +43,20 @@ You will get the following options to set the Condition for your Workflow –
   * Ticket Priority (Client)
   * Selected Product
   * Mailbox
+  * Agent Group
+  * Bookmarks
+
+**Easy Digital Downloads** *(appears when EDD is active)*
+
+  * Customer Purchased Product
+  * Customer Purchased Package (Variation)
+  * Customer Has Active License *(requires EDD Software Licensing)*
+
+**FluentCart** *(appears when FluentCart is active)*
+
+  * Customer Purchased Product
+  * Customer Purchased Package (Variation)
+  * Customer Has Active License *(requires FluentCart Pro)*
 
 **Custom Fields**
 

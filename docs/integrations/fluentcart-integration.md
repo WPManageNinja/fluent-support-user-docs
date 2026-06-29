@@ -82,6 +82,22 @@ Click **Update Workflow** to save and activate your workflow. If you want to mak
 
 ![](/images/integrations-channels/core-integrations/fluentcart-integration/set-trigger-09.webp)
 
+### FluentCart Commerce Conditions in Workflows
+
+In addition to using custom fields as conditions, Fluent Support also provides a dedicated **FluentCart** condition group in the workflow builder. These native commerce conditions check purchase history directly — no custom field needed.
+
+The available FluentCart conditions are:
+
+- **Customer Purchased Product** — matches customers who have purchased a specific FluentCart product. You can search and select one or more products.
+- **Customer Purchased Package (Variation)** — matches customers who purchased a specific product variation, such as a particular pricing tier or bundle.
+- **Customer Has Active License** — a Yes/No condition that checks whether the customer holds an active license. This condition requires the FluentCart licensing module (available in FluentCart Pro).
+
+<!-- TODO: Capture screenshot showing the workflow builder with the FluentCart native condition group expanded, save at /images/integrations-channels/core-integrations/fluentcart-integration/fluentcart-workflow-commerce-conditions.webp -->
+
+::: tip
+**Custom fields vs. commerce conditions:** Custom fields are useful for letting customers *select* which product or order they need help with when submitting a ticket. Commerce conditions are useful for triggering workflows based on what customers *actually own* — verified against purchase records, not just what they typed. Use them together for the most accurate automation.
+:::
+
 ### Integrate Customer Portal into FluentCart Dashboard 
 
 You can also provide a seamless experience for your customers by adding a link to your support portal directly within their FluentCart customer dashboard.

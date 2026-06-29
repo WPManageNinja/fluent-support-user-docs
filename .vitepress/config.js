@@ -208,6 +208,7 @@ export default defineConfig({
               { text: 'FluentCart', link: '/fluentcart-integration' },
               { text: 'FluentBooking', link: '/fluentbooking-integration' },
               { text: 'FluentCommunity', link: '/fluent-community-integration' },
+              { text: 'Support Expiry', link: '/support-expiry' },
               { text: 'SureTriggers', link: '/suretriggers-integration' },
               { text: 'Incoming Webhook', link: '/incoming-webhook' },
               { text: 'Integration Status', link: '/integration_statuses' },
@@ -246,8 +247,9 @@ export default defineConfig({
         text: 'AI Assistance',
         collapsed: true,
         items: [
-          { text: 'OpenAI Setup', link: '/openai-integration-with-fluent-support' },
-          { text: 'OpenAI Features', link: '/features-of-openai-integration-in-fluent-support' },
+          { text: 'AI Setup', link: '/openai-integration-with-fluent-support' },
+          { text: 'AI Features in Tickets', link: '/features-of-openai-integration-in-fluent-support' },
+          { text: 'MCP for AI Agents', link: '/mcp-for-ai-agents' },
         ]
       },
       {
