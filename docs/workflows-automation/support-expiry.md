@@ -23,11 +23,13 @@ The **Customer Has Active License = No** condition matches customers with an exp
 
 ### Step 1: Create a New Automatic Workflow
 
-From the **Fluent Support Dashboard**, go to **Workflows** and click **+ Create New**.
+From the **Fluent Support Dashboard**, go to **Workflows** and click **+ Create New** in the top-right corner.
 
-Give the workflow a name such as `Support Expiry Notification`, select **Automatic** as the workflow type, and click **Create Workflow**.
+![All Workflows page with the Create New button highlighted](/images/workflows-automation/support-expiry/support-expiry-all-workflows.webp)
 
-<!-- TODO: Capture screenshot of the new workflow creation popup, save at /images/integrations-channels/core-integrations/support-expiry/support-expiry-create-workflow.webp -->
+In the **Add a New Workflow** popup, give the workflow a name such as `Support Expiry Notification`, select **Automatic** as the workflow type, and click **Create Workflow**.
+
+![Add a New Workflow popup with a name entered and the Automatic type selected](/images/workflows-automation/support-expiry/support-expiry-create-workflow.webp)
 
 ### Step 2: Set the Trigger
 
@@ -45,15 +47,13 @@ Open the condition dropdown, scroll to the **Easy Digital Downloads** or **Fluen
 
 Click **+ AND**, open the dropdown again, and select **Customer Has Active License** from the same group. Set the value to **No**.
 
-<!-- TODO: Capture screenshot of the workflow conditions showing both conditions combined with AND, save at /images/integrations-channels/core-integrations/support-expiry/support-expiry-workflow-condition.webp -->
-
 With both conditions in place, the workflow only fires for customers who bought your product but no longer hold an active license — new customers and customers of other products are not affected.
 
 ### Step 4: Add the Workflow Actions
 
 Under **Workflow Actions (Tasks)**, click **+ Add Action** and choose **Add Response**. Write a clear, friendly message letting the customer know their support period has ended and explaining how they can renew to continue receiving help.
 
-<!-- TODO: Capture screenshot of the Add Response action configured with a support-expiry notification message, save at /images/integrations-channels/core-integrations/support-expiry/support-expiry-workflow-action.webp -->
+![Workflow editor showing the On Ticket Creation trigger, the purchase condition, and the Add Response action](/images/workflows-automation/support-expiry/support-expiry-workflow-setup.webp)
 
 ::: info
 The workflow fires after the ticket is created, so the ticket the customer just submitted will still exist. Your agents can handle or close it as needed.

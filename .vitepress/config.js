@@ -158,6 +158,7 @@ export default defineConfig({
           { text: 'Workflows Overview', link: '/workflows-automations' },
           { text: 'Manual Workflows', link: '/manual-workflow' },
           { text: 'Automatic Workflows', link: '/automatic-workflow' },
+          { text: 'Support Expiry Notification', link: '/support-expiry' },
         ]
       },
       {
@@ -208,7 +209,6 @@ export default defineConfig({
               { text: 'FluentCart', link: '/fluentcart-integration' },
               { text: 'FluentBooking', link: '/fluentbooking-integration' },
               { text: 'FluentCommunity', link: '/fluent-community-integration' },
-              { text: 'Support Expiry', link: '/support-expiry' },
               { text: 'SureTriggers', link: '/suretriggers-integration' },
               { text: 'Incoming Webhook', link: '/incoming-webhook' },
               { text: 'Integration Status', link: '/integration_statuses' },
