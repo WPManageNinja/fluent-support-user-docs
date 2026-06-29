@@ -2,7 +2,7 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
-## Fluent Support v2.2.2
+## Fluent Support v2.3.0
 
 *Released on -upcoming-*
 
