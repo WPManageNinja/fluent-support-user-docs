@@ -2,6 +2,19 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.3.1
+
+*Released on Jul 15, 2026*
+
+::: code-group
+
+```markdown [🐞 Bug fixes]
+• Fixed security through ongoing audits and hardening
+• Fixed low-contrast text and input fields in the "Generate Responses with AI" popover when using dark mode
+```
+
+:::
+
 ## Fluent Support v2.3.0
 
 *Released on Jul 13, 2026*
