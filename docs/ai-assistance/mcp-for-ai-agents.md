@@ -13,9 +13,9 @@ MCP for Fluent Support is available on the **free version**. No Pro license is n
 You will need:
 
 - **Fluent Support** (free or Pro)
-- **FluentHub** plugin installed and active (the small, free companion plugin that powers the MCP adapter)
+- **FluentToolkit** plugin installed and active (the small, free companion plugin that powers the MCP adapter)
 
-If FluentHub is not installed yet, do not worry. Fluent Support will prompt you to install it right from the MCP settings page, which we will cover below.
+If FluentToolkit is not installed yet, do not worry. Fluent Support will prompt you to install it right from the MCP settings page, which we will cover below.
 
 ## Step 1: Open the MCP Settings
 
@@ -31,24 +31,27 @@ You will land on the MCP settings page. When you first open it, the **Enable MCP
 
 Turn on the **Enable MCP for AI Agents** toggle at the top of the page. This is what tells Fluent Support to expose its tools to AI agents, with your authorization.
 
-If FluentHub is not yet installed, a **Get FluentHub** button appears as soon as you flip the toggle on. Thenk click on the button then install the FluentHub on your site. 
+If FluentToolkit is not yet installed, a **Get FluentToolkit** button appears as soon as you flip the toggle on. Click that button, and Fluent Support installs FluentToolkit on your site for you.
 
-![MCP settings page with the toggle enabled and the Get FluentHub button visible](/images/ai-assistance/mcp-for-ai-agents/mcp-get-fluenthub.webp)
-
+![MCP settings page with the toggle enabled and the Get FluentToolkit button visible](/images/ai-assistance/mcp-for-ai-agents/mcp-get-fluenthub.webp)
 
 ::: tip
-If FluentHub is already installed but not active, you will see an **Activate FluentHub** button instead. Just click it to activate, no reinstall needed.
+Prefer to install it yourself? Download FluentToolkit from [https://static.wpmanageninja.com/fluent-toolkit.zip](https://static.wpmanageninja.com/fluent-toolkit.zip), then upload the ZIP via **Plugins → Add New → Upload Plugin** and activate it.
 :::
 
-Once FluentHub is active, the page updates to show a **Connected** badge, the active adapter version, your **Endpoint URL**. Below that, the **Connect a client** panel appears, ready for the next step.
+::: tip
+If FluentToolkit is already installed but not active, you will see an **Activate FluentToolkit** button instead. Just click it to activate, no reinstall needed.
+:::
 
-## Step 4: Create an Application Password
+Once FluentToolkit is active, the page updates to show a **Connected** badge, the active adapter version, your **Endpoint URL**. Below that, the **Connect a client** panel appears, ready for the next step.
+
+## Step 3: Create an Application Password
 
 Your AI client needs a credential to authenticate its requests. WordPress Application Passwords are purpose-built for this. They are separate from your login password and can be revoked at any time.
 
 In the **Connect a client** panel, click the **Create an application password** link. This takes you to your WordPress profile.
 
-![MCP settings page showing FluentHub connected, the endpoint URL, and the Connect a client panel](/images/ai-assistance/mcp-for-ai-agents/mcp-enabled-connected.webp)
+![MCP settings page showing FluentToolkit connected, the endpoint URL, and the Connect a client panel](/images/ai-assistance/mcp-for-ai-agents/mcp-enabled-connected.webp)
 
 1. Scroll down to the **Application Passwords** section.
 2. In the **New Application Password Name** field, type a recognizable name, for example `FluentSupport` or `Claude Desktop`.
@@ -64,7 +67,7 @@ WordPress generates and displays the password right away. **Copy it now.** You w
 Save the generated password somewhere safe before navigating away. It is shown only once. If you lose it, you can simply revoke it and create a new one.
 :::
 
-## Step 5: Connect Your AI Client
+## Step 4: Connect Your AI Client
 
 Head back to **Fluent Support → Global Settings → MCP for AI Agents** and find the **Connect a client** panel again.
 
