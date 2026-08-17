@@ -22,7 +22,7 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 ::: code-group
 
 ```markdown [✨ Newly Added]
-• Added MCP (Model Context Protocol) support — AI clients such as Claude, Cursor, and Codex can now read and manage tickets, post replies, search customers, and retrieve team context using WordPress Application Passwords; requires the free FluentToolkit plugin
+• Added MCP (Model Context Protocol) support — AI clients such as Claude, Cursor, and Codex can now read and manage tickets, post replies, search customers, and retrieve team context using WordPress Application Passwords; requires the free FluentHub plugin
 • Added multi-provider AI support — choose between OpenAI, Google Gemini, and Anthropic Claude as your AI provider from a single settings screen
 • Added native Easy Digital Downloads workflow conditions — route tickets automatically based on EDD purchase history, product variations, and active license status (requires EDD Software Licensing for license checks)
 • Added EDD custom field types — agents can add EDD Products and EDD Orders dropdown fields to ticket submission forms
