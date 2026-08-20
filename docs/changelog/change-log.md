@@ -2,6 +2,24 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.3.2
+
+*Released on Aug 19, 2026*
+
+::: code-group
+
+```markdown [🚀 Improvements]
+• Added compatibility with WordPress 7.1
+• Updated the Gemini model list in AI Model Setup
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed security through ongoing audits and hardening
+• Fixed missing FluentBoards documentation URL in Integration Statuses
+```
+
+:::
+
 ## Fluent Support v2.3.1
 
 *Released on Jul 15, 2026*
