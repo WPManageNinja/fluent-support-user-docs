@@ -171,12 +171,14 @@ export default defineConfig({
             link: '/reports-and-stats',
             collapsed: true,
             items: [
+              { text: 'Ticket Overview', link: '/ticket-overview' },
               { text: 'Personal Reports', link: '/personal-report' },
-              { text: 'Agents Reports', link: '/agents-report' },
-              { text: 'Products Reports', link: '/products-reports' },
-              { text: 'Business Boxes Reports', link: '/business-boxes-reports' },
-              { text: 'Activity Reports', link: '/activity-reports' },
+              { text: 'Agent Performance', link: '/agents-report' },
+              { text: 'Product Insight', link: '/products-reports' },
+              { text: 'Business Boxes', link: '/business-boxes-reports' },
+              { text: 'Activity', link: '/activity-reports' },
               { text: 'Time Sheet', link: '/time-sheet' },
+              { text: 'AI Ticket Audit', link: '/ai-ticket-audit' },
             ]
           },
           { text: 'Overall Activities', link: '/overall-activities' },
