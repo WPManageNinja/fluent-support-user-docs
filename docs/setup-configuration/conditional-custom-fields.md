@@ -18,8 +18,22 @@ You will get the following **Field Types** from the Dropdown List –
   * **Select Choice** : Used for multiple fixed inputs as choices
   * **Radio Choice** : Used for radio button choices
   * **Checkboxes** : Used for multiple/single tick inputs
+  * **Date Range** : Used to collect a start date and an end date in a single field
 
 ![Choose Filed type from dropdown list](/images/setup-configuration/ticket-forms-fields/conditional-custom-fields/field-type-add-button-scaled-1.webp)
+
+#### Date Range Fields
+
+The **Date Range** field type collects a start date and an end date together, so you no longer need two separate date fields for a single period.
+
+It is a good fit whenever the answer you need is a span rather than a moment — a booking window, a subscription period, the dates an incident took place, or the range of a report a customer is asking about.
+
+* On the **admin ticket form** and the **customer portal**, the field renders as a proper date-range picker rather than two loose inputs.
+* In the **ticket sidebar**, the selected range is displayed back to your agents as a single readable value.
+* Unlike the choice-based field types, a Date Range field has **no options list** to configure — you only set its label, slug and whether it is required.
+
+> [!NOTE]
+> Date Range fields can also be used in [workflow conditions](/automatic-workflow), where they are treated as a date range rather than as plain text.
 
 You will also get all your **Integration** related **Field Types** from the **Dropdown** **List** –
 
