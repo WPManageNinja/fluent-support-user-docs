@@ -2,6 +2,55 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.4.0
+
+*Released on Sep 03, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added Advanced Reports suite — a rebuilt Reports section with Ticket Overview, Agent Performance, Product Insight, Business Boxes, Activity and AI Ticket Audit pages, each with date-range filtering, comparison charts and a collapsible report sidebar
+• Added AI Ticket Audit report — audit tickets with your configured AI provider (OpenAI, Gemini or Anthropic), filter results by mood, and page through audited tickets
+• Added Historical Snapshots for Advanced Reports — reporting data is captured every 6 hours, and a Live / Snapshot selector lets you compare current numbers against any earlier capture
+• Added growth metrics and an activity grid to Agent Performance reports, plus product interaction counts in Product Insight
+• Added Google reCAPTCHA protection for the Customer Portal ticket creation form, supporting both reCAPTCHA v2 and v3
+• Added Date Range custom field type — collect a start and end date in a single ticket field, rendered with a date-range picker in the ticket form and the ticket sidebar
+• Added a category filter for Knowledge Base article suggestions — limit suggested docs to selected categories, including their subcategories
+```
+
+```markdown [🚀 Improvements]
+• Reports navigation reorganized — Personal Reports remains in the free plan, and the full reporting suite is now part of Fluent Support Pro
+• Ticket list performance — pagination is bounded and full response histories are no longer eager-loaded when listing tickets
+• Ticket rows in reports and lists are now keyboard accessible, and report tables, charts and toolbars adapt to narrow screens
+• Product dropdowns are alphabetized and searchable, and the fallback agent setting now uses a searchable agent dropdown instead of a raw agent ID field
+• Half-hourly background tasks are now scheduled through Action Scheduler and reconciled automatically, so scheduled jobs no longer stall after updates
+• Database migrations are locked against concurrent requests during plugin updates, preventing duplicated or partial migrations
+• Normalized input and select field heights across the admin UI, and scoped date-range picker styles so they no longer leak into other screens
+• Report stat numbers now use thousand separators
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed the product filter on the ticket list — an explicitly cleared product is respected, filter routing is corrected, and ticket counts are no longer attributed to the wrong product across pages
+• Fixed the Business Boxes report showing waiting tickets from the wrong mailbox when a mailbox filter was applied
+• Fixed the Agent Performance report showing the wrong latest response on ticket rows, counting agents without responses as active, and exporting with unnormalized filters
+• Fixed the Product Distribution total not respecting the selected product filter
+• Fixed report charts keeping stale data after a failed snapshot fetch or a cleared date range, plus chart sizing and zoom issues
+• Fixed pagination not resetting when filters changed in Business Boxes and audit reports
+• Fixed reCAPTCHA issues on the ticket form, including stale tokens being reused, submissions getting stuck when a v3 token never resolved, the v3 badge not appearing, and no way to recover from a failed script load
+• Fixed two-factor and login expiry timestamps parsed as UTC, so codes and links no longer expire early on sites with a non-UTC timezone
+• Fixed inline attachments sent without an "[image: filename]" placeholder — common with iOS Mail and the Gmail app — being hidden from the ticket thread instead of showing as regular attachments
+• Fixed category option ordering and stale category IDs in the Knowledge Base suggestion settings
+• Fixed duplicate CC data being written to email-piped responses
+```
+
+```markdown [🔒 Security]
+• Advanced Report routes are now guarded by a dedicated policy, and advanced report navigation is hidden from agents without sensitive-data permission
+• Anonymous requests to agent endpoints now return 401 instead of 403, and avatar reset resolves the target record only after authorization
+• Added a per-user rate limit to the AI ticket audit endpoint and hardened filter handling in mailbox and report queries
+```
+
+:::
+
 ## Fluent Support v2.3.2
 
 *Released on Aug 19, 2026*
