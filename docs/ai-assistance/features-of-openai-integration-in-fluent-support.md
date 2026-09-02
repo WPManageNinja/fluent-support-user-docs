@@ -106,3 +106,13 @@ First, go to the Activities section from the **Fluent Support Dashboard,** click
   * **Prompt** : Here, you can see what prompts you used in your tickets.
 
   6. With this **Pagination** option, you can set how many ticket activities you want to display per page.
+
+## Audit Your Tickets With AI
+
+Beyond replying inside a single ticket, Fluent Support can review your conversations in bulk. The [**AI Ticket Audit**](/ai-ticket-audit) report — found under **Reports → AI Ticket Audit** — runs your tickets through the same configured AI provider and returns, for each conversation:
+
+  * A **mood** — Happy, Neutral, Frustrated or Very Unhappy.
+  * A **sentiment score** out of 10.
+  * A **one-line summary** written from the customer's point of view.
+
+You can then filter by mood to surface the conversations that need a human, rather than reading every thread yourself. See the [AI Ticket Audit](/ai-ticket-audit) guide for setup and usage.
