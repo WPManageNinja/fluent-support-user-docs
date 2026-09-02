@@ -98,6 +98,9 @@ The ‘**Customer Registration Form Field’** allows agents to get the informat
 
 If you **enable** the **‘Enable Two-Factor Authentication’** option, this will require customers to enter a verification code sent to their email whenever they try to log in to the customer portal.
 
+> [!TIP]
+> Two-Factor Authentication protects portal **logins**. To stop bots from opening tickets in the first place, you can also protect the portal's **ticket creation form** with Google reCAPTCHA (v2 or v3). See the [Google reCAPTCHA Integration](/google-recaptcha-integration#protecting-the-ticket-creation-form) guide.
+
 ### J. Enable Keyboard Shortcuts 
 
 Enabling the ‘**Enable Keyboard Shortcuts’** option allows agents to use keyboard shortcuts for faster actions.
