@@ -82,4 +82,5 @@ If you are unsure which model to pick, start with the one marked **Recommended**
 - Only one AI provider is active at a time. Switching providers changes where all AI requests are sent.
 - API costs are billed directly by the provider — Fluent Support does not charge for AI usage beyond your Pro license.
 - You can review AI usage per agent in the **AI Activities** tab under **Activities** in your Fluent Support dashboard.
+- The provider you configure here also powers the [AI Ticket Audit](/ai-ticket-audit) report, which reads your conversations and returns a mood, a sentiment score and a one-line summary for each ticket.
 :::
