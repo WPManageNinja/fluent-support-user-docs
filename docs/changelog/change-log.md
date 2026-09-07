@@ -19,34 +19,24 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 ```
 
 ```markdown [🚀 Improvements]
-• Reports navigation reorganized — Personal Reports remains in the free plan, and the full reporting suite is now part of Fluent Support Pro
-• Ticket list performance — pagination is bounded and full response histories are no longer eager-loaded when listing tickets
-• Ticket rows in reports and lists are now keyboard accessible, and report tables, charts and toolbars adapt to narrow screens
-• Product dropdowns are alphabetized and searchable, and the fallback agent setting now uses a searchable agent dropdown instead of a raw agent ID field
-• Half-hourly background tasks are now scheduled through Action Scheduler and reconciled automatically, so scheduled jobs no longer stall after updates
-• Database migrations are locked against concurrent requests during plugin updates, preventing duplicated or partial migrations
-• Normalized input and select field heights across the admin UI, and scoped date-range picker styles so they no longer leak into other screens
+• Keyboard-accessible ticket rows and responsive report tables, charts and toolbars
+• Product dropdowns are alphabetized and searchable; fallback agent is now a searchable dropdown
+• Half-hourly background tasks now run through Action Scheduler and reconcile automatically
+• Consistent input and select heights in the admin UI; scoped date-range picker styles
 • Report stat numbers now use thousand separators
+• (MCP) Silent close option for the close-ticket tool
 ```
 
 ```markdown [🐞 Bug fixes]
 • Fixed the product filter on the ticket list — an explicitly cleared product is respected, filter routing is corrected, and ticket counts are no longer attributed to the wrong product across pages
 • Fixed the Business Boxes report showing waiting tickets from the wrong mailbox when a mailbox filter was applied
-• Fixed the Agent Performance report showing the wrong latest response on ticket rows, counting agents without responses as active, and exporting with unnormalized filters
-• Fixed the Product Distribution total not respecting the selected product filter
-• Fixed report charts keeping stale data after a failed snapshot fetch or a cleared date range, plus chart sizing and zoom issues
-• Fixed pagination not resetting when filters changed in Business Boxes and audit reports
-• Fixed reCAPTCHA issues on the ticket form, including stale tokens being reused, submissions getting stuck when a v3 token never resolved, the v3 badge not appearing, and no way to recover from a failed script load
-• Fixed two-factor and login expiry timestamps parsed as UTC, so codes and links no longer expire early on sites with a non-UTC timezone
-• Fixed inline attachments sent without an "[image: filename]" placeholder — common with iOS Mail and the Gmail app — being hidden from the ticket thread instead of showing as regular attachments
+• Two-factor and login expiry parsed as UTC, expiring early on non-UTC sites
 • Fixed category option ordering and stale category IDs in the Knowledge Base suggestion settings
 • Fixed duplicate CC data being written to email-piped responses
 ```
 
 ```markdown [🔒 Security]
-• Advanced Report routes are now guarded by a dedicated policy, and advanced report navigation is hidden from agents without sensitive-data permission
-• Anonymous requests to agent endpoints now return 401 instead of 403, and avatar reset resolves the target record only after authorization
-• Added a per-user rate limit to the AI ticket audit endpoint and hardened filter handling in mailbox and report queries
+• Security through ongoing audits and hardening
 ```
 
 :::
