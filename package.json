@@ -7,13 +7,16 @@
     "docs:dev": "npx vitepress dev",
     "docs:build": "npx vitepress build",
     "docs:preview": "npx vitepress preview",
-    "docs:verify": "node scripts/verify-images.mjs"
+    "docs:verify": "node scripts/verify-images.mjs",
+    "featured:generate": "node scripts/generate-featured-images.mjs",
+    "featured:regenerate": "node scripts/generate-featured-images.mjs --force"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "sharp": "^0.35.4",
     "vitepress": "^1.6.4"
   }
 }
