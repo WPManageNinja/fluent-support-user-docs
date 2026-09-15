@@ -2,6 +2,45 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.4.0
+
+*Released on Sep 03, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added Advanced Reports suite — a rebuilt Reports section with Ticket Overview, Agent Performance, Product Insight, Business Boxes, Activity and AI Ticket Audit pages, each with date-range filtering, comparison charts and a collapsible report sidebar
+• Added AI Ticket Audit report — audit tickets with your configured AI provider (OpenAI, Gemini or Anthropic), filter results by mood, and page through audited tickets
+• Added Historical Snapshots for Advanced Reports — reporting data is captured every 6 hours, and a Live / Snapshot selector lets you compare current numbers against any earlier capture
+• Added growth metrics and an activity grid to Agent Performance reports, plus product interaction counts in Product Insight
+• Added Google reCAPTCHA protection for the Customer Portal ticket creation form, supporting both reCAPTCHA v2 and v3
+• Added Date Range custom field type — collect a start and end date in a single ticket field, rendered with a date-range picker in the ticket form and the ticket sidebar
+• Added a category filter for Knowledge Base article suggestions — limit suggested docs to selected categories, including their subcategories
+```
+
+```markdown [🚀 Improvements]
+• Keyboard-accessible ticket rows and responsive report tables, charts and toolbars
+• Product dropdowns are alphabetized and searchable; fallback agent is now a searchable dropdown
+• Half-hourly background tasks now run through Action Scheduler and reconcile automatically
+• Consistent input and select heights in the admin UI; scoped date-range picker styles
+• Report stat numbers now use thousand separators
+• (MCP) Silent close option for the close-ticket tool
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed the product filter on the ticket list — an explicitly cleared product is respected, filter routing is corrected, and ticket counts are no longer attributed to the wrong product across pages
+• Fixed the Business Boxes report showing waiting tickets from the wrong mailbox when a mailbox filter was applied
+• Two-factor and login expiry parsed as UTC, expiring early on non-UTC sites
+• Fixed category option ordering and stale category IDs in the Knowledge Base suggestion settings
+• Fixed duplicate CC data being written to email-piped responses
+```
+
+```markdown [🔒 Security]
+• Security through ongoing audits and hardening
+```
+
+:::
+
 ## Fluent Support v2.3.2
 
 *Released on Aug 19, 2026*

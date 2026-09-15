@@ -118,6 +118,12 @@ If your email piping is configured correctly but tickets aren't appearing, the i
 - Optimize your database regularly
 - Consider using a more powerful hosting plan
 
+### Inline images from a customer's email are missing
+
+Some mobile mail clients — notably **iOS Mail** and the **Gmail app** — insert photos without the `[image: filename]` placeholder text that Fluent Support uses to position inline images in the message body.
+
+Since **v2.4.0**, an inline image with no matching placeholder falls back to being shown as a regular visible attachment on the ticket instead of staying hidden. If you are on an older version and an attachment appears to have vanished from an email-piped ticket, update Fluent Support.
+
 ## Permission & Access Issues
 
 ### Agents cannot access tickets
@@ -126,6 +132,26 @@ If your email piping is configured correctly but tickets aren't appearing, the i
 2. **User Roles:** Ensure users have the correct WordPress user roles
 3. **Business Inbox Access:** Verify agents have access to the correct business inboxes
 
+### An agent cannot see the report pages
+
+Every report page except [Personal Reports](/personal-report) requires **two** permissions, not one: **View All Reports** *and* **Access Private Data (Customers, Agents)**.
+
+If an agent is missing either, the advanced report pages are hidden from the Reports sidebar entirely. Grant both under **Settings → Agents & Permissions**, or see [Permission Management for Agents](/permission-management-for-agents).
+
+### Two-factor codes or login links expire immediately
+
+On sites running a **non-UTC timezone**, two-factor codes and customer portal login links could expire earlier than their stated window because the expiry timestamp was read in the site's local timezone rather than UTC.
+
+This is fixed in **v2.4.0**. If customers report that codes are dead on arrival, update Fluent Support and confirm your WordPress timezone under **Settings → General**.
+
+### The reCAPTCHA challenge does not appear on the ticket form
+
+1. **Check the version setting:** reCAPTCHA **v3** shows only a small badge in the page corner, not a checkbox. If you expected the "I'm not a robot" tick box, you need **v2**.
+2. **Check where it is enabled:** Under **Settings → Recaptcha**, confirm the **Ticket Creation Form** is ticked under **Use reCAPTCHA on**.
+3. **Check the keys match the version:** A v2 key pair will not work on a v3 site setting, or vice versa. Re-register the site in the Google console if needed.
+4. **Blocked script:** If Google's script cannot load, the form shows a retry option rather than blocking the customer. A consistently failing load usually means a firewall, ad blocker, or a region where Google services are unreachable.
+
+See the [Google reCAPTCHA Integration](/google-recaptcha-integration) guide for full setup steps.
 
 ## Still Need Help?
 

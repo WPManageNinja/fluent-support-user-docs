@@ -50,6 +50,11 @@ Once you are done, hit the **Update** button to save all changes.
   * **View Activity Logs:** This allows the agent to view the activity log. 
   * **View Agent Today’s Performance:** This allows the agent to show day-wise performance. 
 
+> [!IMPORTANT]
+> The advanced report pages — **Ticket Overview**, **Agent Performance**, **Product Insight**, **Business Boxes**, **Activity**, **Time Sheet** and **AI Ticket Audit** — require **both** the **View All Reports** permission **and** the **Access Private Data (Customers, Agents)** permission listed under [Settings](#settings) above.
+>
+> An agent who is missing either permission does not see those pages in the Reports sidebar at all, and cannot reach them directly. [Personal Reports](/personal-report) is unaffected — every agent can always see their own numbers.
+
 ### Restrictions 
 
   * **Business Inbox Access Restriction:** Using this option, you can restrict the access for agents to reply any specific business inbox or inboxes tickets.

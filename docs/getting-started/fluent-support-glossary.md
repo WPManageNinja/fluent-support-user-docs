@@ -11,6 +11,8 @@ This glossary defines common terms used throughout the Fluent Support documentat
 
 **Advanced Filters:** A powerful search tool within the dashboard that allows you to sort and locate specific tickets based on detailed parameters such as status, priority, agent, or date range.
 
+**Advanced Reports:** The reporting suite in the Reports section — Ticket Overview, Agent Performance, Product Insight, Business Boxes, Activity, Time Sheet and AI Ticket Audit. Requires both the View All Reports and Access Private Data permissions.
+
 **Agent:** A support staff member added to your Fluent Support system who has permission to view, reply to, and manage tickets. Also referred to as Support Staff.
 
 **Agent Collision Detection:** A real-time feature that notifies an agent if another staff member is currently viewing or replying to the same ticket, preventing duplicate responses.
@@ -20,6 +22,8 @@ This glossary defines common terms used throughout the Fluent Support documentat
 **Activity Logs:** A detailed record of all actions taken within the helpdesk, such as ticket assignments, status changes, and replies, ensuring transparency and accountability.
 
 **AI-Generated Replies:** An automated feature that uses Artificial Intelligence to draft responses based on the context of the ticket, helping agents reply faster.
+
+**AI Ticket Audit:** A report that runs your tickets through your configured AI provider and returns a mood, a sentiment score out of 10, and a one-line summary for each conversation, so you can find the customers who need attention without reading every thread.
 
 **AI Ticket Summary:** A feature that automatically generates a concise summary of a long ticket conversation, allowing agents to catch up quickly without reading every message.
 
@@ -39,6 +43,8 @@ This glossary defines common terms used throughout the Fluent Support documentat
 
 ## D
 
+**Date Range Field:** A custom field type that collects a start date and an end date together in a single ticket field, rendered with a date-range picker on both the admin form and the customer portal.
+
 **Delay Tracking:** A metric that tracks the time elapsed between a customer's message and an agent's response, or how long a ticket has been in a "Waiting" state.
 
 **Draft Mode:** A feature that automatically saves an agent's typed response as a draft, preventing data loss if the page is closed or refreshed before sending.
@@ -55,6 +61,10 @@ This glossary defines common terms used throughout the Fluent Support documentat
 
 **Gutenberg Block:** A WordPress editor component that allows you to easily embed and customize the Customer Portal directly on any page of your website.
 
+## H
+
+**Historical Snapshot:** A capture of your reporting data taken automatically every 6 hours. The Live / Snapshot selector on a report page lets you view any earlier capture instead of current numbers, so you can compare periods. Snapshots are kept for up to 15 days.
+
 ## I
 
 **Incoming Webhook:** A mechanism that allows external applications to send data to Fluent Support, often used to create tickets automatically from other tools.
@@ -62,6 +72,8 @@ This glossary defines common terms used throughout the Fluent Support documentat
 **Internal Note:** A private comment added to a ticket thread that is visible only to support agents and admins, not the customer. Used for team collaboration and context sharing.
 
 ## M
+
+**Mood:** The sentiment label the AI Ticket Audit assigns to a conversation — Happy, Neutral, Frustrated or Very Unhappy. Frustrated and Very Unhappy tickets are counted as needing attention.
 
 **Merge Tickets:** The process of combining multiple tickets from the same customer or regarding the same issue into a single ticket thread to streamline communication.
 

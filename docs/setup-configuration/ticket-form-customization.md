@@ -22,6 +22,7 @@ You will find different settings options in Ticket Form Settings to customize yo
 
   * Knowledge base suggestion on ticket creation form
   * Knowledge base post type
+  * Filter by Category
   * Suggested Article Limit
   * Disabled Default Fields
   * Disable Rich Text Editor for Frontend
@@ -49,6 +50,18 @@ This setting allows you to specify exactly which types of content on your WordPr
 * **Selection:** You can choose from standard WordPress Posts, Pages, or Attachments.
 * **Custom Post Types:** If you use third-party plugins, you can also select Products (WooCommerce), Docs (BetterDocs/Fluent Support Docs), or Courses (FluentCommunity/LearnDash).
 * **Versatility:** You can select multiple post types simultaneously. For example, selecting both "Docs" and "Products" ensures that the system searches both your documentation and your store items to find a relevant match for the customer's subject line.
+
+#### Filter by Category
+
+Article suggestions are only useful when they stay relevant. The **Filter by Category** setting lets you restrict suggestions to specific categories instead of searching your entire blog.
+
+* **Selection:** Pick one or more categories from the multi-select list. Leave it empty — the placeholder reads **All Categories** — to keep suggesting from everywhere.
+* **Subcategories:** When you select a category, its subcategories are included automatically. You do not need to tick each child individually.
+
+> [!IMPORTANT]
+> This filter applies to the standard WordPress **Post** type only, because `category` is a taxonomy that belongs to posts. If you have also selected other post types — Docs, Products or Courses — those are **not** filtered by category. Matching posts from your selected categories are shown first, and the other post types only fill the remaining suggestion slots.
+
+Because of that, the **Filter by Category** field only appears once **Post** is among your selected **Knowledge Base Post Types**. If you deselect Post, the field disappears.
 
 #### Suggested Article Limit
 

@@ -58,7 +58,7 @@ To help individual agents manage their workload, the dashboard includes:
 
 The top menu bar within the Fluent Support panel provides quick access to other core areas:
 * **Tickets:** The full list view of all tickets.
-* **Reports:** Detailed analytics and graphs.
+* **Reports:** The analytics hub, with eight report pages covering ticket volume, agent performance, product pressure, mailbox workload, activity trends, timesheets and AI ticket audits. See [Reports and Stats](/reports-and-stats).
 * **Customers:** Your database of user profiles.
 * **Saved Replies:** Manage your canned responses.
 * **Activities:** View system-wide logs.

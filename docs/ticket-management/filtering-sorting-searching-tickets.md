@@ -39,6 +39,11 @@ This filter allows you to filter the tickets based on your **Business** **Inboxe
 
 This option lets you filter the tickets based on the type of Products. By clicking on the dropdown, you can choose your preferred product. Then, a list of tickets will appear with the particular assigned product.
 
+The product dropdown is sorted **alphabetically** and is **searchable** — start typing to jump to a product instead of scrolling a long list.
+
+> [!TIP]
+> Clearing the product selection returns you to all products. Ticket counts shown beside each product stay tied to the correct product as you move between pages of results.
+
 **Active Tickets for Products**
 
 Now, you’ll also be able to identify which products generate the most tickets and manage agents. and you can do this with the help of Active status. To do this, go to the **All tickets** **→** **Active** button & search for your desired **Product** in the **Product** field.
