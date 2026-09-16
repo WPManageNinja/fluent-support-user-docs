@@ -43,3 +43,30 @@ First, sign up or log in to the customer support portal and the **Customer Porta
 
 **K: Pagination** : Using this arrow option, users can scroll to different pages.
 
+
+## Changing Your Account Email
+
+Customers can update the email address on their account right from the Customer Portal. Because the email address is what links a customer to their tickets, Fluent Support asks the customer to confirm the new address before the change takes effect.
+
+Here is how it works from the customer's side:
+
+1. The customer enters a new email address in their portal profile and saves it.
+2. Fluent Support sends a **verification email** to the **new** address. The account keeps using the old email until this step is completed.
+3. The customer opens that email and clicks the **verification link**. The link is signed and unique to that request, so it cannot be guessed or reused.
+4. The account email is updated, and the customer can log in with the new address from then on.
+
+> [!NOTE]
+> If the customer never clicks the link, nothing changes — the old email address stays on the account. They can simply request the change again to receive a fresh link.
+
+### What happens to tickets already sent from the new address?
+
+Sometimes a customer has already been emailing your support inbox from the new address before they updated their profile. In that case, Fluent Support has been collecting those tickets under a separate, unlinked customer record.
+
+When the customer verifies the new email, Fluent Support **automatically merges** that unlinked record into their account. All tickets, replies, and history from both addresses are brought together under one customer, so agents see the full picture in a single place and the customer sees all of their tickets in the portal.
+
+> [!TIP]
+> No action is needed from your agents — the merge happens on its own the moment the customer confirms the new email.
+
+::: details For developers
+If you have built an add-on that stores its own data against a customer ID, hook into the `fluent_support/merging_customer_records` action. It fires when two customer records are merged, so you can move your data from the old record to the one that is being kept.
+:::
