@@ -128,7 +128,6 @@ Once connected, your AI assistant gets access to **20 Fluent Support tools**. Yo
 - **Get a ticket** (`fluent-support-get-ticket`): Read the full details of any ticket, including the conversation thread.
 - **List tickets** (`fluent-support-list-tickets`): Browse and filter tickets by status, agent, date, keyword, and more.
 - **Update a ticket** (`fluent-support-update-ticket`): Change a ticket's priority, subject, status, and other fields.
-- **Close a ticket** (`fluent-support-close-ticket`): Mark a resolved ticket as closed.
 - **Reopen a ticket** (`fluent-support-reopen-ticket`): Reopen a previously closed conversation.
 - **Delete a ticket** (`fluent-support-delete-ticket`): Permanently remove a ticket.
 - **Merge tickets** (`fluent-support-merge-tickets`): Combine two duplicate tickets into one.
@@ -165,6 +164,7 @@ Here are a few things you can simply ask your AI client once it is connected:
 - *"Reply to ticket #142 using our standard refund saved reply."*
 - *"Show all high-priority tickets assigned to Sarah that are still open."*
 - *"Close all tickets that have been waiting for a customer reply for more than 7 days."*
+- *"Silently close ticket #305 — it's a duplicate, don't email the customer."*
 - *"Which agent closed the most tickets this month?"*
 
 
