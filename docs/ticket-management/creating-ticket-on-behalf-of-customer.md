@@ -42,3 +42,12 @@ Once you are done, click on **Create Ticket** to add the ticket on behalf of the
   * **Related Product/Service:** Here, you can select your relevant Product Name, for example. Fluent Support, Fluent CRM, and so on.
   * **Priority:** Also, you can choose the ticket’s priority level; there are three priority levels; **Normal, Medium** & **Critical.**
   * **Initiated by agent:** Check this box to clearly indicate that the support ticket is being created by an agent on behalf of the customer.
+
+## Agent Outreach Tickets
+
+A ticket created by an agent on the customer's behalf is treated as **agent outreach**. These tickets behave as follows:
+
+* The ticket starts as **Active** and is **assigned** to the agent who created it.
+* It is marked with an **Agent outreach** label so you can tell it apart from tickets the customer opened.
+* When the customer opens the ticket in the Customer Portal, it opens on the **agent's message**.
+* The email the customer receives uses the **ticket title** as its subject.
