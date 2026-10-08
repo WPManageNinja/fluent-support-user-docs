@@ -63,4 +63,18 @@ To reply to the ticket, click on the **Add Reply** button. Your ticket reply wil
 
 >Replies from CC users are treated as coming from the primary customer i.e., CC users can reply to the agent directly from their mailbox.
 
+## Auto-Replies and Bounces (Out-of-Office Handling)
+
+Automatic replies, such as a Gmail vacation responder or an Outlook out-of-office (OOF) message, can cause endless email loops between a helpdesk and a customer. Fluent Support detects these and prevents the loop.
+
+* When a customer with an auto-reply turned on opens a ticket by email, no reply loop starts.
+* An out-of-office reply or a delivery bounce that arrives on a **closed** ticket is saved as an **internal note**. The ticket is **not reopened**.
+
+## Email Threading 
+
+Fluent Support Pro keeps email conversations properly threaded in the customer's mail client.
+
+* An agent's reply appears **under the customer's original email** in Gmail and Outlook, instead of as a separate conversation.
+* If a customer sends a **new email** that reuses the subject of an old ticket, it creates a **new ticket**. It is not added to the old one.
+
 If you want to know more details about Email Piping, you can also read this [What is Email Piping and Why?](https://fluentsupport.com/what-is-email-piping-and-why/)  
