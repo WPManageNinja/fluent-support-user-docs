@@ -35,11 +35,22 @@ In the pop-up window, you will need to fill in the following details:
 
 ### Agent Signature
 
-You can easily set up a custom sign-off to automatically append to the bottom of an agent's ticket replies. Scroll to the bottom of the agent configuration window and check the box labeled **Enable signature for this agent**.
+You can easily set up a custom sign-off for an agent's ticket replies. Scroll to the bottom of the agent configuration window and check the box labeled **Enable signature for this agent**.
 
 1. When checked, a rich text editor will open.
 2. Use the standard formatting tools (bold, italic, lists, links) to design the signature text.
-3. Switch between **Visual** and **Code** views as needed. Use **Add media** to insert images—such as a company logo or a headshot—directly into the signature.
+3. Switch between **Visual** and **Code** views as needed. Use **Add media** to insert images such as a company logo or a headshot, directly into the signature.
+
+![Agent Signature](/images/setup-configuration/agents-permissions/adding-support-staff-agents/agent-signature-4.webp)
+
+#### Showing the Signature in Emails with <code v-pre>{{agent.signature}}</code>
+
+The signature is **no longer appended automatically** to replies. It appears in the customer's email only where the <code v-pre>{{agent.signature}}</code> smartcode is placed in the email template. This guarantees a reply shows exactly **one** sign-off, even when the agent replies from an email inbox.
+
+To place the signature, open the **Replied by Agent (To Customer)** email template in your business inbox's **Email Settings** and add <code v-pre>{{agent.signature}}</code> where you want the sign-off to appear (usually at the end of the message). See [Managing Email Notifications](/customize-email-notifications) for details.
+
+> [!WARNING]
+> If you upgraded from an earlier version and already have a saved email template, the signature will **not** appear in replies until you add <code v-pre>{{agent.signature}}</code> to that template.
 
 
 
