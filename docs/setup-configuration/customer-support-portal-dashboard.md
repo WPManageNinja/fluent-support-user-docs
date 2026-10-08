@@ -44,6 +44,12 @@ First, sign up or log in to the customer support portal and the **Customer Porta
 **K: Pagination** : Using this arrow option, users can scroll to different pages.
 
 
+## Replying to a Closed Ticket
+
+Customers can reply to a ticket even after it has been closed. Sending a reply **reopens** the ticket automatically. The reply cannot be empty. If a customer tries to send a blank reply, the portal shows an error and the ticket stays closed.
+
+![Replying to a Closed Ticket](/images/setup-configuration/customer-portal/customer-support-portal-dashboard/reply-ta-a-closed-ticket-4.webp)
+
 ## Changing Your Account Email
 
 Customers can update the email address on their account right from the Customer Portal. Because the email address is what links a customer to their tickets, Fluent Support asks the customer to confirm the new address before the change takes effect.
