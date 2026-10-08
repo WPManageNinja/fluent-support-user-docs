@@ -41,5 +41,5 @@ To set up an agent's signature text, see [Adding Support Staff Agents](/adding-s
 
 ## Sender Name
 
-Agent replies use the **From Name** chosen in the business inbox's email settings (inbox, agent, or custom). Automatic emails always use the inbox name. See [Web & Email-Based Settings in Business Inbox](/web-and-email-settings-in-business-inbox) for details.
+Agent replies use the **From Name** chosen in the business inbox's **Inbox Settings** (inbox name, replying agent's name, or custom). Automatic emails always use the inbox name. See [Web & Email-Based Settings in Business Inbox](/web-and-email-settings-in-business-inbox) for details.
 
