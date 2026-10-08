@@ -125,7 +125,7 @@ Once connected, your AI assistant gets access to **20 Fluent Support tools**. Yo
 ### Ticket Tools
 
 - **Create a ticket** (`fluent-support-create-ticket`): Open a new ticket on behalf of a customer.
-- **Get a ticket** (`fluent-support-get-ticket`): Read the full details of any ticket, including the conversation thread.
+- **Get a ticket** (`fluent-support-get-ticket`): Read the full details of any ticket, including the conversation thread. The thread is returned in a readable **Markdown** format, so your AI assistant can follow the conversation easily.
 - **List tickets** (`fluent-support-list-tickets`): Browse and filter tickets by status, agent, date, keyword, and more.
 - **Update a ticket** (`fluent-support-update-ticket`): Change a ticket's priority, subject, status, and other fields.
 - **Close a ticket** (`fluent-support-close-ticket`): Mark a resolved ticket as closed. Ask for a **[silent close](/close-ticket-silently)** to close the ticket without sending the customer a closing notification — handy for spam, duplicates, or tickets you have already wrapped up elsewhere.
@@ -136,7 +136,7 @@ Once connected, your AI assistant gets access to **20 Fluent Support tools**. Yo
 
 ### Communication Tools
 
-- **Reply to a ticket** (`fluent-support-reply-to-ticket`): Send a response to the customer as your agent account.
+- **Reply to a ticket** (`fluent-support-reply-to-ticket`): Send a response to the customer as your agent account. You can reply to a **closed** ticket, and you can save a reply as a **draft** instead of sending it. If the same request is retried (for example, after a network timeout), only **one** email is sent to the customer.
 - **Add an internal note** (`fluent-support-add-internal-note`): Leave a private note that only your team can see.
 - **List saved replies** (`fluent-support-list-saved-replies`): Pull up your canned responses to use or adapt.
 
