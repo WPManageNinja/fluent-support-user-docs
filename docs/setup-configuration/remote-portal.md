@@ -38,7 +38,7 @@ Make sure that:
 
 On the **support site**, go to **Fluent Support > Settings > Remote Portal** and switch on **Enabled**.
 
-<!-- TODO: Capture screenshot of Settings > Remote Portal with the Enabled switch on and the four connect steps visible, save at /images/setup-configuration/customer-portal/remote-portal/remote-portal-enable.webp -->
+![Remote Portal settings on the support site with the connect steps](/images/setup-configuration/customer-portal/remote-portal/remote-portal-enable.webp)
 
 ## Step 2: Create The Connection User
 
@@ -84,7 +84,7 @@ On your **main site**, go to **Settings > FluentSupport Client**. The settings s
 3. Paste the **Application Password** from Step 3.
 4. Click **Connect**.
 
-<!-- TODO: Capture screenshot of Settings > FluentSupport Client on the main site with the Connection key, Username and Application Password fields, save at /images/setup-configuration/customer-portal/remote-portal/remote-portal-connect.webp -->
+![Connecting the main site with the key, username and Application Password](/images/setup-configuration/customer-portal/remote-portal/remote-portal-connect.webp)
 
 The Application Password is entered only on your main site, the site that uses it. The Remote Portal page on the support site updates by itself once the main site connects.
 
