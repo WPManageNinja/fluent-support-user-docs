@@ -38,7 +38,6 @@ Make sure that:
 
 On the **support site**, go to **Fluent Support > Settings > Remote Portal** and switch on **Enabled**.
 
-![Remote Portal settings on the support site](/images/setup-configuration/customer-portal/remote-portal/remote-portal-enable.webp)
 <!-- TODO: Capture screenshot of Settings > Remote Portal with the Enabled switch on and the four connect steps visible, save at /images/setup-configuration/customer-portal/remote-portal/remote-portal-enable.webp -->
 
 ## Step 2: Create The Connection User
@@ -60,7 +59,6 @@ Still on the **support site**, go to **Users**, edit the user from Step 2, and s
 
 Copy the password right away. WordPress shows it only once.
 
-![Creating an Application Password on the support site](/images/setup-configuration/customer-portal/remote-portal/remote-portal-app-password.webp)
 <!-- TODO: Capture screenshot of the WordPress user profile Application Passwords section with a new password shown, save at /images/setup-configuration/customer-portal/remote-portal/remote-portal-app-password.webp -->
 
 ## Step 4: Install Fluent Support Client On Your Main Site
@@ -71,7 +69,6 @@ On the Remote Portal settings page, click **Download the connector plugin (.zip)
 
 Back on the **support site**, click **Generate connection key** on the Remote Portal page, then click **Copy key**.
 
-![Connection key on the support site](/images/setup-configuration/customer-portal/remote-portal/remote-portal-key.webp)
 <!-- TODO: Capture screenshot of a generated connection key with the Copy key and Generate a new key buttons, save at /images/setup-configuration/customer-portal/remote-portal/remote-portal-key.webp -->
 
 ::: warning
@@ -87,7 +84,6 @@ On your **main site**, go to **Settings > FluentSupport Client**. The settings s
 3. Paste the **Application Password** from Step 3.
 4. Click **Connect**.
 
-![Connecting the main site with the key, username and Application Password](/images/setup-configuration/customer-portal/remote-portal/remote-portal-connect.webp)
 <!-- TODO: Capture screenshot of Settings > FluentSupport Client on the main site with the Connection key, Username and Application Password fields, save at /images/setup-configuration/customer-portal/remote-portal/remote-portal-connect.webp -->
 
 The Application Password is entered only on your main site, the site that uses it. The Remote Portal page on the support site updates by itself once the main site connects.
@@ -102,7 +98,6 @@ After connecting, your main site asks for the portal settings:
 
 Click **Save**.
 
-![Portal page, mailbox and logged-out message on the main site](/images/setup-configuration/customer-portal/remote-portal/remote-portal-page.webp)
 <!-- TODO: Capture screenshot of the Portal page form on the main site, save at /images/setup-configuration/customer-portal/remote-portal/remote-portal-page.webp -->
 
 ## Check The Connection
@@ -118,7 +113,6 @@ Click **Run check again** after you fix a problem.
 
 On the support site, the Remote Portal page shows the connected main site, the portal page, the user it connects as, the connector version, where customer data comes from, and the last request in each direction. Click **Test connection** to check it from that side.
 
-![Connection details on the support site](/images/setup-configuration/customer-portal/remote-portal/remote-portal-connected.webp)
 <!-- TODO: Capture screenshot of the Connection table on the support site with the Test connection and Disconnect buttons, save at /images/setup-configuration/customer-portal/remote-portal/remote-portal-connected.webp -->
 
 ## What Your Customers Can Do
