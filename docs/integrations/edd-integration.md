@@ -28,7 +28,7 @@ You can add an **EDD Products** or **EDD Orders** dropdown field to your ticket 
 
 To add an EDD custom field, go to **Settings → Custom Fields** and click **+ Add New Field**. Choose **EDD Products** or **EDD Orders** as the **Field Type** and click **Add**.
 
-<!-- TODO: Capture screenshot showing the Custom Fields settings with EDD field types selected, save at /images/integrations-channels/core-integrations/edd-integration/edd-custom-fields.webp -->
+![EDD Products and EDD Orders field types in Custom Fields](/images/integrations-channels/core-integrations/edd-integration/edd-custom-fields.webp)
 
 Give the field a **Public Label** (e.g., "Which product do you need help with?"), configure any additional options, and click **Add** to save. The field will now appear on your ticket submission form for customers to fill in.
 
@@ -42,7 +42,7 @@ The available EDD conditions are:
 - **Customer Purchased Package (Variation)** — matches customers who purchased a specific variable-price option, such as "Plugin Pro – Personal" or "Plugin Pro – Agency".
 - **Customer Has Active License** — a Yes/No condition that checks whether the customer holds a currently active EDD software license. This condition only appears when the **EDD Software Licensing** extension is active.
 
-<!-- TODO: Capture screenshot showing the workflow builder with the Easy Digital Downloads condition group expanded, save at /images/integrations-channels/core-integrations/edd-integration/edd-workflow-conditions.webp -->
+![Easy Digital Downloads conditions in the workflow builder](/images/integrations-channels/core-integrations/edd-integration/edd-workflow-conditions.webp)
 
 ::: tip
 Use EDD commerce conditions together with EDD custom fields for the most powerful workflows. Custom fields let the customer tell you which product they need help with at submission time; commerce conditions let you automatically route or respond based on what they actually purchased.

@@ -30,11 +30,11 @@ You will find the following options in **Global Settings** to configure your **F
 
 The **Customer Portal Destination** controls where ticket links in email notifications redirect your customers. Choose the option that matches how your support portal is set up.
 
-<!-- TODO: Capture screenshot for this step and save it at /images/setup-configuration/customer-portal/customer-support-portal-setup/portal-destination-options.webp -->
+![Customer Portal destination options](/images/setup-configuration/customer-portal/customer-support-portal-setup/portal-destination-options.webp)
 
 * **Default Portal Page** — Customers are sent to the Fluent Support portal page you configure in section A below. This is the default for most setups.
 * **FluentCart Account Navigation** — Customers are redirected to the Fluent Support tab inside the FluentCart customer account area. Requires FluentCart to be active.
-* **WooCommerce My Account** — Customers are redirected to the Fluent Support tab inside the WooCommerce My Account page. Requires Fluent Support Pro and WooCommerce to be active. (Pro)
+* **WooCommerce Account Navigation** — Customers are redirected to the Fluent Support tab inside the WooCommerce My Account page. Requires Fluent Support Pro and WooCommerce to be active. (Pro)
 * **FluentCommunity Portal** — Customers are sent to your FluentCommunity space where Fluent Support is embedded. Requires FluentCommunity to be active. When selected, a copyable FluentCommunity Portal URL is shown — add that URL to your FluentCommunity navigation menu to complete the setup.
 
 ::: info
