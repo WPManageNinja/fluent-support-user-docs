@@ -55,11 +55,11 @@ You can use an administrator account instead, but a restricted agent is safer.
 
 ## Step 3: Create An Application Password
 
-Still on the **support site**, go to **Users**, edit the user from Step 2, and scroll down to **Application Passwords**. Type a name such as `Customer Portal` and click **Add New Application Password**.
+Still on the **support site**, go to **Users**, edit the user from Step 2, and scroll down to **Application Passwords**. Type a name such as `Customer Portal` and click **Add Application Password**.
 
 Copy the password right away. WordPress shows it only once.
 
-<!-- TODO: Capture screenshot of the WordPress user profile Application Passwords section with a new password shown, save at /images/setup-configuration/customer-portal/remote-portal/remote-portal-app-password.webp -->
+![Creating an Application Password on the support site](/images/setup-configuration/customer-portal/remote-portal/remote-portal-app-password.webp)
 
 ## Step 4: Install Fluent Support Client On Your Main Site
 
@@ -69,7 +69,7 @@ On the Remote Portal settings page, click **Download the connector plugin (.zip)
 
 Back on the **support site**, click **Generate connection key** on the Remote Portal page, then click **Copy key**.
 
-<!-- TODO: Capture screenshot of a generated connection key with the Copy key and Generate a new key buttons, save at /images/setup-configuration/customer-portal/remote-portal/remote-portal-key.webp -->
+![Connection key generated on the support site](/images/setup-configuration/customer-portal/remote-portal/remote-portal-key.webp)
 
 ::: warning
 A connection key works **once** and expires **30 minutes** after it was generated. If it expires, click **Generate a new key**.
@@ -98,7 +98,7 @@ After connecting, your main site asks for the portal settings:
 
 Click **Save**.
 
-<!-- TODO: Capture screenshot of the Portal page form on the main site, save at /images/setup-configuration/customer-portal/remote-portal/remote-portal-page.webp -->
+![Portal page, mailbox and logged-out message on the main site](/images/setup-configuration/customer-portal/remote-portal/remote-portal-page.webp)
 
 ## Check The Connection
 
@@ -111,9 +111,11 @@ Your main site runs a **Connection check** after you save. Each line shows a che
 
 Click **Run check again** after you fix a problem.
 
+![Connection check on the main site](/images/setup-configuration/customer-portal/remote-portal/remote-portal-check.webp)
+
 On the support site, the Remote Portal page shows the connected main site, the portal page, the user it connects as, the connector version, where customer data comes from, and the last request in each direction. Click **Test connection** to check it from that side.
 
-<!-- TODO: Capture screenshot of the Connection table on the support site with the Test connection and Disconnect buttons, save at /images/setup-configuration/customer-portal/remote-portal/remote-portal-connected.webp -->
+![Connection details on the support site](/images/setup-configuration/customer-portal/remote-portal/remote-portal-connected.webp)
 
 ## What Your Customers Can Do
 
