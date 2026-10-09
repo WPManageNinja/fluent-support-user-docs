@@ -38,7 +38,7 @@ First, sign up or log in to the customer support portal and the **Customer Porta
   * A number showing how many replies the ticket has.
   * A **Waiting for your reply** badge when the last reply on an open ticket came from your support team and the customer has not answered yet. The badge goes away once the customer replies or the ticket is closed, so customers can quickly spot the tickets that need their attention.
 
-<!-- TODO: Capture screenshot of the customer portal ticket list with the "Waiting for your reply" badge next to a ticket title, and save it at /images/setup-configuration/customer-portal/customer-support-portal-dashboard/waiting-for-your-reply-badge.webp -->
+![Waiting for your reply badge in the Customer Portal](/images/setup-configuration/customer-portal/customer-support-portal-dashboard/waiting-for-your-reply-badge.webp)
 
 **H**. **Date** : Under this column, users can see the opening time of their tickets.
 

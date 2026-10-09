@@ -82,7 +82,7 @@ The available sources are:
 Choosing **not includes in** with **Web** still shows tickets that have no source recorded, so older tickets are not hidden by accident.
 :::
 
-<!-- TODO: Capture screenshot of the Source item in the advanced filter with its options list open, and save it at /images/ticket-management/search-filter/advanced-filter-fluent-support/advanced-filter-source.webp -->
+![Source item in the advanced filter with its options](/images/ticket-management/search-filter/advanced-filter-fluent-support/advanced-filter-source.webp)
 
 ### 2. Customer 
 

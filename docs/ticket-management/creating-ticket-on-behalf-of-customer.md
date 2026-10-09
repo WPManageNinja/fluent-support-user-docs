@@ -50,7 +50,7 @@ Tick **Initiated by agent** when you are the one starting the conversation, for 
 * **What you write becomes your first reply.** The text you enter in **Ticket Details** is sent as your reply, so the conversation opens with your message.
 * **In the ticket view,** your team sees a one-line note, such as "Sarah Lee started this conversation", instead of a customer message at the top.
 * **In the customer portal,** the customer sees your message as the first message in the conversation.
-* **The source shows as Agent outreach** in the ticket list, on the dashboard, and in the ticket view. You can also find these tickets with the **Source** item in the [Advanced Filter](/advanced-filter-fluent-support).
+* **The source shows as Agent outreach** in the ticket list (hover the source icon) and on the dashboard. You can also find these tickets with the **Source** item in the [Advanced Filter](/advanced-filter-fluent-support).
 
 ### The Email Your Customer Receives
 
@@ -65,4 +65,4 @@ The usual "ticket created" confirmation is not sent for these tickets, so the cu
 If you already customized the **Agent Outreach Ticket (To Customer)** email for an inbox, your saved subject and body are kept. To learn more about inbox email templates, see [Web-Based Settings in Business Inbox](/web-based_settings_in_business_inbox).
 :::
 
-<!-- TODO: Capture screenshot of an agent-initiated ticket in the ticket view showing the "started this conversation" note and the Agent outreach source, and save it at /images/ticket-management/daily-operations/creating-ticket-on-behalf-of-customer/agent-outreach-ticket-view.webp -->
+![Agent outreach ticket in the ticket view](/images/ticket-management/daily-operations/creating-ticket-on-behalf-of-customer/agent-outreach-ticket-view.webp)

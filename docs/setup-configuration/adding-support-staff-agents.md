@@ -54,7 +54,7 @@ The signature is not added to replies automatically. It is added to emails throu
 Email templates you saved before this update are kept exactly as you wrote them. If you want signatures in those emails, open the template and add <code v-pre>{{agent.signature}}</code> where the signature should go, usually right after <code v-pre>{{response.full_content}}</code>. See [Web-Based Settings in Business Inbox](/web-based_settings_in_business_inbox#adding-the-agent-signature-to-emails).
 :::
 
-<!-- TODO: Capture screenshot of the Agent Signature section with the help text under "Enable signature for this agent" and save it at /images/setup-configuration/agents-permissions/adding-support-staff-agents/agent-signature.webp -->
+![Agent Signature section in the agent profile](/images/setup-configuration/agents-permissions/adding-support-staff-agents/agent-signature.webp)
 
 
 

@@ -55,7 +55,7 @@ You have two choices:
 * **Show new replies:** Loads the new replies into the conversation so you can read them first. Your reply stays in the editor, so you can adjust it and send it when you are ready.
 * **Send anyway:** Sends your reply as it is.
 
-<!-- TODO: Capture screenshot of the "New reply on this ticket" dialog with the Show new replies and Send anyway buttons, and save it at /images/ticket-management/daily-operations/view-manage-ticket-entries/new-reply-while-writing.webp -->
+![New reply on this ticket dialog](/images/ticket-management/daily-operations/view-manage-ticket-entries/new-reply-while-writing.webp)
 
 ### Leaving A Ticket With An Unsent Reply
 
@@ -84,4 +84,4 @@ The **Ticket Stats** widget in the right sidebar gives you a quick summary of th
 * **Replies:** The number of replies on the ticket.
 * **Resolved in:** For closed tickets, how long the ticket took to resolve, with the date it was closed.
 
-<!-- TODO: Capture screenshot of the Ticket Stats sidebar widget on a closed ticket (showing Created, First response, Replies and Resolved in), and save it at /images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-stats-widget.webp -->
+![Ticket Stats widget on a closed ticket](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-stats-widget.webp)

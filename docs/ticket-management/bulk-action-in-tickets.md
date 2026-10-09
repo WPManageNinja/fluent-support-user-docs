@@ -20,7 +20,7 @@ As soon as you select a ticket, the bulk action bar appears at the bottom of the
 
 ![Bulk action bar with selected tickets](/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-3.webp)
 
-<!-- TODO: Replace bulk-action-3.webp with a screenshot of the new bulk action bar (selected count, Reply, Assign, Tags, Close, More, and the delete icon) and save it at /images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-3.webp -->
+
 
 ::: tip
 Press **Esc** to close an open action panel. Press **Esc** again to clear your selection.
@@ -32,7 +32,7 @@ The most used actions sit right on the bar: **Reply**, **Assign**, **Tags**, and
 
 ![The More menu with Ticket, Assignment, and Automation groups](/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-4.webp)
 
-<!-- TODO: Replace bulk-action-4.webp with a screenshot of the open More panel (Ticket, Assignment, and Automation groups) and save it at /images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-4.webp -->
+
 
 ### On the bar
 

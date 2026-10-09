@@ -28,7 +28,7 @@ In the **Inbox Settings,** you can do lots of customization, e.g., changing inbo
 The **From Name** applies only to emails an agent writes, such as ticket replies and tickets an agent starts for a customer. Automatic emails, like ticket confirmations and closed-ticket notices, always use the inbox name. The sender email address does not change, so customer replies still come back to this inbox. If the custom name comes out empty, Fluent Support falls back to the inbox name.
 :::
 
-<!-- TODO: Capture screenshot of the From Name setting with the Custom option selected, and save it at /images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/inbox-from-name.webp -->
+![From Name setting with a custom template](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/inbox-from-name.webp)
 
  **Admin Email Address:** Here, you can add another email address for admin where admin will get email if enabled in email settings, and you can change it anytime.
 
@@ -97,7 +97,7 @@ Agent signatures are not added to emails automatically. A signature appears only
 Templates you saved before this update are kept as you wrote them and do not include the signature. To add it, click the **Pencil Icon** next to the email, place <code v-pre>{{agent.signature}}</code> in the **Email Body** (usually right after <code v-pre>{{response.full_content}}</code>), and click **Save Settings**.
 :::
 
-<!-- TODO: Capture screenshot of an email template with the agent.signature smartcode in the Email Body and the Agent Signature smartcode highlighted, and save it at /images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/agent-signature-smartcode.webp -->
+![Email template with the agent signature smartcode](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/agent-signature-smartcode.webp)
 
 ### Set as Default 
 

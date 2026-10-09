@@ -86,7 +86,7 @@ If the **FluentAuth** plugin (version 3.0 or later) is active, the portal uses F
 If you turned on Fluent Support's **Enable Two-Factor Authentication**, the built-in forms stay in place, unless FluentAuth's own login forms setting is on. When FluentAuth handles sign-in, set up two-factor authentication in FluentAuth instead.
 :::
 
-<!-- TODO: Capture screenshot of WordPress Settings > General with the Membership "Anyone can register" checkbox highlighted and save it at /images/setup-configuration/customer-portal/customer-support-portal-setup/anyone-can-register.webp -->
+![WordPress Membership setting with Anyone can register](/images/setup-configuration/customer-portal/customer-support-portal-setup/anyone-can-register.webp)
 
 ### C. Disable Public Ticket Interaction 
 

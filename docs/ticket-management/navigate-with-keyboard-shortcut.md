@@ -15,7 +15,7 @@ Keyboard shortcuts work on the **Tickets** list and inside a single ticket.
 
 Click the **Keyboard Shortcuts** link next to the option at any time to see the full list for macOS and Windows.
 
-<!-- TODO: Capture screenshot of the Keyboard Shortcuts popup (macOS and Windows tabs, including the Next ticket, Previous ticket, and Close ticket rows) and save it at /images/ticket-management/productivity-tools/navigate-with-keyboard-shortcut/keyboard-shortcuts-popup.webp -->
+![Keyboard Shortcuts popup](/images/ticket-management/productivity-tools/navigate-with-keyboard-shortcut/keyboard-shortcuts-popup.webp)
 
 ## Before You Start
 

@@ -93,7 +93,7 @@ You will get the following options to set the Condition for your Workflow. Each 
 Here, all of your existing custom fields will appear.
 
 ![Set Condition/s for the Workflow](/images/workflows-automation/automatic-workflow/automatic-workflow:set-conditions-4.webp)
-<!-- TODO: Capture screenshot of the condition dropdown showing Ticket Priority (Agent), Ticket Tags, Ticket Source and the Feedback group, and save it at /images/workflows-automation/automatic-workflow/automatic-workflow-new-conditions.webp -->
+![Workflow condition list with the new Ticket and Feedback conditions](/images/workflows-automation/automatic-workflow/automatic-workflow-new-conditions.webp)
 
 You can also **Delete** any existing condition by clicking the **Trash Icon**.
 
