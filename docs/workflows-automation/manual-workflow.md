@@ -18,18 +18,45 @@ Now, set the **Action/s** (Task) from the dropdown list for **Workflow** to perf
 
 You will get the following Actions from the Dropdown List –
 
+**Ticket Actions**
+
   * Add Response
-  * Assign Agent
   * Add Internal Note
   * Close Ticket
+  * Delete Ticket
+  * Change Mailbox
+  * Add Product
+
+**Assignment**
+
+  * Assign Agent
+  * Assign Agent Group
+
+**Tags & Bookmarks**
+
   * Add Tag(s)
   * Remove Tag(s)
-  * Delete Ticket
-  * Block Ticket Submitter (customer)
-  * Trigger Outgoing Webhook
   * Add Bookmarks
   * Remove Bookmarks
-  * Change Mailbox
+
+**Customer & Integrations**
+
+  * Block Ticket Submitter (Customer)
+  * Trigger Outgoing Webhook
+
+**FluentCRM** *(appears when FluentCRM is active)*
+
+  * Add To FluentCRM Tag(s)
+  * Remove From FluentCRM Tag(s)
+  * Add To FluentCRM List(s)
+  * Remove From FluentCRM List(s)
+  * Run Automation
+
+>[!Note]
+>**Delete Ticket** permanently deletes the ticket and no further actions will run after it, so place it last. **Block Ticket Submitter** prevents the customer from creating new tickets or accessing previous ones.
+
+>[!Note]
+>In a manual workflow, **Add Response**, **Add Internal Note**, and **Close Ticket** are performed by the agent who runs the workflow, so the *Response From* / *Note From* and *Fallback Agent* fields are not shown.
 
 For example, here I selected the **Close Ticket** action. You can choose any option according to your needs.
 
