@@ -2,6 +2,10 @@
 
 The Customer Portal is intended for direct use by end-users where users can view & use the dashboard to submit tickets. This article will guide you to set up your **Customer Portal** with **Global Settings** in **Fluent Support**.
 
+::: tip
+Want your customers to use the portal on another website, such as your store, while the helpdesk runs on its own site? See [Remote Portal](/remote-portal) (Pro).
+:::
+
 ## Accessing Global Settings
 
 To find the **Global Settings** for setting up the portal, follow the steps below:
@@ -63,6 +67,26 @@ In this option, you can customize certain texts for the users who have not logge
 To know the details of these below-mentioned **Shortcodes,** check this **[Documentation](/shortcodes).**
 
 ![Message for non-logged-in users](/images/setup-configuration/customer-portal/customer-support-portal-setup/message-for-non-logged-users-1.webp)
+
+#### Allow customers to sign up
+
+The portal's signup form follows your WordPress registration setting. Customers can create an account from the portal only when registration is open on your site:
+
+1. Go to **Settings** > **General** in your WordPress dashboard.
+2. Next to **Membership**, check **Anyone can register**.
+3. Click **Save Changes**.
+
+On a multisite network, use the network's registration setting instead (**Network Admin** > **Settings** > **Allow new registrations**, set to allow user accounts).
+
+When registration is off, the portal shows no signup form or **Create an Account** link, even if a shortcode uses `show-signup=true`. The `[fluent_support_signup]` shortcode shows a short "User registration is not enabled on this site." message instead of the form.
+
+::: info Using FluentAuth?
+If the **FluentAuth** plugin (version 3.0 or later) is active, the portal uses FluentAuth's login, signup, and reset password forms in place of the built-in ones. Your **Custom Registration Form Field** settings and the redirect back to the portal still apply. The WordPress **Anyone can register** setting still controls whether signup is shown.
+
+If you turned on Fluent Support's **Enable Two-Factor Authentication**, the built-in forms stay in place, unless FluentAuth's own login forms setting is on. When FluentAuth handles sign-in, set up two-factor authentication in FluentAuth instead.
+:::
+
+<!-- TODO: Capture screenshot of WordPress Settings > General with the Membership "Anyone can register" checkbox highlighted and save it at /images/setup-configuration/customer-portal/customer-support-portal-setup/anyone-can-register.webp -->
 
 ### C. Disable Public Ticket Interaction 
 

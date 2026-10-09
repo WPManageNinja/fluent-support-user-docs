@@ -35,11 +35,26 @@ In the pop-up window, you will need to fill in the following details:
 
 ### Agent Signature
 
-You can easily set up a custom sign-off to automatically append to the bottom of an agent's ticket replies. Scroll to the bottom of the agent configuration window and check the box labeled **Enable signature for this agent**.
+You can give each agent a custom sign-off, such as their name, role, and company logo, for the emails your customers get when that agent replies. Scroll to the **Agent Signature** section at the bottom of the agent configuration window and check the box labeled **Enable signature for this agent**.
 
 1. When checked, a rich text editor will open.
 2. Use the standard formatting tools (bold, italic, lists, links) to design the signature text.
-3. Switch between **Visual** and **Code** views as needed. Use **Add media** to insert images—such as a company logo or a headshot—directly into the signature.
+3. Switch between **Visual** and **Code** views as needed. Use **Add media** to insert images, such as a company logo or a headshot, directly into the signature.
+
+#### Where the signature appears
+
+The signature is not added to replies automatically. It is added to emails through the <code v-pre>{{agent.signature}}</code> smartcode in your inbox email templates. You will find it as **Agent Signature** in the smartcode list when you edit a template under **Business Inboxes** > **Email Settings**.
+
+* The reply is saved and shown in the ticket exactly as the agent wrote it. The signature only goes into the email.
+* The default templates for **Replied by Agent (To Customer)** in email-based inboxes and **Agent Outreach Ticket (To Customer)** use <code v-pre>{{response.full_content}}{{agent.signature}}</code>, so the signature follows the reply.
+* If an agent has no signature, or it is turned off, the smartcode prints nothing.
+* You can use smartcodes inside a signature too, for example <code v-pre>{{agent.full_name}}</code>. They are filled in when the email is sent.
+
+::: warning
+Email templates you saved before this update are kept exactly as you wrote them. If you want signatures in those emails, open the template and add <code v-pre>{{agent.signature}}</code> where the signature should go, usually right after <code v-pre>{{response.full_content}}</code>. See [Web-Based Settings in Business Inbox](/web-based_settings_in_business_inbox#adding-the-agent-signature-to-emails).
+:::
+
+<!-- TODO: Capture screenshot of the Agent Signature section with the help text under "Enable signature for this agent" and save it at /images/setup-configuration/agents-permissions/adding-support-staff-agents/agent-signature.webp -->
 
 
 

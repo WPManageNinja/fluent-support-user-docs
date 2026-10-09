@@ -73,6 +73,20 @@ You can customize the subject name and body content of your email using the **Em
 
 Always press **Save Settings** after finishing all the customization in your emails to save it, otherwise changes will not appear in your emails.
 
+#### Adding the agent signature to emails
+
+Agent signatures are not added to emails automatically. A signature appears only where an email template contains the <code v-pre>{{agent.signature}}</code> smartcode, listed as **Agent Signature** under **Available Shortcodes** when you edit a template such as **Replied by Agent (To Customer)**.
+
+* The smartcode prints the replying agent's signature when the agent has one turned on, and nothing otherwise. Agents set their signature under [Support Staff](/adding-support-staff-agents#agent-signature).
+* New default templates that include the agent's reply use <code v-pre>{{response.full_content}}{{agent.signature}}</code>, so the signature sits right below the reply. For example, **Agent Outreach Ticket (To Customer)** uses it, and so does **Replied by Agent (To Customer)** in email-based inboxes.
+* In a web-based inbox, the default **Replied by Agent (To Customer)** email only tells the customer there is a new reply and links to the portal, so it has no signature. Add the smartcode if you want one there.
+
+::: warning
+Templates you saved before this update are kept as you wrote them and do not include the signature. To add it, click the **Pencil Icon** next to the email, place <code v-pre>{{agent.signature}}</code> in the **Email Body** (usually right after <code v-pre>{{response.full_content}}</code>), and click **Save Settings**.
+:::
+
+<!-- TODO: Capture screenshot of an email template with the agent.signature smartcode in the Email Body and the Agent Signature smartcode highlighted, and save it at /images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/agent-signature-smartcode.webp -->
+
 ### Set as Default 
 
  * **“Set as Default”** is another feature that allows you to set up one of your web-based business inboxes as the default inbox, i.e., automatically receive all emails from your business in one specific inbox by default.

@@ -32,6 +32,10 @@ If you skipped the wizard or need to reconfigure the initial setup, you can ensu
 
 For more details on configuring these options, please check the [Setup Customer Support Portal With Global Settings](/customer-support-portal-setup) documentation.
 
+::: tip
+Want your customers to use the portal on another website, such as your store, while the helpdesk runs on its own site? See [Remote Portal](/remote-portal) (Pro).
+:::
+
 ![Fluent Support Business Inbox](/images/setup-configuration/business-inboxes/create-business-inbox/setup-support-portal-page.webp)
 
 ### Preview of Customer Support Portal
