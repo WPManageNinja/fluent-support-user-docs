@@ -26,6 +26,7 @@ You will get the following Actions from the Dropdown List –
   * Delete Ticket
   * Change Mailbox
   * Add Product
+  * Change Priority
 
 **Assignment**
 
