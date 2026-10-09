@@ -63,4 +63,54 @@ To reply to the ticket, click on the **Add Reply** button. Your ticket reply wil
 
 >Replies from CC users are treated as coming from the primary customer i.e., CC users can reply to the agent directly from their mailbox.
 
+## How Automatic Emails Are Handled
+
+Not every email that reaches your inbox is written by a person. Out-of-office replies, delivery failures, and system notices can open tickets you don't need, reopen closed tickets, or even start an endless back-and-forth between two autoresponders. Fluent Support Pro sorts these emails for you, with nothing to set up.
+
+### Out-of-Office and Other Auto-Replies
+
+When a customer's mail program sends an automatic reply (for example, "I'm away until Monday") to one of your ticket emails:
+
+* It does **not** create a new ticket and does **not** count as a customer reply, so a closed ticket stays closed.
+* It is added to the ticket as an internal note that starts with "Automatic reply received from *customer email*", followed by the email subject and a short excerpt. Your agents can still see that the customer is away.
+* If the auto-reply cannot be linked to a ticket, or it does not come from the ticket's customer or a CC'd address, it is discarded.
+
+### Bounced Emails
+
+When an email you sent for a ticket cannot be delivered, the delivery failure is added to that ticket as an internal note:
+
+* "An email to *address* could not be delivered." when the failed address is known.
+* "An email for this ticket could not be delivered." when it is not.
+
+The note also shows the error code or message from the mail server when one is available. Delay notices and "delivered" reports are ignored, because they are not failures. A bounce that cannot be linked to a ticket is discarded.
+
+::: tip
+If you see a bounce note on a ticket, check the customer's email address for typos before replying again.
+:::
+
+### Other Automated Emails
+
+Some machine-sent emails are real work, such as payment notices, alerts, or form notifications. Fluent Support treats these like any other email and creates a ticket (or adds a reply) as usual. The only difference is that **no automatic confirmation email** is sent back to the sender, so two automated systems can't keep emailing each other.
+
+### Loop Protection Limits
+
+As an extra safety net, Fluent Support limits the automatic emails it sends back to a customer whose ticket came in by email. This covers the "ticket created" confirmation and replies added by a [workflow](/automatic-workflow). Within any **3 hours**, each customer gets at most:
+
+* **10** automatic emails in total, and
+* **2** automatic emails with the same subject.
+
+Anything over the limit is held back. Replies written by your agents are never held back.
+
+### How Customer Replies Find Their Ticket
+
+Every email Fluent Support sends to a customer carries a hidden, signed reference to the ticket in its email headers. When the customer replies, Fluent Support uses this reference to add the reply to the right ticket, even if the customer changes the subject line. The reference is signed, so nobody can attach an email to another customer's ticket by guessing a ticket ID.
+
+If the reference is missing (for example, the customer's mail program removed it), Fluent Support looks for the public ticket number in the subject, such as <code v-pre>#1042</code>, and matches it against that customer's own tickets.
+
+When neither is found, a reply (a subject starting with **Re:**) can still be matched to one of the customer's tickets in the same inbox with exactly the same title, if that ticket had activity in the last 30 days. A brand-new email is always a new ticket, even if its subject matches an older ticket.
+
+::: info
+Partial subject matching, where a reply could join a ticket that only shares a few words of its subject, is now **off by default**. It used to put new questions on old, unrelated tickets. Developers can turn it back on with the `fluent_support/ticket_partial_match` filter.
+:::
+
 If you want to know more details about Email Piping, you can also read this [What is Email Piping and Why?](https://fluentsupport.com/what-is-email-piping-and-why/)  

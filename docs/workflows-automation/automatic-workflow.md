@@ -18,11 +18,27 @@ Now choose a **Trigger** from the dropdown list to decide when your **Workflow**
 
 For example, if you choose the **On Ticket Creation** trigger, the Workflow will automatically run each time a ticket is created.
 
+You can choose from these triggers:
+
+| Trigger | When the workflow runs |
+|---|---|
+| **On Ticket Creation** | A customer submits a new ticket. |
+| **On Customer Response** | A customer replies to an existing ticket. |
+| **On Ticket Reopened** | A closed ticket is reopened, by the customer or by an agent. |
+| **On Agent Response** | An agent replies to a ticket. |
+| **On Agent Assigned** | A ticket is assigned to an agent. |
+| **On Customer Feedback** | A customer likes or dislikes an agent's reply. |
+| **On Ticket Closed** | A ticket is closed. |
+
+::: tip
+**On Customer Feedback** is handy for catching unhappy customers. Add the **Feedback** condition set to **Dislike**, then add an internal note or assign the ticket to a team lead.
+:::
+
 ![Set Trigger to run workflow](/images/workflows-automation/automatic-workflow/workflows-automation:automatic-workflow:set-triggers-3.webp)
 
 Then, you have to set a **Condition** that will trigger the **Workflow**. Multiple conditions can be set using the **+OR** and **+AND** options.
 
-You will get the following options to set the Condition for your Workflow –
+You will get the following options to set the Condition for your Workflow. Each trigger shows only the conditions that make sense for it. For example, **Ticket Title** is only available with **On Ticket Creation**, and **Feedback** is only available with **On Customer Feedback**.
 
 **Customer**
 
@@ -41,10 +57,24 @@ You will get the following options to set the Condition for your Workflow –
 **Ticket**
 
   * Ticket Priority (Client)
+  * Ticket Priority (Agent)
   * Selected Product
   * Mailbox
   * Agent Group
+  * Ticket Tags
+  * Ticket Source
   * Bookmarks
+
+**Ticket Tags** and **Agent Group** use the **Includes In** and **Not Includes In** operators. **Includes In** matches a ticket that has any of the tags you pick, and **Not Includes In** matches a ticket that has none of them. **Ticket Priority (Agent)** and **Ticket Source** use **Equal** and **Not Equal**. **Ticket Source** lets you match where the ticket came from, such as **Web**, **Email**, **Agent outreach**, **MCP (AI agents)**, or an importer.
+
+**Feedback** *(only with the **On Customer Feedback** trigger)*
+
+  * Feedback: **Like** or **Dislike**
+
+**Fluent CRM** *(appears when FluentCRM is active)*
+
+  * Customer CRM Tag(s)
+  * Customer CRM List(s)
 
 **Easy Digital Downloads** *(appears when EDD is active)*
 
@@ -63,6 +93,7 @@ You will get the following options to set the Condition for your Workflow –
 Here, all of your existing custom fields will appear.
 
 ![Set Condition/s for the Workflow](/images/workflows-automation/automatic-workflow/automatic-workflow:set-conditions-4.webp)
+<!-- TODO: Capture screenshot of the condition dropdown showing Ticket Priority (Agent), Ticket Tags, Ticket Source and the Feedback group, and save it at /images/workflows-automation/automatic-workflow/automatic-workflow-new-conditions.webp -->
 
 You can also **Delete** any existing condition by clicking the **Trash Icon**.
 
@@ -133,6 +164,19 @@ Once you set up the actions, **Publish** it by enabling the **Toggle** button at
 To save any new changes always press the **Update Workflow** button right **next to the toggle**.
 
 ![Publish the workflow](/images/workflows-automation/automatic-workflow/automatic-workflow:publish-toggle-11.webp)
+
+## Workflows Do Not Trigger Themselves
+
+Some actions can cause the same event that started the workflow. For example, an **On Agent Response** workflow with an **Add Response** action adds an agent reply, and an **On Agent Assigned** workflow with an **Assign Agent** action assigns an agent.
+
+Fluent Support stops these loops for you:
+
+* A reply or assignment made by a workflow never starts that same workflow again.
+* A workflow can still start a different workflow, but this chain stops after three workflows deep.
+
+::: info
+You do not need to set anything up for this. It works automatically for every automatic workflow.
+:::
 
 ## See How Automatic Workflow Runs 
 

@@ -46,6 +46,21 @@ Clicking on any ticket from the list opens the individual ticket page, where you
 
 ![Ticket Management](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-management-4.webp)
 
+### When Someone Replies While You Are Typing
+
+If a customer or another agent adds a reply while you are still writing yours, Fluent Support holds your reply before sending it and shows a **New reply on this ticket** message, such as "Sarah replied while you were writing." This stops you from sending an answer that is already out of date.
+
+You have two choices:
+
+* **Show new replies:** Loads the new replies into the conversation so you can read them first. Your reply stays in the editor, so you can adjust it and send it when you are ready.
+* **Send anyway:** Sends your reply as it is.
+
+<!-- TODO: Capture screenshot of the "New reply on this ticket" dialog with the Show new replies and Send anyway buttons, and save it at /images/ticket-management/daily-operations/view-manage-ticket-entries/new-reply-while-writing.webp -->
+
+### Leaving A Ticket With An Unsent Reply
+
+When you move to the next or previous ticket with a [keyboard shortcut](/navigate-with-keyboard-shortcut) while your reply box still has text, an image, or an attachment, Fluent Support asks before you go. The **Unsent reply** message says "Your reply has not been sent. Leave this ticket?". Click **Stay** to go back to your reply, or **Leave** to open the other ticket.
+
 ## Customer Information & Additional Details
 
 The right sidebar provides a 360-degree view of the customer and the ticket's priority level.
@@ -59,3 +74,14 @@ The right sidebar provides a 360-degree view of the customer and the ticket's pr
     * **Previous Conversations:** A list of the customer's past support history to provide full context for the current issue. When a customer has many past tickets, a **Load More** button appears at the bottom of the list — click it to fetch additional tickets without leaving the current ticket view.
 
 ![Ticket Management](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-management-5.webp)
+
+### Ticket Stats
+
+The **Ticket Stats** widget in the right sidebar gives you a quick summary of the ticket's history. It is expanded by default, and you can collapse it like the other sidebar widgets.
+
+* **Created:** The date and time the ticket was created. Below it, you will see who started it ("by" an agent's name, for tickets an agent started) or where it came from ("via" a source, such as Web or Email).
+* **First response:** How long the customer waited for the first agent reply, for example "2h 14m". It shows **Not yet** while the ticket is still new, and **Not recorded** when no first response time was saved for the ticket.
+* **Replies:** The number of replies on the ticket.
+* **Resolved in:** For closed tickets, how long the ticket took to resolve, with the date it was closed.
+
+<!-- TODO: Capture screenshot of the Ticket Stats sidebar widget on a closed ticket (showing Created, First response, Replies and Resolved in), and save it at /images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-stats-widget.webp -->

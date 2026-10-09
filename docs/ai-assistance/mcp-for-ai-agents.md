@@ -108,7 +108,7 @@ For common issues, the AI reads the ticket, finds the most relevant saved reply,
 
 ### Duplicate Merging
 
-The AI checks incoming tickets against existing open tickets from the same customer. If it finds a match, it merges them and logs a note explaining why.
+The AI checks incoming tickets against existing open tickets from the same customer. If it finds a match, it merges them and logs a note explaining why. Merging tickets needs Fluent Support Pro.
 
 ### Manager Reporting
 
@@ -120,42 +120,73 @@ On a scheduled basis, the AI can find tickets that have been waiting for a custo
 
 ## What You Can Do With It
 
-Once connected, your AI assistant gets access to **20 Fluent Support tools**. You never call these by name. The AI picks the right tool based on what you ask in plain language. Here is a friendly overview of what is available, grouped by area.
+Once connected, your AI assistant gets access to **21 Fluent Support tools**, plus **2 more with Fluent Support Pro**. You never call these by name. The AI picks the right tool based on what you ask in plain language. Here is a friendly overview of what is available, grouped by area.
 
 ### Ticket Tools
 
-- **Create a ticket** (`fluent-support-create-ticket`): Open a new ticket on behalf of a customer.
+- **List tickets** (`fluent-support-list-tickets`): Browse and filter tickets by status, agent, date, keyword, whose turn it is to reply, and more.
 - **Get a ticket** (`fluent-support-get-ticket`): Read the full details of any ticket, including the conversation thread.
-- **List tickets** (`fluent-support-list-tickets`): Browse and filter tickets by status, agent, date, keyword, and more.
-- **Update a ticket** (`fluent-support-update-ticket`): Change a ticket's priority, subject, status, and other fields.
-- **Close a ticket** (`fluent-support-close-ticket`): Mark a resolved ticket as closed. Ask for a **[silent close](/close-ticket-silently)** to close the ticket without sending the customer a closing notification — handy for spam, duplicates, or tickets you have already wrapped up elsewhere.
-- **Reopen a ticket** (`fluent-support-reopen-ticket`): Reopen a previously closed conversation.
+- **Create a ticket** (`fluent-support-create-ticket`): Open a new ticket on behalf of a customer.
+- **Update a ticket** (`fluent-support-update-ticket`): Change a ticket's title, priority, status, product, Business Inbox, or assigned agent, several at once. This is also how the AI assigns a ticket to an agent, or reopens a closed ticket by setting it back to active.
+- **Close a ticket** (`fluent-support-close-ticket`): Mark a resolved ticket as closed, optionally with a final reply and an internal note. Ask for a **[silent close](/close-ticket-silently)** to close the ticket without sending the customer a closing notification. This is handy for spam, duplicates, or tickets you have already wrapped up elsewhere.
 - **Delete a ticket** (`fluent-support-delete-ticket`): Permanently remove a ticket.
-- **Merge tickets** (`fluent-support-merge-tickets`): Combine two duplicate tickets into one.
-- **Bulk action** (`fluent-support-bulk-action`): Close, assign, or tag many tickets in a single command.
+- **Merge tickets** (`fluent-support-merge-tickets`) *(Pro)*: Combine duplicate tickets into one.
+- **Split a ticket** (`fluent-support-split-ticket`) *(Pro)*: Move one message out of a ticket into a new ticket, for example when a customer raises a second, unrelated issue in the same thread. The customer is not emailed about the new ticket unless you ask for it.
+- **Bulk action** (`fluent-support-bulk-action`): Close, assign, tag, or reply to up to 50 tickets in a single command.
 
 ### Communication Tools
 
-- **Reply to a ticket** (`fluent-support-reply-to-ticket`): Send a response to the customer as your agent account.
-- **Add an internal note** (`fluent-support-add-internal-note`): Leave a private note that only your team can see.
+- **Reply to a ticket** (`fluent-support-reply-to-ticket`): Send a response to the customer as your agent account. The AI can attach files, save the reply as a draft for a person to review, or send a short holding reply (such as "I've passed this to our billing team") that keeps the ticket waiting on your team. Replying to a closed ticket reopens it.
+- **Add an internal note** (`fluent-support-add-internal-note`): Leave a private note that only your team can see. The AI can @mention a teammate to notify them, and attach files.
+- **Update a draft or note** (`fluent-support-update-response`): Edit the text of a draft reply or internal note the AI wrote. Nothing is sent.
+- **Delete a draft or note** (`fluent-support-delete-response`): Remove a draft reply or internal note the AI wrote. Sent replies cannot be deleted.
+- **Publish a draft reply** (`fluent-support-publish-draft-reply`): Send a draft reply to the customer, the same as clicking **Approve** in the ticket view. The email goes out under the name of the agent who wrote the draft.
 - **List saved replies** (`fluent-support-list-saved-replies`): Pull up your canned responses to use or adapt.
 
-### Assignment & Tagging Tools
+### Tagging Tools
 
-- **Assign a ticket** (`fluent-support-assign-ticket`): Route a ticket to a specific agent or team.
 - **Tag a ticket** (`fluent-support-tag-ticket`): Add or remove tags on any ticket.
 
 ### Customer & Activity Tools
 
 - **Search customers** (`fluent-support-search-customers`): Find customers by name, email, or other fields.
 - **Get customer tickets** (`fluent-support-get-customer-tickets`): See every ticket a specific customer has submitted.
+- **Update a customer** (`fluent-support-update-customer`): Change a customer's name, title, note, or address. The AI cannot change a customer's email address. If a customer asks for that, it leaves an internal note so a person on your team can do it.
 - **Get ticket activity** (`fluent-support-get-ticket-activity`): View the full activity log for a ticket: who replied, when, and what changed.
+- **Get agent mentions** (`fluent-support-get-mentions`): Find tickets where you were @mentioned in notes or replies. This needs internal notifications turned on.
 
-### Workflow & Insight Tools
+### Context & Insight Tools
 
-- **List workflows** (`fluent-support-list-workflows`): See all automation workflows in your account.
-- **Get support context** (`fluent-support-get-support-context`): Pull real-time context like available agents and open ticket counts.
-- **Get support insights** (`fluent-support-get-support-insights`): Fetch analytics and performance data.
+- **Get support context** (`fluent-support-get-support-context`): The AI's starting point. It returns who you are, whether your replies are sent or saved as drafts, your queue, tickets that need attention, and the agents, products, Business Inboxes, and tags it can use.
+- **Get support insights** (`fluent-support-get-support-insights`): Fetch analytics and performance data for a period, for the whole team or one agent.
+
+::: info
+Earlier versions also had separate tools for assigning and reopening tickets, listing workflows, creating tags, and managing saved replies. Assigning and reopening now happen through **Update a ticket**. Workflows, tags, and saved replies are managed in the Fluent Support admin, so the AI focuses on ticket work.
+:::
+
+### Bulk Replies
+
+You can ask the AI to send the same reply to many tickets at once, for example *"Reply to all open tickets tagged `outage` and tell them the issue is fixed."* Each ticket gets its own reply, exactly as if the AI replied to it on its own:
+
+- Smartcodes such as <code v-pre>{{customer.first_name}}</code> are filled in for each customer.
+- Closed tickets are reopened by the reply.
+- If you ask for drafts, every reply is saved as a draft for your team to review instead of being sent.
+- The AI gets a result for each ticket (replied, drafted, duplicate, or the error), so it can tell you exactly what happened.
+
+A single bulk action can include up to 50 tickets. For more, the AI splits the work into several requests.
+
+### No Duplicate Replies
+
+AI clients sometimes retry a request when a connection drops. To make sure your customer never gets the same email twice, Fluent Support recognizes a repeated reply. If the same agent sends the same reply to the same ticket again within 10 minutes, Fluent Support returns the reply that was already sent instead of sending it again.
+
+### Ready-Made Prompts
+
+Some AI clients show a list of ready-made prompts from Fluent Support. You can pick one instead of typing your own request:
+
+- **Triage my queue**: Goes through tickets waiting on an agent and suggests an action for each, without sending anything until you approve.
+- **Draft a reply**: Reads a ticket and saves a draft reply for review. Nothing is sent.
+- **Summarize a ticket**: Summarizes a ticket for a teammate taking it over, and can save the summary as an internal note.
+- **Support report**: Writes a short report on support volume, response times, and workload for a period.
 
 ### Example Prompts
 

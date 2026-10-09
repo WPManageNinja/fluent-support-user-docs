@@ -16,7 +16,19 @@ In the **Inbox Settings,** you can do lots of customization, e.g., changing inbo
 
  **Inbox Name:** You can change the name of your Business inbox from here.
 
- **Support From Email:** From here, you will find the email you used to create this business inbox. 
+ **Support Inbox Email:** From here, you will find the email you used to create this business inbox. 
+
+ **From Name:** Choose the sender name your customers see when an agent emails them from this inbox. You can pick one of three options:
+
+ * **Inbox name:** Every agent email shows the inbox name, for example "Acme Support". This is the default.
+ * **Replying agent's name:** The email shows the full name of the agent who wrote it, for example "Sarah Lee".
+ * **Custom:** Write your own name pattern using smartcodes. For example, <code v-pre>{{agent.first_name}} from {{business.name}}</code> shows as "Sarah from Acme Support". You can use <code v-pre>{{agent.first_name}}</code>, <code v-pre>{{agent.last_name}}</code>, <code v-pre>{{agent.full_name}}</code>, and <code v-pre>{{business.name}}</code> (the inbox name).
+
+::: info
+The **From Name** applies only to emails an agent writes, such as ticket replies and tickets an agent starts for a customer. Automatic emails, like ticket confirmations and closed-ticket notices, always use the inbox name. The sender email address does not change, so customer replies still come back to this inbox. If the custom name comes out empty, Fluent Support falls back to the inbox name.
+:::
+
+<!-- TODO: Capture screenshot of the From Name setting with the Custom option selected, and save it at /images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/inbox-from-name.webp -->
 
  **Admin Email Address:** Here, you can add another email address for admin where admin will get email if enabled in email settings, and you can change it anytime.
 

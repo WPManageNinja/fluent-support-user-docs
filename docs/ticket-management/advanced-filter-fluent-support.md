@@ -62,6 +62,27 @@ A brief explanation of the Items shown in the screenshot above is given below â€
   * **Customer Waiting From:** Customer queue tickets.
   * **Last Agent Response:** The last agent who responded.
   * **Last Customer Response:** The last Customer who responded to the ticket.
+  * **Source:** Where the ticket came from. See [Filter Tickets By Source](#filter-tickets-by-source) below.
+
+#### Filter Tickets By Source
+
+The **Source** item lets you find tickets by the channel they came in through. Pick **includes in** to show tickets from the sources you choose, or **not includes in** to hide them. You can pick more than one source at a time.
+
+The available sources are:
+
+  * **Web**: Submitted from the customer portal or a ticket form.
+  * **Email**: Created from an email (email piping).
+  * **Agent outreach**: Started by an agent on behalf of a customer.
+  * **MCP (AI agents)**: Created by an AI agent through MCP.
+  * **Telegram**, **Slack**, **WhatsApp**: Created from a chat integration.
+  * **Imported: Awesome Support**, **Imported: Freshdesk**, **Imported: Help Scout**, **Imported: JS Help Desk**, **Imported: SupportCandy**, **Imported: Zendesk**: Brought in by a migration tool.
+  * **No source**: Older tickets that were created before Fluent Support started recording a source.
+
+::: tip
+Choosing **not includes in** with **Web** still shows tickets that have no source recorded, so older tickets are not hidden by accident.
+:::
+
+<!-- TODO: Capture screenshot of the Source item in the advanced filter with its options list open, and save it at /images/ticket-management/search-filter/advanced-filter-fluent-support/advanced-filter-source.webp -->
 
 ### 2. Customer 
 

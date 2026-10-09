@@ -16,7 +16,7 @@ You will find **Inbox Settings,** **Email Settings, and Email Piping** to set yo
 
 ### Inbox Settings 
 
-This setting also works exactly in the same process as **Web-Based** **Settings** of Business Inbox. So, to know more about how to use this Inbox setting, check this **[Documentation](/web-based_settings_in_business_inbox)**.
+This setting also works exactly in the same process as **Web-Based** **Settings** of Business Inbox. So, to know more about how to use this Inbox setting, check this **[Documentation](/web-based_settings_in_business_inbox)**. This includes the **From Name** option, which controls the sender name customers see on agent replies.
 
 But, you need to complete the **Email Piping** settings first to activate your email-based business inbox. To know the process for Email Piping, check this **[Documentation](/email-piping-email-based-support-ticket)**.
 
