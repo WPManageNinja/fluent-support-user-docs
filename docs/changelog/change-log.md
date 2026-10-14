@@ -2,6 +2,47 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.4.5
+
+*Released on Oct 09, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added Remote Portal (Pro) — serve the Customer Portal on your main site, connected with a one-time key
+• Added workflow triggers On Ticket Reopened, On Agent Response, On Agent Assigned, and On Customer Feedback, plus Ticket Tags, Ticket Source, Agent Priority, and Feedback conditions (Pro)
+• Added auto-reply, bounce, and automated mail handling to email piping, with a loop guard and reply threading by signed email references (Pro)
+• Added bulk actions to change priority or product, reopen tickets, and remove tags
+• Added ticket view keyboard shortcuts for next ticket, previous ticket, and close ticket
+• Added a Ticket Stats sidebar widget
+• Added an advanced filter for ticket source
+• Added a "Waiting for your reply" badge in the Customer Portal
+• Added inbox From name options: the inbox name, the replying agent, or a custom template
+• Added MCP tools to edit, delete, and publish draft replies, reply to tickets in bulk, and guard against duplicate replies
+```
+
+```markdown [🚀 Improvements]
+• An agent reply is held for review when the customer wrote again while it was being typed
+• Agent signatures now come from the {{agent.signature}} smartcode in your inbox email templates
+• Customer Portal signup follows the WordPress "Anyone can register" setting and uses FluentAuth forms when available
+• Agent-initiated tickets now read like an email from the agent
+• New bulk action bar on the ticket list, with grouped actions and searchable options
+• Keyboard shortcuts now work on Windows and Linux with Ctrl, and no longer fire while you type in a field
+• Faster dashboard, agent list, and ticket view; all dates now use your site's time zone
+• Collapsible settings sidebar and wider translation coverage across the admin and portal
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed approved drafts being sent as the approver instead of their author
+• Fixed importers calculating reply, first response, and close times incorrectly
+• Fixed activity log cleanup deleting every log when retention was set to 0
+• Fixed auto-close without a response skipping close emails and workflows (Pro)
+• Fixed Dropbox and Google Drive uploads failing after a token refresh (Pro)
+• Fixed security through ongoing audits and hardening
+```
+
+:::
+
 ## Fluent Support v2.4.0
 
 *Released on Sep 15, 2026*

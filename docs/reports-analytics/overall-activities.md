@@ -24,7 +24,7 @@ You will find a **Settings** (Gear Icon) located next to the **Date filter** on 
 
 In the Activity Log Settings, you have the following options:
 
- * **Automatically delete activity logs after days:** Enter a number (e.g., 14) to set how long logs should be kept before being automatically deleted.
+ * **Automatically delete activity logs after days:** Enter a number (e.g., 30) to set how long logs should be kept before being automatically deleted. If you leave this empty or enter `0`, logs are kept for the default **14 days**. Logs are never kept forever.
  * **Disable Activity Logs:** Check this box if you do not want to track support agent activities at all.
  * **Open Ticket in New Tab:** Enable this option if you want ticket links within the activity log to open in a new browser tab.
 
@@ -49,7 +49,7 @@ If you use **AI** features in Fluent Support, you can switch to the **AI Activit
 
 Similarly, you can configure settings specific to AI logs:
 
- * **Automatically delete AI activity logs after days:** Set a specific duration for retaining AI-related logs.
+ * **Automatically delete AI activity logs after days:** Set a specific duration for retaining AI-related logs. As with activity logs, an empty value or `0` uses the default of **14 days**.
 
 After making any changes, ensure you click on the **Update Settings** button to save your preferences.
 

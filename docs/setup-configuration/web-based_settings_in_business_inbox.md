@@ -16,7 +16,19 @@ In the **Inbox Settings,** you can do lots of customization, e.g., changing inbo
 
  **Inbox Name:** You can change the name of your Business inbox from here.
 
- **Support From Email:** From here, you will find the email you used to create this business inbox. 
+ **Support Inbox Email:** From here, you will find the email you used to create this business inbox. 
+
+ **From Name:** Choose the sender name your customers see when an agent emails them from this inbox. You can pick one of three options:
+
+ * **Inbox name:** Every agent email shows the inbox name, for example "Acme Support". This is the default.
+ * **Replying agent's name:** The email shows the full name of the agent who wrote it, for example "Sarah Lee".
+ * **Custom:** Write your own name pattern using smartcodes. For example, <code v-pre>{{agent.first_name}} from {{business.name}}</code> shows as "Sarah from Acme Support". You can use <code v-pre>{{agent.first_name}}</code>, <code v-pre>{{agent.last_name}}</code>, <code v-pre>{{agent.full_name}}</code>, and <code v-pre>{{business.name}}</code> (the inbox name).
+
+::: info
+The **From Name** applies only to emails an agent writes, such as ticket replies and tickets an agent starts for a customer. Automatic emails, like ticket confirmations and closed-ticket notices, always use the inbox name. The sender email address does not change, so customer replies still come back to this inbox. If the custom name comes out empty, Fluent Support falls back to the inbox name.
+:::
+
+![From Name setting with a custom template](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/inbox-from-name.webp)
 
  **Admin Email Address:** Here, you can add another email address for admin where admin will get email if enabled in email settings, and you can change it anytime.
 
@@ -72,6 +84,20 @@ You can customize the subject name and body content of your email using the **Em
 ![Customize your email subject & body using shortcode](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/customize-your-email-content-1.webp)
 
 Always press **Save Settings** after finishing all the customization in your emails to save it, otherwise changes will not appear in your emails.
+
+#### Adding the agent signature to emails
+
+Agent signatures are not added to emails automatically. A signature appears only where an email template contains the <code v-pre>{{agent.signature}}</code> smartcode, listed as **Agent Signature** under **Available Shortcodes** when you edit a template such as **Replied by Agent (To Customer)**.
+
+* The smartcode prints the replying agent's signature when the agent has one turned on, and nothing otherwise. Agents set their signature under [Support Staff](/adding-support-staff-agents#agent-signature).
+* New default templates that include the agent's reply use <code v-pre>{{response.full_content}}{{agent.signature}}</code>, so the signature sits right below the reply. For example, **Agent Outreach Ticket (To Customer)** uses it, and so does **Replied by Agent (To Customer)** in email-based inboxes.
+* In a web-based inbox, the default **Replied by Agent (To Customer)** email only tells the customer there is a new reply and links to the portal, so it has no signature. Add the smartcode if you want one there.
+
+::: warning
+Templates you saved before this update are kept as you wrote them and do not include the signature. To add it, click the **Pencil Icon** next to the email, place <code v-pre>{{agent.signature}}</code> in the **Email Body** (usually right after <code v-pre>{{response.full_content}}</code>), and click **Save Settings**.
+:::
+
+![Email template with the agent signature smartcode](/images/setup-configuration/business-inboxes/web-based-settings-in-business-inbox/agent-signature-smartcode.webp)
 
 ### Set as Default 
 

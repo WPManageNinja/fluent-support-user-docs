@@ -2,6 +2,10 @@
 
 The Customer Portal is intended for direct use by end-users where users can view & use the dashboard to submit tickets. This article will guide you to set up your **Customer Portal** with **Global Settings** in **Fluent Support**.
 
+::: tip
+Want your customers to use the portal on another website, such as your store, while the helpdesk runs on its own site? See [Remote Portal](/remote-portal) (Pro).
+:::
+
 ## Accessing Global Settings
 
 To find the **Global Settings** for setting up the portal, follow the steps below:
@@ -10,8 +14,7 @@ Go to **Settings** from your **Fluent Support Dashboard** and click on **Global 
 
 This will open the Global Settings page, where you can configure the portal page for your customers.
 
-> **Remember**
-> Always press the **Save Settings** button in the top right corner after finishing your customization to save your changes. Otherwise, changes will not appear in your Customer Portal.
+> **Remember:** Always press the **Save Settings** button in the top right corner after finishing your customization to save your changes. Otherwise, changes will not appear in your Customer Portal.
 
 
 ![Global Settings from Fluent Support Dashboard](/images/setup-configuration/customer-portal/customer-support-portal-setup/accessing-global-settings-1.webp)
@@ -27,10 +30,12 @@ You will find the following options in **Global Settings** to configure your **F
 
 The **Customer Portal Destination** controls where ticket links in email notifications redirect your customers. Choose the option that matches how your support portal is set up.
 
-* **Default Portal Page**: Customers are sent to the Fluent Support portal page you configure in section A below. This is the default for most setups.
-* **FluentCart Account Navigation**: Customers are redirected to the Fluent Support tab inside the FluentCart customer account area. Requires FluentCart to be active.
-* **WooCommerce My Account**: Customers are redirected to the Fluent Support tab inside the WooCommerce My Account page. Requires Fluent Support Pro and WooCommerce to be active. (Pro)
-* **FluentCommunity Portal**: Customers are sent to your FluentCommunity space where Fluent Support is embedded. Requires FluentCommunity to be active. When selected, a copyable FluentCommunity Portal URL is shown — add that URL to your FluentCommunity navigation menu to complete the setup.
+![Customer Portal destination options](/images/setup-configuration/customer-portal/customer-support-portal-setup/portal-destination-options.webp)
+
+* **Default Portal Page** — Customers are sent to the Fluent Support portal page you configure in section A below. This is the default for most setups.
+* **FluentCart Account Navigation** — Customers are redirected to the Fluent Support tab inside the FluentCart customer account area. Requires FluentCart to be active.
+* **WooCommerce Account Navigation** — Customers are redirected to the Fluent Support tab inside the WooCommerce My Account page. Requires Fluent Support Pro and WooCommerce to be active. (Pro)
+* **FluentCommunity Portal** — Customers are sent to your FluentCommunity space where Fluent Support is embedded. Requires FluentCommunity to be active. When selected, a copyable FluentCommunity Portal URL is shown — add that URL to your FluentCommunity navigation menu to complete the setup.
 
 ::: info
 Only options compatible with your installed plugins are shown. FluentCart, WooCommerce, and FluentCommunity options appear only when those plugins are active on your site.
@@ -62,6 +67,26 @@ In this option, you can customize certain texts for the users who have not logge
 To know the details of these below-mentioned **Shortcodes,** check this **[Documentation](/shortcodes).**
 
 ![Message for non-logged-in users](/images/setup-configuration/customer-portal/customer-support-portal-setup/message-for-non-logged-users-1.webp)
+
+#### Allow customers to sign up
+
+The portal's signup form follows your WordPress registration setting. Customers can create an account from the portal only when registration is open on your site:
+
+1. Go to **Settings** > **General** in your WordPress dashboard.
+2. Next to **Membership**, check **Anyone can register**.
+3. Click **Save Changes**.
+
+On a multisite network, use the network's registration setting instead (**Network Admin** > **Settings** > **Allow new registrations**, set to allow user accounts).
+
+When registration is off, the portal shows no signup form or **Create an Account** link, even if a shortcode uses `show-signup=true`. The `[fluent_support_signup]` shortcode shows a short "User registration is not enabled on this site." message instead of the form.
+
+::: info Using FluentAuth?
+If the **FluentAuth** plugin (version 3.0 or later) is active, the portal uses FluentAuth's login, signup, and reset password forms in place of the built-in ones. Your **Custom Registration Form Field** settings and the redirect back to the portal still apply. The WordPress **Anyone can register** setting still controls whether signup is shown.
+
+If you turned on Fluent Support's **Enable Two-Factor Authentication**, the built-in forms stay in place, unless FluentAuth's own login forms setting is on. When FluentAuth handles sign-in, set up two-factor authentication in FluentAuth instead.
+:::
+
+![WordPress Membership setting with Anyone can register](/images/setup-configuration/customer-portal/customer-support-portal-setup/anyone-can-register.webp)
 
 ### C. Disable Public Ticket Interaction 
 
@@ -96,24 +121,6 @@ The ‘**Customer Registration Form Field’** allows agents to get the informat
 ### I. Enable Two-Factor Authentication 
 
 If you **enable** the **‘Enable Two-Factor Authentication’** option, this will require customers to enter a verification code sent to their email whenever they try to log in to the customer portal.
-
-### Portal Login and Signup Forms
-
-The login and signup forms shown in the Customer Portal depend on whether **[FluentAuth](https://wordpress.org/plugins/fluent-security/)** (version 3.0 or later) is installed and active on your site.
-
-**With FluentAuth 3.0+**
-
-* The portal uses **FluentAuth's** login and signup forms.
-* Features configured in FluentAuth, such as **two-factor authentication** and **magic link login**, work on the portal forms.
-* After logging in or signing up, customers are redirected **back to the Customer Portal**.
-
-**Without FluentAuth**
-
-* The portal uses Fluent Support's **native** login and signup forms.
-* If **Enable Two-Factor Authentication** is turned on, customers enter a **verification code** sent to their email when they log in.
-
-> [!NOTE]
-> Customer signup follows your WordPress registration setting. If **Settings → General → Anyone can register** is turned **off** in WordPress, the signup form is not available and customers can only log in with an existing account.
 
 > [!TIP]
 > Two-Factor Authentication protects portal **logins**. To stop bots from opening tickets in the first place, you can also protect the portal's **ticket creation form** with Google reCAPTCHA (v2 or v3). See the [Google reCAPTCHA Integration](/google-recaptcha-integration#protecting-the-ticket-creation-form) guide.

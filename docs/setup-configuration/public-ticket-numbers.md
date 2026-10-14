@@ -66,9 +66,9 @@ Once public ticket numbers are enabled, you can include the public number direct
 
 ### Where to Find It
 
-Open any **Business Inbox**, click the **Settings** icon, and navigate to **Email Settings**. When you edit a notification template — such as *Ticket Created (To Customer)* or *Replied by Agent (To Customer)* — you'll see a list of available smart codes on the right side of the editor. **Public Ticket ID** (<code v-pre>{{ticket.public_id}}</code>) is listed there. Click it to insert it at your cursor position, or type it manually.
+Open any **Business Inbox**, click the **Settings** icon, and navigate to **Email Settings**. When you edit a notification template — such as *Ticket Created (To Customer)* or *Replied by Agent (To Customer)* — you'll see the available smart codes listed under **Available Shortcodes**, below the editor. **Public Ticket ID** (<code v-pre>{{ticket.public_id}}</code>) is listed there. Click it to insert it at your cursor position, or type it manually.
 
-<!-- TODO: Capture screenshot of the email notification editor showing the Public Ticket ID smart code in the list, save at /images/setup-configuration/customer-portal/public-ticket-numbers/public-ticket-number-email-smartcode.webp -->
+![Public Ticket ID smartcode in the email template editor](/images/setup-configuration/customer-portal/public-ticket-numbers/public-ticket-number-email-smartcode.webp)
 
 ### Example Usage
 

@@ -16,7 +16,7 @@ If your support community lives inside a FluentCommunity space, you can make Flu
 4. A **FluentCommunity Portal URL** will appear below the option. Click **Copy** to copy it.
 5. Click **Save Settings**.
 
-<!-- TODO: Capture screenshot for this step and save it at /images/integrations-channels/core-integrations/fluent-community-integration/fc-portal-destination.webp -->
+![FluentCommunity Portal destination with the portal URL](/images/integrations-channels/core-integrations/fluent-community-integration/fc-portal-destination.webp)
 
 ::: info
 The **FluentCommunity Portal** option only appears when FluentCommunity is installed and active on your site.

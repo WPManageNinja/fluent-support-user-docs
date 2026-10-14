@@ -133,6 +133,7 @@ export default defineConfig({
               { text: 'Public Ticket Numbers', link: '/public-ticket-numbers' },
               { text: 'Portal Dashboard', link: '/customer-support-portal-dashboard' },
               { text: 'Gutenberg Blocks', link: '/customize-your-customer-portal' },
+              { text: 'Remote Portal', link: '/remote-portal' },
             ]
           },
           {

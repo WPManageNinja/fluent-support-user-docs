@@ -21,6 +21,18 @@ The above-mentioned shortcodes will display all the **Built-in** **Login, Signup
 
 ![Login form with Sing up and Reset Password](/images/ticket-management/automation-in-tickets/shortcodes/both-signup-and-login-1-1024x747.webp)
 
+::: info
+With [Remote Portal](/remote-portal), the portal on your main site uses the `[fluent_support_client_portal]` shortcode from the Fluent Support Client plugin instead. The shortcodes on this page are for the site where Fluent Support is installed.
+:::
+
+::: warning Signup needs WordPress registration turned on
+The signup form and the **Create an Account** link only show when **Anyone can register** is checked under **Settings** > **General** > **Membership** in your WordPress dashboard (on multisite, the network's registration setting). When registration is off, `show-signup=true` shows nothing, and `[fluent_support_signup]` shows a short "User registration is not enabled on this site." message instead of the form. See [Allow customers to sign up](/customer-support-portal-setup#allow-customers-to-sign-up).
+:::
+
+::: info Using FluentAuth?
+When the FluentAuth plugin (version 3.0 or later) is active, these shortcodes show FluentAuth's login, signup, and reset password forms in place of the built-in ones, so they look and behave like your other FluentAuth forms.
+:::
+
 ## Shortcodes for the Customer Support Portal
 
 Here are some **Shortcodes** listed below that you can use for your **Fluent Support Customer Portal** — 
@@ -66,7 +78,7 @@ To display only the **Signup** (**Create an Account**) option with the **built-i
 
 ### 4. Signup Form
 
-To display the **SIgnup** **Form** only, use this shortcode and the **Signup** form will appear in your Customer Portal for sign-in like the screenshot below.
+To display the **Signup** **Form** only, use this shortcode and the **Signup** form will appear in your Customer Portal like the screenshot below. This works only when WordPress registration is turned on, as explained above.
 
 :::info
 Remember , for sign-up, use a valid email as a verification code will be sent to the user email for confirmation, ensuring only valid emails can be used for sign-in.

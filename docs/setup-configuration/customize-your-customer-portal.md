@@ -1,5 +1,9 @@
 # Customize Customer Portal via Gutenberg Block
 
+::: info
+This block is for the site where Fluent Support is installed. A portal on another site connected through [Remote Portal](/remote-portal) uses the `[fluent_support_client_portal]` shortcode instead.
+:::
+
 FluentSupport (**Customer Portal**) **Gutenberg Block** empowers you to create a customized customer portal. You can design the customer portal precisely according to your preferences. To know the whole process, follow the steps accordingly. 
 
 ## **Add Customer Portal** 

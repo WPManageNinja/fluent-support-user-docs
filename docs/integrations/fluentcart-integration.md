@@ -92,7 +92,7 @@ The available FluentCart conditions are:
 - **Customer Purchased Package (Variation)** — matches customers who purchased a specific product variation, such as a particular pricing tier or bundle.
 - **Customer Has Active License** — a Yes/No condition that checks whether the customer holds an active license. This condition requires the FluentCart licensing module (available in FluentCart Pro).
 
-<!-- TODO: Capture screenshot showing the workflow builder with the FluentCart native condition group expanded, save at /images/integrations-channels/core-integrations/fluentcart-integration/fluentcart-workflow-commerce-conditions.webp -->
+![FluentCart conditions in the workflow builder](/images/integrations-channels/core-integrations/fluentcart-integration/fluentcart-workflow-commerce-conditions.webp)
 
 ::: tip
 **Custom fields vs. commerce conditions:** Custom fields are useful for letting customers *select* which product or order they need help with when submitting a ticket. Commerce conditions are useful for triggering workflows based on what customers *actually own* — verified against purchase records, not just what they typed. Use them together for the most accurate automation.

@@ -40,6 +40,17 @@ You may close tickets automatically if a ticket is included in a tag, or you don
 
 If you don’t want to trigger emails or notifications when closing the tickets automatically, you can enable this checkbox.
 
+When this checkbox is **off**, an automatically closed ticket is treated just like a ticket an agent closes:
+
+* The customer gets your inbox's ticket-closed email, if that email is turned on in the Business Inbox's **Email Settings**.
+* Any [automatic workflows](/automatic-workflow) with the **On Ticket Closed** trigger run for the ticket.
+
+This happens whether or not you add a custom closing response. Each closed ticket also gets an internal note saying "Ticket has been closed automatically by the system due to inactivity".
+
+::: tip
+If you want auto-closed tickets to follow up with customers (for example, through a satisfaction survey workflow), turn off **Close tickets silently**. Leave it on if you want auto-closing to happen quietly in the background.
+:::
+
 ### Don’t Close Bookmarked Tickets 
 
 If you don’t want to close the tickets automatically that are bookmarked, you can enable this checkbox.

@@ -77,7 +77,7 @@ Now simply copy the **Channel Name** and **Channel ID**.
 
 ### Configuring Slack in Fluent Support
 
-Go to the **Global Settings** from the Fluent Support **Dashboard** and select **Notification Integrations** from the left sidebar to find the **Slack** option. You will see the **Slack Integration Settings** page.  
+Go to **Settings** from the Fluent Support **Dashboard** and select **Notification Integrations** from the left sidebar to find the **Slack** option. You will see the **Slack Integration Settings** page.  
   
 Now fill in all the fields with the necessary information that you have copied before. Also, you can enable the checkboxes if needed. 
 
@@ -96,11 +96,11 @@ To add the Signing Secret:
 1. Go to the [Slack API](https://api.slack.com/) and open your app.
 2. In the left sidebar, click **Basic Information**.
 3. Scroll down to **App Credentials** and copy the **Signing Secret**.
-4. Go back to Fluent Support → **Global Settings** → **Notification Integrations** → **Slack**.
+4. Go back to Fluent Support → **Settings** → **Notification Integrations** → **Slack**.
 5. Paste the value into the **Slack Signing Secret** field.
 6. Click **Save Settings**.
 
-<!-- TODO: Capture screenshot for this step and save it at /images/integrations-channels/messaging-apps/managing-tickets-using-slack/slack-signing-secret.webp -->
+![Slack Signing Secret field in Notification Integrations](/images/integrations-channels/messaging-apps/managing-tickets-using-slack/slack-signing-secret.webp)
 
 After saving, send a test reply from a Slack ticket thread to confirm verification is working.
 
