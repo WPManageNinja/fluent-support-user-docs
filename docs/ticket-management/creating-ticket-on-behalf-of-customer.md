@@ -22,7 +22,7 @@ But, if the search fails, you can tick the checkbox **Could not find a contact? 
 
 After clicking the **Create a new one** , you will need to provide the necessary information about the customer and once you are done, click on the **Next** button to proceed. 
 
-From here you can also create a new WordPress user by selecting the **Create New User in WordPress**. To create a new WordPress user you have to give the WordPress username and password for that user. 
+From here you can also create a new WordPress user by selecting the **Create New User in WordPress**. To create a new WordPress user you have to give the WordPress username and password for that user.
 
 ![Create a new one option](/images/ticket-management/daily-operations/creating-ticket-on-behalf-of-customer/create-ticket-for-customers-5.webp)
 
