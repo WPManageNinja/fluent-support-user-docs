@@ -6,7 +6,7 @@ Fluent Support allows you to **Split** any reply into a new ticket i.e. if a cus
 
 First, go to your **Fluent Support** and click on **Tickets**.
 
-Now go to your desired ticket section from **All Tickets** , **My Tickets, Unassigned,** or **Bookmarks.**
+Now go to your desired ticket section from **Assigned to Me**, **Unassigned**, **Bookmarks**, or a status view such as **Open** or **All**.
 
 Open the specific ticket you want to split and hit the **Three dot button** on the right side of the ticket.  
 
