@@ -71,4 +71,23 @@ Do not delete the old bucket, account or app with your storage provider while ti
 
 When a notification email includes attachments, Fluent Support fetches remote files and attaches them to the email as usual. Each email can carry up to **10 MB** of attachments in total. Files that would go over this limit, or that cannot be fetched from the storage, are listed under **Attachments** at the end of the email as download links instead. These links stay valid for **30 days**.
 
+## Moving Existing Files With WP-CLI
+
+Turning on a remote storage only affects **new** uploads. Files that are already on your server stay there. If you have server access, you can move them with WP-CLI. Connect the storage first, as the commands only work with a connected storage.
+
+```bash
+wp fluent_support storage move-to-remote --driver=s3_compatible --dry-run
+wp fluent_support storage move-to-remote --driver=s3_compatible
+```
+
+* **move-to-remote:** Copies the attachments stored on your server to the remote storage, then removes the local copies.
+* **move-to-local:** Copies a storage's attachments back to your server. The remote copies are kept.
+* **make-private** (Dropbox and Google Drive only): Removes the public links that older versions of Fluent Support Pro created. The files keep opening from their tickets afterwards.
+
+Use `--driver` to pick the storage: `amazon_s3`, `cloudflare_r2`, `s3_compatible`, `dropbox` or `google_drive`. Add `--dry-run` to only count the files without moving them, and `--limit=<number>` to stop after that many files.
+
+::: tip
+Run the command with `--dry-run` first to see how many files will be moved.
+:::
+
 This is how you can integrate File Upload Platforms with Fluent Support!  
