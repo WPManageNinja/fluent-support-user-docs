@@ -1,0 +1,11 @@
+{
+  "outDir": "scripts/screenshots/raw/example",
+  "viewport": { "width": 1600, "height": 1100 },
+  "steps": [
+    { "admin": "/tickets" },
+    { "shot": { "name": "example-ticket-filters", "clip": "app", "crop": { "height": 700 },
+        "highlights": [ ".fs_sidebar_items ul" ] } },
+    { "shot": { "name": "example-add-ticket-arrow", "clip": "app", "crop": { "height": 700 },
+        "arrows": [ { "target": { "role": "button", "name": "Add Ticket" }, "from": "bottom", "len": 150 } ] } }
+  ]
+}

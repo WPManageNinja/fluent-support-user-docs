@@ -103,6 +103,8 @@ Now, set the **Action/s** (Task) from the dropdown list for **Workflow** to perf
 
 You will get the following Actions from the Dropdown List –
 
+Some actions are hidden for certain triggers, so the list you see depends on the trigger you chose. With **On Ticket Creation**, **Remove Tag(s)** and **Remove Bookmarks** are not offered. With **On Ticket Closed**, **Add Response**, **Close Ticket**, **Assign Agent**, **Block Ticket Submitter (Customer)** and **Delete Ticket** are not offered.
+
 **Ticket Actions**
 
   * Add Response

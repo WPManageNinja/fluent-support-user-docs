@@ -9,13 +9,15 @@
     "docs:preview": "npx vitepress preview",
     "docs:verify": "node scripts/verify-images.mjs",
     "featured:generate": "node scripts/generate-featured-images.mjs",
-    "featured:regenerate": "node scripts/generate-featured-images.mjs --force"
+    "featured:regenerate": "node scripts/generate-featured-images.mjs --force",
+    "shots": "node scripts/screenshots/shoot.cjs"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "playwright-core": "^1.64.1",
     "sharp": "^0.35.4",
     "vitepress": "^1.6.4"
   }

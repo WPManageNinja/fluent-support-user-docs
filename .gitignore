@@ -31,3 +31,6 @@ Thumbs.db
 *.sln
 *.sw?
 
+
+# Screenshot pipeline raw captures
+scripts/screenshots/raw/
