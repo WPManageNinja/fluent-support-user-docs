@@ -55,7 +55,7 @@ These work when you have a single ticket open.
 
 ### How the new ticket view shortcuts work
 
-* **Next ticket** and **Previous ticket** move through the ticket list you opened the ticket from, in the same order. At the end of the page, you will see a note that this is the last (or first) ticket on this page.
+* **Next ticket** and **Previous ticket** move through the ticket list you opened the ticket from, in the same order. When you reach the end of a page, Fluent Support loads the next (or previous) page for you. At the very end of the list, you will see a note that this is the last (or first) ticket in this list.
 * If you have started a reply but not sent it, Fluent Support asks before leaving the ticket. Choose **Stay** to keep working, or **Leave** to move on.
 * **Close the ticket** asks you to confirm first. It does nothing on a ticket that is already closed, or if you do not have permission to manage the ticket.
 
