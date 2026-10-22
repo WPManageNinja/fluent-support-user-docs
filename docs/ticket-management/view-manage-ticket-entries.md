@@ -14,8 +14,7 @@ The **Ticket Filters** sidebar on the left of the ticket list groups your ticket
 
 Most views show a live count next to their name. The counts refresh as the list reloads, so they stay current while you work.
 
-<!-- TODO: Capture screenshot of the Ticket Filters sidebar on the ticket list, showing the My Work, Needs Attention, Priority, Status, Saved Filters and Tags groups with counts, and save it at /images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-list-views.webp -->
-![Ticket Filters sidebar with the My Work, Needs Attention, Priority, Status, Saved Filters and Tags view groups and their ticket counts](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-list-views.webp)
+![Ticket Filters sidebar with the My Work, Needs Attention, Priority, Status and Tags view groups and their ticket counts](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-list-views.webp)
 
 ### My Work
 
@@ -84,7 +83,6 @@ To move through the list one ticket at a time, use the position control at the t
 
 The arrows are disabled on the first and last ticket in the view. Click the arrow button next to the view name (**Collapse Sidebar**) to hide the ticket list on the left and give the conversation more room.
 
-<!-- TODO: Capture screenshot of the top bar of a single ticket, showing the view switcher menu open on the left and the "3 of 42" position with the previous and next arrows on the right, and save it at /images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-view-switcher-navigation.webp -->
 ![Single ticket top bar with the view switcher menu open and the previous and next ticket arrows](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-view-switcher-navigation.webp)
 
 ::: tip
