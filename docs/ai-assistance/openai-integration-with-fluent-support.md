@@ -30,8 +30,8 @@ Each provider connects through its own API key. Pick the one you already have an
 
 | Provider | Good for |
 |----------|---------|
-| **OpenAI** | Widest model selection; GPT-4.1 and o-series models |
-| **Google Gemini** | Fast and cost-effective; Gemini 2.5 Flash is a strong default |
+| **OpenAI** | Widest model selection; GPT-4.1, GPT-4o and o-series models |
+| **Google Gemini** | Fast and cost-effective; Gemini 3.7 Flash is the recommended model |
 | **Anthropic Claude** | Detailed, thoughtful replies; Claude Sonnet 4 recommended |
 
 ---
@@ -45,7 +45,7 @@ Each provider connects through its own API key. Pick the one you already have an
 3. Give it a name and click **Create secret key**.
 4. Copy the key immediately — you will not be able to see it again.
 
-**Available models:** GPT-4.1, GPT-4.1 Mini, GPT-4.1 Nano, GPT-4o, GPT-4o Mini, GPT-4 Turbo, GPT-4, GPT-3.5 Turbo, o1, o3, o3-mini, o4-mini.
+**Available models:** GPT-4.1, GPT-4.1 Mini, GPT-4.1 Nano, GPT-4o, GPT-4o Mini, GPT-4o (2024-08-06), GPT-4o Mini (2024-07-18), GPT-4 Turbo, GPT-4, GPT-3.5 Turbo, o3, o3-mini, o4-mini, o1.
 
 ### Google Gemini
 
@@ -54,7 +54,7 @@ Each provider connects through its own API key. Pick the one you already have an
 3. Click **Create API key** and select or create a project.
 4. Copy the generated key.
 
-**Available models:** Gemini 2.5 Pro, Gemini 2.5 Flash *(recommended)*, Gemini 2.5 Flash Lite, Gemini 2.0 Flash Lite.
+**Available models:** Gemini 3.7 Flash *(recommended)*, Gemini 3.6 Flash, Gemini 3.5 Flash, Gemini 3.5 Flash Lite *(fastest)*, Gemini 3.1 Flash Lite, Gemini 2.5 Pro, Gemini 2.5 Flash, Gemini 2.5 Flash Lite.
 
 ### Anthropic Claude
 
@@ -75,7 +75,7 @@ When a key is already saved, the API Key field shows `****` followed by the last
 ## Tips and Notes
 
 ::: tip
-If you are unsure which model to pick, start with the one marked **Recommended** in the model dropdown — Gemini 2.5 Flash for Gemini, or Claude Sonnet 4 for Anthropic.
+If you are unsure which model to pick, start with the one marked **Recommended** in the model dropdown — Gemini 3.7 Flash for Gemini, or Claude Sonnet 4 for Anthropic.
 :::
 
 ::: info
