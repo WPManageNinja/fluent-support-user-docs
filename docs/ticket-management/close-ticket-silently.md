@@ -6,7 +6,7 @@ Fluent Support has an automatic ticket-closing feature that notifies the users v
 
 To learn how you can **close** your **ticket silently** using Fluent Support, follow the steps with the screenshots below —
 
-First, go to your **Fluent Support** and click on **Tickets**. Then go to your desired ticket section from **My Tickets, All Tickets, Unassigned,** or **Bookmarks**
+First, go to your **Fluent Support** and click on **Tickets**. Then go to your desired ticket section from **Assigned to Me**, **Unassigned**, **Bookmarks**, or a status view such as **Open** or **All**
 
 Open the specific ticket you want to close silently and click on the **Three dot Icon**.  
 Now, select **Close Ticket Silently** and a confirmation message (Ticket has been closed) will appear that only you can see.
