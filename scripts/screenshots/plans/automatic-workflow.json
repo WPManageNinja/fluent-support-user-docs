@@ -1,0 +1,12 @@
+{
+  "outDir": "docs/public/images/workflows-automation/automatic-workflow",
+  "viewport": { "width": 1600, "height": 1100 },
+  "steps": [
+    { "admin": "/workflows/5/edit" },
+    { "wait": 1000 },
+    { "click": ".el-select:visible" },
+    { "wait": 800 },
+    { "shot": { "name": "workflows-automation:automatic-workflow:set-triggers-3", "clip": "app", "crop": { "height": 1160 },
+        "highlights": [ ".el-select-dropdown:visible .el-select-dropdown__list" ] } }
+  ]
+}
