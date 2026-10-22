@@ -4,7 +4,7 @@ Fluent Support allows the support agents to Bookmark their tickets to find them 
 
 ## Bookmarks
 
-First, go to your **Fluent Support** and click on **Tickets**. Now go to your desired ticket section from **My Tickets** , **All Tickets** , **Unassigned** , or **Bookmarks**
+First, go to your **Fluent Support** and click on **Tickets**. Now go to your desired ticket section from **Assigned to Me**, **Unassigned**, **Bookmarks**, or a status view such as **Open** or **All**
 
 Open the specific ticket you want to bookmark and click on the **Bookmark Icon** button.  
 
