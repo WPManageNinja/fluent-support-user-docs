@@ -8,7 +8,7 @@ Remember, only those with [**permission**](/permission-management-for-agents) ca
 
 First, go to your **Fluent Support** and click on **Tickets.**
 
-Now go to your desired ticket section from **My Tickets, All Tickets** , **Unassigned** , or **Bookmarks**.
+Now go to your desired ticket section from **Assigned to Me**, **Unassigned**, **Bookmarks**, or a status view such as **Open** or **All**.
 
 Open the specific ticket you want to merge, and click on the **Three dot Icon**. Now, select ”**Merge Tickets”** and a popup page will appear on the top.
 
