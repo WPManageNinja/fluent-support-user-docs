@@ -8,20 +8,92 @@ To view your tickets, navigate to your **Fluent Support Dashboard** and click on
 
 ![Ticket Management](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-management-1.webp)
 
-## Ticket Filtering Sections
+## Ticket List Views
 
-Once in the Tickets area, you will find four primary sections in the left sidebar to help organize your workflow:
+The **Ticket Filters** sidebar on the left of the ticket list groups your tickets into views. Click any view to load its tickets in the list. The view you are on is highlighted, and its name appears as the list title.
 
-* **All Tickets:** Displays every ticket submitted to the system.
-* **My Tickets:** Shows only the tickets specifically assigned to you (the active agent).
-* **Unassigned:** Contains tickets that have not yet been assigned to a support agent.
-* **Bookmarks:** Stores tickets you have specifically marked for easy access.
+Most views show a live count next to their name. The counts refresh as the list reloads, so they stay current while you work.
 
-![Ticket Management](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-management-2.webp)
+<!-- TODO: Capture screenshot of the Ticket Filters sidebar on the ticket list, showing the My Work, Needs Attention, Priority, Status, Saved Filters and Tags groups with counts, and save it at /images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-list-views.webp -->
+![Ticket Filters sidebar with the My Work, Needs Attention, Priority, Status, Saved Filters and Tags view groups and their ticket counts](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-list-views.webp)
+
+### My Work
+
+* **Assigned to Me:** Open tickets assigned to you. Open means tickets with the **New** or **Active** status.
+* **Unassigned:** Open tickets that no agent has been assigned to yet. Agents who can only see tickets assigned to them do not see this view.
+* **Bookmarks** (Pro): Tickets you have bookmarked, in any status. This view has no count.
+
+### Needs Attention
+
+* **Waiting For Reply:** Open tickets where the customer is waiting on your team. This includes new tickets, tickets with no agent reply yet, and tickets where the customer replied after the last agent reply. The count is highlighted when it is above zero.
+
+### Priority
+
+One view for each agent priority, from highest to lowest: **Critical**, **Medium** and **Normal**. Each view and its count include only open tickets with that **Agent Priority**. The **Critical** count is highlighted when it is above zero.
+
+### Status
+
+* **Open:** Tickets with the **New** or **Active** status.
+* **Active:** Tickets with the **Active** status.
+* **Closed:** Tickets with the **Closed** status.
+* **New:** Tickets with the **New** status.
+* **All:** Every ticket, in any status.
+
+### Saved Filters (Pro)
+
+This group lists the searches you saved with the [Advanced Filter](/advanced-filter-save-search-feature). Click one to apply it to the list. The group appears only after you save at least one search, and saved filters have no count.
+
+### Tags
+
+This group lists your ticket tags. Click a tag to see the open tickets that carry it. The sidebar shows the first eight tags. When you have more, use the **Filter tags** search box to find the one you need. Tags have no count.
+
+::: info
+The counts include only the tickets you are allowed to see. If your access is limited to certain tickets or business inboxes, the counts reflect that, so two agents may see different numbers for the same view.
+:::
+
+### Collapse the Sidebar and Groups
+
+* Click a group name, such as **My Work** or **Priority**, to fold or unfold that group. Fluent Support remembers which groups you closed in your browser.
+* Click the arrow button next to **Ticket Filters** (**Collapse Sidebar**) to shrink the sidebar to a narrow column of icons. Hover over an icon to see the view name. The collapsed sidebar hides **Saved Filters** and **Tags**. Click the button again (**Expand Sidebar**) to bring the full sidebar back.
+
+On phones and tablets, the sidebar is hidden so the list starts at the top of the screen. Tap the list title to open **Ticket Views** and pick a view.
+
+::: tip
+You can jump to some views with [keyboard shortcuts](/navigate-with-keyboard-shortcut), such as **Assigned to Me**, **Unassigned** and **Bookmarks**.
+:::
 
 ## Individual Ticket Management
 
 Clicking on any ticket from the list opens the individual ticket page, where you can respond to customers and manage ticket metadata.
+
+### Switch Views and Move Between Tickets
+
+When you open a ticket from the list, the left column keeps showing the tickets in the view you came from. Click any ticket there to open it.
+
+To work through a different view without going back to the list:
+
+1. Click the view name at the top left of the ticket page. It shows the current view, such as **Assigned to Me**, and how many tickets it holds.
+2. Pick another view from the menu. The menu has the same groups as the [ticket list sidebar](#ticket-list-views).
+3. The ticket list on the left reloads with the new view. The ticket you are reading stays open.
+
+To move through the list one ticket at a time, use the position control at the top right of the ticket page:
+
+1. Check your place in the list, shown as a position such as **3 of 42**.
+2. Click the up arrow (**Previous ticket**) or the down arrow (**Next ticket**) to open the ticket before or after this one.
+3. When you reach the end of a page, Fluent Support loads the next or previous page for you, so you can keep going through the whole view.
+
+The arrows are disabled on the first and last ticket in the view. Click the arrow button next to the view name (**Collapse Sidebar**) to hide the ticket list on the left and give the conversation more room.
+
+<!-- TODO: Capture screenshot of the top bar of a single ticket, showing the view switcher menu open on the left and the "3 of 42" position with the previous and next arrows on the right, and save it at /images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-view-switcher-navigation.webp -->
+![Single ticket top bar with the view switcher menu open and the previous and next ticket arrows](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-view-switcher-navigation.webp)
+
+::: tip
+You can also move to the next or previous ticket with a [keyboard shortcut](/navigate-with-keyboard-shortcut).
+:::
+
+::: info
+The view switcher and the position control appear when you open a ticket from the ticket list. If you open a ticket from a direct link, the full **Ticket Filters** sidebar shows on the left instead.
+:::
 
 ### Core Response Tools
 
@@ -59,7 +131,7 @@ You have two choices:
 
 ### Leaving A Ticket With An Unsent Reply
 
-When you move to the next or previous ticket with a [keyboard shortcut](/navigate-with-keyboard-shortcut) while your reply box still has text, an image, or an attachment, Fluent Support asks before you go. The **Unsent reply** message says "Your reply has not been sent. Leave this ticket?". Click **Stay** to go back to your reply, or **Leave** to open the other ticket.
+When you move to the next or previous ticket with the arrow buttons or a [keyboard shortcut](/navigate-with-keyboard-shortcut) while your reply box still has text, an image, or an attachment, Fluent Support asks before you go. The **Unsent reply** message says "Your reply has not been sent. Leave this ticket?". Click **Stay** to go back to your reply, or **Leave** to open the other ticket.
 
 ## Customer Information & Additional Details
 

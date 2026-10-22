@@ -43,6 +43,10 @@ A brief explanation of the two AI options mentioned above is given below:
 
 This AI assistant will help you to generate responses to make your responses efficient for your tickets.
 
+::: info
+Reply drafts are short and answer the customer's latest message, and they are written in the language the customer wrote in. Each draft starts with a greeting but leaves out the closing and signature, so you can add your own. If you need something different, such as a longer reply, ask for it in the prompt.
+:::
+
 ![Option-B-and-its-features](/images/ai-assistance/features-of-openai-integration/ai-features-4.webp)
 
 A brief explanation of all the AI options mentioned above is given below:

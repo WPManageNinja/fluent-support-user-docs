@@ -32,8 +32,8 @@ Click the **Keyboard Shortcuts** link next to the option at any time to see the 
 | Create a ticket | ⌘ + ⌥ + N | Ctrl + Alt + N |
 | Reset filters | ⌘ + ⌥ + R | Ctrl + Alt + R |
 | Toggle **Waiting for reply** | ⌘ + ⌥ + W | Ctrl + Alt + W |
-| Go to **All Tickets** | ⌘ + ⇧ + A | Ctrl + Shift + A |
-| Go to **My Tickets** | ⌘ + ⇧ + M | Ctrl + Shift + M |
+| Go to **Open** tickets | ⌘ + ⇧ + A | Ctrl + Shift + A |
+| Go to **Assigned to Me** | ⌘ + ⇧ + M | Ctrl + Shift + M |
 | Go to **Unassigned** | ⌘ + ⇧ + U | Ctrl + Shift + U |
 | Go to **Bookmarks** (Pro) | ⌘ + ⇧ + B | Ctrl + Shift + B |
 | Switch status tab (such as Open, Active, Closed, All) | ⌘ + ⇧ + → / ← | Ctrl + Shift + → / ← |

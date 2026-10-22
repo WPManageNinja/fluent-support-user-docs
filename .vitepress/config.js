@@ -98,6 +98,7 @@ export default defineConfig({
           { text: 'Fluent Support Onboarding', link: '/fluent-support-onboarding' },
           { text: 'Fluent Support Glossary', link: '/fluent-support-glossary' },
           { text: 'Dashboard Overview', link: '/dashboard-overview' },
+          { text: 'Deactivate or Delete', link: '/how-to-deactivate-or-delete-the-fluent-support' },
         ]
       },
       {
@@ -165,6 +166,7 @@ export default defineConfig({
               { text: 'Internal Notifications', link: '/internal-notifications' },
               { text: 'Custom Tags', link: '/ticket-tags-custom-tags' },
               { text: 'My Tickets', link: '/agent-specific-tickets-my-tickets' },
+              { text: 'Customers', link: '/customers' },
               { text: 'Ticket Display Settings', link: '/ticket-display-settings' },
             ]
           },
@@ -295,14 +297,15 @@ export default defineConfig({
           },
           {
             text: 'Other',
-        collapsed: true,
-        items: [
+            collapsed: true,
+            items: [
               { text: 'BetterDocs', link: '/betterdocs-integration' },
               { text: 'Google reCAPTCHA', link: '/google-recaptcha-integration' },
               { text: 'Google Drive', link: '/google-drive-integration' },
               { text: 'Dropbox', link: '/dropbox-integration' },
               { text: 'Cloudflare R2', link: '/cloudflare' },
               { text: 'Amazon S3', link: '/amazon-s3' },
+              { text: 'S3-Compatible Storage', link: '/s3-compatible-storage' },
             ]
           },
         ]

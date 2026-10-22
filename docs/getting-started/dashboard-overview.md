@@ -82,7 +82,9 @@ Once the **All Widgets** panel is open, you can manage your view:
 This feature ensures that your dashboard remains clean and relevant to your specific role or daily tasks.
 
 > [!Note]
-> **Remember:** You can use the **Reset** button near the greeting to refresh your dashboard widgets and ensure you are seeing the most up-to-date data.
+::: tip
+You can use the **Reset** button near the greeting to refresh your dashboard widgets and ensure you are seeing the most up-to-date data.
+:::
 
 ## Admin Dashboard Theme (Dark Mode)
 

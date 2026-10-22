@@ -7,11 +7,13 @@ This allows developers to add a brand new, custom panel directly to the right-ha
 You can implement this custom widget in two ways: using **PHP (Server-side)** or **JavaScript (Client-side)**. 
 
 
-### Method 1: Using PHP (Server-Side)
+## Method 1: Using PHP (Server-Side)
 
 If you want to render HTML directly from your server, you can use a simple PHP filter. 
 
->**Pro Tip:** We highly recommend using the free **FluentSnippets** plugin to safely add PHP code to your WordPress site without editing your theme files directly.
+::: tip
+We highly recommend using the free **FluentSnippets** plugin to safely add PHP code to your WordPress site without editing your theme files directly.
+:::
 
 Simply add the following code snippet to your site. This example creates a widget titled "My Widget" with a Star icon, and it displays the current Ticket ID:
 
@@ -33,7 +35,7 @@ add_filter('fluent_support/widgets/ticket_sidebar', function ($widgets, $data) {
 * `content`: The actual HTML content inside the box. In this case, it dynamically pulls the ID of the current ticket you are viewing.
 
 
-### Method 2: Using JavaScript (Client-Side)
+## Method 2: Using JavaScript (Client-Side)
 
 If you are a developer building a custom integration or prefer to handle data on the frontend using Vue.js, you can inject your widget using JavaScript. 
 

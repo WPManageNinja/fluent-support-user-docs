@@ -36,7 +36,7 @@ From the **Mailbox** dropdown, you can select a specific mailbox to view the rep
 
 **Export:** To export your Timesheet Report, click the **Export** button in the top-right corner. The report will be downloaded as a CSV file.
 
-![](/images/ticket-management/productivity-tools/agent-time-tracking/time-tracking-5.webp)
+![Exporting the Timesheet report as a CSV file](/images/ticket-management/productivity-tools/agent-time-tracking/time-tracking-5.webp)
 
 If you have any questions or need further assistance, feel free to reach out to [us](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/).
 

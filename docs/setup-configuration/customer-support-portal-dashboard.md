@@ -79,5 +79,5 @@ When the customer verifies the new email, Fluent Support **automatically merges*
 > No action is needed from your agents — the merge happens on its own the moment the customer confirms the new email.
 
 ::: details For developers
-If you have built an add-on that stores its own data against a customer ID, hook into the `fluent_support/merging_customer_records` action. It fires when two customer records are merged, so you can move your data from the old record to the one that is being kept.
+If you have built an add-on that stores its own data against a customer ID, Fluent Support lets your code know when two customer records are merged, so you can move your data to the record that is being kept. See the [Developer Documentation](https://developers.fluentsupport.com/) for details.
 :::

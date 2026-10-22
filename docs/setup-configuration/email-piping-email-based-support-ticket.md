@@ -110,7 +110,7 @@ If the reference is missing (for example, the customer's mail program removed it
 When neither is found, a reply (a subject starting with **Re:**) can still be matched to one of the customer's tickets in the same inbox with exactly the same title, if that ticket had activity in the last 30 days. A brand-new email is always a new ticket, even if its subject matches an older ticket.
 
 ::: info
-Partial subject matching, where a reply could join a ticket that only shares a few words of its subject, is now **off by default**. It used to put new questions on old, unrelated tickets. Developers can turn it back on with the `fluent_support/ticket_partial_match` filter.
+Partial subject matching, where a reply could join a ticket that only shares a few words of its subject, is now **off by default**. It used to put new questions on old, unrelated tickets. A developer can turn it back on with a small code snippet; see the [Developer Documentation](https://developers.fluentsupport.com/).
 :::
 
 If you want to know more details about Email Piping, you can also read this [What is Email Piping and Why?](https://fluentsupport.com/what-is-email-piping-and-why/)  

@@ -1,6 +1,6 @@
 # File Upload Integrations
 
-Fluent Support offers three platforms for storing uploaded files: your **Default WordPress storage** , **Dropbox** , and **Google Drive**. But, you can select only one storage platform for your uploaded files at a time. This article will guide you through the process required to upload your files in fluent support.
+Fluent Support offers several platforms for storing uploaded files: your **Default WordPress Storage**, **Dropbox**, **Google Drive**, **Cloudflare R2**, **Amazon S3** and **S3-Compatible Storage** (such as DigitalOcean Spaces, Wasabi, Backblaze B2 and MinIO). The remote storage options need Fluent Support Pro. You can select only one storage platform for your uploaded files at a time. This article will guide you through the process required to upload your files in fluent support.
 
 ## File Upload Integration With Fluent Support 
 
@@ -32,9 +32,43 @@ For specific instructions on how to generate the Client IDs and Secrets required
 
  * **Dropbox Integration:** To learn how to generate your keys and integrate Dropbox, read this full [Documentation](/dropbox-integration) .
  * **Google Drive Integration:** To learn how to set up Google Drive storage for your tickets, read this full [Documentation](/google-drive-integration).
+ * **Cloudflare R2 Integration:** To learn how to connect a Cloudflare R2 bucket, read this full [Documentation](/cloudflare).
+ * **Amazon S3 Integration:** To learn how to connect an Amazon S3 bucket, read this full [Documentation](/amazon-s3).
+ * **S3-Compatible Storage:** To learn how to connect DigitalOcean Spaces, Wasabi, Backblaze B2, MinIO or another S3-compatible service, read this full [Documentation](/s3-compatible-storage).
 
 >Remember: No configuration is necessary if you choose to stick with the Default WordPress Storage platform.
 
 Before uploading the files to **Google Drive** , you must integrate it with your Fluent Support.
+
+## How Remote Files Are Handled
+
+Once a remote storage is active, Fluent Support takes care of your files behind the scenes. Here is what to expect.
+
+### Dropbox and Google Drive Files Stay Private
+
+Files stored in Dropbox or Google Drive are never shared with a public link. Agents and customers open attachments from the ticket just as before, and Fluent Support first checks that the person is allowed to see that ticket:
+
+* **Dropbox:** The file opens through a temporary link that Dropbox creates at that moment and that expires after 4 hours.
+* **Google Drive:** Your site fetches the file from your Google Drive and delivers it directly, so the file never needs a share link.
+
+::: info Dropbox permissions
+Dropbox needs the **files.metadata.read**, **files.content.write**, **files.content.read**, **sharing.read** and **sharing.write** permissions on your Dropbox app. If any are missing, the Dropbox card shows a warning naming them. Enable them in the Dropbox App Console (Permissions tab), then reconnect Dropbox. See the [Dropbox guide](/dropbox-integration) for details.
+:::
+
+### Deleting Files Happens in the Background
+
+When a ticket is deleted, its files are removed from your remote storage in the background, so you do not have to wait for the storage service. If a file cannot be removed, the storage card shows a warning with the number of files that could not be removed.
+
+### Old Files Keep Working After Connection Changes
+
+Each file remembers the storage account or bucket it was uploaded to. If you switch to a different storage, connect another account or bucket, or disconnect a storage, files uploaded earlier still open from their tickets as long as that storage account or bucket still exists.
+
+::: warning
+Do not delete the old bucket, account or app with your storage provider while tickets still use its files. Fluent Support can no longer open files that were removed on the provider's side.
+:::
+
+### Email Attachments
+
+When a notification email includes attachments, Fluent Support fetches remote files and attaches them to the email as usual. Each email can carry up to **10 MB** of attachments in total. Files that would go over this limit, or that cannot be fetched from the storage, are listed under **Attachments** at the end of the email as download links instead. These links stay valid for **30 days**.
 
 This is how you can integrate File Upload Platforms with Fluent Support!  
