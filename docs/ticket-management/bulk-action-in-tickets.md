@@ -2,15 +2,17 @@
 
 Fluent Support lets you work on many tickets at once with **Bulk Actions**. You can reply to several tickets together, assign them to an agent, add or remove tags, close or reopen them, change their priority or product, and more. This article walks you through the whole process.
 
-## Turn On Bulk Actions
+## Show or Hide Bulk Actions
 
 First, go to **Tickets** from your **Fluent Support** dashboard.
 
 ![Tickets from Fluent Support dashboard](/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-1.webp)
 
-Open the ticket list you want to work with, such as **Assigned to Me**, **Unassigned**, **Bookmarks**, or a status view such as **Open** or **All**. Then click the **More Action** button and choose **Show Bulk Action**. A checkbox now appears next to every ticket.
+Open the ticket list you want to work with, such as **Assigned to Me**, **Unassigned**, **Bookmarks**, or a status view such as **Open** or **All**. A checkbox appears next to every ticket, and a **Select All** checkbox sits at the top of the list. Bulk actions are turned on by default.
 
-![All ticket sections](/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-2.webp)
+If you prefer a cleaner list, click the **More Action** button and choose **Hide Bulk Action**. The checkboxes disappear. To bring them back, open **More Action** again and choose **Show Bulk Action**. Fluent Support remembers your choice.
+
+![More Action menu with the Hide Bulk Action option](/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-2.webp)
 
 ## Select Tickets
 
