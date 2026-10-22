@@ -8,8 +8,6 @@ The **Customers** screen lists everyone who has contacted your support team. Fro
 2. Click **Customers** in the top navigation menu.
 
 ![The Customers list in Fluent Support](/images/ticket-management/customers/customers-list.webp)
-<!-- TODO: Capture screenshot of the Customers list (All tab, a few customers, one with the Blocked badge) and save it at /images/ticket-management/customers/customers-list.webp -->
-
 ::: info
 You only see **Customers** if your role has permission to access private data (customers and agents). See [Permission Management for Agents](/permission-management-for-agents).
 :::
@@ -49,7 +47,6 @@ Click the three dots at the end of a row to see more options:
 Click the **Search** icon (magnifying glass) above the list to open the search box. Type what you are looking for and press **Enter**. To close the search and show the full list again, click **Cancel** or clear the box.
 
 ![The customer search box with a search summary below it](/images/ticket-management/customers/customers-search.webp)
-<!-- TODO: Capture screenshot of the open customer search box after running a search such as city:London tickets:>2, showing the summary line below the box, and save it at /images/ticket-management/customers/customers-search.webp -->
 
 ### Just Type
 
@@ -119,8 +116,6 @@ For example, `open:>0 activity:<2026-01-01` finds customers who still have open 
 Click the **?** icon inside the search box to open **Search tips**. It shows example searches under **Just type** (click **Try** to run one) and every field under **Search one field** (click a field to add it to the box).
 
 ![The Search tips window](/images/ticket-management/customers/customers-search-tips.webp)
-<!-- TODO: Capture screenshot of the Search tips window opened from the ? icon in the customer search box and save it at /images/ticket-management/customers/customers-search-tips.webp -->
-
 ::: info
 * Under the search box, a short summary shows how your search was understood, so you can check that each part was read the way you meant.
 * If you type a field name that does not exist, such as `area:north`, it is searched as plain text and the summary tells you it is not a search field.
@@ -146,8 +141,6 @@ The list updates right away. By default, the newest customers are shown first.
 The **Customer** and **Tickets** columns are always shown. Your choice is remembered in your browser, so the list looks the same the next time you open it.
 
 ![The Columns menu for showing or hiding columns](/images/ticket-management/customers/customers-columns.webp)
-<!-- TODO: Capture screenshot of the open Columns popover (Toggle columns icon) next to the Sort By popover if possible, and save it at /images/ticket-management/customers/customers-columns.webp -->
-
 ::: tip
 The **Location** column hides itself when none of the customers on the current page have a city or country saved.
 :::
@@ -161,8 +154,6 @@ The **Location** column hides itself when none of the customers on the current p
 To clear your selection without making a change, click **Clear selection**.
 
 ![The bulk action bar with Block, Unblock and Delete buttons](/images/ticket-management/customers/customers-bulk-actions.webp)
-<!-- TODO: Capture screenshot of the Customers list with three customers selected, showing the bulk bar with Block, Unblock, Delete and Clear selection, and save it at /images/ticket-management/customers/customers-bulk-actions.webp -->
-
 You can also block or unblock a single customer from the row's three-dot menu, or by setting **Status** to **Blocked** or **Active** in the customer's edit form.
 
 ### What Blocking Does
@@ -194,8 +185,6 @@ Deleting a customer is permanent. All data associated with the customer, includi
 Click a customer in the list to open their profile. A breadcrumb at the top (**Customers** > customer name) takes you back to the list, and the list keeps your tab, search, sort and page.
 
 ![A customer profile with the tickets table and profile card](/images/ticket-management/customers/customer-profile.webp)
-<!-- TODO: Capture screenshot of a customer profile page showing the Tickets table on the left and the profile card with Open / Closed / Total stats on the right, and save it at /images/ticket-management/customers/customer-profile.webp -->
-
 ### Profile Actions
 
 At the top right of the profile:
