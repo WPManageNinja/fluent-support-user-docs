@@ -165,7 +165,7 @@ export default defineConfig({
               { text: 'Internal Notes', link: '/internal-notes' },
               { text: 'Internal Notifications', link: '/internal-notifications' },
               { text: 'Custom Tags', link: '/ticket-tags-custom-tags' },
-              { text: 'My Tickets', link: '/agent-specific-tickets-my-tickets' },
+              { text: 'Assigned to Me', link: '/agent-specific-tickets-my-tickets' },
               { text: 'Customers', link: '/customers' },
               { text: 'Ticket Display Settings', link: '/ticket-display-settings' },
             ]
