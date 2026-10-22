@@ -8,7 +8,7 @@ First, go to **Tickets** from your **Fluent Support** dashboard.
 
 ![Tickets from Fluent Support dashboard](/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-1.webp)
 
-Open the ticket list you want to work with, such as **My Tickets**, **All Tickets**, **Unassigned**, or **Bookmarks**. Then click the **More Action** button and choose **Show Bulk Action**. A checkbox now appears next to every ticket.
+Open the ticket list you want to work with, such as **Assigned to Me**, **Unassigned**, **Bookmarks**, or a status view such as **Open** or **All**. Then click the **More Action** button and choose **Show Bulk Action**. A checkbox now appears next to every ticket.
 
 ![All ticket sections](/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-2.webp)
 
