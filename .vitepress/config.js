@@ -159,6 +159,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'View & Manage Tickets', link: '/view-manage-ticket-entries' },
+              { text: 'Ticket Views', link: '/ticket-views' },
               { text: 'Create for Customers', link: '/creating-ticket-on-behalf-of-customer' },
               { text: 'Saved Replies', link: '/templated-saved-replies' },
               { text: 'Internal Notes', link: '/internal-notes' },
@@ -175,6 +176,7 @@ export default defineConfig({
               { text: 'Filter, Sort & Search', link: '/filtering-sorting-searching-tickets' },
               { text: 'Advanced Filters', link: '/advanced-filter-fluent-support' },
               { text: 'Save Searches', link: '/advanced-filter-save-search-feature' },
+              { text: 'Search Customers', link: '/customer-search' },
             ]
           },
           {
@@ -303,6 +305,7 @@ export default defineConfig({
               { text: 'Dropbox', link: '/dropbox-integration' },
               { text: 'Cloudflare R2', link: '/cloudflare' },
               { text: 'Amazon S3', link: '/amazon-s3' },
+              { text: 'S3-Compatible Storage', link: '/s3-compatible-storage' },
             ]
           },
         ]

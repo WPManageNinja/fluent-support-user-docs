@@ -1,0 +1,69 @@
+{
+  "outDir": "docs/public/images/integrations-channels/other/s3-compatible",
+  "viewport": {
+    "width": 1600,
+    "height": 1100
+  },
+  "steps": [
+    {
+      "admin": "/settings/upload_integration"
+    },
+    {
+      "wait": 1500
+    },
+    {
+      "shot": {
+        "name": "s3-compatible-storage-card",
+        "clip": "app",
+        "crop": {
+          "height": 1960
+        },
+        "highlights": [
+          ".fs_storage_integration_card:has-text(\"S3-Compatible Storage\")"
+        ]
+      }
+    },
+    {
+      "click": ".fs_storage_integration_card:has-text(\"S3-Compatible Storage\") button"
+    },
+    {
+      "wait": 1500
+    },
+    {
+      "fill": {
+        "selector": ".el-dialog input[placeholder=\"nyc3.digitaloceanspaces.com\"]",
+        "value": "nyc3.digitaloceanspaces.com"
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-dialog input[placeholder=\"Access Key\"]",
+        "value": "DO00EXAMPLEACCESSKEY"
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-dialog input[placeholder=\"Secret Key\"]",
+        "value": "example-secret-key"
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-dialog input[placeholder=\"your-bucket-name\"]",
+        "value": "acme-support-files"
+      }
+    },
+    {
+      "wait": 400
+    },
+    {
+      "shot": {
+        "name": "s3-compatible-storage-settings",
+        "clip": {
+          "element": ".el-dialog",
+          "pad": 0
+        }
+      }
+    }
+  ]
+}
