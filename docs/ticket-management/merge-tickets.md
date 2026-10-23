@@ -10,18 +10,18 @@ First, go to your **Fluent Support** and click on **Tickets.**
 
 Now go to your desired ticket section from **Assigned to Me**, **Unassigned**, **Bookmarks**, or a status view such as **Open** or **All**.
 
-Open the specific ticket you want to merge, and click on the **Three dot Icon**. Now, select ”**Merge Tickets”** and a popup page will appear on the top.
+Open the specific ticket you want to merge, and click on the **Three dot Icon**. Now, select **Merge Ticket** and a popup page will appear.
 
-![Merge Tickets option](/images/ticket-management/productivity-tools/merge-tickets/merge-ticket-1.webp)
+![The three-dot menu on a ticket with the Merge Ticket option highlighted](/images/ticket-management/productivity-tools/merge-tickets/merge-ticket-1.webp)
 
 The popup will display all the tickets opened by a single user under **ID** , **Title** , and **Status** options to merge.
 
 You can select all the tickets in bulk at once or individually based on your needs. Then click on the **Merge** button. 
 
-![Display of all merged tickets](/images/ticket-management/productivity-tools/merge-tickets/merge-ticket-2.webp)
+![The Merge Tickets popup listing the customer's other tickets, with one selected and the Merge button highlighted](/images/ticket-management/productivity-tools/merge-tickets/merge-ticket-2.webp)
 
 Click on and the ticket will be combined with the previous one. Now you can respond to all merged tickets at once with a single response for all inquiries.
 
-![Finally marge desired tickets](/images/ticket-management/productivity-tools/merge-tickets/merge-ticket-4.webp)
+![The ticket after the merge, showing a message that the other ticket has been merged with it](/images/ticket-management/productivity-tools/merge-tickets/merge-ticket-4.webp)
 
 
