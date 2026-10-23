@@ -1,0 +1,19 @@
+{
+  "outDir": "docs/public/images/ticket-management/daily-operations/ticket-views",
+  "viewport": { "width": 1600, "height": 1300 },
+  "steps": [
+    { "admin": "/tickets" },
+    { "wait": 1800 },
+    { "shot": { "name": "ticket-views-sidebar", "clip": "app", "crop": { "width": 680, "height": 2400 } } },
+    { "click": { "text": "App crashes when exporting to PDF" } },
+    { "wait": 2200 },
+    { "shot": { "name": "ticket-views-single-ticket", "clip": "app", "crop": { "height": 1250 },
+        "highlights": [ ".fs_view_switcher_btn", ".fs_ticket_position" ] } },
+    { "viewport": { "width": 390, "height": 844 } },
+    { "admin": "/tickets" },
+    { "wait": 1800 },
+    { "click": ".fs_list_view_btn" },
+    { "wait": 1200 },
+    { "shot": { "name": "ticket-views-phone", "clip": "viewport" } }
+  ]
+}

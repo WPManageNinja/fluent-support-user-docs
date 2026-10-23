@@ -143,7 +143,29 @@ For other providers, follow the same idea. Create a private bucket, create a key
 
 For Backblaze B2, DigitalOcean Spaces and Wasabi, you can leave **Region** empty. For other providers, an empty **Region** is treated as `us-east-1`, so type your region if your provider uses a different one.
 
-> **MinIO and private servers:** The endpoint must be a public address that your WordPress site can reach over the internet. A MinIO server on `localhost` or on a private local network address is not accepted.
+> **MinIO and private servers:** The endpoint must be a public address that your WordPress site can reach over the internet. A MinIO server on `localhost` or on a private local network address is not accepted. To allow a private endpoint, a developer can add this filter to your site:
+>
+> ```php
+> add_filter('fluent_support_pro/storage_allow_private_endpoint', '__return_true');
+> ```
+
+## Keep Your Keys Out of the Database (Optional)
+
+You can define the settings in your `wp-config.php` file instead of the settings screen. When the access key constant exists, FluentSupport uses these values and shows the settings as read-only.
+
+```php
+define('FLUENT_SUPPORT_S3C_ENDPOINT', 'nyc3.digitaloceanspaces.com');
+define('FLUENT_SUPPORT_S3C_ACCESS_KEY', 'your-access-key');
+define('FLUENT_SUPPORT_S3C_SECRET_KEY', 'your-secret-key');
+define('FLUENT_SUPPORT_S3C_BUCKET', 'your-bucket');
+```
+
+You can also set these optional constants:
+
+* `FLUENT_SUPPORT_S3C_REGION`
+* `FLUENT_SUPPORT_S3C_PATH_STYLE`: `'yes'` for path-style addressing
+* `FLUENT_SUPPORT_S3C_CUSTOM_DOMAIN`
+* `FLUENT_SUPPORT_S3C_PATH_PREFIX`
 
 ## Troubleshooting
 
