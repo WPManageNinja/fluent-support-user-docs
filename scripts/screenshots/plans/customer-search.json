@@ -1,0 +1,22 @@
+{
+  "outDir": "docs/public/images/ticket-management/search-filter/customer-search",
+  "viewport": { "width": 1600, "height": 1100 },
+  "steps": [
+    { "admin": "/customers" },
+    { "wait": 1200 },
+    { "click": "button[aria-label=\"Search\"]" },
+    { "wait": 600 },
+    { "fill": { "selector": ".fs_customer_searcher_input input", "value": "/" } },
+    { "wait": 800 },
+    { "shot": { "name": "customer-search-field-menu", "clip": "app", "crop": { "height": 1700 },
+        "highlights": [ ".fs_customer_search_slash" ] } },
+    { "fill": { "selector": ".fs_customer_searcher_input input", "value": "tickets:>1" } },
+    { "eval": "document.querySelector('.fs_customer_searcher_input input').dispatchEvent(new KeyboardEvent('keyup',{key:'Enter',code:'Enter',bubbles:true}))" },
+    { "wait": 1800 },
+    { "shot": { "name": "customer-search-results", "clip": "app", "crop": { "height": 1200 },
+        "highlights": [ ".fs_customer_searcher_input" ] } },
+    { "click": ".fs_customer_searcher_help" },
+    { "wait": 1000 },
+    { "shot": { "name": "customer-search-tips", "clip": { "element": ".el-dialog", "pad": 0 } } }
+  ]
+}
