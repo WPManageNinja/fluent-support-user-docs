@@ -1,0 +1,54 @@
+{
+ "outDir": "docs/public/images/ticket-management/daily-operations/view-manage-ticket-entries",
+ "viewport": {
+  "width": 1600,
+  "height": 1500
+ },
+ "steps": [
+  {
+   "admin": "/tickets/906/view"
+  },
+  {
+   "wait": 2500
+  },
+  {
+   "hideCss": ".el-popper.is-dark"
+  },
+  {
+   "click": ".fs_composer_prompt"
+  },
+  {
+   "wait": 1200
+  },
+  {
+   "shot": {
+    "name": "ticket-management-3",
+    "clip": "app",
+    "crop": {
+     "height": 1250
+    },
+    "highlights": [
+     ".fs_header_container"
+    ]
+   }
+  },
+  {
+   "shot": {
+    "name": "ticket-management-4",
+    "clip": "app",
+    "crop": {
+     "height": 340
+    }
+   }
+  },
+  {
+   "shot": {
+    "name": "ticket-management-5",
+    "clip": {
+     "element": ".fs_ticket_sidebar",
+     "pad": 24
+    }
+   }
+  }
+ ]
+}

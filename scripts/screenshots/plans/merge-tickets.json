@@ -1,0 +1,111 @@
+{
+ "outDir": "docs/public/images/ticket-management/productivity-tools/merge-tickets",
+ "viewport": {
+  "width": 1600,
+  "height": 1400
+ },
+ "steps": [
+  {
+   "admin": "/tickets/906/view"
+  },
+  {
+   "wait": 5000
+  },
+  {
+   "hideCss": ".el-popper.is-dark"
+  },
+  {
+   "click": ".fs_more_action"
+  },
+  {
+   "wait": 800
+  },
+  {
+   "shot": {
+    "name": "merge-ticket-1",
+    "clip": "app",
+    "crop": {
+     "height": 1000
+    },
+    "highlights": [
+     {
+      "selector": ".el-dropdown-menu__item",
+      "hasText": "Merge Ticket"
+     }
+    ]
+   }
+  },
+  {
+   "click": {
+    "selector": ".el-dropdown-menu__item",
+    "hasText": "Merge Ticket"
+   }
+  },
+  {
+   "wait": 1500
+  },
+  {
+   "click": ".el-dialog tbody tr:has-text('Export button is missing') .el-checkbox"
+  },
+  {
+   "wait": 500
+  },
+  {
+   "shot": {
+    "name": "merge-ticket-2",
+    "clip": {
+     "element": ".el-dialog",
+     "pad": 40
+    },
+    "highlights": [
+     {
+      "selector": ".el-dialog button",
+      "hasText": "Merge"
+     }
+    ]
+   }
+  },
+  {
+   "click": {
+    "selector": ".el-dialog button",
+    "hasText": "Merge"
+   }
+  },
+  {
+   "wait": 1200
+  },
+  {
+   "click": ".el-message-box .el-button--primary"
+  },
+  {
+   "wait": 3000
+  },
+  {
+   "click": ".el-dialog__headerbtn"
+  },
+  {
+   "wait": 800
+  },
+  {
+   "admin": "/tickets/906/view"
+  },
+  {
+   "wait": 7000
+  },
+  {
+   "hideCss": ".el-popper.is-dark"
+  },
+  {
+   "shot": {
+    "name": "merge-ticket-4",
+    "clip": "app",
+    "crop": {
+     "height": 1300
+    },
+    "highlights": [
+     ".fs_threads_container .fs_conversation_message >> nth=0"
+    ]
+   }
+  }
+ ]
+}

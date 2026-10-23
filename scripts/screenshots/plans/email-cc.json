@@ -1,0 +1,72 @@
+{
+ "outDir": "docs/public/images/setup-configuration/business-inboxes/email-piping-email-based-support-ticket",
+ "viewport": {
+  "width": 1600,
+  "height": 1400
+ },
+ "steps": [
+  {
+   "admin": "/tickets/906/view"
+  },
+  {
+   "wait": 6000
+  },
+  {
+   "hideCss": ".el-popper.is-dark"
+  },
+  {
+   "click": ".fs_composer_prompt"
+  },
+  {
+   "wait": 1200
+  },
+  {
+   "click": {
+    "selector": "button",
+    "hasText": "Apply Cc"
+   }
+  },
+  {
+   "wait": 1000
+  },
+  {
+   "fill": {
+    "selector": ".fs_cc_selector input",
+    "value": "accounts@example.com"
+   }
+  },
+  {
+   "wait": 500
+  },
+  {
+   "click": ".el-select-dropdown__item:visible >> nth=0"
+  },
+  {
+   "wait": 500
+  },
+  {
+   "click": ".fs_header_container"
+  },
+  {
+   "wait": 600
+  },
+  {
+   "wait": 500
+  },
+  {
+   "shot": {
+    "name": "email-piping-cc",
+    "clip": "app",
+    "crop": {
+     "height": 1300
+    },
+    "highlights": [
+     {
+      "selector": "button",
+      "hasText": "Discard Cc"
+     }
+    ]
+   }
+  }
+ ]
+}
