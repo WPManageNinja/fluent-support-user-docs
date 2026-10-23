@@ -95,26 +95,34 @@ The view switcher and the position control appear when you open a ticket from th
 
 ### Core Response Tools
 
-* **A) Reply:** Opens the text editor to respond to the customer. You can format text (bold, italic), add links, and use the **Add Media** button to upload files.
-* **B) Notes:** Allows agents to leave internal comments that are invisible to the customer. This is ideal for team collaboration and private context.
-    * **Send as Informational Reply:** Use this to provide updates without changing the ticket's "Waiting" status.
-    * **Reply and Close:** A single action to send your response and immediately resolve the ticket.
-* **C) Business Inbox:** Shows and allows you to sort by the specific business brand associated with the ticket.
-* **D) Product/Service:** Displays the specific product or service the customer is inquiring about.
-* **E) AI Assistant:** Provides options to summarize long conversations and analyze customer satisfaction.
-* **F) Ask AI:** Utilize artificial intelligence to draft responses based on the ticket context.
-* **G) Templates:** Insert pre-written responses (Saved Replies) to common questions.
-* **H) Smart Codes:** Insert dynamic data, such as the customer's name or ticket ID, directly into your reply.
+At the top of the conversation you will see a reply bar that reads **Reply to** followed by the customer's name. Click it to open the reply editor. While the editor is open, the bar changes to **Cancel Reply** and **Notes**.
 
-![Ticket Management](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-management-3.webp)
+* **Reply:** Opens the text editor to respond to the customer. You can format text (bold, italic), add links, and use the **Add media** button to upload files. **Cancel Reply** closes the editor again.
+* **Note:** Switches the editor to an internal note that only your team can see. This is ideal for team collaboration and private context. Learn more in [Internal Notes](/internal-notes).
+* **Business Inbox:** Shows the business inbox associated with the ticket and lets you move the ticket to a different one.
+* **Product/Service:** Displays the specific product or service the customer is inquiring about.
+* **AI Assistant:** The dark button at the end of the bar provides options to summarize long conversations and analyze customer satisfaction.
+* **Ask AI:** Use artificial intelligence to draft responses based on the ticket context.
+* **Apply Cc:** Adds a CC field to your reply so you can copy other people in on the email. Click **Discard Cc** to remove it.
+* **Templates:** Insert pre-written responses (Saved Replies) to common questions.
+* **Smart Codes:** Insert dynamic data, such as the customer's name or ticket ID, directly into your reply.
+* **Send as Informational Reply:** Use this to provide updates without changing the ticket's "Waiting" status.
+* **Reply and Close Ticket:** A single action to send your response and immediately resolve the ticket.
 
-* **I) Refresh Button:** This “Refresh” lets you update ticket entries with the latest information.
-* **J) Add Bookmark:** This is the button for bookmarking the tickets.
-* **K) Agent Selection:** Use the dropdown menu to reassign the ticket to a different support staff member.
-* **L) Automatic Workflow:** Manually trigger pre-configured automation sequences for the ticket.
-* **M) Close Ticket:** This is the button for closing your ticket.
+![The reply editor open on a ticket, with Cancel Reply, Notes, the business inbox, the product and the AI assistant button highlighted](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-management-3.webp)
 
-![Ticket Management](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-management-4.webp)
+### Ticket Action Buttons
+
+The buttons at the top right of the ticket let you manage the ticket without leaving the page.
+
+* **Refresh:** Updates the ticket with the latest information.
+* **Bookmark:** Bookmarks the ticket so you can find it again from the **Bookmarks** view.
+* **Agent Selection:** Use the dropdown menu to reassign the ticket to a different support staff member.
+* **Close Ticket:** Closes the ticket. On a closed ticket, this button changes to **Re-open**.
+* **More Actions (three dots):** Opens a menu with **Merge Ticket**, **Close Ticket Silently**, **Add Task to Fluent Boards** and **Delete Ticket**.
+* **Manual Workflows:** If you have created manual workflows, a lightning-bolt button appears next to the bookmark so you can run a pre-configured automation on the ticket.
+
+![The ticket top bar with the refresh, bookmark, agent selection, close ticket and more actions buttons](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-management-4.webp)
 
 ### When Someone Replies While You Are Typing
 
@@ -143,7 +151,7 @@ The right sidebar provides a 360-degree view of the customer and the ticket's pr
     * **Integration Data:** View data from connected apps like WooCommerce (purchase history), LMS platforms (enrollment status), or FluentCRM.
     * **Previous Conversations:** A list of the customer's past support history to provide full context for the current issue. When a customer has many past tickets, a **Load More** button appears at the bottom of the list — click it to fetch additional tickets without leaving the current ticket view.
 
-![Ticket Management](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-management-5.webp)
+![The ticket sidebar with Customer Informations, Previous Conversations, Additional Details and Ticket Stats](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-management-5.webp)
 
 ### Ticket Stats
 
