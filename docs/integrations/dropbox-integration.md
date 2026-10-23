@@ -35,9 +35,28 @@ To **get this** **OAuth2 Redirect URL** , go to your Fluent Support **Dashboard 
 ### Dropbox App Permissions 
 
 Now go to the **Permissions** section of your Dropbox app.  
-Select these areas **(files.metadata.write, files.content.write, files.content.read, sharing.write, file_requests.write),** and click the **Submit** button.
+Select these permissions and click the **Submit** button:
 
-![Dropbox App Permissions](/images/integrations-channels/other/dropbox-integration/permissions-scaled-1.webp)
+- `files.metadata.read`
+- `files.content.write`
+- `files.content.read`
+- `sharing.read`
+- `sharing.write`
+
+<!-- TODO: Retake this screenshot with the five permissions above selected; save it at /images/integrations-channels/other/dropbox-integration/permissions-scaled-1.webp -->
+![Dropbox App Permissions tab with the required permissions selected](/images/integrations-channels/other/dropbox-integration/permissions-scaled-1.webp)
+
+### Fix a Missing Permission
+
+If your Dropbox app is missing one of these permissions, Fluent Support shows a warning on the Dropbox storage card that names it. Until you fix it, new attachments stay on your own server.
+
+1. Open your app in the Dropbox App Console and go to the **Permissions** tab.
+2. Select the missing permission and click **Submit**.
+3. Back in Fluent Support, reconnect Dropbox so the new permission takes effect.
+
+::: info
+Dropbox only applies new permissions to a fresh connection, so the reconnect step is required.
+:::
 
 ### Obtain App Credentials 
 

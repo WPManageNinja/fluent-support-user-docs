@@ -20,11 +20,11 @@ When a customer submits a ticket, the integration automatically displays a **Pur
 
 You can click on a specific **order ID** to be taken directly to the full order details page within FluentCart.
 
-![](/images/integrations-channels/core-integrations/fluentcart-integration/fluentcart-product-information-in-cart-scaled-1.webp)
+![FluentCart order information in the ticket sidebar](/images/integrations-channels/core-integrations/fluentcart-integration/fluentcart-product-information-in-cart-scaled-1.webp)
 
 This widget shows the customer’s Lifetime Value, purchase count, and a list of their recent purchases from FluentCart.
 
-![](/images/integrations-channels/core-integrations/fluentcart-integration/product-order-details-02-scaled.webp)
+![FluentCart purchase details widget showing lifetime value and recent orders](/images/integrations-channels/core-integrations/fluentcart-integration/product-order-details-02-scaled.webp)
 
 ## Create Custom Fields for FluentCart 
 
@@ -37,22 +37,22 @@ This gives your support agents instant context and helps you create powerful aut
 
 From the **Fluent Support** Dashboard, go to **Settings** , select **Custom Fields** , and click the **\+ Add New Field** button.
 
-![](/images/integrations-channels/core-integrations/fluentcart-integration/custome-filed-03-scaled.webp)
+![Custom Fields settings with the Add New Field button](/images/integrations-channels/core-integrations/fluentcart-integration/custome-filed-03-scaled.webp)
 
 Choose the **Field Type** from the dropdown menu that suits your needs (**FluentCart Products** or **FluentCart Orders**) and click the **Add** button.
 
 >[!Note]
 >Make sure your WordPress site has FluentCart installed and activated to proceed.
 
-![](/images/integrations-channels/core-integrations/fluentcart-integration/add-new-custom-field-04-scaled.webp)
+![Choosing a FluentCart field type for a new custom field](/images/integrations-channels/core-integrations/fluentcart-integration/add-new-custom-field-04-scaled.webp)
 
 Give your **Field Type** a **Public Label** (e.g., “Select Your Product”) and configure additional fields as necessary. Also, you can enable **Conditional logic** if required. To save all the settings, click the **Add** button.
 
-![](/images/integrations-channels/core-integrations/fluentcart-integration/add-new-custom-filed-05-scaled.webp)
+![Configuring the public label of a FluentCart custom field](/images/integrations-channels/core-integrations/fluentcart-integration/add-new-custom-filed-05-scaled.webp)
 
 A successful confirmation message will appear. Now, you can edit or delete the **custom ticket fields** here.
 
-![](/images/integrations-channels/core-integrations/fluentcart-integration/custom-ticket-fields-06-scaled-1.webp)
+![FluentCart custom ticket fields listed after saving](/images/integrations-channels/core-integrations/fluentcart-integration/custom-ticket-fields-06-scaled-1.webp)
 
 ## Workflow Trigger and Actions for FluentCart 
 
@@ -80,7 +80,7 @@ Finally, under **Workflow Actions (Tasks)** , define what should happen when the
 
 Click **Update Workflow** to save and activate your workflow. If you want to make your workflow actions live, be sure to toggle the **Publish** option to enable and publish it.
 
-![](/images/integrations-channels/core-integrations/fluentcart-integration/set-trigger-09.webp)
+![Setting the FluentCart trigger in a workflow](/images/integrations-channels/core-integrations/fluentcart-integration/set-trigger-09.webp)
 
 ### FluentCart Commerce Conditions in Workflows
 
@@ -104,11 +104,11 @@ You can also provide a seamless experience for your customers by adding a link t
 
 From the **Fluent Support Dashboard**, go to **Settings > Global Settings**. Scroll down and you will find a option **Add support link to Fluent Cart account navigation**. Enable this setting and click **Save Settings** button.
 
-![](/images/integrations-channels/core-integrations/fluentcart-integration/business-settings-11-1.png)
+![Global Settings option to add a support link to the FluentCart account navigation](/images/integrations-channels/core-integrations/fluentcart-integration/business-settings-11-1.png)
 
 Once your custom fields are active and the portal is integrated, customers can navigate to the **Support** tab in their FluentCart account.
 
-![](/images/integrations-channels/core-integrations/fluentcart-integration/support-portal-10-1.webp)
+![Support tab in the customer FluentCart account](/images/integrations-channels/core-integrations/fluentcart-integration/support-portal-10-1.webp)
 
 ### **Product and Order Selection in Tickets** 
 
@@ -116,7 +116,7 @@ Now, click to the **Create Ticket** button to create a new ticket.
 
 On the “Submit a Support Ticket” form, they will now see the new custom fields you created (e.g., **fct_order** and **fc_products**). This allows them to select the specific product or order they need help with.
 
-![](/images/integrations-channels/core-integrations/fluentcart-integration/submit-a-support-ticket-10.webp)
+![Submit a Support Ticket form with FluentCart order and product fields](/images/integrations-channels/core-integrations/fluentcart-integration/submit-a-support-ticket-10.webp)
 
 After the ticket is submitted, the selected product or order will be clearly displayed under “Additional Info” inside the ticket view. This gives both the customer and your support agents immediate context about the issue.
 

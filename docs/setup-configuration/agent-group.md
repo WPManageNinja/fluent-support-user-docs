@@ -45,7 +45,9 @@ The most powerful way to use Agent Groups is by connecting them to Automatic Wor
 4. Select **Assign Agent Group** as your action.
 5. In the Select Agent Group dropdown, choose the specific team that should receive these tickets (e.g., "Group 1").
 
-> **Tip:** Check the box that says "Skip if ticket already have an agent assigned." This ensures that if a ticket was already manually given to a specific person, the automation won't steal it away from them.
+::: tip
+Check the box that says "Skip if ticket already have an agent assigned." This ensures that if a ticket was already manually given to a specific person, the automation won't steal it away from them.
+:::
 
 
 ![Agent Group](/images/setup-configuration/agents-permissions/agent-group/agent-group-5.webp)

@@ -1,0 +1,105 @@
+{
+ "outDir": "docs/public/images/ticket-management/productivity-tools/split-reply-in-new-tickets",
+ "viewport": {
+  "width": 1600,
+  "height": 1400
+ },
+ "steps": [
+  {
+   "admin": "/tickets/902/view"
+  },
+  {
+   "wait": 2500
+  },
+  {
+   "hideCss": ".el-popper.is-dark"
+  },
+  {
+   "click": ".fs_msg_customer .fs_more_btn"
+  },
+  {
+   "wait": 800
+  },
+  {
+   "shot": {
+    "name": "split-ticket-1",
+    "clip": "app",
+    "crop": {
+     "height": 1300
+    },
+    "highlights": [
+     {
+      "selector": ".el-dropdown-menu__item",
+      "hasText": "Split Ticket"
+     }
+    ]
+   }
+  },
+  {
+   "click": {
+    "selector": ".el-dropdown-menu__item",
+    "hasText": "Split Ticket"
+   }
+  },
+  {
+   "wait": 1200
+  },
+  {
+   "fill": {
+    "selector": ".el-dialog input >> nth=0",
+    "value": "Refund invoice request"
+   }
+  },
+  {
+   "eval": "(()=>{const e=tinymce.editors[tinymce.editors.length-1];e.setContent('<p>I also need a refund invoice for my last order, can you send it to me?</p>');e.fire('input');e.fire('change');e.save();})()"
+  },
+  {
+   "wait": 500
+  },
+  {
+   "shot": {
+    "name": "split-ticket-2",
+    "clip": {
+     "element": ".el-dialog",
+     "pad": 40
+    },
+    "highlights": [
+     {
+      "selector": ".el-dialog button",
+      "hasText": "Split Ticket"
+     }
+    ]
+   }
+  },
+  {
+   "click": {
+    "selector": ".el-dialog button",
+    "hasText": "Split Ticket"
+   }
+  },
+  {
+   "wait": 2500
+  },
+  {
+   "admin": "/tickets/902/view"
+  },
+  {
+   "wait": 3000
+  },
+  {
+   "hideCss": ".el-popper.is-dark"
+  },
+  {
+   "shot": {
+    "name": "split-ticket-3",
+    "clip": "app",
+    "crop": {
+     "height": 1300
+    },
+    "highlights": [
+     ".fs_threads_container .fs_conversation_message >> nth=0"
+    ]
+   }
+  }
+ ]
+}

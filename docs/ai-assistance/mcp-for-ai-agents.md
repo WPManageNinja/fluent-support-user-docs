@@ -120,7 +120,7 @@ On a scheduled basis, the AI can find tickets that have been waiting for a custo
 
 ## What You Can Do With It
 
-Once connected, your AI assistant gets access to **21 Fluent Support tools**, plus **2 more with Fluent Support Pro**. You never call these by name. The AI picks the right tool based on what you ask in plain language. Here is a friendly overview of what is available, grouped by area.
+Once connected, your AI assistant gets access to **22 Fluent Support tools**, plus **2 more with Fluent Support Pro**. You never call these by name. The AI picks the right tool based on what you ask in plain language. Here is a friendly overview of what is available, grouped by area.
 
 ### Ticket Tools
 
@@ -157,7 +157,8 @@ Once connected, your AI assistant gets access to **21 Fluent Support tools**, pl
 
 ### Context & Insight Tools
 
-- **Get support context** (`fluent-support-get-support-context`): The AI's starting point. It returns who you are, whether your replies are sent or saved as drafts, your queue, tickets that need attention, and the agents, products, Business Inboxes, and tags it can use.
+- **Get support context** (`fluent-support-get-support-context`): The AI's starting point. It returns who you are, whether your replies are sent or saved as drafts, your queue, tickets that need attention, the ticket views with their counts, and the agents, products, Business Inboxes, and tags it can use.
+- **Get ticket views** (`fluent-support-get-ticket-views`): Check the current ticket count for each queue, the same views you see in the **Ticket Filters** sidebar: assigned to you, unassigned, waiting for reply, each open priority, and each status. For every view, the AI also gets the exact filters that open its tickets, so it can work through the same queues as your team. Counts only include tickets you are allowed to see. See [Ticket List Views](/view-manage-ticket-entries#ticket-list-views).
 - **Get support insights** (`fluent-support-get-support-insights`): Fetch analytics and performance data for a period, for the whole team or one agent.
 
 ::: info

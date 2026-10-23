@@ -10,6 +10,10 @@ Go to your Fluent Support **Dashboard** & click on **Tickets.**
 
 After going to “**Tickets”** you will find various options for filtering and sorting your tickets.
 
+::: tip
+Looking for ready-made views such as **Assigned to Me**, **Unassigned** or **Waiting For Reply**? The **Ticket Filters** sidebar on the left lists them with live counts. See [Ticket List Views](/view-manage-ticket-entries#ticket-list-views).
+:::
+
 ![Search options inside a Ticket](/images/ticket-management/search-filter/filtering-sorting-searching-tickets/sort-filter-1.webp)
 
 ### 1. Status

@@ -1,0 +1,128 @@
+{
+ "outDir": "docs/public/images/ticket-management/productivity-tools/bookmark-tickets",
+ "viewport": {
+  "width": 1600,
+  "height": 1400
+ },
+ "steps": [
+  {
+   "admin": "/tickets/905/view"
+  },
+  {
+   "wait": 6000
+  },
+  {
+   "hideCss": ".el-popper.is-dark"
+  },
+  {
+   "shot": {
+    "name": "ticket-bookmark-1",
+    "clip": "app",
+    "crop": {
+     "height": 1000
+    },
+    "highlights": [
+     ".fs_action_buttons button >> nth=1"
+    ]
+   }
+  },
+  {
+   "click": ".fs_action_buttons button >> nth=1"
+  },
+  {
+   "wait": 1000
+  },
+  {
+   "click": ".el-dialog .el-select"
+  },
+  {
+   "wait": 800
+  },
+  {
+   "click": {
+    "selector": ".el-select-dropdown__item:visible",
+    "hasText": "admin admin"
+   }
+  },
+  {
+   "wait": 600
+  },
+  {
+   "click": ".el-dialog__header"
+  },
+  {
+   "wait": 400
+  },
+  {
+   "shot": {
+    "name": "ticket-bookmark-2",
+    "clip": {
+     "element": ".el-dialog",
+     "pad": 40
+    },
+    "highlights": [
+     {
+      "selector": ".el-dialog button",
+      "hasText": "Add"
+     }
+    ]
+   }
+  },
+  {
+   "click": {
+    "selector": ".el-dialog button",
+    "hasText": "Add"
+   }
+  },
+  {
+   "wait": 2500
+  },
+  {
+   "click": {
+    "selector": ".fs_widget_header",
+    "hasText": "Watchers"
+   }
+  },
+  {
+   "wait": 1000
+  },
+  {
+   "shot": {
+    "name": "ticket-bookmark-3",
+    "clip": "app",
+    "crop": {
+     "height": 1300
+    },
+    "highlights": [
+     {
+      "selector": ".fs_collapsible_widget",
+      "hasText": "Watchers"
+     }
+    ]
+   }
+  },
+  {
+   "click": {
+    "text": "Add Watcher"
+   }
+  },
+  {
+   "wait": 1000
+  },
+  {
+   "shot": {
+    "name": "ticket-bookmark-4",
+    "clip": "app",
+    "crop": {
+     "height": 1300
+    },
+    "highlights": [
+     {
+      "selector": ".fs_collapsible_widget",
+      "hasText": "Watchers"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -2,6 +2,42 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.4.7
+
+*Released on Oct 23, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added ticket list sidebar views with live counts: My Work, Needs Attention, Priority, Status, Saved Filters, and Tags
+• Added switching ticket views and jumping to the next or previous ticket from inside a single ticket
+• Added a redesigned Customers list and profile, with smart search (#id, city:, tickets:>2, status:blocked), sorting, a column toggle, and bulk block or unblock
+• Added S3-compatible storage (DigitalOcean Spaces, Wasabi, Backblaze B2, MinIO) alongside Amazon S3 and Cloudflare R2 (Pro)
+• Added a "Default" AI model option that always follows the recommended model
+• Added ticket views to MCP, so connected AI agents can work from the same queues as your team
+```
+
+```markdown [🚀 Improvements]
+• Dark Mode reworked across the entire plugin, with a new palette, theme-aware icons, and readable contrast everywhere
+• The ticket list, single ticket view, and the rest of the admin now fit phones and tablets
+• Customer Portal ticket list redesigned as a lighter, mobile-friendly list, with clear empty states and a way back
+• The Customer Portal block preview in the editor now matches the front-end portal
+• Remote storage keeps Dropbox and Google Drive files private, deletes remote files in the background, and keeps old files working after connection changes
+• Email attachments from remote storage are delivered reliably, with 30-day links for files over the size limit
+• AI model lists updated to the current Claude, OpenAI, and Gemini models
+• AI reply drafts are shorter, focus on the latest message, and use the customer's language (Pro)
+• Ticket activity shows as compact one-line rows, and automatic or workflow closes read as system events
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed HTML-only piped emails showing raw markup instead of formatted content (Pro)
+• Fixed Greek and other special characters being saved as entity text in piped emails
+• Fixed reply editor issues with saved drafts and attachments
+• Fixed Customer Portal dark mode and the ticket list flashing while loading
+```
+
+:::
+
 ## Fluent Support v2.4.5
 
 *Released on Oct 09, 2026*

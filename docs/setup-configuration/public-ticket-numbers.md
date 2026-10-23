@@ -33,7 +33,9 @@ Once enabled, two new fields will appear right below — **Minimum Ticket Number
 
 Once you're done, click the **Save Settings** button at the top right corner to apply the changes.
 
-> **Remember:** Always press the **Save Settings** button after finishing the configuration. Otherwise, your changes will not take effect.
+::: info
+Always press the **Save Settings** button after finishing the configuration. Otherwise, your changes will not take effect.
+:::
 
 ::: info
 The minimum ticket number only sets a floor. If your database has already generated ticket IDs above your chosen minimum, Fluent Support will continue from the higher value so ticket numbers always stay unique.
@@ -46,7 +48,7 @@ The prefix is a short text string added before the serial number. For example, w
 Keep prefixes short — three to five characters works best. The prefix is applied to all new tickets globally.
 
 ::: tip
-Developers can control the prefix per product using the `fluent_support/ticket_prefix` WordPress filter. See the [Developer Documentation](https://developers.fluentsupport.com/) for more details.
+Need a different prefix for each product? A developer can set this up with a small code snippet. See the [Developer Documentation](https://developers.fluentsupport.com/) for details.
 :::
 
 ## Where Ticket Numbers Appear

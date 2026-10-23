@@ -40,6 +40,8 @@ The storage location depends on your Fluent Support configuration:
   * **Default Storage (Local):** By default, these ticket-specific folders are created within your WordPress site’s local storage (directory: wp-content/uploads/fluent-support), using the unique ticket ID as the folder name.
   * **Third-Party Storage Integrations:** If you have configured an external storage integration (such as Google Drive, Dropbox, etc.), Fluent Support will create these individual folders on that connected cloud service instead.
 
->**Remember** Ensure you always press the **Save Settings** button in the top right corner after making changes to the File Attachment Settings. Otherwise, the changes will not appear in your Support Portal.
+::: info
+Ensure you always press the **Save Settings** button in the top right corner after making changes to the File Attachment Settings. Otherwise, the changes will not appear in your Support Portal.
+:::
 
 
