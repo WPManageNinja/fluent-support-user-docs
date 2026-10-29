@@ -2,6 +2,34 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.5.0
+
+*Released on Oct 28, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added Scheduled Replies (Pro) — send a reply later, then edit, send now or cancel it; pauses when the customer replies or the ticket closes
+• Added System Admin Tools — Cron Job Monitor, Database Health and Data Cleanup
+• Added a flow-of-steps view to the workflow editor, with a run log in the Activity Log (Pro)
+```
+
+```markdown [🚀 Improvements]
+• A customer's email reply keeps the ticket status, the same as a portal reply (Pro)
+• AI Ticket Audit reads only what the customer saw, never internal notes or drafts (Pro)
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed report charts dropping the last day of the range, and some report counts being off
+• Fixed Help Scout, Freshdesk and Zendesk migrations importing afternoon times 12 hours early
+• Fixed Timesheet filters having no effect and ignoring mailbox restrictions (Pro)
+• Fixed several workflow conditions and actions not working as set (Pro)
+• Fixed bulk replies losing their formatting and links
+• Improved security through ongoing audits and hardening
+```
+
+:::
+
 ## Fluent Support v2.4.7
 
 *Released on Oct 23, 2026*
