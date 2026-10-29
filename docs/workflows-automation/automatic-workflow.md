@@ -167,6 +167,31 @@ To save any new changes always press the **Update Workflow** button right **next
 
 ![Publish the workflow](/images/workflows-automation/automatic-workflow/automatic-workflow:publish-toggle-11.webp)
 
+## Read Your Workflow as a Flow <Badge type="tip" text="Pro" />
+
+The workflow editor shows your workflow as a flow of steps from top to bottom, so you can read what it does at a glance:
+
+1. **WHEN:** The trigger you chose, such as **On Ticket Creation**, with a short description of when it fires.
+2. **ONLY IF:** The conditions a ticket must match, written in plain words, for example *Ticket Priority (Client) is Critical*. With no conditions, the step reads **Every ticket. Click to add conditions.**
+3. **THEN, STEP 1, STEP 2…:** Each action in the order it runs, with a summary of its settings. A new workflow shows **No actions yet. Add the first thing this workflow should do.**
+
+Click any step to open and edit it. Click the **+** button between steps to add a new action at that point, and use **Search actions** to find one quickly. Drag a step by its handle to change the order.
+
+![The workflow editor showing the trigger, conditions and numbered action steps as a flow](/images/workflows-automation/automatic-workflow/automatic-workflow-flow-view-14.webp)
+
+## Check Recent Runs <Badge type="tip" text="Pro" />
+
+Every time a workflow runs, Fluent Support records it in the [Activity Log](/overall-activities#workflow-runs). You can see a workflow's latest runs right inside the editor, in the **Recent Runs** panel:
+
+* Each entry shows the ticket the workflow ran on and what started it, for example *Workflow Post Critical Tickets to Slack ran on Ticket: Form spam increased overnight (On Ticket Creation)*.
+* If any action failed, the entry is marked with a red icon and ends with **Failed:**, the action and its error, for example *Failed: Trigger Outgoing Webhook: Webhook returned HTTP 404 (Not Found)*. You know exactly what to fix.
+* Click the **Refresh** icon to load the newest runs.
+
+![The Recent Runs panel in the workflow editor listing failed runs with their errors](/images/workflows-automation/automatic-workflow/automatic-workflow-recent-runs-15.webp)
+
+> [!NOTE]
+> Recent Runs only lists tickets you are allowed to see. Runs are kept as long as the activity log keeps its entries, so they follow your [Activity Log Settings](/overall-activities#activity-log-settings). If activity logs are disabled, runs are not recorded.
+
 ## Workflows Do Not Trigger Themselves
 
 Some actions can cause the same event that started the workflow. For example, an **On Agent Response** workflow with an **Add Response** action adds an agent reply, and an **On Agent Assigned** workflow with an **Assign Agent** action assigns an agent.
