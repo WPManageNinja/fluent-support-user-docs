@@ -33,6 +33,9 @@ Once you are done, hit the **Update** button to save all changes.
   * **Approved Draft Reply:** This permission allows agents to approve other agents’ draft replies.
   * **View Tickets (Read Only):** This allows the agent to view the contents of tickets without having the ability to reply, edit, or modify them.
 
+> [!NOTE]
+> Any agent who can reply to a ticket can also [schedule a reply](/scheduled-replies) on it *(Pro)*. Only the agent who scheduled a reply can edit, reschedule, send, or cancel it.
+
 ### Workflow Permissions 
 
   * **Manage Workflows:** Allows the agent to create Workflows.
@@ -41,7 +44,7 @@ Once you are done, hit the **Update** button to save all changes.
 
 ### Settings 
 
-  * **Manage Overall Settings:** The agent can access and make changes in the Business and global settings.
+  * **Manage Overall Settings:** The agent can access and make changes in the Business and global settings. This also lets the agent view the [System Admin Tools](/system-admin-tools) pages. Running a task, repairing the database, or deleting logs there additionally requires the WordPress **Administrator** role.
   * **Access Private Data (Customers, Agents):** The agent can access all the customer and other agent data that are stored in Fluent Support. 
 
 ## Reporting 

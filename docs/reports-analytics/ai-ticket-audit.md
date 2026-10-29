@@ -112,3 +112,6 @@ Individual tickets whose audit could not be parsed are marked as **Failed** and 
 
 > [!TIP]
 > The audit reads the most recent part of each conversation rather than the entire history. Long threads are trimmed before being sent, which keeps the cost per ticket predictable no matter how long the ticket has been open.
+
+> [!NOTE]
+> The audit reads only what the customer saw: the customer's messages and your team's sent replies. **Internal notes, activity entries and unsent drafts are never sent to the AI**, so the mood and score reflect the customer's actual experience, and private team discussion stays private.
