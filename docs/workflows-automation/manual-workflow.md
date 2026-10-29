@@ -85,6 +85,14 @@ To save any new changes always press the **Update Workflow** button right next t
 
 ![Publish the workflow](/images/workflows-automation/manual-workflow/publish-button-update-workflow-scaled-8.webp)
 
+## Read Your Workflow as a Flow 
+
+The workflow editor shows your workflow as a flow of steps. A manual workflow starts with the **WHEN** step **An agent runs it**, with the note **This is a manual workflow. Agents run it from the Workflows menu on a ticket or on selected tickets.** Below it, each action is listed as **THEN, STEP 1, STEP 2…** in the order it runs, with a short summary of its settings.
+
+Click any step to open and edit it. Click the **+** button between steps to add a new action at that point. Drag a step by its handle to change the order.
+
+![The manual workflow editor showing the "An agent runs it" step and numbered action steps](/images/workflows-automation/manual-workflow/manual-workflow-flow-view-10.webp)
+
 ## Run Your Workflow In A Specific Ticket
 
 Go to **Tickets** from the **Fluent Support Dashboard** , open your **desired ticket** , and click the **Workflow** button at the top right corner inside the ticket.
@@ -94,6 +102,12 @@ Go to **Tickets** from the **Fluent Support Dashboard** , open your **desired ti
 Here, you will find the **Workflow Action** you have created before, click on it, and the **Workflow** will be run.
 
 ![Run the Workflow](/images/workflows-automation/manual-workflow/run-the-manual-workflow-drift-video-1.gif)
+
+## Check Recent Runs 
+
+Each time an agent runs a manual workflow, Fluent Support records it in the [Activity Log](/overall-activities#workflow-runs) as a **Manual run**, along with the agent who ran it. Open the workflow in the editor to see its latest runs in the **Recent Runs** panel. Failed runs list the action that failed and its error. Click **Refresh** to load the newest runs.
+
+![The Recent Runs panel for a manual workflow, with each entry marked as a Manual run](/images/workflows-automation/manual-workflow/manual-workflow-recent-runs-11.webp)
 
 This is how you can create and run **Manual Workflow** in Fluent Support!  
 
