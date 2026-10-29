@@ -95,11 +95,15 @@ This glossary defines common terms used throughout the Fluent Support documentat
 
 **Saved Replies:** Pre-written templates for frequently asked questions. Agents can insert these into their responses with a single click to save time.
 
+**Scheduled Reply:** A ticket reply written now and sent automatically at a date and time you pick (Pro). It pauses if the customer replies or the ticket is closed before it goes out.
+
 **Silent Close:** An option to close a ticket without sending a notification email to the customer. This is useful for closing spam tickets or internal administrative tickets.
 
 **Support Staff:** A team member or user assigned with specific permissions to handle support inquiries within the Fluent Support system. Support staff can be categorized by roles, an Admin can select levels of access to manage tickets, view customer data, and configure system settings.
 
 ## T
+
+**System Admin Tools:** A group of Settings pages for site administrators — Cron Job Monitor, Database Health and Data Cleanup — used to check background tasks, repair missing database tables and delete old logs.
 
 **Ticket:** The core unit of communication in Fluent Support. It represents a single support request or conversation thread between a customer and an agent.
 
