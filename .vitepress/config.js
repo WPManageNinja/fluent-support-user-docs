@@ -149,6 +149,7 @@ export default defineConfig({
               { text: 'Custom Submission Forms', link: '/adding-custom-ticket-submission-form' },
             ]
           },
+          { text: 'System Admin Tools', link: '/system-admin-tools' },
         ]
       },
       {
@@ -163,6 +164,7 @@ export default defineConfig({
               { text: 'Ticket Views', link: '/ticket-views' },
               { text: 'Create for Customers', link: '/creating-ticket-on-behalf-of-customer' },
               { text: 'Saved Replies', link: '/templated-saved-replies' },
+              { text: 'Scheduled Replies', link: '/scheduled-replies' },
               { text: 'Internal Notes', link: '/internal-notes' },
               { text: 'Internal Notifications', link: '/internal-notifications' },
               { text: 'Custom Tags', link: '/ticket-tags-custom-tags' },
