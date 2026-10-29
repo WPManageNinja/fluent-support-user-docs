@@ -1,0 +1,10 @@
+{
+  "outDir": "docs/public/images/setup-configuration/system-admin-tools",
+  "viewport": { "width": 1600, "height": 1100 },
+  "steps": [
+    { "admin": "/settings/cron-monitor" },
+    { "wait": 1500 },
+    { "shot": { "name": "cron-job-monitor-rest-api-status-4",
+        "clip": { "element": { "selector": ".fs_st_card", "hasText": "REST API Status" }, "pad": 24 } } }
+  ]
+}
