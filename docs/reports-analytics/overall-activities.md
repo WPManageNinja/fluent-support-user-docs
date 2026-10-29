@@ -18,6 +18,22 @@ Also, whenever an agent assigns a ticket, it will be displayed in the overall ac
 
 ![Activities from Fluent Support Dashboard](/images/reports-analytics/overall-activities/activities-dashboard-scaled-1.webp)
 
+### Workflow Runs <Badge type="tip" text="Pro" />
+
+Every time a [workflow](/workflows-automations) runs on a ticket, an entry is added to the **Overall** tab. It names the workflow, links to the ticket, and shows what started it, either the trigger (such as **On Ticket Creation**) or **Manual run**:
+
+* *Workflow **Escalate Outage Reports** ran on **Ticket: Form spam increased overnight** (On Ticket Creation)*
+
+If an action could not finish, the entry ends with **Failed:** followed by the action and its error, and is marked with a red icon, so you can spot broken workflows without opening each ticket. For example:
+
+* *Workflow **Post Critical Tickets to Slack** ran on **Ticket: Form spam increased overnight** (On Ticket Creation) Failed: Trigger Outgoing Webhook: Webhook returned HTTP 404 (Not Found)*
+
+![Workflow run entries in the Overall activity log, with failed runs marked in red](/images/reports-analytics/overall-activities/workflow-run-log.webp)
+
+Click the workflow name to open it in the editor. The same runs for that workflow are listed in the **Recent Runs** panel below its steps. Click the **Refresh** icon to load the newest runs.
+
+![The Recent Runs panel in the workflow editor showing failed runs of a workflow](/images/reports-analytics/overall-activities/workflow-recent-runs.webp)
+
 ### Activity Log Settings
 
 You will find a **Settings** (Gear Icon) located next to the **Date filter** on the tabs. This allows you to configure how logs are handled.
@@ -29,6 +45,10 @@ In the Activity Log Settings, you have the following options:
  * **Open Ticket in New Tab:** Enable this option if you want ticket links within the activity log to open in a new browser tab.
 
 After making any changes, ensure you click on the **Update Settings** button. Otherwise, the changes won’t appear.
+
+::: tip
+To delete old logs right away instead of waiting for the daily cleanup, use [Data Cleanup](/system-admin-tools#data-cleanup) in **System Admin Tools**.
+:::
 
 
 ![Settings option for customizing the funtion of Activities in Fluent Support](/images/reports-analytics/overall-activities/activities-settings-video.gif)
