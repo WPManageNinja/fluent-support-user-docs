@@ -61,7 +61,15 @@ Here, you can see the customer-added CC email which you can add or remove by pre
 
 To reply to the ticket, click on the **Add Reply** button. Your ticket reply will be sent to the primary customer and all the CC recipients.
 
->Replies from CC users are treated as coming from the primary customer i.e., CC users can reply to the agent directly from their mailbox.
+> Replies from CC users are treated as coming from the primary customer i.e., CC users can reply to the agent directly from their mailbox.
+
+### How a Customer's Email Reply Affects the Ticket
+
+A customer's email reply is handled the same way as a reply from the [Customer Portal](/customer-support-portal-dashboard):
+
+* **The ticket keeps its status.** For example, a **New** ticket stays **New** until an agent replies.
+* **A reply to a closed ticket reopens it.** The reopen is recorded in the [Activity Log](/overall-activities), and any workflow using the **On Ticket Reopened** trigger runs.
+* **The ticket moves back to your team's queue**, so it shows up as waiting for an agent reply.
 
 ## How Automatic Emails Are Handled
 
