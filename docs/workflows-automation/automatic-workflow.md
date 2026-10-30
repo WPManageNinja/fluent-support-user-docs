@@ -14,9 +14,11 @@ Give a **Name** to your workflow and choose workflow type **Automatic**, and cli
 
 ![Popup page for adding a new workflow](/images/workflows-automation/automatic-workflow/automatic-workflow:automatic-popup-2.webp)
 
-Now choose a **Trigger** from the dropdown list to decide when your **Workflow** will run.
+After you create it, the editor opens as a flow of cards: **When**, **Only if** and **Then**. Click the **When** card. In the **When should this workflow run?** panel, choose a **Trigger** to decide when your **Workflow** will run.
 
-For example, if you choose the **On Ticket Creation** trigger, the Workflow will automatically run each time a ticket is created.
+For example, if you choose **On Ticket Creation**, the Workflow will automatically run each time a ticket is created.
+
+![The When should this workflow run panel listing the available triggers](/images/workflows-automation/automatic-workflow/workflow-drawer-trigger.webp)
 
 You can choose from these triggers:
 
@@ -34,9 +36,9 @@ You can choose from these triggers:
 **On Customer Feedback** is handy for catching unhappy customers. Add the **Feedback** condition set to **Dislike**, then add an internal note or assign the ticket to a team lead.
 :::
 
-![Set Trigger to run workflow](/images/workflows-automation/automatic-workflow/workflows-automation:automatic-workflow:set-triggers-3.webp)
+Click the **Only if** card to set **Conditions**. A ticket must match every **AND** group. Inside a group, matching one **OR** row is enough. Click **+ OR** to add a row to a group and **+ AND** to add a new group. Leave the card empty to run on every ticket.
 
-Then, you have to set a **Condition** that will trigger the **Workflow**. Multiple conditions can be set using the **+OR** and **+AND** options.
+![The Only run if panel with a condition row and the + OR and + AND buttons](/images/workflows-automation/automatic-workflow/workflow-drawer-conditions.webp)
 
 You will get the following options to set the Condition for your Workflow. Each trigger shows only the conditions that make sense for it. For example, **Ticket Title** is only available with **On Ticket Creation**, and **Feedback** is only available with **On Customer Feedback**.
 
@@ -92,16 +94,15 @@ You will get the following options to set the Condition for your Workflow. Each 
 
 Here, all of your existing custom fields will appear.
 
-![Set Condition/s for the Workflow](/images/workflows-automation/automatic-workflow/automatic-workflow:set-conditions-4.webp)
-![Workflow condition list with the new Ticket and Feedback conditions](/images/workflows-automation/automatic-workflow/automatic-workflow-new-conditions.webp)
+To remove a condition, click the delete icon at the end of its row.
 
-You can also **Delete** any existing condition by clicking the **Trash Icon**.
+Next, add the **Action/s** (Task) your **Workflow** should perform. Click the **+** button below the **Only if** card (**Add an action here**), search or pick an action in the **Add an action** panel, fill in its fields in the **Edit action** panel, and click **Done**. Then click **Save Workflow**.
 
-![Delete any existing condition](/images/workflows-automation/automatic-workflow/automatic-workflow:delete-condition-5.webp)
+![The Add an action panel with a search box and the list of actions](/images/workflows-automation/automatic-workflow/workflow-drawer-add-action.webp)
 
-Now, set the **Action/s** (Task) from the dropdown list for **Workflow** to perform. Once you fill in all the necessary fields, click the **Save** button.
+![The Edit action panel with the action's fields, Delete Action and Done](/images/workflows-automation/automatic-workflow/workflow-drawer-edit-action.webp)
 
-You will get the following Actions from the Dropdown List –
+You can choose from these Actions:
 
 Some actions are hidden for certain triggers, so the list you see depends on the trigger you chose. With **On Ticket Creation**, **Remove Tag(s)** and **Remove Bookmarks** are not offered. With **On Ticket Closed**, **Add Response**, **Close Ticket**, **Assign Agent**, **Block Ticket Submitter (Customer)** and **Delete Ticket** are not offered.
 
@@ -143,29 +144,31 @@ Some actions are hidden for certain triggers, so the list you see depends on the
 >[!Note]
 >**Delete Ticket** permanently deletes the ticket and no further actions will run after it, so place it last. **Block Ticket Submitter** prevents the customer from creating new tickets or accessing previous ones.
 
-![Set Actions \(Tasks\) for workflow](/images/workflows-automation/automatic-workflow/automatic-workflow:set-actions-6.webp)
+You can add more than one action. Click the **+** between steps (or below the last one) to insert another action in that position. Each action shows as a **Then, step** card.
 
-Multiple actions can be set if needed. To do this, click the **+ Add Another Action** button and follow the same process.
+To delete an action, click its card, then click **Delete Action** at the bottom of the **Edit action** panel.
 
-![Add multiple action](/images/workflows-automation/automatic-workflow/automatic-workflow-set-multiple-actions-7.webp)
+You can **change the name of your workflow** anytime. Click the pencil icon next to the name at the top of the editor.
 
-You can also **Delete** any existing action. To do this, expand the desired action by pressing it and then click the **Delete Action**.
+You can also **set the sequence of your actions** by dragging the **Drag to reorder** handle on an action card.
 
-![Delete any existing action](/images/workflows-automation/automatic-workflow/automatic-workflow:delete-actions-8.webp)
+Once you set up the actions, **Publish** it by turning on the **Status** toggle at the top right of the editor to run the **Workflow**. Otherwise, it stays a **Draft**. A **Save Workflow** button saves your changes, and **Unsaved changes** shows next to it until you do.
 
-You can **change the name of your workflow** anytime from here as shown below.
+## The Workflow Flow Editor
 
-![Change name of your workflow](/images/workflows-automation/automatic-workflow/automatic-workflow:change-workflow-name-9.webp)
+The editor shows each workflow as a flow of step cards, so it reads like a sentence:
 
-Also, you can **set the sequence of your added workflow actions/tasks** using the **Drag and Drop Action** icon.
+* **When** something happens (the trigger).
+* **Only if** your conditions match.
+* **Then** run the actions, one **Then, step** card for each.
 
-![Drag & Drop feature to set the action/task sequence](/images/workflows-automation/automatic-workflow/automatic-workflow:drag-drop-the-actionstasks-10.webp)
+Click a card to edit it in the side panel. Drag a card by its handle to reorder it, or click **+** between cards to add an action anywhere in the flow. The **Status** toggle at the top shows **Draft** or **Published**.
 
-Once you set up the actions, **Publish** it by enabling the **Toggle** button at the top right corner to run the **Workflow**. Otherwise, it will be saved as a draft only.
+![The workflow editor showing a When, Only if and Then flow of step cards](/images/workflows-automation/automatic-workflow/workflow-flow-editor.webp)
 
-To save any new changes always press the **Update Workflow** button right **next to the toggle**.
+### Check What a Workflow Did
 
-![Publish the workflow](/images/workflows-automation/automatic-workflow/automatic-workflow:publish-toggle-11.webp)
+Each run of a workflow appears in the **Activity Log**, with a link to the workflow and the ticket. A failed action shows in red. The editor also lists the workflow's **Recent Runs**, so you can test a new workflow right after you save it. Runs are kept as long as the activity log keeps its entries.
 
 ## Workflows Do Not Trigger Themselves
 
@@ -181,7 +184,6 @@ You do not need to set anything up for this. It works automatically for every au
 :::
 
 ## See How Automatic Workflow Runs 
-
 
 For example, I set the **Trigger** as “**On Ticket Creation”** , **Condition** as “**Ticket Title that contains Refund word** ”, and **Action** as “**Add Bookmarks** ” in this **Workflow.**
 
