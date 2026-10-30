@@ -108,6 +108,7 @@ At the top of the conversation you will see a reply bar that reads **Reply to** 
 * **Smart Codes:** Insert dynamic data, such as the customer's name or ticket ID, directly into your reply.
 * **Send as Informational Reply:** Use this to provide updates without changing the ticket's "Waiting" status.
 * **Reply and Close Ticket:** A single action to send your response and immediately resolve the ticket.
+* **Schedule reply** (Pro): Send your reply later at a date and time you pick. Learn more in [Scheduled Replies](/scheduled-replies).
 
 ![The reply editor open on a ticket, with Cancel Reply, Notes, the business inbox, the product and the AI assistant button highlighted](/images/ticket-management/daily-operations/view-manage-ticket-entries/ticket-management-3.webp)
 
@@ -138,6 +139,21 @@ You have two choices:
 ### Leaving A Ticket With An Unsent Reply
 
 When you move to the next or previous ticket with the arrow buttons or a [keyboard shortcut](/navigate-with-keyboard-shortcut) while your reply box still has text, an image, or an attachment, Fluent Support asks before you go. The **Unsent reply** message says "Your reply has not been sent. Leave this ticket?". Click **Stay** to go back to your reply, or **Leave** to open the other ticket.
+
+### Remove Sensitive Data From a Customer Message
+
+Customers sometimes paste passwords or card numbers into a ticket. A site administrator can edit the customer's message and delete the sensitive part.
+
+1. Open the ticket.
+2. Click the **More actions** (three dots) button on the customer's message. This works on the opening message and on any customer reply.
+3. Click **Edit**. The **Edit Opening Message** or **Edit Response** window opens.
+4. Delete the sensitive text, then click **Update Response**.
+
+![The Edit option in the more actions menu of a customer message](/images/ticket-management/daily-operations/edit-customer-message.webp)
+
+::: info
+Only users with the WordPress **Administrator** role can edit customer messages. Other agents cannot, whatever their ticket permissions.
+:::
 
 ## Customer Information & Additional Details
 
