@@ -1,9 +1,9 @@
 # Scheduled Replies
 
-**Scheduled Replies** let you write a reply now and have Fluent Support send it later, at the date and time you pick. Use it to answer a customer during their working hours, or to follow up after a delay.
+**Scheduled Replies** let you write a reply now and send it later. Pick the date and time, and Fluent Support sends it for you, so your customer gets your answer at the right moment.
 
 ::: info
-Scheduled Replies is a **Fluent Support Pro** feature. Without Pro, the option shows a **PRO** badge and an **Upgrade to Pro** button.
+Scheduled Replies is available with **Fluent Support Pro**.
 :::
 
 ## Schedule a Reply
@@ -18,10 +18,10 @@ Scheduled Replies is a **Fluent Support Pro** feature. Without Pro, the option s
 ![Schedule reply option in the send menu of a ticket](/images/ticket-management/daily-operations/scheduled-replies/schedule-menu.webp)
 
 ::: warning
-Times are in **UTC**, not your local time. The picker shows your local time under the fields so you can check the conversion.
+Times use **UTC**, a world standard time that can differ from your own. Your local time is shown under the fields, so you can double-check before you schedule.
 :::
 
-The time must be at least a minute from now, and the editor must not be empty.
+Choose a time at least one minute from now, and make sure your reply is not empty.
 
 ## Manage a Scheduled Reply
 
