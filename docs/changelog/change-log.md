@@ -12,7 +12,7 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 • Added Scheduled Replies: send a reply later, then edit, send now or cancel it (Pro)
 • Added System Admin Tools: Cron Job Monitor, Database Health and Data Cleanup
 • Added a workflow editor that shows each workflow as a flow of steps, with a run log (Pro)
-• Added site admins can edit customer messages to remove sensitive data
+• Added the option for site admins to edit customer messages and remove sensitive data
 • Added Text/Markdown (.txt, .md) attachments
 • Added a notice when Fluent Support and Pro versions don't match
 ```

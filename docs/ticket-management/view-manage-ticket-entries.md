@@ -146,8 +146,8 @@ Customers sometimes paste passwords or card numbers into a ticket. A site admini
 
 1. Open the ticket.
 2. Click the **More actions** (three dots) button on the customer's message. This works on the opening message and on any customer reply.
-3. Click **Edit**.
-4. Delete the sensitive text and save.
+3. Click **Edit**. The **Edit Opening Message** or **Edit Response** window opens.
+4. Delete the sensitive text, then click **Update Response**.
 
 ![The Edit option in the more actions menu of a customer message](/images/ticket-management/daily-operations/edit-customer-message.webp)
 
