@@ -4,7 +4,7 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 ## Fluent Support v2.5.0
 
-*Released on Oct 30, 2026*
+*Released on Nov 2, 2026*
 
 ::: code-group
 
