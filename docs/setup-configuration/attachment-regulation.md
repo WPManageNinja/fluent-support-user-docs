@@ -17,6 +17,13 @@ You can enable or disable specific file formats by checking the respective boxes
   * PDF/Docs
   * Zip
   * JSON
+  * Text/Markdown
+
+::: info
+**Text/Markdown** allows plain text (`.txt`) and Markdown (`.md`) files. Tick it if your customers send logs or notes as text files. A site with only **CSV** ticked does not accept `.txt` or `.md` files.
+:::
+
+![Accepted File Types setting with the Text/Markdown option ticked](/images/setup-configuration/accepted-file-types-text-markdown.webp)
 
 #### Size and Quantity Limits
 

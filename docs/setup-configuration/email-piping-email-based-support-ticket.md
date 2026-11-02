@@ -113,4 +113,11 @@ When neither is found, a reply (a subject starting with **Re:**) can still be ma
 Partial subject matching, where a reply could join a ticket that only shares a few words of its subject, is now **off by default**. It used to put new questions on old, unrelated tickets. A developer can turn it back on with a small code snippet; see the [Developer Documentation](https://developers.fluentsupport.com/).
 :::
 
+### What a Customer's Email Reply Does to the Ticket
+
+A reply by email is handled the same way as a reply from the Customer Portal:
+
+* The ticket status stays as it is. A reply to a **New** ticket no longer turns it **Active**. A reply to a **Closed** ticket still reopens it.
+* A reply that has only attachments and no text is saved to the ticket. It is no longer rejected.
+
 If you want to know more details about Email Piping, you can also read this [What is Email Piping and Why?](https://fluentsupport.com/what-is-email-piping-and-why/)  
