@@ -4,7 +4,7 @@ The **“Activities”** is another awesome feature of Fluent Support that lets 
 
 ## An Overview of Activities
 
-You will find the **Activities** option in the top navigation menu of your dashboard. Clicking this opens the activity log, which is divided into two tabs: **Overall** and **AI Activities**.
+You will find the **Activities** option in the top navigation menu of your dashboard. Clicking this opens the activity log on the **Overall** tab. If you use [AI features](/openai-integration-with-fluent-support) in Fluent Support, an **AI Activities** tab appears next to it.
 
 ### Overall Activities
 

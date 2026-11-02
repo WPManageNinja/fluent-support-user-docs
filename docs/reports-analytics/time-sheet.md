@@ -18,6 +18,9 @@ Go to the **Reports** tab in the dashboard menu and select **Time Sheet** from t
 * **Date Range:** Set the reporting period. The table renders one column per day in the range, plus a **Total** column at the end.
 * **Select Mailboxes:** Narrow the timesheet to one or more [business inboxes](/business-inbox). Leave it empty to include everything.
 
+> [!NOTE]
+> If an agent can only access certain business inboxes, the timesheet shows only time logged on tickets in those inboxes. The **Export** follows the same rule.
+
 ## View Modes
 
 Use the tabs in the top right of the table to organise the same data three different ways:
