@@ -145,6 +145,7 @@ export default defineConfig({
               { text: 'Custom Fields', link: '/conditional-custom-fields' },
               { text: 'File Attachments', link: '/attachment-regulation' },
               { text: 'Additional Attachment Types', link: '/add-more-attachments-type' },
+              { text: 'System Admin Tools', link: '/system-admin-tools' },
               { text: 'File Upload Services', link: '/file-upload-integrations' },
               { text: 'Custom Submission Forms', link: '/adding-custom-ticket-submission-form' },
             ]

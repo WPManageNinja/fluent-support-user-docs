@@ -4,27 +4,31 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 ## Fluent Support v2.5.0
 
-*Released on Oct 28, 2026*
+*Released on Nov 2, 2026*
 
 ::: code-group
 
 ```markdown [✨ Newly Added]
-• Added Scheduled Replies (Pro) — send a reply later, then edit, send now or cancel it; pauses when the customer replies or the ticket closes
-• Added System Admin Tools — Cron Job Monitor, Database Health and Data Cleanup
-• Added a flow-of-steps view to the workflow editor, with a run log in the Activity Log (Pro)
+• Added Scheduled Replies: send a reply later, then edit, send now or cancel it (Pro)
+• Added System Admin Tools: Cron Job Monitor, Database Health and Data Cleanup
+• Added a workflow editor that shows each workflow as a flow of steps, with a run log (Pro)
+• Added the option for site admins to edit customer messages and remove sensitive data
+• Added Text/Markdown (.txt, .md) attachments
+• Added a notice when Fluent Support and Pro versions don't match
 ```
 
 ```markdown [🚀 Improvements]
-• A customer's email reply keeps the ticket status, the same as a portal reply (Pro)
-• AI Ticket Audit reads only what the customer saw, never internal notes or drafts (Pro)
+• Email replies keep the ticket status, like portal replies (Pro)
 ```
 
 ```markdown [🐞 Bug fixes]
-• Fixed report charts dropping the last day of the range, and some report counts being off
-• Fixed Help Scout, Freshdesk and Zendesk migrations importing afternoon times 12 hours early
-• Fixed Timesheet filters having no effect and ignoring mailbox restrictions (Pro)
-• Fixed several workflow conditions and actions not working as set (Pro)
-• Fixed bulk replies losing their formatting and links
+• Fixed report charts dropping the last day, and some counts being off
+• Fixed Help Scout, Freshdesk and Zendesk migrations shifting afternoon times by 12 hours
+• Fixed timesheet filters and mailbox restrictions (Pro)
+• Fixed several workflow conditions and actions (Pro)
+• Fixed bulk replies losing formatting and links
+• Fixed emailed replies with only an attachment being rejected (Pro)
+• Fixed UI and Dark Mode issues
 • Improved security through ongoing audits and hardening
 ```
 

@@ -1,119 +1,73 @@
----
-title: "System Admin Tools"
-description: "A guide to Fluent Support's System Admin Tools — checking background tasks with the Cron Job Monitor, repairing missing tables with Database Health, and removing old logs with Data Cleanup."
----
-
 # System Admin Tools
 
-Fluent Support does a lot of work in the background: it closes inactive tickets, clears old logs, retries piped emails, and sends [scheduled replies](/scheduled-replies). When something there goes wrong, the symptoms show up elsewhere, for example tickets that never auto-close or a log table that keeps growing.
+**System Admin Tools** help you keep Fluent Support healthy. They check that scheduled tasks run, that the database tables are in place, and let you clear out old logs.
 
-**System Admin Tools** give you one place to check and fix the system behind your helpdesk. It has three pages:
+To open them, go to **Settings** from your **Fluent Support Dashboard** and click **System Admin Tools** in the left sidebar. There are three pages:
 
-* **Cron Job Monitor:** Shows whether background tasks are running on time, and lets you run them manually.
-* **Database Health:** Checks that every Fluent Support table exists, and repairs missing ones.
-* **Data Cleanup:** Deletes old logs to keep your database lean.
-
-## Open System Admin Tools
-
-Go to **Fluent Support → Settings** and open **System Admin Tools** in the left sidebar. You will see **Cron Job Monitor**, **Database Health** and **Data Cleanup** under it.
-
-> [!IMPORTANT]
-> Anyone with the **Manage Overall Settings** [permission](/permission-management-for-agents) can view these pages. To **run** a task, **repair** the database, or **delete** logs, you also need to be a WordPress **Administrator**, because these actions change site data.
-
+* [Cron Job Monitor](#cron-job-monitor)
+* [Database Health](#database-health)
+* [Data Cleanup](#data-cleanup)
 
 ## Cron Job Monitor
 
-The **Cron Job Monitor** lists Fluent Support's scheduled background tasks and shows when each one runs next. At the top, it also shows the **REST API Status** of your site.
+Fluent Support runs background tasks, such as closing inactive tickets and clearing old logs, through WordPress cron. The **Cron Job Monitor** shows whether they are running on time.
 
-![Cron Job Monitor](/images/setup-configuration/system-admin-tools/cron-job-monitor-2.webp)
+![Cron Job Monitor page with REST API Status and Cron Job Status](/images/setup-configuration/system-admin-tools/cron-job-monitor.webp)
+
+### REST API Status
+
+Fluent Support talks to your site through the REST API. This section tests **GET**, **POST**, **PUT** and **DELETE** requests and shows one of these results for each:
+
+* **Operational:** the request works.
+* **Slow Response:** the request works but took longer than expected.
+* **Down:** the request failed. Check with your host or security plugin, since a firewall may be blocking it.
 
 ### Cron Job Status
 
-Each task shows its **Next Run** time:
+This section shows your server's **Memory Limit**, **Current Usage** and **Max Execution Time**. Below them, each scheduled task lists its next run time:
 
-| Task | Runs | What it does |
-|---|---|---|
-| **Hourly Cleanup and Auto-Close** | Every hour | Removes temporary and abandoned uploads, finishes deleting files from remote storage, and closes inactive tickets for [Auto-Close](/automatic-ticket-closing) *(Pro)*. |
-| **Daily Log Cleanup** | Every day | Deletes activity logs, AI activity logs and internal notifications older than your [retention settings](/overall-activities#activity-log-settings). |
-| **Weekly Maintenance** | Every week | Runs data maintenance and removes old background-task logs. |
-| **Email Piping Retry and Storage Tokens** *(Pro)* | Every 30 minutes | Retries piped emails that failed and refreshes connections to remote file storage. |
-| **Advanced Reports Snapshot** *(Pro)* | Every 6 hours | Saves a snapshot of your [Reports](/reports-and-stats) data so the reports load quickly. Snapshots are kept for up to 15 days. |
+* **Next Run:** when the task runs next.
+* **Overdue:** the task should have run already and has not.
+* **Not scheduled:** the task is not set up.
 
-A task can show one of these states:
+With Fluent Support Pro, its scheduled tasks are listed here too.
 
-* **in** *time*: Scheduled and on time.
-* **Overdue:** *time* **ago**: The task should have run but didn't. This usually means WordPress cron is not firing on your site.
-* **Not scheduled**: The task is missing from the schedule. Deactivating and reactivating Fluent Support usually schedules it again.
+Click **Run** next to a task, then confirm, to run it manually. Use this after fixing a problem to catch up without waiting.
 
-To run a task right away, click **Run Manually** next to it. When asked **Run** *task name* **now?**, click **Run**.
-
-> [!WARNING]
-> Running a task does the real work: **Hourly Cleanup and Auto-Close** can close tickets, and **Daily Log Cleanup** deletes old logs.
-
-![Running a task manually from the Cron Job Monitor with the confirmation prompt](/images/setup-configuration/system-admin-tools/cron-job-monitor-run-manually-3.webp)
-
-
-### Server Side Cron
-
-By default, WordPress only runs scheduled tasks when someone visits your site. On a quiet site, tasks can run late. If you see the message **Server side cron is not enabled. Please consider enabling server side cron.**, ask your host to set up a real server cron job for your site. Click **Read More** on the page for instructions.
-
-### Server Limits and REST API Status
-
-Above the task list, the **Cron Job Status** section shows the limits your background tasks run under:
-
-* **Server Memory Limit** and **Current Usage**
-* **Max Execution Time**
-
-The **REST API Status** section at the top of the page checks that your site accepts **GET**, **POST**, **PUT** and **DELETE** requests. Fluent Support's admin needs all four. Each one shows **Operational**, **Slow Response** or **Down**. If any request is down, a security plugin, firewall, or host rule is often blocking it.
-
+::: info
+If you see **Server side cron is not enabled**, WordPress cron only runs when someone visits your site. On a quiet site tasks can run late. Setting up a real server cron job fixes this. Click **Read More** in the notice for the steps.
+:::
 
 ## Database Health
 
-Fluent Support stores tickets, replies, customers and settings in its own database tables. If an update was interrupted, a table may be missing, and parts of the plugin will stop working.
+Fluent Support stores tickets, replies, customers and settings in its own database tables. If an update is interrupted, a table can go missing. **Database Health** lists every table and its status.
 
-The **Database Health** page lists every table with its status:
+![Database Health page listing the Fluent Support database tables with a Healthy status](/images/setup-configuration/system-admin-tools/database-health.webp)
 
-* **Healthy:** The table exists.
-* **Missing:** The table is not in your database.
+* **Healthy** means the table is present.
+* **Missing** means it needs to be recreated. The page shows how many tables are missing.
 
-At the top, you'll see **All tables are present.** or a warning such as **2 table(s) are missing.**
+To fix a missing table:
 
-![The Database Health page listing Fluent Support tables with their Healthy status](/images/setup-configuration/system-admin-tools/database-health-5.webp)
+1. Click **Repair Now**.
+2. Confirm in the dialog.
 
-### Repair Missing Tables
-
-If any table is missing, click **Repair Now** and confirm. This re-runs Fluent Support's database setup, which **only creates missing tables and columns. It never deletes data.** Click **Re-check** afterwards to confirm everything shows **Healthy**.
-
+With Fluent Support Pro, its tables are listed here too. Repair only creates missing tables and columns. It never deletes your data. Click **Re-check** to test again afterward.
 
 ## Data Cleanup
 
-Logs grow over time. **Data Cleanup** lets you delete old ones in one go, without touching your tickets.
+Over time, logs build up in your database. **Data Cleanup** removes old ones.
 
-You can delete these log types:
+![Data Cleanup page with log types and a time range](/images/setup-configuration/system-admin-tools/data-cleanup.webp)
 
-| Log type | What it contains |
-|---|---|
-| **Activity Logs** | Ticket and agent actions shown on the [Activities](/overall-activities) page. |
-| **AI Activity Logs** | Records of AI replies, summaries and their token usage. |
-| **Internal Notifications** | In-app notifications sent to agents, such as mentions and assignments. |
+1. Under **Select logs you want to delete**, tick the types you want to clear:
+   * **Activity Logs:** ticket and agent actions shown on the Activities page.
+   * **AI Activity Logs:** records of AI replies, summaries and their token usage.
+   * **Internal Notifications:** in-app notifications sent to agents, such as mentions and assignments.
+2. Set the **Time Range (days)**. Only logs older than this many days are deleted. The minimum is 7 days.
+3. Click **Preview Log Summary** to see how many records of each type will go.
+4. Review the **Count** for each **Type**, then click **Yes, Delete Old Logs**.
 
-To delete old logs:
-
-1. Enter the **Time Range (days)**. Only logs older than this number of days will be deleted. The minimum is **7 days**.
-2. Under **Select logs you want to delete**, tick the log types.
-3. Click **Preview Log Summary**.
-
-![The Data Cleanup page with the time range, the log types to delete and the Preview Log Summary button](/images/setup-configuration/system-admin-tools/data-cleanup-7.webp)
-
-4. The **Preview Log Summary** window shows how many entries of each type will be removed. Review the counts, then click **Yes, Delete Old Logs**.
-
-![The Preview Log Summary window showing how many logs will be deleted, with the Yes, Delete Old Logs button](/images/setup-configuration/system-admin-tools/data-cleanup-preview-8.webp)
-
-> [!WARNING]
-> Deleted logs are removed **permanently**. Tickets, replies, customers and attachments are never deleted by Data Cleanup.
-
-::: tip
-To clear old logs automatically instead, set a retention period in the [Activity Log Settings](/overall-activities#activity-log-settings). The **Daily Log Cleanup** task removes them for you every day.
+::: warning
+Deleted logs cannot be recovered. Your tickets, replies, customers and attachments are never deleted.
 :::
-
-That's it! You can now keep an eye on your helpdesk's background work and keep its database tidy.
