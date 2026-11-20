@@ -136,6 +136,22 @@ You have two choices:
 
 ![New reply on this ticket dialog](/images/ticket-management/daily-operations/view-manage-ticket-entries/new-reply-while-writing.webp)
 
+### Preview PDF and Markdown Attachments
+
+Click a **PDF** or **Markdown** (`.md`) attachment in the conversation to read it in a preview window without downloading it. From the preview you can:
+
+* Click the fullscreen button to read the file at full size. Click it again to exit fullscreen.
+* Click **Open in new tab** to open the file in a new browser tab.
+* Click **Download** to save the file.
+
+Other file types open or download as before. To skip the preview, hold **Ctrl** (or **Cmd** on a Mac) while you click, and the file opens in a new tab.
+
+::: info
+Customers get the same preview when they open a PDF or Markdown attachment in the [Customer Portal](/customer-support-portal-dashboard). Files kept on a remote storage service, such as Amazon S3, are previewed only when they are 10 MB or smaller.
+:::
+
+![A Markdown attachment open in the preview window, with the fullscreen, Open in new tab and Download buttons](/images/ticket-management/daily-operations/view-manage-ticket-entries/attachment-preview.webp)
+
 ### Leaving A Ticket With An Unsent Reply
 
 When you move to the next or previous ticket with the arrow buttons or a [keyboard shortcut](/navigate-with-keyboard-shortcut) while your reply box still has text, an image, or an attachment, Fluent Support asks before you go. The **Unsent reply** message says "Your reply has not been sent. Leave this ticket?". Click **Stay** to go back to your reply, or **Leave** to open the other ticket.

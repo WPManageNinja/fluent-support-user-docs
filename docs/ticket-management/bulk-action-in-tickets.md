@@ -18,7 +18,7 @@ If you prefer a cleaner list, click the **More Action** button and choose **Hide
 
 Check the tickets you want to change. You can also use the **Select All** checkbox at the top of the list to select every ticket on the page.
 
-As soon as you select a ticket, the bulk action bar appears at the bottom of the list. On the left it shows how many tickets you selected, for example **3 selected**, with an **X** button to clear the selection.
+As soon as you select a ticket, the bulk action bar appears at the bottom of the list. On the left it shows how many tickets you selected, for example **3 items Selected**, with an **X** button to clear the selection.
 
 ![Bulk action bar with selected tickets](/images/ticket-management/productivity-tools/bulk-action-in-tickets/bulk-action-3.webp)
 

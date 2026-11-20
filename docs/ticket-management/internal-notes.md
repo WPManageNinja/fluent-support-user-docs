@@ -8,6 +8,8 @@ First, go to **Tickets** under **Fluent Support** **Dashboard** & **open your de
 
 Now, click on **Note** in the reply bar at the top of the conversation and this will open a text editor where you can add the notes about your users for better ticket management. The button changes to **Cancel Notes** while the editor is open, and you can click **Reply** to switch back to a customer reply at any time.
 
+Reply and Note share the same editor, so anything you have typed stays in place when you switch between them. For example, if you start writing a reply and decide it should be a note, click **Note** and your text is kept.
+
 ![The internal note editor open on a ticket, with the Cancel Notes button highlighted](/images/ticket-management/daily-operations/internal-notes/ticket-notes-1.webp)
 
 **Here,** you will find the **Add Media** option where you can insert any media file within a note.  

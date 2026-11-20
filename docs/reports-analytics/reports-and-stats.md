@@ -62,11 +62,21 @@ Individual pages add their own filters next to the date picker:
 
 Product and agent dropdowns are sorted alphabetically and are searchable, so you can type to find an entry instead of scrolling a long list.
 
+### Metric Tooltips
+
+Many stat cards and table columns have a small info icon next to their name. Hover it to see what the number counts, and whether the date range changes it. For example, **Waiting Workload** counts open tickets where the customer sent the last reply, whatever range you pick.
+
 ### Live and Snapshot View
 
 Live numbers tell you where you stand today. They do not tell you where you stood last week. The **Live / Snapshot** selector in the top right corner of the report solves that.
 
+![The Live / Snapshot selector open, with Live and Snapshot explained and a list of captures](/images/reports-analytics/reports/reports-and-stats/live-snapshot-selector.webp)
+
 Fluent Support captures your reporting data automatically **every 6 hours** in the background. Switch the selector from **Live** to a saved capture, and the page re-renders using the numbers from that moment in time. Switch back to **Live**, and your previous date range returns exactly as you left it.
+
+While you are viewing a snapshot, a banner at the top of the report reads **Viewing snapshot from** followed by the capture date and time, so you never mistake old numbers for live ones. Click **Back to live** in the banner to return to live data.
+
+<!-- TODO screenshot: a report showing the snapshot banner with the Back to live button; save to /images/reports-analytics/reports/reports-and-stats/snapshot-banner.webp -->
 
 A few things worth knowing about snapshots:
 

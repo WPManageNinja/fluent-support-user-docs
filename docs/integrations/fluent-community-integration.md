@@ -1,6 +1,6 @@
 # FluentCommunity Integration
 
-Integrating **FluentCommunity** with **Fluent Support** creates a more efficient and context-rich support experience. When connected, you can automate ticket routing based on a user’s course, provide your support agents with community details directly within the ticket view, and embed the Fluent Support portal inside your FluentCommunity space.
+Integrating **FluentCommunity** with **Fluent Support** creates a more efficient and context-rich support experience. When connected, you can automate ticket routing based on a user’s course, provide your support agents with community details directly within the ticket view, create tickets from community posts and comments, and embed the Fluent Support portal inside your FluentCommunity space.
 
 ::: tip Use Case
 A student taking your “Advanced SEO” course submits a support ticket and selects the course from a dropdown. A workflow rule can automatically assign this ticket to your SEO specialist. When the agent opens the ticket, they instantly see a **FluentCommunity Widget** confirming the student is on “Lesson 5: Link Building,” giving them full context to resolve the issue quickly and effectively.
@@ -34,6 +34,52 @@ After copying the URL from the previous step:
 4. Save the FluentCommunity menu.
 
 Your community members can now open and manage their support tickets without leaving FluentCommunity.
+
+## Create Support Tickets From Posts and Comments
+
+When a member asks for help in a community post or comment, you can turn that post or comment into a support ticket in one click. The ticket is opened for the member who wrote it.
+
+### Turn On the Option
+
+1. Go to **Fluent Support** from your WordPress dashboard.
+2. Open **Settings** and click **Global Settings** from the left sidebar.
+3. Tick **Create Support Tickets from FluentCommunity**.
+4. Click **Save Settings**.
+
+<!-- TODO screenshot: Global Settings with the "Create Support Tickets from FluentCommunity" checkbox ticked; save to /images/integrations-channels/core-integrations/fluent-community-integration/fc-create-ticket-setting.webp -->
+
+::: info
+This option only appears when FluentCommunity is installed and active. Once it is on, the menu item is shown to community **moderators** who are also Fluent Support agents with permission to manage tickets.
+:::
+
+### Create a Ticket
+
+1. Open the post or comment in FluentCommunity.
+2. Open its menu (the three dots) and click **Create Support Ticket**.
+
+   ![The FluentCommunity post menu with the Create Support Ticket option](/images/integrations-channels/core-integrations/fluent-community-integration/fc-create-ticket-menu.webp)
+
+3. A confirmation asks **Create a support ticket for** the author's name. Keep **Email the author about the new ticket** ticked to send the member the usual new ticket email, or untick it to create the ticket silently.
+4. Click **Create Ticket**.
+
+   ![The Create Support Ticket confirmation with the Email the author about the new ticket checkbox](/images/integrations-channels/core-integrations/fluent-community-integration/fc-create-ticket-confirm.webp)
+
+A message confirms the new ticket number. Click the message to open the ticket in Fluent Support.
+
+### What the Ticket Contains
+
+* **Customer:** The author of the post or comment. If they are not a customer yet, Fluent Support adds them.
+* **Subject:** The post title. A ticket from a comment uses the title of the post it belongs to. If the post has no title, the start of the message is used.
+* **Message:** The text of the post or comment, followed by a link to the original community post.
+* **Source:** The ticket shows **FluentCommunity** as its source.
+
+### One Ticket Per Post or Comment
+
+Each post or comment can have only one ticket. After a ticket is created, its menu shows **View Ticket #** followed by the ticket number instead of **Create Support Ticket**. If you cannot open that ticket, for example because of your inbox permissions, the menu shows **Support ticket exists**.
+
+::: tip
+A ticket can only be created when the author has an email address and is an active community member.
+:::
 
 ## Creating Custom Ticket Fields for FluentCommunity Courses
 
