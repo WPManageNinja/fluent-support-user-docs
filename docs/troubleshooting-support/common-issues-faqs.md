@@ -35,6 +35,14 @@ Fluent Support requires:
 - Try downloading the plugin file and uploading it manually via **FTP/SFTP**.
 
 
+### A notice says Fluent Support needs to be updated
+
+Fluent Support Pro needs a minimum version of Fluent Support. If your Fluent Support (free) is older, a warning appears in the admin: "Please update Fluent Support to" followed by a version number. Tickets and email piping keep working, but other Pro features may not until you update.
+
+1. Go to **Plugins** in your WordPress dashboard.
+2. Update **Fluent Support** to the latest version.
+3. Reload the page. The notice disappears when the versions match.
+
 ## Email & Notification Issues
 
 ### Emails are not being sent
@@ -80,7 +88,7 @@ If your email piping is configured correctly but tickets aren't appearing, the i
 ### Attachments are not uploading
 
 1. **File Size Limits:** Check your PHP upload limits (`upload_max_filesize` and `post_max_size`)
-2. **File Types:** Verify the file type is in the accepted file types list
+2. **File Types:** Verify the file type is in the accepted file types list. Text (`.txt`) and Markdown (`.md`) files need **Text/Markdown** ticked under **Accepted File Types**
 3. **Permissions:** Ensure the uploads directory has write permissions
 4. **Storage Integration:** If using cloud storage, verify the integration is properly configured
 

@@ -10,7 +10,7 @@ First, go to your **Fluent Support** and click on **Tickets**.
 
 ![Tickets from Fluent Support dashboard](/images/ticket-management/search-filter/advanced-filter-fluent-support/advanced-filter-1.webp)
 
-Now go to your desired ticket section from **My Tickets, All Tickets, Unassigned,** or **Bookmarks**.
+Now go to your desired ticket section from **Assigned to Me**, **Unassigned**, **Bookmarks**, or a status view such as **Open** or **All**.
 
 Enable the **Advanced Filter** toggle to activate the feature, and the advanced choices will appear.
 

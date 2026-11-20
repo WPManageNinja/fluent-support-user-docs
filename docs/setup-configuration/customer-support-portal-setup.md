@@ -14,7 +14,9 @@ Go to **Settings** from your **Fluent Support Dashboard** and click on **Global 
 
 This will open the Global Settings page, where you can configure the portal page for your customers.
 
-> **Remember:** Always press the **Save Settings** button in the top right corner after finishing your customization to save your changes. Otherwise, changes will not appear in your Customer Portal.
+::: info
+Always press the **Save Settings** button in the top right corner after finishing your customization to save your changes. Otherwise, changes will not appear in your Customer Portal.
+:::
 
 
 ![Global Settings from Fluent Support Dashboard](/images/setup-configuration/customer-portal/customer-support-portal-setup/accessing-global-settings-1.webp)

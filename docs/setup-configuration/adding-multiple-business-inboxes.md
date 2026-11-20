@@ -36,8 +36,9 @@ Go to the page where you want to embed a portal and paste the below shortcode.
 
 > [!NOTE]
 > **Shortcode** : [ fluent_support _portal show_logout = ‘yes’ business_box_id=2 ]  
-> **Remember** , instead of **2** (business box ID), use your own
-> **Business Box ID** from your chosen business inbox.
+::: info
+Replace **2** with the **Business Box ID** of your own business inbox.
+:::
 
 To find the Business Box ID, go to **Business Inboxes** from **Fluent Support Dashboard**, and click on the **View Settings** of your desired business inbox.
 
@@ -45,13 +46,13 @@ To find the Business Box ID, go to **Business Inboxes** from **Fluent Support Da
 
 Now, you will find the business box ID in the URL of that business box as shown below. Copy the **Business Box ID**(number) from here.
 
-![](/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/business-box-id-1.webp)
+![Business inbox ID shown in the browser address bar](/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/business-box-id-1.webp)
 
 And, use the **ID** in your **Shortcode** and place it anywhere on your website as per your requirements as I have used it below —
 
 This service is especially helpful for [Web-Based Business Inboxes](/web-based_settings_in_business_inbox).
 
-![](/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/using-id-in-shortcode-1.webp)
+![Using the business inbox ID in the Customer Portal shortcode](/images/setup-configuration/business-inboxes/adding-multiple-business-inboxes/using-id-in-shortcode-1.webp)
 
 Here you can see the preview of the **Customer Support Portal** in the screenshot below.
 

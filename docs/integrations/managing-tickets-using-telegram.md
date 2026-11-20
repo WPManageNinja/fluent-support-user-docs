@@ -40,7 +40,7 @@ Now, give a **name** to your group and add the **Bot** that you **created in the
 Now, give your bot “**Admin Acces** ” i.e., simply **make the bot admin** of your group chat.  
 **Follow the GIF** below, to learn how you can make your **Bot Admin** of your group.
 
-![Give Admin Access to Your created Bot.gif](https://github.com/ab-auth/fs-doc/blob/main/\(Telegram\)%20Give%20Admin%20Access%20to%20Your%20created%20Bot.gif?raw=true)
+![Giving admin access to your bot in the Telegram group](/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/give-admin-access-to-bot.gif)
 
 After giving your Bot the **“Admin Access”** you can see the preview from **View group info** by clicking the three-dot from the right-side corner.
 
@@ -52,7 +52,7 @@ Finally, to get the **Chat ID** of your group, add [**@GetIdsBot**](https://t.me
 
 To do this follow the Screenshots & GIF below step-by-step –
 
-![Add GetIDs Bot as a Member ](https://github.com/ab-auth/fs-doc/blob/main/\(Telegram\)%20Add%20GetIDs%20Bot%20as%20a%20Member.gif?raw=true)
+![Adding the GetIDs bot as a member of the Telegram group](/images/integrations-channels/messaging-apps/managing-tickets-using-telegram/add-getids-bot-as-member.gif)
 
 After adding the GetIDs Bot as a member, it will send a message to the group with the **Group Chat ID**.
 

@@ -1,0 +1,115 @@
+{
+ "outDir": "docs/public/images/ticket-management/daily-operations/internal-notes",
+ "viewport": {
+  "width": 1600,
+  "height": 1500
+ },
+ "steps": [
+  {
+   "admin": "/tickets/901/view"
+  },
+  {
+   "wait": 2500
+  },
+  {
+   "hideCss": ".el-popper.is-dark"
+  },
+  {
+   "click": {
+    "text": "Note"
+   }
+  },
+  {
+   "wait": 1200
+  },
+  {
+   "eval": "(()=>{const e=tinymce.activeEditor||tinymce.editors[0];e.setContent('<p>Checked the export logs. The export fails for large date ranges, so I have asked the developers to look into it.</p>');e.fire('input');e.fire('change');e.save();})()"
+  },
+  {
+   "wait": 600
+  },
+  {
+   "shot": {
+    "name": "ticket-notes-1",
+    "clip": "app",
+    "crop": {
+     "height": 1560
+    },
+    "highlights": [
+     {
+      "role": "button",
+      "name": "Cancel Notes"
+     }
+    ]
+   }
+  },
+  {
+   "click": ".fs_saved_replies_box button"
+  },
+  {
+   "wait": 1200
+  },
+  {
+   "shot": {
+    "name": "ticket-notes-2",
+    "clip": "app",
+    "crop": {
+     "height": 1560
+    },
+    "highlights": [
+     ".fs_saved_replies_box"
+    ]
+   }
+  },
+  {
+   "click": ".fs_saved_replies_box button"
+  },
+  {
+   "wait": 600
+  },
+  {
+   "click": ".fs_shortcode_box button"
+  },
+  {
+   "wait": 1200
+  },
+  {
+   "shot": {
+    "name": "ticket-notes-3",
+    "clip": "app",
+    "crop": {
+     "height": 1560
+    },
+    "highlights": [
+     ".fs_shortcode_box"
+    ]
+   }
+  },
+  {
+   "click": ".fs_shortcode_box button"
+  },
+  {
+   "wait": 600
+  },
+  {
+   "click": {
+    "text": "Add Internal Note"
+   }
+  },
+  {
+   "wait": 900
+  },
+  {
+   "shot": {
+    "name": "ticket-notes-4",
+    "clip": "app",
+    "crop": {
+     "height": 1560
+    },
+    "highlights": [
+     ".fs_msg_note"
+    ]
+   }
+  }
+ ]
+}

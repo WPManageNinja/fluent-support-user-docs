@@ -11,13 +11,13 @@ First, sign up or log in to the customer support portal and the **Customer Porta
 > [!Note]
 > Remember, for sign-up, use a valid email as a verification code will be sent to the user email for confirmation, ensuring only valid emails can be used for sign-in.
 
-![Customer Support Portal Dashboard](/images/setup-configuration/customer-portal/customer-support-portal-dashboard/dashboard-of-customer-support-portal-1-1.webp)
+![Customer Support Portal ticket list with the Create Ticket button, status tabs, product filter, sort icon, search box and ticket rows](/images/setup-configuration/customer-portal/customer-support-portal-dashboard/dashboard-of-customer-support-portal-1-1.webp)
 
 **All the options of the Customer Portal Dashboard are explained below:**
 
-**A. Create Ticket** : Using this button, users can **create** and **submit** as many **support tickets** as they want. 
+**Create Ticket** : Using this button, users can **create** and **submit** as many **support tickets** as they want. 
 
-**B. Logout** : Using this button, users can logout from their customer support portal dashboard at any time. **Remember** , you can get the logout option, in two different ways. These are: 
+**Logout** : When it is turned on, a three-dot menu appears next to the **Create Ticket** button, and users can logout from their customer support portal dashboard at any time. **Remember** , you can get the logout option, in two different ways. These are: 
 
   1. **Use Gutenberg Block** : To get the logout option, you need to add the **Customer Support Portal** to your **WordPress Site** (desired page/post) using the Gutenberg Block. To learn how to add a **Customer Portal** using **Gutenberg Bloc** k, read this [Documentation](/customize-your-customer-portal).  
 
@@ -25,28 +25,29 @@ First, sign up or log in to the customer support portal and the **Customer Porta
 
 `[fluent_support_portal show_logout = yes]`
 
-**C**.**Status Filter** : Using this, users can filter which tickets they want to see in their dashboard based based on the available ticket stauses (e.g., **All** , **Opened,** or **Closed** tickets). 
+**Status Filter** : Using the **All**, **Open**, and **Closed** tabs, users can choose which tickets they want to see in their dashboard.
 
-**D. Product Filter** : Using this dropdown option, users can filter their tickets based on the available **Products**.
+**Product Filter** : Using this dropdown option, users can filter their tickets based on the available **Products**.
 
-**E**. **Tickets Sorting** : With this, users can **Sort** their tickets in **Ascending** or **Descending** order based on **Ticket ID** , **Title** , & **Created** **At** options. 
+**Tickets Sorting** : Using the sort icon, users can **Sort** their tickets in **Ascending** or **Descending** order based on **Ticket ID** , **Title** , & **Created** **At** options. 
 
-**F**. **Search Bar** : Using this search bar, users can search for any of their desired tickets by putting its title in the box.
+**Search Bar** : Using this search bar, users can search for any of their desired tickets by putting its title in the box.
 
-**G**. **Conversation** : Under this column, all tickets will be listed. Next to a ticket's title, customers may see:
+**Ticket List** : Every ticket is shown as a row in a simple list. Each row shows:
 
-  * A number showing how many replies the ticket has.
+  * The ticket **title**, with a short preview of the message below it.
+  * A number showing how many replies the ticket has, next to the title.
+  * The ticket **status** (e.g., **New**, **Active**, or **Closed**) on the right.
+  * When the ticket was opened, for example **5 days ago**, below the status.
   * A **Waiting for your reply** badge when the last reply on an open ticket came from your support team and the customer has not answered yet. The badge goes away once the customer replies or the ticket is closed, so customers can quickly spot the tickets that need their attention.
 
 ![Waiting for your reply badge in the Customer Portal](/images/setup-configuration/customer-portal/customer-support-portal-dashboard/waiting-for-your-reply-badge.webp)
 
-**H**. **Date** : Under this column, users can see the opening time of their tickets.
+Click a ticket to open it and read the conversation.
 
-**I. Status** : Inside this column, users can see the ticket **statuses** (e.g., **New** , **Active,** and **Closed**) for each ticket.
+**Tickets Display Dropdown** : Using the **10 / page** option, users can define per page how many tickets they want to see.
 
-**J: Tickets Display Dropdown** : Using the option, users can define per page how many tickets they want to see.
-
-**K: Pagination** : Using this arrow option, users can scroll to different pages.
+**Pagination** : Using the arrows and page numbers, users can scroll to different pages.
 
 
 ## Replying to a Closed Ticket
@@ -79,5 +80,5 @@ When the customer verifies the new email, Fluent Support **automatically merges*
 > No action is needed from your agents — the merge happens on its own the moment the customer confirms the new email.
 
 ::: details For developers
-If you have built an add-on that stores its own data against a customer ID, hook into the `fluent_support/merging_customer_records` action. It fires when two customer records are merged, so you can move your data from the old record to the one that is being kept.
+If you have built an add-on that stores its own data against a customer ID, Fluent Support lets your code know when two customer records are merged, so you can move your data to the record that is being kept. See the [Developer Documentation](https://developers.fluentsupport.com/) for details.
 :::

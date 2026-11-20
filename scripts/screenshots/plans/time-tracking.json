@@ -1,0 +1,21 @@
+{
+  "outDir": "docs/public/images/ticket-management/productivity-tools/agent-time-tracking",
+  "viewport": { "width": 1600, "height": 1500 },
+  "steps": [
+    { "admin": "/tickets/906/view" }, { "wait": 2500 }, { "hideCss": ".el-popper.is-dark" },
+    { "click": { "text": "Time Logging" } }, { "wait": 1000 },
+    { "shot": { "name": "time-tracking-2", "clip": "app", "crop": { "height": 1000 },
+        "highlights": [ { "selector": ".fs_collapsible_widget", "hasText": "Time Logging" } ] } },
+    { "click": { "text": "Set Estimation" } }, { "wait": 1000 },
+    { "shot": { "name": "time-tracking-3", "clip": "app", "crop": { "height": 1000 },
+        "highlights": [ { "role": "button", "name": "Set Estimation" } ] } },
+    { "click": { "text": "Set Estimation" } }, { "wait": 500 },
+    { "click": { "text": "Add Log" } }, { "wait": 1000 },
+    { "fill": { "selector": ".fs_collapsible_widget input >> nth=0", "value": "1" } },
+    { "fill": { "selector": ".fs_collapsible_widget input >> nth=1", "value": "20" } },
+    { "fill": { "selector": ".fs_collapsible_widget textarea", "value": "Reproduced the export error and checked the server logs." } },
+    { "wait": 400 },
+    { "shot": { "name": "time-tracking-4", "clip": "app", "crop": { "height": 1500 },
+        "highlights": [ { "selector": ".fs_collapsible_widget", "hasText": "Time Logging" } ] } }
+  ]
+}

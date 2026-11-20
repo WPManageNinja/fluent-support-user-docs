@@ -22,7 +22,7 @@ You will get the following **Field Types** from the Dropdown List –
 
 ![Choose Filed type from dropdown list](/images/setup-configuration/ticket-forms-fields/conditional-custom-fields/field-type-add-button-scaled-1.webp)
 
-#### Date Range Fields
+### Date Range Fields
 
 The **Date Range** field type collects a start date and an end date together, so you no longer need two separate date fields for a single period.
 

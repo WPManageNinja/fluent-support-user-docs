@@ -135,6 +135,10 @@ Now, you will find the uploaded file stored in your **Google Drive.**
 
 ![Preview of Stored File in Google Drive](/images/integrations-channels/other/google-drive-integration/stored-file-in-google-drive-scaled-1.webp)
 
+::: info Your files stay private
+Fluent Support does not share your Google Drive files with a public link. When an agent or customer opens an attachment, your site fetches the file from your Google Drive and delivers it, after checking that the person is allowed to see that ticket. To learn more, see [How Remote Files Are Handled](/file-upload-integrations#how-remote-files-are-handled).
+:::
+
 This is how you can integrate Google Drive with Fluent Support!  
 
 ---

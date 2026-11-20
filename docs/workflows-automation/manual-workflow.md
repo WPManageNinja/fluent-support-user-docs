@@ -14,9 +14,13 @@ Give a **Name** to your workflow, choose **Manual** type, and click on the **Cre
 
 ![Popup page for adding a new workflow](/images/workflows-automation/manual-workflow/popup-page-for-adding-a-new-manual-workflow-2.webp)
 
-Now, set the **Action/s** (Task) from the dropdown list for **Workflow** to perform. Once you fill in all the necessary fields, click the **Save** button.
+After you create it, the editor opens with a **When** card that reads **An agent runs it**. Agents run a manual workflow from the **Workflows** menu on a ticket. Next, add the **Action/s** (Task) your **Workflow** should perform. Click the **+** button below the **When** card (**Add an action here**), search or pick an action in the **Add an action** panel, fill in its fields in the **Edit action** panel, and click **Done**. Then click **Save Workflow**.
 
-You will get the following Actions from the Dropdown List –
+![The Add an action panel with a search box and the list of actions](/images/workflows-automation/manual-workflow/workflow-drawer-add-action.webp)
+
+![The Edit action panel with the action's fields, Delete Action and Done](/images/workflows-automation/manual-workflow/workflow-drawer-edit-action.webp)
+
+You can choose from these Actions:
 
 **Ticket Actions**
 
@@ -61,29 +65,15 @@ You will get the following Actions from the Dropdown List –
 
 For example, here I selected the **Close Ticket** action. You can choose any option according to your needs.
 
-![Action/s \(Tasks\) for performing Workflow](/images/workflows-automation/manual-workflow/actions-tasks-for-performing-manual-workflow-3.webp)
+You can add more than one action. Click the **+** between steps (or below the last one) to insert another action in that position. Each action shows as a **Then, step** card.
 
-Multiple actions can be set if needed. To do this, click the **+ Add Another Action** and follow the same process.
+To delete an action, click its card, then click **Delete Action** at the bottom of the **Edit action** panel.
 
-![Add multiple action as per your need](/images/workflows-automation/manual-workflow/manual-workflow:add-another-action-button-scaled-4.webp)
+You can **change the name of your workflow** anytime. Click the pencil icon next to the name at the top of the editor.
 
-You can also **Delete** any existing action. To do this, expand the desired action by pressing it and then click the **Delete Action**.
+You can also **set the sequence of your actions** by dragging the **Drag to reorder** handle on an action card.
 
-![Delete any existing action anytime](/images/workflows-automation/manual-workflow/delete-workflow-scaled-5.webp)
-
-You can **change the name of your workflow** anytime from here as shown below.
-
-![Change the workflow name anytime](/images/workflows-automation/manual-workflow/change-the-workflow-name-1-scaled-6.webp)
-
-Also, you can **set the sequence of your added workflow actions/tasks** using the **Drag and Drop Action** icon.
-
-![Drag & Drop feature to set actions/tasks' sequence](/images/workflows-automation/manual-workflow/drag-drop-feature-to-set-actions-tasks-7.webp)
-
-Once you set up the actions, **Publish** it by enabling the **Toggle** button at the top right corner to run the **Workflow**. Otherwise, it will be saved as a draft only.
-
-To save any new changes always press the **Update Workflow** button right next to the toggle.
-
-![Publish the workflow](/images/workflows-automation/manual-workflow/publish-button-update-workflow-scaled-8.webp)
+Once you set up the actions, **Publish** it by turning on the **Status** toggle at the top right of the editor to run the **Workflow**. Otherwise, it stays a **Draft**. A **Save Workflow** button saves your changes, and **Unsaved changes** shows next to it until you do.
 
 ## Run Your Workflow In A Specific Ticket
 

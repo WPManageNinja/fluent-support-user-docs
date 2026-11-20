@@ -17,6 +17,13 @@ You can enable or disable specific file formats by checking the respective boxes
   * PDF/Docs
   * Zip
   * JSON
+  * Text/Markdown
+
+::: info
+**Text/Markdown** allows plain text (`.txt`) and Markdown (`.md`) files. Tick it if your customers send logs or notes as text files. A site with only **CSV** ticked does not accept `.txt` or `.md` files.
+:::
+
+![Accepted File Types setting with the Text/Markdown option ticked](/images/setup-configuration/accepted-file-types-text-markdown.webp)
 
 #### Size and Quantity Limits
 
@@ -40,6 +47,8 @@ The storage location depends on your Fluent Support configuration:
   * **Default Storage (Local):** By default, these ticket-specific folders are created within your WordPress site’s local storage (directory: wp-content/uploads/fluent-support), using the unique ticket ID as the folder name.
   * **Third-Party Storage Integrations:** If you have configured an external storage integration (such as Google Drive, Dropbox, etc.), Fluent Support will create these individual folders on that connected cloud service instead.
 
->**Remember** Ensure you always press the **Save Settings** button in the top right corner after making changes to the File Attachment Settings. Otherwise, the changes will not appear in your Support Portal.
+::: info
+Ensure you always press the **Save Settings** button in the top right corner after making changes to the File Attachment Settings. Otherwise, the changes will not appear in your Support Portal.
+:::
 
 

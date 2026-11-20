@@ -17,8 +17,6 @@ Go to **Settings** from the **Fluent Support Dashboard** and click on the **Inte
 
 The following integrations appear on this page when their respective plugins are installed: **WooCommerce**, **Easy Digital Downloads**, **FluentCRM**, **FluentCart**, **FluentBooking**, **LearnDash**, **LifterLMS**, **Tutor LMS**, **MemberPress**, **BuddyBoss**, and others.
 
-<!-- TODO: Retake the Integration Statuses screenshot — FluentBooking has been added to the list. Save at /images/integrations-channels/core-integrations/integration_statuses/integration-logs-of-fluent-support-scaled-1.webp -->
-
 ![Integration Statuses of Fluent Support](/images/integrations-channels/core-integrations/integration_statuses/integration-logs-of-fluent-support-scaled-1.webp)
 
 

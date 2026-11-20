@@ -1,0 +1,60 @@
+{
+ "outDir": "docs/public/images/ticket-management/automation-in-tickets/close-ticket-silently",
+ "viewport": {
+  "width": 1600,
+  "height": 1400
+ },
+ "steps": [
+  {
+   "admin": "/tickets/908/view"
+  },
+  {
+   "wait": 6000
+  },
+  {
+   "hideCss": ".el-popper.is-dark"
+  },
+  {
+   "click": ".fs_more_action"
+  },
+  {
+   "wait": 800
+  },
+  {
+   "shot": {
+    "name": "close-ticket-silently-1",
+    "clip": "app",
+    "crop": {
+     "height": 1000
+    },
+    "highlights": [
+     {
+      "selector": ".el-dropdown-menu__item",
+      "hasText": "Close Ticket Silently"
+     }
+    ]
+   }
+  },
+  {
+   "click": {
+    "selector": ".el-dropdown-menu__item",
+    "hasText": "Close Ticket Silently"
+   }
+  },
+  {
+   "wait": 1200
+  },
+  {
+   "wait": 3000
+  },
+  {
+   "shot": {
+    "name": "close-ticket-silently-2",
+    "clip": "app",
+    "crop": {
+     "height": 1300
+    }
+   }
+  }
+ ]
+}

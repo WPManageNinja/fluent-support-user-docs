@@ -1,0 +1,9 @@
+{
+  "outDir": "docs/public/images/workflows-automation/automatic-workflow",
+  "viewport": { "width": 1600, "height": 1400 },
+  "steps": [
+    { "admin": "/tickets/905/view" }, { "wait": 6000 }, { "hideCss": ".el-popper.is-dark" },
+    { "click": { "selector": ".fs_widget_header", "hasText": "Watchers" } }, { "wait": 1000 },
+    { "shot": { "name": "ticket-bookmarked-with-automatic-workflow-12", "clip": "app", "crop": { "height": 1300 }, "highlights": [ { "selector": ".fs_collapsible_widget", "hasText": "Watchers" } ] } }
+  ]
+}

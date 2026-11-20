@@ -157,8 +157,8 @@ Once connected, your AI assistant gets access to **22 Fluent Support tools**, pl
 
 ### Context & Insight Tools
 
-- **Get support context** (`fluent-support-get-support-context`): The AI's starting point. It returns who you are, whether your replies are sent or saved as drafts, the ticket counts, your queue, and the tickets that need attention. When the AI needs them, it asks the same tool for the agents, products, Business Inboxes, and tags it can use, the email templates of each inbox, and the attachment limits.
-- **Get ticket views** (`fluent-support-get-ticket-views`): Get the current count of each queue, the same views as the ticket list sidebar: assigned to you, unassigned, waiting for reply, and each priority and status.
+- **Get support context** (`fluent-support-get-support-context`): The AI's starting point. It returns who you are, whether your replies are sent or saved as drafts, the ticket counts, your queue, and the tickets that need attention. When the AI needs them, it asks the same tool for the ticket views with their counts, the agents, products, Business Inboxes, and tags it can use, the email templates of each inbox, and the attachment limits.
+- **Get ticket views** (`fluent-support-get-ticket-views`): Check the current ticket count for each queue, the same views you see in the **Ticket Filters** sidebar: assigned to you, unassigned, waiting for reply, each open priority, and each status. For every view, the AI also gets the exact filters that open its tickets, so it can work through the same queues as your team. Counts only include tickets you are allowed to see. See [Ticket List Views](/view-manage-ticket-entries#ticket-list-views).
 - **Get support insights** (`fluent-support-get-support-insights`): Fetch analytics and performance data for a period, for the whole team or one agent.
 
 ::: info

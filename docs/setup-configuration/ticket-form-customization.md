@@ -33,7 +33,7 @@ You will find different settings options in Ticket Form Settings to customize yo
 
 To learn how to configure these settings, follow the detailed steps below.
 
-#### Knowledge base suggestion 
+### Knowledge base suggestion
 
 Enable this setting so that your customers receive instant solution suggestions from related posts, docs, or products on your website when they type a subject.
 
@@ -43,7 +43,7 @@ Enable this setting so that your customers receive instant solution suggestions 
 
 ![Knowledge-base suggestions related setting](/images/setup-configuration/ticket-forms-fields/ticket-form-customization/knowledge-base-suggestion-1.webp)
 
-#### Knowledge base post type
+### Knowledge base post type
 
 This setting allows you to specify exactly which types of content on your WordPress site should be used to provide suggestions to the customer.
 
@@ -51,7 +51,7 @@ This setting allows you to specify exactly which types of content on your WordPr
 * **Custom Post Types:** If you use third-party plugins, you can also select Products (WooCommerce), Docs (BetterDocs/Fluent Support Docs), or Courses (FluentCommunity/LearnDash).
 * **Versatility:** You can select multiple post types simultaneously. For example, selecting both "Docs" and "Products" ensures that the system searches both your documentation and your store items to find a relevant match for the customer's subject line.
 
-#### Filter by Category
+### Filter by Category
 
 Article suggestions are only useful when they stay relevant. The **Filter by Category** setting lets you restrict suggestions to specific categories instead of searching your entire blog.
 
@@ -63,7 +63,7 @@ Article suggestions are only useful when they stay relevant. The **Filter by Cat
 
 Because of that, the **Filter by Category** field only appears once **Post** is among your selected **Knowledge Base Post Types**. If you deselect Post, the field disappears.
 
-#### Suggested Article Limit
+### Suggested Article Limit
 
 This option controls the maximum number of suggestions displayed to the customer as they type their ticket subject.
 
@@ -71,7 +71,7 @@ This option controls the maximum number of suggestions displayed to the customer
 * **User Experience:** Setting a reasonable limit (such as 5) helps provide the most relevant solutions without overwhelming the customer with too many choices, ensuring a clean and helpful interface.
 
 
-#### Disabled Default Fields 
+### Disabled Default Fields
 
 This setting allows you to hide specific default fields from the ticket creation form if they are not relevant to your support flow. You can disable:
 
@@ -79,19 +79,19 @@ This setting allows you to hide specific default fields from the ticket creation
   * **Priority:** Prevent users from setting their own priority level.
   * **Product & Services:** Hide the product selection dropdown.
 
-#### Product & Service Field Requirement
+### Product & Service Field Requirement
 
   * **Mark product and service fields as required:** If you enable this, customers strictly must select a product or service before they can submit a ticket.
 
 ![Setting for disabling any default fields](/images/setup-configuration/ticket-forms-fields/ticket-form-customization/disabled-default-fields1-1.webp)
 
-#### Rich Text Editor Option
+### Rich Text Editor Option
 
   * **Disable Rich Text Editor for Frontend:** Check this box if you want to provide a simple plain-text area for the ticket description, removing formatting options (bold, italics, links, etc.) for the user.
 
 ![Setting for disabling rich text editor for frontend](/images/setup-configuration/ticket-forms-fields/ticket-form-customization/disable-rich-text-editor-for-frontend1-1.webp)
 
-#### Who can access customer portal? 
+### Who can access customer portal?
 
 This setting gives you the option to select who can get access to your customer support portal. It provides two basic options and these are —
 
@@ -100,7 +100,7 @@ This setting gives you the option to select who can get access to your customer 
 
 ![Setting for selecting who can access to customer portal](/images/setup-configuration/ticket-forms-fields/ticket-form-customization/access-customer-portal.webp)
 
-#### WooCommerce Support Navigation
+### WooCommerce Support Navigation
 
 If you are using WooCommerce, this setting integrates Fluent Support directly into your store's account area.
 
@@ -109,7 +109,7 @@ If you are using WooCommerce, this setting integrates Fluent Support directly in
 > [!NOTE]
 > If you have already integrated **Woocommerce** with your **Fluent** **Support** , you will get the setting shown in below. Otherwise, this setting option will not appear in your **Ticket** **Form** **Settings**.
 
-#### Form Labels Customization 
+### Form Labels Customization
 
 This section allows you to rename the labels of your form fields to match your brand's voice. You can customize the text for:
 

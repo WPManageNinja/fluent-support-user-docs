@@ -2,7 +2,9 @@
 
 Integrating **FluentCommunity** with **Fluent Support** creates a more efficient and context-rich support experience. When connected, you can automate ticket routing based on a user’s course, provide your support agents with community details directly within the ticket view, and embed the Fluent Support portal inside your FluentCommunity space.
 
-> **Use Case:** A student taking your “Advanced SEO” course submits a support ticket and selects the course from a dropdown. A workflow rule can automatically assigns this ticket to your SEO specialist. When the agent opens the ticket, they instantly see a **FluentCommunity Widget** confirming the student is on “Lesson 5: Link Building,” giving them full context to resolve the issue quickly and effectively.
+::: tip Use Case
+A student taking your “Advanced SEO” course submits a support ticket and selects the course from a dropdown. A workflow rule can automatically assign this ticket to your SEO specialist. When the agent opens the ticket, they instantly see a **FluentCommunity Widget** confirming the student is on “Lesson 5: Link Building,” giving them full context to resolve the issue quickly and effectively.
+:::
 
 ## Embed Fluent Support in FluentCommunity
 
@@ -33,21 +35,21 @@ After copying the URL from the previous step:
 
 Your community members can now open and manage their support tickets without leaving FluentCommunity.
 
-### **Creating Custom Ticket Fields for FluentCommunity Courses** 
+## Creating Custom Ticket Fields for FluentCommunity Courses
 
 This first step allows you to add a special field to your support portal, enabling customers to select their specific FluentCommunity course when submitting a ticket.
 
-### Accessing Custom Ticket Fields 
+### Accessing Custom Ticket Fields
 
 Navigate to **Settings** within your **Fluent Support** dashboard and choose **Custom Fields** from the side menu. Click the **Add New Field** button to open the settings modal.
 
 ![FluentCommunity Integration](/images/integrations-channels/core-integrations/fluent-community-integration/custom-field-1-scaled-1.webp)
 
-### Configuring the FluentCommunity Course Field 
+### Configuring the FluentCommunity Course Field
 
 A modal window titled **Add New Custom Field** will appear. In the **Field Type** dropdown menu, you must select **Fluent Community Courses** or **FluentCommunity user Course**.
 
-![](/images/integrations-channels/core-integrations/fluent-community-integration/custom-field-2-scaled-1.webp)
+![Add New Custom Field modal with a FluentCommunity field type selected](/images/integrations-channels/core-integrations/fluent-community-integration/custom-field-2-scaled-1.webp)
 
 Now, enter the requirement details below:
 
@@ -62,9 +64,9 @@ Now, enter the requirement details below:
 
 After that, click the green **Add** button at the bottom to save and create the custom field.
 
-![](/images/integrations-channels/core-integrations/fluent-community-integration/custom-field-3-scaled-1.webp)
+![Saving the new FluentCommunity custom field](/images/integrations-channels/core-integrations/fluent-community-integration/custom-field-3-scaled-1.webp)
 
-## **Creating an Automation Workflow with the Custom Field** 
+## Creating an Automation Workflow with the Custom Field
 
 With your new custom field, you can now create workflows to automate actions based on the course a customer selects.
 
@@ -76,13 +78,13 @@ Here, you will see all the available workflows. Now, click the **Create New** bu
 
 ![Create Workflows](/images/integrations-channels/core-integrations/fluent-community-integration/workflows-4-scaled-1.webp)
 
-#### **Defining Workflow Details** 
+### Defining Workflow Details
 
 In the pop-up, provide a **Workflow Name**. Select **Automatic** as the **Workflow Type**. Next, click the **Create Workflows** button.
 
-![](/images/integrations-channels/core-integrations/fluent-community-integration/workflows-5-scaled-1.webp)
+![Creating an automatic workflow for FluentCommunity](/images/integrations-channels/core-integrations/fluent-community-integration/workflows-5-scaled-1.webp)
 
-#### **Setting Triggers and Conditions** 
+### Setting Triggers and Conditions
 
 **Workflow Trigger:** Choose the event that will start the workflow from the dropdown option.
 
@@ -96,17 +98,17 @@ Once all complete, save the workflow. Don’t forget to enable the Status draft 
 
 For additional details regarding workflow functionalities, please refer to this [article](/workflows-automations).
 
-![](/images/integrations-channels/core-integrations/fluent-community-integration/workflows-6-scaled-1.webp)
+![FluentCommunity workflow conditions and actions](/images/integrations-channels/core-integrations/fluent-community-integration/workflows-6-scaled-1.webp)
 
-## **FluentCommunity Widget in the Ticket Section** 
+## FluentCommunity Widget in the Ticket Section
 
 Once integrated, a dedicated “Fluent Community Courses” widget will be visible to agents within the individual support ticket view.
 
-#### **Widget Visibility** 
+### Widget Visibility
 
 When an agent opens a support ticket, the FluentCommunity Widget will appear on the right sidebar, providing immediate context about the customer’s course enrollments.
 
-#### **Information Displayed** 
+### Information Displayed
 
 This widget displays key information related to the customer’s FluentCommunity engagement, including:
 
@@ -114,6 +116,6 @@ This widget displays key information related to the customer’s FluentCommunity
   * **Progress:** The customer’s progress within the course.
   * **Enrolled At:** The date when the customer enrolled in the course.
 
-![](/images/integrations-channels/core-integrations/fluent-community-integration/preview-7-scaled-1.webp)
+![FluentCommunity course details shown in the ticket sidebar](/images/integrations-channels/core-integrations/fluent-community-integration/preview-7-scaled-1.webp)
 
 

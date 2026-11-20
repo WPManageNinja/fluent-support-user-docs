@@ -4,6 +4,8 @@ This guide provides a detailed, step-by-step walkthrough to help you connect Clo
 
 Follow these three simple phases to get your storage running.
 
+> Using DigitalOcean Spaces, Wasabi, Backblaze B2 or MinIO instead? See [S3-Compatible Storage](/s3-compatible-storage).
+
 ## Phase 1: Setting Up Your Cloudflare Bucket
 
 The "bucket" is the digital container where all your support files will be kept.
@@ -36,7 +38,9 @@ For FluentSupport to "talk" to Cloudflare, it needs special digital keys called 
 5. **Pick Your Bucket:** In the *Specify bucket(s)* area, choose **Apply to specific buckets only** and select the bucket you created in Phase 1 from the list.
 6. **Finish and Copy Keys:** Click **Create User API Token** at the bottom.
 
-> **⚠️ IMPORTANT:** Cloudflare will now show you your **Access Key ID** and **Secret Access Key**. You MUST copy these and save them immediately. For security reasons, Cloudflare will never show these keys to you again once you leave this page.
+::: warning
+Cloudflare will now show you your **Access Key ID** and **Secret Access Key**. You MUST copy these and save them immediately. For security reasons, Cloudflare will never show these keys to you again once you leave this page.
+:::
 
 ![Cloudflare](/images/integrations-channels/other/cloudflare/cloudflare-4.webp)
 

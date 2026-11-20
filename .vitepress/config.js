@@ -98,6 +98,7 @@ export default defineConfig({
           { text: 'Fluent Support Onboarding', link: '/fluent-support-onboarding' },
           { text: 'Fluent Support Glossary', link: '/fluent-support-glossary' },
           { text: 'Dashboard Overview', link: '/dashboard-overview' },
+          { text: 'Deactivate or Delete', link: '/how-to-deactivate-or-delete-the-fluent-support' },
         ]
       },
       {
@@ -144,6 +145,7 @@ export default defineConfig({
               { text: 'Custom Fields', link: '/conditional-custom-fields' },
               { text: 'File Attachments', link: '/attachment-regulation' },
               { text: 'Additional Attachment Types', link: '/add-more-attachments-type' },
+              { text: 'System Admin Tools', link: '/system-admin-tools' },
               { text: 'File Upload Services', link: '/file-upload-integrations' },
               { text: 'Custom Submission Forms', link: '/adding-custom-ticket-submission-form' },
             ]
@@ -162,10 +164,12 @@ export default defineConfig({
               { text: 'Ticket Views', link: '/ticket-views' },
               { text: 'Create for Customers', link: '/creating-ticket-on-behalf-of-customer' },
               { text: 'Saved Replies', link: '/templated-saved-replies' },
+              { text: 'Scheduled Replies', link: '/scheduled-replies' },
               { text: 'Internal Notes', link: '/internal-notes' },
               { text: 'Internal Notifications', link: '/internal-notifications' },
               { text: 'Custom Tags', link: '/ticket-tags-custom-tags' },
-              { text: 'My Tickets', link: '/agent-specific-tickets-my-tickets' },
+              { text: 'Assigned to Me', link: '/agent-specific-tickets-my-tickets' },
+              { text: 'Customers', link: '/customers' },
               { text: 'Ticket Display Settings', link: '/ticket-display-settings' },
             ]
           },
@@ -297,8 +301,8 @@ export default defineConfig({
           },
           {
             text: 'Other',
-        collapsed: true,
-        items: [
+            collapsed: true,
+            items: [
               { text: 'BetterDocs', link: '/betterdocs-integration' },
               { text: 'Google reCAPTCHA', link: '/google-recaptcha-integration' },
               { text: 'Google Drive', link: '/google-drive-integration' },

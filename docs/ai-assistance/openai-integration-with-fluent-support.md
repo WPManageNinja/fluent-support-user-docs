@@ -14,7 +14,7 @@ AI features require **Fluent Support Pro**. The AI Model Setup page will show an
 2. Click **Global Settings** in the left sidebar, then open **AI Model Setup** under the **AI Integration** section.
 3. Turn on the **Enable AI** toggle at the top of the page. Once enabled, AI becomes available for response suggestions and ticket summaries.
 4. In the **AI Provider** box, pick your **Provider** from the dropdown (OpenAI, Google Gemini, or Anthropic Claude).
-5. Choose a **Model** for that provider from the **Model** dropdown.
+5. Choose a **Model** for that provider from the **Model** dropdown. If you are not sure, keep the first option, **Default**. See [The Default Model](#the-default-model).
 6. In the **API Key** box, paste your **API Key**. It is stored securely on your site.
 7. Click **Save** in the top-right corner.
 
@@ -28,11 +28,11 @@ Once saved, AI tools become available inside every ticket. To learn how to use t
 
 Each provider connects through its own API key. Pick the one you already have an account with, or the one whose pricing and models best fit your team.
 
-| Provider | Good for |
-|----------|---------|
-| **OpenAI** | Widest model selection; GPT-4.1, GPT-4o and o-series models |
-| **Google Gemini** | Fast and cost-effective; Gemini 3.7 Flash is the recommended model |
-| **Anthropic Claude** | Detailed, thoughtful replies; Claude Sonnet 4 recommended |
+| Provider | Default model | Good for |
+|----------|---------------|---------|
+| **OpenAI** | GPT-6.1 Sol | Widest model selection, from GPT-6 Astra down to GPT-5 Mini |
+| **Google Gemini** | Gemini 3.8 Flash | Fast and cost-effective Flash and Flash Lite models |
+| **Anthropic Claude** | Claude Sonnet 5.5 | Detailed, thoughtful replies |
 
 ---
 
@@ -45,7 +45,7 @@ Each provider connects through its own API key. Pick the one you already have an
 3. Give it a name and click **Create secret key**.
 4. Copy the key immediately — you will not be able to see it again.
 
-**Available models:** GPT-4.1, GPT-4.1 Mini, GPT-4.1 Nano, GPT-4o, GPT-4o Mini, GPT-4o (2024-08-06), GPT-4o Mini (2024-07-18), GPT-4 Turbo, GPT-4, GPT-3.5 Turbo, o3, o3-mini, o4-mini, o1.
+**Available models:** GPT-6 Astra *(most powerful)*, GPT-6.1 Sol *(default)*, GPT-6 Sol, GPT-6 Luna *(fastest)*, GPT-5.6 Sol, GPT-5.6 Terra, GPT-5.6 Luna, GPT-5.4 Mini, GPT-5 Mini.
 
 ### Google Gemini
 
@@ -54,7 +54,7 @@ Each provider connects through its own API key. Pick the one you already have an
 3. Click **Create API key** and select or create a project.
 4. Copy the generated key.
 
-**Available models:** Gemini 3.7 Flash *(recommended)*, Gemini 3.6 Flash, Gemini 3.5 Flash, Gemini 3.5 Flash Lite *(fastest)*, Gemini 3.1 Flash Lite, Gemini 2.5 Pro, Gemini 2.5 Flash, Gemini 2.5 Flash Lite.
+**Available models:** Gemini 4 Argon *(most powerful)*, Gemini 3.8 Flash *(default)*, Gemini 3.7 Flash, Gemini 3.6 Flash, Gemini 3.5 Flash, Gemini 3.5 Flash Lite *(fastest)*, Gemini 3.1 Flash Lite.
 
 ### Anthropic Claude
 
@@ -62,20 +62,34 @@ Each provider connects through its own API key. Pick the one you already have an
 2. Open **API Keys** from the left menu.
 3. Click **Create Key**, give it a name, and copy the key.
 
-**Available models:** Claude Opus 4 *(most powerful)*, Claude Sonnet 4 *(recommended)*, Claude Haiku 4 *(fastest)*.
+**Available models:** Claude Opus 5.5 *(most powerful)*, Claude Sonnet 5.5 *(default)*, Claude Haiku 5.5 *(fastest)*.
+
+---
+
+## The Default Model
+
+The first option in the **Model** dropdown is **Default**. It shows the model it uses right now, for example **Default (currently Claude Sonnet 5.5)**. When you pick a provider, the **Model** dropdown starts on this option.
+
+With **Default** selected, Fluent Support uses the model it recommends for your provider. When a plugin update changes the recommended model, your site switches to it on its own, so you do not need to come back and change the setting.
+
+Pick a specific model instead if you want to keep using the same one after updates.
+
+::: info
+If the model you picked is later removed from the list, usually because the provider retired it, Fluent Support uses the default model instead.
+:::
 
 ---
 
 ## Replacing a Saved Key
 
-When a key is already saved, the API Key field shows `****` followed by the last four characters of your saved key. To replace it, type a new key into the field and click **Save**. Switching to a different provider automatically clears the saved key for the previous provider so stale credentials are not carried over.
+When a key is already saved, Fluent Support shows "A key ending in" followed by the last four characters of your saved key. To replace it, type a new key into the field (its placeholder reads "Enter a new key to replace the saved one") and click **Save**. Switching to a different provider automatically clears the saved key for the previous provider so stale credentials are not carried over.
 
 ---
 
 ## Tips and Notes
 
 ::: tip
-If you are unsure which model to pick, start with the one marked **Recommended** in the model dropdown — Gemini 3.7 Flash for Gemini, or Claude Sonnet 4 for Anthropic.
+If you are unsure which model to pick, keep **Default** selected. It uses GPT-6.1 Sol for OpenAI, Gemini 3.8 Flash for Gemini, and Claude Sonnet 5.5 for Anthropic, and it follows the recommended model as it changes.
 :::
 
 ::: info

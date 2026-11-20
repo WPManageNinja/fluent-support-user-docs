@@ -6,6 +6,8 @@ By connecting Amazon S3, you can securely store all those customer uploads and t
 
 We will tackle this in four simple phases: creating the storage space, creating a system user, getting your security keys, and finally, pasting those keys into FluentSupport.
 
+> Using DigitalOcean Spaces, Wasabi, Backblaze B2 or MinIO instead? See [S3-Compatible Storage](/s3-compatible-storage).
+
 ## Phase 1: Creating Your Storage "Bucket"
 
 In Amazon AWS, a "bucket" is simply the digital container where all your files will be stored. Let's create one for your support tickets.
@@ -66,7 +68,9 @@ Now that your user is created, we need to generate the digital "Access Keys" tha
 
 5. Success! AWS will now generate your keys. You will see an **Access key** and a **Secret access key**.
 
-> **⚠️ CRITICAL STEP:** Copy both of these keys and paste them into a secure notepad immediately. AWS strictly warns that this is the only time the secret access key can be viewed or downloaded. If you lose it, you will have to create a new one!
+::: warning
+Copy both of these keys and paste them into a secure notepad immediately. AWS strictly warns that this is the only time the secret access key can be viewed or downloaded. If you lose it, you will have to create a new one!
+:::
 
 ![Amazon S3](/images/integrations-channels/other/s3/aws-10.webp)
 

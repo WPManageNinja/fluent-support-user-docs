@@ -32,8 +32,8 @@ Click the **Keyboard Shortcuts** link next to the option at any time to see the 
 | Create a ticket | ⌘ + ⌥ + N | Ctrl + Alt + N |
 | Reset filters | ⌘ + ⌥ + R | Ctrl + Alt + R |
 | Toggle **Waiting for reply** | ⌘ + ⌥ + W | Ctrl + Alt + W |
-| Go to **All Tickets** | ⌘ + ⇧ + A | Ctrl + Shift + A |
-| Go to **My Tickets** | ⌘ + ⇧ + M | Ctrl + Shift + M |
+| Go to **Open** tickets | ⌘ + ⇧ + A | Ctrl + Shift + A |
+| Go to **Assigned to Me** | ⌘ + ⇧ + M | Ctrl + Shift + M |
 | Go to **Unassigned** | ⌘ + ⇧ + U | Ctrl + Shift + U |
 | Go to **Bookmarks** (Pro) | ⌘ + ⇧ + B | Ctrl + Shift + B |
 | Switch status tab (such as Open, Active, Closed, All) | ⌘ + ⇧ + → / ← | Ctrl + Shift + → / ← |
@@ -55,7 +55,7 @@ These work when you have a single ticket open.
 
 ### How the new ticket view shortcuts work
 
-* **Next ticket** and **Previous ticket** move through the ticket list you opened the ticket from, in the same order. At the end of the page, you will see a note that this is the last (or first) ticket on this page.
+* **Next ticket** and **Previous ticket** move through the ticket list you opened the ticket from, in the same order. When you reach the end of a page, Fluent Support loads the next (or previous) page for you. At the very end of the list, you will see a note that this is the last (or first) ticket in this list.
 * If you have started a reply but not sent it, Fluent Support asks before leaving the ticket. Choose **Stay** to keep working, or **Leave** to move on.
 * **Close the ticket** asks you to confirm first. It does nothing on a ticket that is already closed, or if you do not have permission to manage the ticket.
 
