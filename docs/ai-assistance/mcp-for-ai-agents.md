@@ -125,7 +125,7 @@ Once connected, your AI assistant gets access to **22 Fluent Support tools**, pl
 ### Ticket Tools
 
 - **List tickets** (`fluent-support-list-tickets`): Browse and filter tickets by status, agent, date, keyword, whose turn it is to reply, and more.
-- **Get a ticket** (`fluent-support-get-ticket`): Read the full details of any ticket, including the conversation thread.
+- **Get a ticket** (`fluent-support-get-ticket`): Read the full details of any ticket, including the whole conversation thread.
 - **Create a ticket** (`fluent-support-create-ticket`): Open a new ticket on behalf of a customer.
 - **Update a ticket** (`fluent-support-update-ticket`): Change a ticket's title, priority, status, product, Business Inbox, or assigned agent, several at once. This is also how the AI assigns a ticket to an agent, or reopens a closed ticket by setting it back to active.
 - **Close a ticket** (`fluent-support-close-ticket`): Mark a resolved ticket as closed, optionally with a final reply and an internal note. Ask for a **[silent close](/close-ticket-silently)** to close the ticket without sending the customer a closing notification. This is handy for spam, duplicates, or tickets you have already wrapped up elsewhere.
@@ -150,14 +150,14 @@ Once connected, your AI assistant gets access to **22 Fluent Support tools**, pl
 ### Customer & Activity Tools
 
 - **Search customers** (`fluent-support-search-customers`): Find customers by name, email, or other fields.
-- **Get customer tickets** (`fluent-support-get-customer-tickets`): See every ticket a specific customer has submitted.
+- **Get customer tickets** (`fluent-support-get-customer-tickets`): See every ticket a specific customer has submitted. The AI can find the customer by email, ID, or name. If a name matches more than one customer, the AI gets the list of matches and picks the right one, so it never shows you the wrong person's tickets.
 - **Update a customer** (`fluent-support-update-customer`): Change a customer's name, title, note, or address. The AI cannot change a customer's email address. If a customer asks for that, it leaves an internal note so a person on your team can do it.
 - **Get ticket activity** (`fluent-support-get-ticket-activity`): View the full activity log for a ticket: who replied, when, and what changed.
 - **Get agent mentions** (`fluent-support-get-mentions`): Find tickets where you were @mentioned in notes or replies. This needs internal notifications turned on.
 
 ### Context & Insight Tools
 
-- **Get support context** (`fluent-support-get-support-context`): The AI's starting point. It returns who you are, whether your replies are sent or saved as drafts, your queue, tickets that need attention, the ticket views with their counts, and the agents, products, Business Inboxes, and tags it can use.
+- **Get support context** (`fluent-support-get-support-context`): The AI's starting point. It returns who you are, whether your replies are sent or saved as drafts, the ticket counts, your queue, and the tickets that need attention. When the AI needs them, it asks the same tool for the ticket views with their counts, the agents, products, Business Inboxes, and tags it can use, the email templates of each inbox, and the attachment limits.
 - **Get ticket views** (`fluent-support-get-ticket-views`): Check the current ticket count for each queue, the same views you see in the **Ticket Filters** sidebar: assigned to you, unassigned, waiting for reply, each open priority, and each status. For every view, the AI also gets the exact filters that open its tickets, so it can work through the same queues as your team. Counts only include tickets you are allowed to see. See [Ticket List Views](/view-manage-ticket-entries#ticket-list-views).
 - **Get support insights** (`fluent-support-get-support-insights`): Fetch analytics and performance data for a period, for the whole team or one agent.
 
