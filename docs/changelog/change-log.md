@@ -2,6 +2,35 @@
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in Fluent Support.
 
+## Fluent Support v2.5.1
+
+*Released on Nov 20, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added creating support tickets from FluentCommunity posts and comments
+• Added logging a ticket that starts with an internal note, hidden from the customer until the first reply
+• Added PDF and Markdown attachment preview
+• Added metric tooltips and average first response in Reports
+• Added one-URL MCP connect with FluentHub
+```
+
+```markdown [🚀 Improvements]
+• Reply and Notes share one composer, so your text stays when you switch
+• Redesigned the ticket list toolbar, filters and bulk action bar
+• Clearer Live/Snapshot selector in Reports
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed Agent Performance counts and imported ticket times
+• Fixed FluentCRM and Fluent Forms ticket actions to respect blocked customers
+• Fixed several Pro integration issues (ticket tags, email piping, chat, FluentCommunity)
+• Improved security through ongoing audits and hardening
+```
+
+:::
+
 ## Fluent Support v2.5.0
 
 *Released on Nov 2, 2026*

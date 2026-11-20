@@ -42,6 +42,7 @@ Once you are done, click on **Create Ticket** to add the ticket on behalf of the
   * **Related Product/Service:** Here, you can select your relevant Product Name, for example. Fluent Support, Fluent CRM, and so on.
   * **Priority:** Also, you can choose the ticket’s priority level; there are three priority levels; **Normal, Medium** & **Critical.**
   * **Initiated by agent:** Check this box to clearly indicate that the support ticket is being created by an agent on behalf of the customer.
+  * **Save as an internal note:** Check this box to log the ticket for your team only. The customer does not see it until you reply. See [Logging a Ticket as an Internal Note](#logging-a-ticket-as-an-internal-note).
 
 ## Reaching Out With "Initiated by agent"
 
@@ -66,3 +67,21 @@ If you already customized the **Agent Outreach Ticket (To Customer)** email for 
 :::
 
 ![Agent outreach ticket in the ticket view](/images/ticket-management/daily-operations/creating-ticket-on-behalf-of-customer/agent-outreach-ticket-view.webp)
+
+## Logging a Ticket as an Internal Note
+
+Sometimes a customer reaches you by phone, chat or in person, and you want a record of it without emailing them. Tick **Save as an internal note** when you create the ticket:
+
+![The Create Ticket form with Save as an internal note ticked and the Internal note field](/images/ticket-management/daily-operations/creating-ticket-on-behalf-of-customer/agent-logged-ticket-form.webp)
+
+* **The field label changes** to **Internal note (the customer will not see this)**. What you write there, and any attachments, are saved as an internal note on the ticket.
+* **In the ticket view,** your team sees a one-line note, such as "Sarah Lee logged this ticket", followed by your internal note.
+* **The customer is not notified.** No ticket created email is sent, and the ticket does not appear in their customer portal.
+* **Your first reply makes it visible.** When you reply to the customer, the ticket appears in their portal with your reply as the first message. Your internal note stays hidden from them.
+* **The source shows as Logged by agent** in the ticket list and in the **Source** item of the [Advanced Filter](/advanced-filter-fluent-support).
+
+::: info
+You can tick either **Initiated by agent** or **Save as an internal note**, not both. Ticking one clears the other.
+:::
+
+![A logged ticket in the ticket view, opening with the internal note and the "logged this ticket" line](/images/ticket-management/daily-operations/creating-ticket-on-behalf-of-customer/agent-logged-ticket-view.webp)

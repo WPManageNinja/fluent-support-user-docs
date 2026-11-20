@@ -31,12 +31,15 @@ The **Live / Snapshot** selector in the top right corner lets you compare agains
 
 ## Quick Stats
 
-Four cards summarise the selected agents over the selected range:
+Five cards summarise the selected agents over the selected range. Hover the info icon next to a card's name to see what it counts.
 
 * **Total Responses:** Every reply sent by the selected agents.
 * **Tickets closed:** Tickets resolved by those agents within the range.
-* **Open Ticket:** Tickets assigned to those agents that were created in the range and are still open.
+* **Open Tickets:** Open tickets assigned to those agents right now. The date range does not change this number.
+* **Average first response:** How long customers waited, on average, for the first agent reply on their ticket. It counts first replies the selected agents sent within the range. Tickets an agent started with **Initiated by agent** are left out.
 * **Active agents:** Shown as a ratio, for example **7 /9**. The first number is how many of the selected agents actually sent a reply during the range; the second is how many agents are selected in total. An agent who sent no replies is not counted as active.
+
+![Agent Performance quick stats with the Average first response card and the Open Tickets tooltip](/images/reports-analytics/reports/agents-report/agent-performance-quick-stats.webp)
 
 ## Agents Statistics
 
